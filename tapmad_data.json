@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "12:44:22 AM 24-04-2026"
+        "Last_Update": "12:50:22 AM 24-04-2026"
     },
     "Matches": [
         {
@@ -18,7 +18,7 @@
             "Description": "Watch VfB Stuttgart vs SC Freiburg online on tapmad. The DFB-Pokal, also known as the German Cup in English, is a German knockout football cup competition held annually by the German Football Association (DFB). Sixty-four teams participate in the competition, including all clubs from the Bundesliga and Liga. The VfB Stuttgart vs SC Freiburg match will take place on 24-Apr, at 12:45 AM. Watch DFB Pokal 2026 live in HD and ad-free on tapmad!",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1776970752~acl=/hls/*~hmac=125aa82294b86291aa12b389899be7109ba94578dd994277d3681803644e289e"
+            "M3U8_Link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1776971107~acl=/hls/*~hmac=23eb86eeb79f829f13a48e9b563b5db79dd3aa5ed1e54d247119951327847a90"
         },
         {
             "Id": "12825",
@@ -89,6 +89,20 @@
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
+        },
+        {
+            "Id": "11978",
+            "Title": "Quetta Gladiators vs Karachi Kings Live",
+            "Status": "Live",
+            "Category": "Cricket",
+            "Tournament": "PSL 2026",
+            "Stage": "Group Stage",
+            "EventDate": "2026-04-25T15:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17769386461020x576.jpg",
+            "Description": "Watch Quetta Gladiators vs Karachi Kings match live online on tapmad. The PSL 2026 37th T20 will be played on 25-Apr, at 03:30 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/PSLPROMO/master.m3u8"
         },
         {
             "Id": "12595",
