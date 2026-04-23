@@ -1,0 +1,59 @@
+name: Tapmad Public Update
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর
+  workflow_dispatch: # ম্যানুয়ালি রান করার জন্য
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ১. পাবলিক রিপোজিটরি চেকআউট করা (যেখানে ফাইলগুলো সেভ হবে)
+      - name: Checkout Public Repo
+        uses: actions/checkout@v3
+        with:
+          path: public_repo
+
+      # ২. প্রাইভেট রিপোজিটরি চেকআউট করা (যেখানে আপনার পাইথন স্ক্রিপ্ট আছে)
+      - name: Checkout Private Repo Script
+        uses: actions/checkout@v3
+        with:
+          repository: srhady/axsportspvt # আপনার প্রাইভেট রিপো
+          token: ${{ secrets.MY_PAT }} # আপনার তৈরি করা Secret PAT
+          path: private_repo
+
+      # ৩. পাইথন সেটআপ করা
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # ৪. প্রয়োজনীয় লাইব্রেরি ইনস্টল করা
+      - name: Install dependencies
+        run: |
+          pip install pycryptodome
+
+      # ৫. প্রাইভেট রিপো থেকে স্ক্রিপ্ট রান করা এবং পাবলিক রিপোতে ফাইল জেনারেট করা
+      - name: Run Script
+        run: |
+          # প্রাইভেট ফোল্ডার থেকে স্ক্রিপ্টটি পাবলিক ফোল্ডারে রান করা হচ্ছে
+          python private_repo/tapmad_action.py
+        env:
+          # যদি স্ক্রিপ্টে কোনো এনভায়রনমেন্ট ভেরিয়েবল লাগে তবে এখানে দিতে পারেন
+
+      # ৬. নতুন ফাইলগুলো পাবলিক রিপোতে পুশ করা
+      - name: Commit and Push to Public
+        run: |
+          cd public_repo
+          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "actions@github.com"
+          
+          # ফাইলগুলো মুভ করে মেইন ডিরেক্টরিতে আনা (যদি স্ক্রিপ্ট মেইন লেভেলে ফাইল বানায়)
+          mv ../tapmad_bd.m3u . || echo "m3u not found"
+          mv ../tapmad_data.json . || echo "json not found"
+          
+          git add tapmad_bd.m3u tapmad_data.json
+          git commit -m "Auto Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
+          git push
