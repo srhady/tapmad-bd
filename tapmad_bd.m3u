@@ -1,10 +1,10 @@
 # Playlist Name: Tapmad bd
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
-# Last Update: 11:40:46 PM 23-04-2026
+# Last Update: 12:24:02 AM 24-04-2026
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="11976" tvg-logo="None",Lahore Qalandars vs Karachi Kings Live
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1776966906~acl=/hls/*~hmac=021f272f681dfb9bf78a560a8e9bbf22ac040fc93a28a1d01e44bc52e90400ef
-#EXTINF:-1 tvg-id="12929" tvg-logo="None",Semi Finals - Preview Show Live
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
+#EXTINF:-1 tvg-id="11976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767560351020x576.jpg",Lahore Qalandars vs Karachi Kings Live | PSL 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1776969542~acl=/hls/*~hmac=e8e3265c493c70c136baa2616580f78bbee040836c2ab88a7d5927ba003185e5
+#EXTINF:-1 tvg-id="12815" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17766758291020x576.jpg",VfB Stuttgart vs SC Freiburg Live | DFB-Pokal 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1776969542~acl=/hls/*~hmac=e8e3265c493c70c136baa2616580f78bbee040836c2ab88a7d5927ba003185e5
