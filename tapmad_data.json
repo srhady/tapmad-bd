@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "05:20:18 AM 24-04-2026"
+        "Last_Update": "05:30:20 AM 24-04-2026"
     },
     "Matches": [
         {
@@ -161,20 +161,6 @@
             "M3U8_Link": ""
         },
         {
-            "Id": "12400",
-            "Title": "Augsburg vs Eintracht Frankfurt",
-            "Status": "Upcoming",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767750651020x576.jpg",
-            "Description": "Watch Bundesliga Augsburg vs Eintracht Frankfurt match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Augsburg vs Eintracht Frankfurt match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
             "Id": "11979",
             "Title": "Lahore Qalandars vs Peshawar Zalmi Live",
             "Status": "Upcoming",
@@ -184,20 +170,6 @@
             "EventDate": "2026-04-25T20:00:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17769405041020x576.jpg",
             "Description": "Watch Lahore Qalandars vs Peshawar Zalmi match live online on tapmad. The PSL 2026 38th T20 will be played on 25-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12596",
-            "Title": "West Ham vs Everton",
-            "Status": "Upcoming",
-            "Category": "Football",
-            "Tournament": "EPL 2025/26",
-            "Stage": "MATCHDAY 34",
-            "EventDate": "2026-04-25T20:00:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767585471020x576.jpg",
-            "Description": "Watch West Ham vs Everton live match streaming online in Bangladesh only on tapmad. The West Ham vs Everton match will take place on 25-Apr, Saturday, at 08:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
