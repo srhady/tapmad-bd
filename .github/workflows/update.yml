@@ -33,7 +33,6 @@ jobs:
 
       - name: Run Script
         run: |
-          cp public_repo/tapmad_data.json . || echo "Old cache not found"
           python private_repo/tapmad_action.py
 
       - name: Commit and Push to Public
@@ -46,5 +45,5 @@ jobs:
           mv ../tapmad_data.json . || echo "json not found"
           
           git add tapmad_bd.m3u tapmad_data.json
-          git commit -m "Auto Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
+          TZ='Asia/Dhaka' git commit -m "Auto Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
           git push
