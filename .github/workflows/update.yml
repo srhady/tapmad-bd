@@ -33,6 +33,7 @@ jobs:
 
       - name: Run Script
         run: |
+          cp public_repo/tapmad_data.json . || echo "Old cache not found"
           python private_repo/tapmad_action.py
 
       - name: Commit and Push to Public
