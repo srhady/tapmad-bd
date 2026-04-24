@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "11:30:20 AM 24-04-2026"
+        "Last_Update": "11:40:20 AM 24-04-2026"
     },
     "Matches": [
         {
@@ -30,20 +30,6 @@
             "EventDate": "2026-04-24T17:55:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17768559371020x576.jpg",
             "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "11977",
-            "Title": "Hyderabad Kingsmen vs Islamabad United Live",
-            "Status": "Upcoming",
-            "Category": "Cricket",
-            "Tournament": "PSL 2026",
-            "Stage": "Group Stage",
-            "EventDate": "2026-04-24T20:00:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17768421361020x576.jpg",
-            "Description": "Watch Hyderabad Kingsmen vs Islamabad United match live online on tapmad. The PSL 2026 36th T20 will be played on 24-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
@@ -128,20 +114,6 @@
             "EventDate": "2026-04-25T19:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767729371020x576.jpg",
             "Description": "Watch Bundesliga Mainz vs Bayern match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Mainz vs Bayern match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12398",
-            "Title": "Heidenheim vs FC St. Pauli",
-            "Status": "Upcoming",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767746361020x576.jpg",
-            "Description": "Watch Bundesliga Heidenheim vs FC St. Pauli match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Heidenheim vs FC St. Pauli match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
