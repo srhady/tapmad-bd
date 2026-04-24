@@ -1,8 +1,6 @@
-name: Tapmad Public Update
+name: Tapmad Manual Update
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,6 +29,10 @@ jobs:
         run: |
           pip install pycryptodome
 
+      - name: Load Old Data for Caching
+        run: |
+          cp public_repo/tapmad_data.json . || echo "Old cache not found"
+
       - name: Run Script
         run: |
           python private_repo/tapmad_action.py
@@ -45,5 +47,5 @@ jobs:
           mv ../tapmad_data.json . || echo "json not found"
           
           git add tapmad_bd.m3u tapmad_data.json
-          TZ='Asia/Dhaka' git commit -m "Auto Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
+          TZ='Asia/Dhaka' git commit -m "Manual Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
           git push
