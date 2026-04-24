@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "03:00:27 PM 24-04-2026"
+        "Last_Update": "03:10:17 PM 24-04-2026"
     },
     "Matches": [
         {
@@ -18,7 +18,7 @@
             "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777022106~acl=/hls/*~hmac=35d4f8b5b5b3d9b4ae33b9b6836f24a9f3fbcf3509f546658a23c990eeefba08"
+            "M3U8_Link": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777022705~acl=/hls/*~hmac=5a300203a03248bf9b080adc07ac7fa38fd0374c045f872f14bef56849c72ff4"
         },
         {
             "Id": "12830",
@@ -114,6 +114,20 @@
             "EventDate": "2026-04-25T17:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767584681020x576.jpg",
             "Description": "Watch Fulham vs Aston Villa live match streaming online in Bangladesh only on tapmad. The Fulham vs Aston Villa match will take place on 25-Apr, Saturday, at 05:30 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12840",
+            "Title": "E1 Italy GP 2026 Live - Race Off",
+            "Status": "Upcoming",
+            "Category": "Boat Racing",
+            "Tournament": "E1 Series 2026",
+            "Stage": "Match",
+            "EventDate": "2026-04-25T18:40:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17770213181020x576.jpg",
+            "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
@@ -240,20 +254,6 @@
             "EventDate": "2026-04-25T20:00:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767587121020x576.jpg",
             "Description": "Watch Liverpool vs Crystal Palace live match streaming online in Bangladesh only on tapmad. The Liverpool vs Crystal Palace match will take place on 25-Apr, Saturday, at 08:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12657",
-            "Title": "FC Machida Zelvia vs Al Ahli Saudi FC Live",
-            "Status": "Upcoming",
-            "Category": "Football",
-            "Tournament": "AFC Champions League Elite 2025/26",
-            "Stage": "Final",
-            "EventDate": "2026-04-25T22:15:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17768492311020x576.jpg",
-            "Description": "Watch FC Machida Zelvia vs Al Ahli Saudi FC live online on tapmad. The AFC Champions League Elite FC Machida Zelvia vs Al Ahli Saudi FC match is scheduled to take place on 25-Apr,  at 10:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
