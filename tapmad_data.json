@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "04:30:17 PM 25-04-2026"
+        "Last_Update": "04:40:15 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -61,12 +61,12 @@
             "Description": "Live Stream Qualifying Sessions - UBS CLASSIC TOURS & Ferrari Parade Live online on tapmad and experience the charm of classic motorsport on the iconic Monaco street circuit. Featuring legendary race cars from different eras, this historic event brings vintage Formula racing back to life with real on-track action. From roaring engines to tight street battles, every race delivers a unique blend of heritage and competition. Stream all the action live in HD, anytime and anywhere on tapmad via app, web, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
+            "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-2a5e8i6o4u/master.m3u8"
         },
         {
             "Id": "12595",
             "Title": "Fulham vs Aston Villa",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "EPL 2025/26",
             "Stage": "MATCHDAY 34",
@@ -297,6 +297,20 @@
             "EventDate": "2026-04-25T22:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776759265540x302.jpg",
             "Description": "Watch Arsenal vs Newcastle live match streaming online in Bangladesh only on tapmad. The Arsenal vs Newcastle match will take place on 25-Apr, Saturday, at 10:30 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12317",
+            "Title": "Sterling vs Zalal",
+            "Status": "Upcoming",
+            "Category": "Mma",
+            "Tournament": "UFC 2026",
+            "Stage": "Fight Night",
+            "EventDate": "2026-04-26T06:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776676103540x302.jpg",
+            "Description": "UFC Fight Night Live: Watch Sterling vs Zalal live online on tapmad. Enjoy watching Sterling vs Zalal live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 26-Apr. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
