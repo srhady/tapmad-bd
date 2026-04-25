@@ -33,7 +33,7 @@
             "Description": "Live Stream Qualifying Sessions - Morning Session - Serie A2, A1, B, D, E Live online on tapmad and experience the charm of classic motorsport on the iconic Monaco street circuit. Featuring legendary race cars from different eras, this historic event brings vintage Formula racing back to life with real on-track action. From roaring engines to tight street battles, every race delivers a unique blend of heritage and competition. Stream all the action live in HD, anytime and anywhere on tapmad via app, web, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
+            "M3U8_Link": ""
         },
         {
             "Id": "12835",
@@ -47,7 +47,7 @@
             "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
+            "M3U8_Link": ""
         },
         {
             "Id": "11978",
