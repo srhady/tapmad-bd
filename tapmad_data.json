@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "06:30:19 PM 25-04-2026"
+        "Last_Update": "06:40:12 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -75,12 +75,12 @@
             "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
+            "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
             "Id": "12396",
             "Title": "Wolfsburg vs Monchengladbach",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -89,12 +89,12 @@
             "Description": "Watch Bundesliga Wolfsburg vs Monchengladbach match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Wolfsburg vs Monchengladbach match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12397",
             "Title": "Mainz vs Bayern",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -103,12 +103,12 @@
             "Description": "Watch Bundesliga Mainz vs Bayern match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Mainz vs Bayern match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12398",
             "Title": "Heidenheim vs FC St. Pauli",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -117,12 +117,12 @@
             "Description": "Watch Bundesliga Heidenheim vs FC St. Pauli match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Heidenheim vs FC St. Pauli match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12399",
             "Title": "Koln vs Leverkusen",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -131,12 +131,12 @@
             "Description": "Watch Bundesliga Koln vs Leverkusen match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Koln vs Leverkusen match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12400",
             "Title": "Augsburg vs Eintracht Frankfurt",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -145,7 +145,7 @@
             "Description": "Watch Bundesliga Augsburg vs Eintracht Frankfurt match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Augsburg vs Eintracht Frankfurt match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "11979",
@@ -311,6 +311,76 @@
             "EventDate": "2026-04-26T19:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775355540x302.jpg",
             "Description": "Watch Bundesliga VfB Stuttgart vs Werder match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The VfB Stuttgart vs Werder match will take place on 26-Apr, Sunday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "11981",
+            "Title": "Islamabad United vs Multan Sultans Live",
+            "Status": "Upcoming",
+            "Category": "Cricket",
+            "Tournament": "PSL 2026",
+            "Stage": "Group Stage",
+            "EventDate": "2026-04-26T20:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777033887540x302.jpg",
+            "Description": "Watch Islamabad United vs Multan Sultans match live online on tapmad. The PSL 2026 40th T20 will be played on 26-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12931",
+            "Title": "Chelsea vs Leeds United Live",
+            "Status": "Upcoming",
+            "Category": "Football",
+            "Tournament": "FA Cup 2025/26",
+            "Stage": "2nd Semi-Final",
+            "EventDate": "2026-04-26T20:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776928909540x302.jpg",
+            "Description": "Watch FA Cup 2025/26 live online on tapmad. The Emirates FA Cup is the oldest football tournament in the world. The Chelsea vs Leeds United match will be played on 26-Apr, Sunday, at 08:00 PM. Stream FA Cup 2025/26 in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12403",
+            "Title": "Dortmund vs SC Freiburg",
+            "Status": "Upcoming",
+            "Category": "Football",
+            "Tournament": "Bundesliga 2025/26",
+            "Stage": "MATCHDAY 31",
+            "EventDate": "2026-04-26T21:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775520540x302.jpg",
+            "Description": "Watch Bundesliga Dortmund vs SC Freiburg match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Dortmund vs SC Freiburg match will take place on 26-Apr, Sunday, at 09:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12717",
+            "Title": "Bangladesh vs New Zealand Live",
+            "Status": "Upcoming",
+            "Category": "Cricket",
+            "Tournament": "New Zealand Tour of Bangladesh 2026",
+            "Stage": "1st T20I",
+            "EventDate": "2026-04-27T14:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777034971540x302.jpg",
+            "Description": "The 1st T20 of the New Zealand Tour of Bangladesh 2026 marks the start of a three-match T20 series shortly after the excitement of the ICC Men's T20 World Cup. Watch Bangladesh national cricket team vs New Zealand national cricket team 1st T20 live in HD on tapmad with official match coverage and smooth streaming.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12603",
+            "Title": "Man United vs Brentford",
+            "Status": "Upcoming",
+            "Category": "Football",
+            "Tournament": "EPL 2025/26",
+            "Stage": "MATCHDAY 34",
+            "EventDate": "2026-04-28T01:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776759376540x302.jpg",
+            "Description": "Watch Man United vs Brentford live match streaming online in Bangladesh only on tapmad. The Man United vs Brentford match will take place on 28-Apr, Tuesday, at 01:00 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
