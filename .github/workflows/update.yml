@@ -29,9 +29,10 @@ jobs:
         run: |
           pip install pycryptodome
 
-      - name: Load Old Data for Caching
+      # জেসনের বদলে এখন সরাসরি পুরনো M3U ফাইলটা কপি করবে স্মার্ট স্কিপ (ক্যাশ) এর জন্য
+      - name: Load Old M3U for Caching
         run: |
-          cp public_repo/tapmad_data.json . || echo "Old cache not found"
+          cp public_repo/tapmad_bd.m3u . || echo "Old M3U cache not found"
 
       - name: Run Script
         run: |
@@ -43,9 +44,9 @@ jobs:
           git config --local user.name "GitHub Action Bot"
           git config --local user.email "actions@github.com"
           
-          mv ../tapmad_bd.m3u . || echo "m3u not found"
-          mv ../tapmad_data.json . || echo "json not found"
           
-          git add tapmad_bd.m3u tapmad_data.json
+          mv ../tapmad_bd.m3u . || echo "m3u not found"
+          
+          git add tapmad_bd.m3u
           TZ='Asia/Dhaka' git commit -m "Manual Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
           git push
