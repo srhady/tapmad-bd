@@ -3,79 +3,9 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "09:30:19 PM 25-04-2026"
+        "Last_Update": "09:40:13 PM 25-04-2026"
     },
     "Matches": [
-        {
-            "Id": "12396",
-            "Title": "Wolfsburg vs Monchengladbach",
-            "Status": "Live",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776767418540x302.jpg",
-            "Description": "Watch Bundesliga Wolfsburg vs Monchengladbach match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Wolfsburg vs Monchengladbach match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8"
-        },
-        {
-            "Id": "12397",
-            "Title": "Mainz vs Bayern",
-            "Status": "Live",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776772937540x302.jpg",
-            "Description": "Watch Bundesliga Mainz vs Bayern match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Mainz vs Bayern match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12398",
-            "Title": "Heidenheim vs FC St. Pauli",
-            "Status": "Live",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776774636540x302.jpg",
-            "Description": "Watch Bundesliga Heidenheim vs FC St. Pauli match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Heidenheim vs FC St. Pauli match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
-            "Id": "12399",
-            "Title": "Koln vs Leverkusen",
-            "Status": "Live",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776774924540x302.jpg",
-            "Description": "Watch Bundesliga Koln vs Leverkusen match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Koln vs Leverkusen match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12400",
-            "Title": "Augsburg vs Eintracht Frankfurt",
-            "Status": "Live",
-            "Category": "Football",
-            "Tournament": "Bundesliga 2025/26",
-            "Stage": "MATCHDAY 31",
-            "EventDate": "2026-04-25T19:30:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775065540x302.jpg",
-            "Description": "Watch Bundesliga Augsburg vs Eintracht Frankfurt match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Augsburg vs Eintracht Frankfurt match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
         {
             "Id": "11979",
             "Title": "Lahore Qalandars vs Peshawar Zalmi Live",
@@ -177,7 +107,7 @@
         {
             "Id": "12401",
             "Title": "Hamburger SV vs Hoffenheim",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "Bundesliga 2025/26",
             "Stage": "MATCHDAY 31",
@@ -191,7 +121,7 @@
         {
             "Id": "12600",
             "Title": "Arsenal vs Newcastle",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Football",
             "Tournament": "EPL 2025/26",
             "Stage": "MATCHDAY 34",
