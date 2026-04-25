@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "05:30:19 PM 25-04-2026"
+        "Last_Update": "05:40:15 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -12,12 +12,12 @@
         " [ENG] This Tapmad premium account will expire on May 23, 2026.",
         " After that, no matches will be available in this playlist.",
         " If anyone has a full premium Tapmad account and wants to contribute,",
-        " please contact us on Telegram: t.me/SCPanda",
+        " please contact us on Telegram: t.me/SRHady12",
         "",
         " [BENGALI] এই ট্যাপমাড প্রিমিয়াম অ্যাকাউন্টটির মেয়াদ ২৩ মে, ২০২৬ তারিখে শেষ হয়ে যাবে।",
         " এরপর থেকে এই প্লেলিস্টে আর কোনো ম্যাচ আসবে না।",
         " কারও কাছে যদি ট্যাপমাডের ফুল প্রিমিয়াম অ্যাকাউন্ট থাকে এবং কন্ট্রিবিউট করতে চান,",
-        " তাহলে দয়া করে টেলিগ্রামে মেসেজ দিন: t.me/SCPanda",
+        " তাহলে দয়া করে টেলিগ্রামে মেসেজ দিন: t.me/SRHady12",
         "-------------------------------------------------------------------------"
     ],
     "Matches": [
@@ -80,7 +80,7 @@
         {
             "Id": "12862",
             "Title": "Qualifying Sessions - Afternoon Session - Serie C, F, & G Live",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Racing",
             "Tournament": "Monaco Grand Prix Historique 2026",
             "Stage": "Match",
@@ -89,7 +89,7 @@
             "Description": "Live Stream Qualifying Sessions - Afternoon Session - Serie C, F, & G Live online on tapmad and experience the charm of classic motorsport on the iconic Monaco street circuit. Featuring legendary race cars from different eras, this historic event brings vintage Formula racing back to life with real on-track action. From roaring engines to tight street battles, every race delivers a unique blend of heritage and competition. Stream all the action live in HD, anytime and anywhere on tapmad via app, web, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12840",
@@ -311,6 +311,20 @@
             "EventDate": "2026-04-26T06:00:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776676103540x302.jpg",
             "Description": "UFC Fight Night Live: Watch Sterling vs Zalal live online on tapmad. Enjoy watching Sterling vs Zalal live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 26-Apr. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "11980",
+            "Title": "Hyderabad Kingsmen vs Rawalpindiz Live",
+            "Status": "Upcoming",
+            "Category": "Cricket",
+            "Tournament": "PSL 2026",
+            "Stage": "Group Stage",
+            "EventDate": "2026-04-26T15:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777028217540x302.jpg",
+            "Description": "Watch Hyderabad Kingsmen vs Rawalpindiz match live online on tapmad. The PSL 2026 39th T20 will be played on 26-Apr, at 03:30 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
