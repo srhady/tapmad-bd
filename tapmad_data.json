@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "12:40:13 AM 26-04-2026"
+        "Last_Update": "12:50:15 AM 26-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -22,20 +22,6 @@
     ],
     "Matches": [
         {
-            "Id": "11979",
-            "Title": "Lahore Qalandars vs Peshawar Zalmi Live",
-            "Status": "Live",
-            "Category": "Cricket",
-            "Tournament": "PSL 2026",
-            "Stage": "Group Stage",
-            "EventDate": "2026-04-25T20:00:00.000Z",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776940504540x302.jpg",
-            "Description": "Watch Lahore Qalandars vs Peshawar Zalmi match live online on tapmad. The PSL 2026 38th T20 will be played on 25-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-World_5F7e9e3d/master.m3u8"
-        },
-        {
             "Id": "12657",
             "Title": "FC Machida Zelvia vs Al Ahli Saudi FC Live",
             "Status": "Live",
@@ -44,34 +30,6 @@
             "Stage": "N/A",
             "EventDate": "",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776849231540x302.jpg",
-            "Description": "",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12600",
-            "Title": "Arsenal vs Newcastle",
-            "Status": "Live",
-            "Category": "Sports",
-            "Tournament": "Live Premium",
-            "Stage": "N/A",
-            "EventDate": "",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776759265540x302.jpg",
-            "Description": "",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
-            "Id": "12886",
-            "Title": "The Mitty 2026 - MX5 Feature Race Live",
-            "Status": "Upcoming",
-            "Category": "Sports",
-            "Tournament": "Upcoming Sports Premium",
-            "Stage": "N/A",
-            "EventDate": "",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777135758540x302.jpg",
             "Description": "",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
@@ -114,6 +72,20 @@
             "Stage": "N/A",
             "EventDate": "",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777141968540x302.jpg",
+            "Description": "",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12910",
+            "Title": "The Mitty 2026 Legacy Racers (Groups 5/8/11) – Race 1 Live",
+            "Status": "Upcoming",
+            "Category": "Sports",
+            "Tournament": "Upcoming Sports Premium",
+            "Stage": "N/A",
+            "EventDate": "",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777142524540x302.jpg",
             "Description": "",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
