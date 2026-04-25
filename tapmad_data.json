@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "10:40:16 PM 25-04-2026"
+        "Last_Update": "10:50:13 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -64,20 +64,6 @@
             "M3U8_Link": ""
         },
         {
-            "Id": "12401",
-            "Title": "Hamburger SV vs Hoffenheim",
-            "Status": "Live",
-            "Category": "Sports",
-            "Tournament": "Live Premium",
-            "Stage": "N/A",
-            "EventDate": "",
-            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775214540x302.jpg",
-            "Description": "",
-            "AccessType": "Premium",
-            "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
-        },
-        {
             "Id": "12600",
             "Title": "Arsenal vs Newcastle",
             "Status": "Live",
@@ -86,6 +72,20 @@
             "Stage": "N/A",
             "EventDate": "",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776759265540x302.jpg",
+            "Description": "",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12886",
+            "Title": "The Mitty 2026 - MX5 Feature Race Live",
+            "Status": "Upcoming",
+            "Category": "Sports",
+            "Tournament": "Upcoming Sports Premium",
+            "Stage": "N/A",
+            "EventDate": "",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777135758540x302.jpg",
             "Description": "",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
