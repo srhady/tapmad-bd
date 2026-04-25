@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "07:20:14 PM 25-04-2026"
+        "Last_Update": "07:30:19 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -78,6 +78,34 @@
             "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8"
         },
         {
+            "Id": "12397",
+            "Title": "Mainz vs Bayern",
+            "Status": "Live",
+            "Category": "Football",
+            "Tournament": "Bundesliga 2025/26",
+            "Stage": "MATCHDAY 31",
+            "EventDate": "2026-04-25T19:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776772937540x302.jpg",
+            "Description": "Watch Bundesliga Mainz vs Bayern match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Mainz vs Bayern match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777124705~acl=/hls/*~hmac=a30f6b81bd2c19be1bc81d8fda7026809618cd337dd8e7f6c4f910f0aefa65f8"
+        },
+        {
+            "Id": "12398",
+            "Title": "Heidenheim vs FC St. Pauli",
+            "Status": "Live",
+            "Category": "Football",
+            "Tournament": "Bundesliga 2025/26",
+            "Stage": "MATCHDAY 31",
+            "EventDate": "2026-04-25T19:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776774636540x302.jpg",
+            "Description": "Watch Bundesliga Heidenheim vs FC St. Pauli match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Heidenheim vs FC St. Pauli match will take place on 25-Apr, Saturday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
+        },
+        {
             "Id": "12399",
             "Title": "Koln vs Leverkusen",
             "Status": "Live",
@@ -117,7 +145,7 @@
             "Description": "Watch Lahore Qalandars vs Peshawar Zalmi match live online on tapmad. The PSL 2026 38th T20 will be played on 25-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777124163~acl=/hls/*~hmac=e18e6a4181dc7f40d569a7fe6ccfb6a8eb3dcb392f7d1ef5436c97bcbcf6e217"
+            "M3U8_Link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-World_5F7e9e3d/master.m3u8"
         },
         {
             "Id": "12596",
@@ -269,6 +297,20 @@
             "EventDate": "2026-04-26T19:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775355540x302.jpg",
             "Description": "Watch Bundesliga VfB Stuttgart vs Werder match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The VfB Stuttgart vs Werder match will take place on 26-Apr, Sunday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "11981",
+            "Title": "Islamabad United vs Multan Sultans Live",
+            "Status": "Upcoming",
+            "Category": "Cricket",
+            "Tournament": "PSL 2026",
+            "Stage": "Group Stage",
+            "EventDate": "2026-04-26T20:00:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777033887540x302.jpg",
+            "Description": "Watch Islamabad United vs Multan Sultans match live online on tapmad. The PSL 2026 40th T20 will be played on 26-Apr, at 08:00 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
