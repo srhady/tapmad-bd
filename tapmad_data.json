@@ -3,7 +3,7 @@
         "Name": "Tapmad bd",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
-        "Last_Update": "05:40:15 PM 25-04-2026"
+        "Last_Update": "05:50:18 PM 25-04-2026"
     },
     "Notice": [
         "-------------------------------------------------------------------------",
@@ -94,7 +94,7 @@
         {
             "Id": "12840",
             "Title": "E1 Italy GP 2026 Live - Race Off",
-            "Status": "Upcoming",
+            "Status": "Live",
             "Category": "Boat Racing",
             "Tournament": "E1 Series 2026",
             "Stage": "Match",
@@ -103,7 +103,7 @@
             "Description": "Watch E1 Italy GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
-            "M3U8_Link": ""
+            "M3U8_Link": "https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8"
         },
         {
             "Id": "12396",
@@ -325,6 +325,20 @@
             "EventDate": "2026-04-26T15:30:00.000Z",
             "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1777028217540x302.jpg",
             "Description": "Watch Hyderabad Kingsmen vs Rawalpindiz match live online on tapmad. The PSL 2026 39th T20 will be played on 26-Apr, at 03:30 PM. Stream PSL 2026 on tapmad and experience world-class batting and exciting bowling in HD and completely ad-free!",
+            "AccessType": "Premium",
+            "AllowedRegions": "BD,NP",
+            "M3U8_Link": ""
+        },
+        {
+            "Id": "12402",
+            "Title": "VfB Stuttgart vs Werder",
+            "Status": "Upcoming",
+            "Category": "Football",
+            "Tournament": "Bundesliga 2025/26",
+            "Stage": "MATCHDAY 31",
+            "EventDate": "2026-04-26T19:30:00.000Z",
+            "Thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1776775355540x302.jpg",
+            "Description": "Watch Bundesliga VfB Stuttgart vs Werder match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The VfB Stuttgart vs Werder match will take place on 26-Apr, Sunday, at 07:30 PM. Watch the Bundesliga in HD and ad-free on tapmad.",
             "AccessType": "Premium",
             "AllowedRegions": "BD,NP",
             "M3U8_Link": ""
