@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 26-04-2026
+# Last Update: 09:10 PM 26-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="tapmad-12880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17771566051020x576.jpg" group-title="Racing", Races - Afternoon Session - Serie C, F, G Live | Monaco Grand Prix Historique 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-2a5e8i6o4u/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17767753551020x576.jpg" group-title="Football", VfB Stuttgart vs Werder | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777216506~acl=/hls/*~hmac=3b428d1d1d8b539116f620639e5f7d0c3b5b42f6a5ce6e474e72021205e2bc8f
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777217106~acl=/hls/*~hmac=858dd5c62a8bf2cd274fb5a4879ce32bf39ae634adf5d38b8a9cfcbbd59bb36e
 #EXTINF:-1 tvg-id="tapmad-11981" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17770338871020x576.jpg" group-title="Cricket", Islamabad United vs Multan Sultans Live | PSL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-W2o9r3l5d_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12931" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17769289091020x576.jpg" group-title="Football", Chelsea vs Leeds United Live | FA Cup 2025/26
