@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:40 AM 26-04-2026
+# Last Update: 11:50 AM 26-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-12868" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17771555611020x576.jpg" group-title="Racing", Races - Morning Session - Serie A2, A1, B, E Live | Monaco Grand Prix Historique 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-2a5e8i6o4u/master.m3u8
