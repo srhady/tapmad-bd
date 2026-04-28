@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 AM 29-04-2026
+# Last Update: 03:30 AM 29-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-12934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773713451020x576.jpg" group-title="Football", Bundesliga Special Show #19 - Best of April | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
