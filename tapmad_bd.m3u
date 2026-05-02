@@ -1,16 +1,18 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 02-05-2026
+# Last Update: 07:40 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773622521020x576.jpg" group-title="Mma", Della Maddalena vs Prates | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777729506~acl=/hls/*~hmac=d08b2cabe699005981238e31d336a87bed9a09bcb4117bacaa0a2eda82c87282
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777730106~acl=/hls/*~hmac=4fd467f60ad40a78cfadeac3682f93b84ef44fe55e33f547abbc61392bc4a14e
 #EXTINF:-1 tvg-id="tapmad-12962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775391351020x576.jpg" group-title="Football", Eintracht Frankfurt vs Hamburger SV | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774607441020x576.jpg" group-title="Football", Hoffenheim vs VfB Stuttgart | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_Eliminator2-uRu/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774662511020x576.jpg" group-title="Football", Bayern vs Heidenheim | Bundesliga 2025/26
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777730106~acl=/hls/*~hmac=4fd467f60ad40a78cfadeac3682f93b84ef44fe55e33f547abbc61392bc4a14e
 #EXTINF:-1 tvg-id="tapmad-12965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775385891020x576.jpg" group-title="Football", Werder vs Augsburg | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775316621020x576.jpg" group-title="Football", Union Berlin vs Koln | Bundesliga 2025/26
