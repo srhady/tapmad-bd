@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:50 AM 03-05-2026
+# Last Update: 04:00 AM 03-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13001" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773810771020x576.jpg" group-title="Mma", Storley vs Zendeli - Global 6 | PFL 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_Eliminator2-uRu/master.m3u8
