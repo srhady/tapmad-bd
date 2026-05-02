@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:40 PM 02-05-2026
+# Last Update: 10:50 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="tapmad-12967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775384451020x576.jpg" group-title="Football", Leverkusen vs RB Leipzig | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13015" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776406051020x576.jpg" group-title="Football", Arsenal vs Fulham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777740906~acl=/hls/*~hmac=589b6b7eb183af1584a1e3dfa4a3439cd1a8f0d7fc9e0ad90877b80f021c713c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777741505~acl=/hls/*~hmac=edd50c5e6392227031fa4277d554183009141331c18b81ccb7b91e1c6a1011a3
