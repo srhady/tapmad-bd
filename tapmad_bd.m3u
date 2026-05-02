@@ -1,13 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 02-05-2026
+# Last Update: 10:10 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13012" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776403611020x576.jpg" group-title="Football", Brentford vs West Ham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777738506~acl=/hls/*~hmac=9d4b32da161d4942f671c9e3eb4520b4b1d1eaaaa8905886286e727c60d8bd23
-#EXTINF:-1 tvg-id="tapmad-13013" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776404401020x576.jpg" group-title="Football", Wolves vs Sunderland | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777738506~acl=/hls/*~hmac=9d4b32da161d4942f671c9e3eb4520b4b1d1eaaaa8905886286e727c60d8bd23
-#EXTINF:-1 tvg-id="tapmad-13014" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776405281020x576.jpg" group-title="Football", Newcastle vs Brighton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777738506~acl=/hls/*~hmac=9d4b32da161d4942f671c9e3eb4520b4b1d1eaaaa8905886286e727c60d8bd23
+#EXTINF:-1 tvg-id="tapmad-12967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775384451020x576.jpg" group-title="Football", Leverkusen vs RB Leipzig | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
