@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 02-05-2026
+# Last Update: 06:10 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="tapmad-12719" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773586091020x576.jpg" group-title="Cricket", Bangladesh vs New Zealand Live | New Zealand Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773622521020x576.jpg" group-title="Mma", Della Maddalena vs Prates | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777724106~acl=/hls/*~hmac=5f86baf0c9f67ea716db7560d38c201902329d025514c566e270225e116ae8ec
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777724708~acl=/hls/*~hmac=00c1235a5def87a6569a0a33b9af592cb7b30d787709f2acb16fdee1c5564fd9
