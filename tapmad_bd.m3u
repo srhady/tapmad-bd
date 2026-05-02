@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 AM 02-05-2026
+# Last Update: 07:00 AM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776434931020x576.jpg" group-title="Racing", GT World Challenge - Qualifying Rounds Live | GT World Challenge EU & Asia 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777684528~acl=/hls/*~hmac=cb72cdeac003a9575123ba385b5f316f54b0eaae6da37bfb71723cd4fb131c7e
