@@ -1,23 +1,25 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:50 PM 02-05-2026
+# Last Update: 08:00 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773622521020x576.jpg" group-title="Mma", Della Maddalena vs Prates | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777730706~acl=/hls/*~hmac=d730aa67484ce4a5ad5bdf6add559bacd5a0d6ee4f41b18259adbf6f1cf43f72
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777731306~acl=/hls/*~hmac=8c7cd948b552dcefb2bfdf08de52661b419da397e745bb229669f1d7b32f5582
 #EXTINF:-1 tvg-id="tapmad-12962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775391351020x576.jpg" group-title="Football", Eintracht Frankfurt vs Hamburger SV | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774607441020x576.jpg" group-title="Football", Hoffenheim vs VfB Stuttgart | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_Eliminator2-uRu/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774662511020x576.jpg" group-title="Football", Bayern vs Heidenheim | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777730706~acl=/hls/*~hmac=d730aa67484ce4a5ad5bdf6add559bacd5a0d6ee4f41b18259adbf6f1cf43f72
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777731327~acl=/hls/*~hmac=2d6e8c056024afd98641603043fe1282daede0f81dd624a0fa55144e3c37221c
 #EXTINF:-1 tvg-id="tapmad-12965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775385891020x576.jpg" group-title="Football", Werder vs Augsburg | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775316621020x576.jpg" group-title="Football", Union Berlin vs Koln | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_eNg-Eliminator2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13012" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776403611020x576.jpg" group-title="Football", Brentford vs West Ham | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777731327~acl=/hls/*~hmac=118e87a10eb9f5cf6982320b9c35d9fb1cbfa815201eed34e49f8ac666eb59cb
 #EXTINF:-1 tvg-id="tapmad-13013" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776404401020x576.jpg" group-title="Football", Wolves vs Sunderland | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777730706~acl=/hls/*~hmac=47d449a0a759120c349a2473d50539f1560f0d10298af6154778088c5b7313ba
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777731327~acl=/hls/*~hmac=118e87a10eb9f5cf6982320b9c35d9fb1cbfa815201eed34e49f8ac666eb59cb
 #EXTINF:-1 tvg-id="tapmad-13014" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776405281020x576.jpg" group-title="Football", Newcastle vs Brighton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777730706~acl=/hls/*~hmac=47d449a0a759120c349a2473d50539f1560f0d10298af6154778088c5b7313ba
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777731327~acl=/hls/*~hmac=118e87a10eb9f5cf6982320b9c35d9fb1cbfa815201eed34e49f8ac666eb59cb
