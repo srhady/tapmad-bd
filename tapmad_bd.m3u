@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 04-05-2026
+# Last Update: 01:40 AM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-11985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777393091020x576.jpg" group-title="Cricket", Peshawar Zalmi vs Hyderabad Kingsmen Live | PSL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775349421020x576.jpg" group-title="Football", SC Freiburg vs Wolfsburg | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13018" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776408631020x576.jpg" group-title="Football", Aston Villa vs Tottenham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777837506~acl=/hls/*~hmac=699bfef74107d0477e483e88c04ac02bb1c24c6cdf28090063e2451f04616589
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777838106~acl=/hls/*~hmac=c504ad80aaf69622a3d061ff5dd549e104dccbc91f53c81df7036fbc7759e730
