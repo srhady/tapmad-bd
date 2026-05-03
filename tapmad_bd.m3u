@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 03-05-2026
+# Last Update: 07:40 PM 03-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13016" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776406871020x576.jpg" group-title="Football", Bournemouth vs Crystal Palace | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777815914~acl=/hls/*~hmac=c8f079ebe63cf699e0669406e11c6e9fa32ea49b1dd8ab26a22ef531722def98
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777816506~acl=/hls/*~hmac=943b53a66aee8b78fbef6ec898c4529c03cc6fabc22dd0529db95094ef4889ff
 #EXTINF:-1 tvg-id="tapmad-11985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777393091020x576.jpg" group-title="Cricket", Peshawar Zalmi vs Hyderabad Kingsmen Live | PSL 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777815913~acl=/hls/*~hmac=5a54260e3017e197e00192dd569b09c2712e8c7b9e1b6401a49efa0ebe540596
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12968" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775322661020x576.jpg" group-title="Football", FC St. Pauli vs Mainz | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
