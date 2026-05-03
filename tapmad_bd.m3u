@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 04-05-2026
+# Last Update: 12:10 AM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,4 +10,4 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/ma
 #EXTINF:-1 tvg-id="tapmad-12970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775349421020x576.jpg" group-title="Football", SC Freiburg vs Wolfsburg | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13018" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776408631020x576.jpg" group-title="Football", Aston Villa vs Tottenham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777832106~acl=/hls/*~hmac=3f74c607be64535dc0ad7dea1f88ce724f954e3cdae90d41cc1cd8793fb956f6
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777832706~acl=/hls/*~hmac=d492ecfb1a49adc35c22dc7ed6a1eae49c82a7823e55ae6706ec8f950d216ce0
