@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 04-05-2026
+# Last Update: 01:50 AM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="tapmad-11985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777393091020x576.jpg" group-title="Cricket", Peshawar Zalmi vs Hyderabad Kingsmen Live | PSL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13018" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776408631020x576.jpg" group-title="Football", Aston Villa vs Tottenham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777838106~acl=/hls/*~hmac=c504ad80aaf69622a3d061ff5dd549e104dccbc91f53c81df7036fbc7759e730
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777838706~acl=/hls/*~hmac=38d196499d2e29e42f75119a1dc34f6aea017cbc7120d28c54367d05189eaa72
