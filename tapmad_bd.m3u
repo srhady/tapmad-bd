@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 03-05-2026
+# Last Update: 10:20 PM 03-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,6 @@
 #EXTINF:-1 tvg-id="tapmad-11985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777393091020x576.jpg" group-title="Cricket", Peshawar Zalmi vs Hyderabad Kingsmen Live | PSL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13017" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777997031020x576.jpg" group-title="Football", Man United vs Liverpool | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777825515~acl=/hls/*~hmac=2800b6ef999f6aeb6521537c2ae21e223f91bd550e15806fda6cd68dfb081212
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777826115~acl=/hls/*~hmac=57edcd277931a7c0579265492bc8bef8155c260af90eca800e875b65d388ba5e
 #EXTINF:-1 tvg-id="tapmad-12969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775318931020x576.jpg" group-title="Football", Monchengladbach vs Dortmund | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
