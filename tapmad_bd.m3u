@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 PM 04-05-2026
+# Last Update: 07:50 PM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13019" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776409411020x576.jpg" group-title="Football", Chelsea vs Nottm Forest | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777903515~acl=/hls/*~hmac=02e65a95c14fa4a3d05df6baedd94a2ca54d9cc3b9b209290ee0696ef49dc493
