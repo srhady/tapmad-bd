@@ -1,9 +1,7 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 AM 05-05-2026
+# Last Update: 03:10 AM 05-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13020" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776410161020x576.jpg" group-title="Football", Everton vs Man City | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777929306~acl=/hls/*~hmac=3de820b466a230ae0aacc819209ce024c46d32324eccc4394e3d9898e853bd79
