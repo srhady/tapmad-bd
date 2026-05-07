@@ -1,7 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 08-05-2026
+# Last Update: 12:10 AM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-12804" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17779738811020x576.jpg" group-title="Football", Aston Villa vs Nottm Forest | UEFA Europa League 2025/26
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778178306~acl=/hls/*~hmac=314c044cba2285fe1aaeac663afd22849483c3f584bc8798fcd4a96e05c42674
+#EXTINF:-1 tvg-id="tapmad-12805" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17779740211020x576.jpg" group-title="Football", SC Freiburg vs Braga | UEFA Europa League 2025/26
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778178306~acl=/hls/*~hmac=314c044cba2285fe1aaeac663afd22849483c3f584bc8798fcd4a96e05c42674
