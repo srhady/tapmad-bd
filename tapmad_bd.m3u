@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 AM 08-05-2026
+# Last Update: 11:20 AM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-12752" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780736951020x576.jpg" group-title="Cricket", Abbottabad Region vs Lahore Region Blues Live | National Men's U17 Cup 2025/26
-https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/master.m3u8?hdnts=exp=1778217906~acl=/hls/*~hmac=dd1a89dc6252c4c55c5516a967854d0c636c8a3778509c5fd046fbd08e54ad43
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
