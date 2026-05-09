@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:40 PM 09-05-2026
+# Last Update: 11:50 PM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,7 +10,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 #EXTINF:-1 tvg-id="tapmad-12976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780585831020x576.jpg" group-title="Football", Wolfsburg vs Bayern | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782399451020x576.jpg" group-title="Football", Man City vs Brentford | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778349305~acl=/hls/*~hmac=f109e07208fa56937801163db4dee561572f190c777f3c89c3f0402ec6d3c66d
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778349905~acl=/hls/*~hmac=4c4a8f23bb909b464be980413f335fef7bf6c44453cde80a224132e2c7199948
 #EXTINF:-1 tvg-id="tapmad-13113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781412341020x576.jpg" group-title="Football", Qatar vs Indonesia Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13118" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781436651020x576.jpg" group-title="Football", Thailand vs Saudi Arabia Live | AFC U17 Asian Cup 2026
