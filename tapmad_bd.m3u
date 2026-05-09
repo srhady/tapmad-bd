@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:10 PM 09-05-2026
+# Last Update: 08:20 PM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,10 +14,10 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 #EXTINF:-1 tvg-id="tapmad-12975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780584401020x576.jpg" group-title="Football", RB Leipzig vs FC St. Pauli | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782389581020x576.jpg" group-title="Football", Fulham vs Bournemouth | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778336706~acl=/hls/*~hmac=a0719394d998706ccf2fc9f1110ecda154e8c2867da3f6815dcc9b630a484d31
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778337306~acl=/hls/*~hmac=5b2fb92249ed8615dca9ee8263bd341c400e7530e300514644d33a949e9c8fa7
 #EXTINF:-1 tvg-id="tapmad-13023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782390321020x576.jpg" group-title="Football", Sunderland vs Man United | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778336706~acl=/hls/*~hmac=a0719394d998706ccf2fc9f1110ecda154e8c2867da3f6815dcc9b630a484d31
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778337306~acl=/hls/*~hmac=5b2fb92249ed8615dca9ee8263bd341c400e7530e300514644d33a949e9c8fa7
 #EXTINF:-1 tvg-id="tapmad-13024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782391341020x576.jpg" group-title="Football", Brighton vs Wolves | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778336706~acl=/hls/*~hmac=a0719394d998706ccf2fc9f1110ecda154e8c2867da3f6815dcc9b630a484d31
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778337306~acl=/hls/*~hmac=5b2fb92249ed8615dca9ee8263bd341c400e7530e300514644d33a949e9c8fa7
 #EXTINF:-1 tvg-id="tapmad-13243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782656581020x576.jpg" group-title="Racing", Prime Gara (Race 1) - Kumho FIA TCR World Tour Live | Kumho FIA TCR World Tour Euro Series 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
