@@ -1,9 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 PM 09-05-2026
+# Last Update: 07:30 PM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13021" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782388761020x576.jpg" group-title="Football", Liverpool vs Chelsea | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778333706~acl=/hls/*~hmac=05b2c90c361e2aeca5d6adebd9b8c328c981f16a0f95cb7e58f7d8be5e4afa0c
+#EXTINF:-1 tvg-id="tapmad-12972" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780577951020x576.jpg" group-title="Football", VfB Stuttgart vs Leverkusen | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780580481020x576.jpg" group-title="Football", Hoffenheim vs Werder | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12974" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780582091020x576.jpg" group-title="Football", Augsburg vs Monchengladbach | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780584401020x576.jpg" group-title="Football", RB Leipzig vs FC St. Pauli | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
