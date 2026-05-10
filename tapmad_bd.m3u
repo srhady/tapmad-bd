@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:20 PM 10-05-2026
+# Last Update: 09:30 PM 10-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12977" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780587621020x576.jpg" group-title="Football", Hamburger SV vs SC Freiburg | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778427306~acl=/hls/*~hmac=08ee8cd149b59fb6968b2e2e439f3332b9dc41e810e1663f5c2dff84ea4ad5a5
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778427905~acl=/hls/*~hmac=b720304148a655163f677c7fd0cd403458d90be713737127d7824915dbd6f253
 #EXTINF:-1 tvg-id="tapmad-12978" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780589701020x576.jpg" group-title="Football", Koln vs Heidenheim | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778427306~acl=/hls/*~hmac=08ee8cd149b59fb6968b2e2e439f3332b9dc41e810e1663f5c2dff84ea4ad5a5
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778427906~acl=/hls/*~hmac=2c01bded53e319ba784549cb7bb8e52f8edeae6606646445a48a25f9454e2cba
 #EXTINF:-1 tvg-id="tapmad-13029" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782394881020x576.jpg" group-title="Football", West Ham vs Arsenal | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778427306~acl=/hls/*~hmac=64dee0791acf3c3623b0fd7b2a30caa828323de3c61607ac5a3f4570199f2a1f
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778427906~acl=/hls/*~hmac=0f2a74c808e7c9ec7ac44b444113e64fd3bfe581b75f00bb3c9e788c90c3bcdf
