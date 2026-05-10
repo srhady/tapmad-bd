@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778433414~acl=/hls/*~hmac=74ff766e655aa934497063e5da9016255884a1d4b417f35f3af25e84dbab748a
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778434574~acl=/hls/*~hmac=c91622f533cfcd0ff6c145c6bcb24f9830aae4349f98f13d08fcc0e7b0ca7cff
