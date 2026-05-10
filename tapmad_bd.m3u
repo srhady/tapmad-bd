@@ -1,15 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 PM 10-05-2026
+# Last Update: 07:30 PM 10-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782392621020x576.jpg" group-title="Football", Nottm Forest vs Newcastle | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778420106~acl=/hls/*~hmac=6e336771262e6166e2cde380272d35ac313dfee856bd5bcd02c7360393533093
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778420706~acl=/hls/*~hmac=a5387efb5aec6a12dedfb1d6fb1de8e5932c802cbee8c3632bb508c300aeb12f
 #EXTINF:-1 tvg-id="tapmad-13027" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782393351020x576.jpg" group-title="Football", Crystal Palace vs Everton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778420106~acl=/hls/*~hmac=6e336771262e6166e2cde380272d35ac313dfee856bd5bcd02c7360393533093
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778420706~acl=/hls/*~hmac=a5387efb5aec6a12dedfb1d6fb1de8e5932c802cbee8c3632bb508c300aeb12f
 #EXTINF:-1 tvg-id="tapmad-13028" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782394191020x576.jpg" group-title="Football", Burnley vs Aston Villa | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778420106~acl=/hls/*~hmac=6e336771262e6166e2cde380272d35ac313dfee856bd5bcd02c7360393533093
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778420706~acl=/hls/*~hmac=a5387efb5aec6a12dedfb1d6fb1de8e5932c802cbee8c3632bb508c300aeb12f
 #EXTINF:-1 tvg-id="tapmad-12977" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780587621020x576.jpg" group-title="Football", Hamburger SV vs SC Freiburg | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778420106~acl=/hls/*~hmac=f148cfdeaf6b225495742ea202da2ebf721cb789799ecd5787fc55248c1e8f4d
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778420706~acl=/hls/*~hmac=4ec9ea12ae154238b4b25f647fb00c60fb4d97f151bcabdd3c9bf41d5dddc416
