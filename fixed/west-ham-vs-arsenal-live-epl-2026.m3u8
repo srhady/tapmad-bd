@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778431683~acl=/hls/*~hmac=5fd542eee4a57aaef6cb9de0f7a08db5983756cd6b6f71458a8936ce069b165d
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778433414~acl=/hls/*~hmac=9ca760b943fc894f627d81eccff80dcca4909c4df332051060bf217c1f9516d7

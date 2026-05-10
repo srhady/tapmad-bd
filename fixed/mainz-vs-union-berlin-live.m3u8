@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778433423~acl=/hls/*~hmac=26ea18aebfb99196b5bc619462a16401c80d6347404ff21738dbb375a2a74c2e
