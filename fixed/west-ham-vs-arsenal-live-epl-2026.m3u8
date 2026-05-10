@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778431382~acl=/hls/*~hmac=84dc5c040615f98bb05a1d3eca56cb04b4f6104533c792acb505e91424b9f493
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778431506~acl=/hls/*~hmac=35e5ca6add8bb77247fc0f30d5a6ed669f810f1179c08f12f12a6bf120b93248
