@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 11-05-2026
+# Last Update: 01:00 AM 11-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="tapmad-13138" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17783768041020x576.jpg" group-title="Football", India vs Uzbekistan Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12979" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780591281020x576.jpg" group-title="Football", Mainz vs Union Berlin | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778439906~acl=/hls/*~hmac=b5cd75798c46df079de4c1ef6e72bc6b908fb80f4fe25b7a83c1970a81c82c44
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778440513~acl=/hls/*~hmac=46ba339a30f2eb24403b46c983a58e947b73a68d9ad4c6fa3f703a722b10424a
