@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
