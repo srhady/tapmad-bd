@@ -1,7 +1,19 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 PM 16-05-2026
+# Last Update: 07:00 PM 16-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-12980" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787617061020x576.jpg" group-title="Football", FC St. Pauli vs Wolfsburg | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12981" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787619001020x576.jpg" group-title="Football", Heidenheim vs Mainz | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12982" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787620591020x576.jpg" group-title="Football", Eintracht Frankfurt vs VfB Stuttgart | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12983" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787622551020x576.jpg" group-title="Football", Werder vs Dortmund | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12984" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787624231020x576.jpg" group-title="Football", Leverkusen vs Hamburger SV | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787625481020x576.jpg" group-title="Football", Monchengladbach vs Hoffenheim | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
