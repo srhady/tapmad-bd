@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:50 PM 16-05-2026
+# Last Update: 08:00 PM 16-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13339" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17786604051020x576.jpg" group-title="Football", Chelsea vs Man City Live | FA Cup 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778940307~acl=/hls/*~hmac=68b70fe6782bd6a47ef8e44df684b2e8d46f61c1f5efec6cc82278ed92bb3365
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778940910~acl=/hls/*~hmac=2bd1576270eee933dbb640526cb64359f4900a47dd609ec0d57456c07d57a800
 #EXTINF:-1 tvg-id="tapmad-12980" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787617061020x576.jpg" group-title="Football", FC St. Pauli vs Wolfsburg | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12981" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787619001020x576.jpg" group-title="Football", Heidenheim vs Mainz | Bundesliga 2025/26
@@ -22,6 +22,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master
 #EXTINF:-1 tvg-id="tapmad-12986" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787626781020x576.jpg" group-title="Football", Bayern vs Koln | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12987" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787628231020x576.jpg" group-title="Football", Union Berlin vs Augsburg | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778940306~acl=/hls/*~hmac=58c1067a716ba126186fe408d240539f979409a55d55cb183d2ce4cc3e91420d
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778940910~acl=/hls/*~hmac=2bd1576270eee933dbb640526cb64359f4900a47dd609ec0d57456c07d57a800
 #EXTINF:-1 tvg-id="tapmad-12988" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787629471020x576.jpg" group-title="Football", SC Freiburg vs RB Leipzig | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1778940306~acl=/hls/*~hmac=58c1067a716ba126186fe408d240539f979409a55d55cb183d2ce4cc3e91420d
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1778940910~acl=/hls/*~hmac=2bd1576270eee933dbb640526cb64359f4900a47dd609ec0d57456c07d57a800
