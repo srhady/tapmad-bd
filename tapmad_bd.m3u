@@ -1,15 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 PM 17-05-2026
+# Last Update: 06:00 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13394" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789320101020x576.jpg" group-title="Multisports", Men's Final Session - WC Pazardzhik Bulgaria Live | UIPM 2026 Pentathlon World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13033" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789243701020x576.jpg" group-title="Football", Man United vs Nottm Forest | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779019506~acl=/hls/*~hmac=9b8ac27a6f5dcc5942b5e9a4c209ef576055ab2090c8963308584bde1e401eee
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779020108~acl=/hls/*~hmac=256acb3b25c56dabc77c2efb6e58ac1a76d8df21555ffd8f559e8deb3fc3080f
 #EXTINF:-1 tvg-id="tapmad-13319" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789200681020x576.jpg" group-title="Football", DPR Korea vs Japan Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
