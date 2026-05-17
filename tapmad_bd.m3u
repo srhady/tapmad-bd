@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 AM 17-05-2026
+# Last Update: 09:10 AM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778988306~acl=/hls/*~hmac=5ec3cfc2cf2c5a9ccd8fccf8c4b5eb0a557bb8535869b96d60f59336af9ec33b
 #EXTINF:-1 tvg-id="tapmad-12992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788826581020x576.jpg" group-title="Mma", Allen vs Costa | UFC 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
