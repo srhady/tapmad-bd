@@ -1,15 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 17-05-2026
+# Last Update: 08:40 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13034" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789252511020x576.jpg" group-title="Football", Brentford vs Crystal Palace | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779029117~acl=/hls/*~hmac=5f9098d101aea7d926ddaf9f0eb460af4f00b99ac584bde4a137189ddab09ee0
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779029705~acl=/hls/*~hmac=f9b60776c35ac58bc1cb948d5a0a35665d11f1a697e85456beb597546b2d51ae
 #EXTINF:-1 tvg-id="tapmad-13035" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789290821020x576.jpg" group-title="Football", Leeds United vs Brighton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779029117~acl=/hls/*~hmac=5f9098d101aea7d926ddaf9f0eb460af4f00b99ac584bde4a137189ddab09ee0
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779029723~acl=/hls/*~hmac=9109f2f49d9af69fe05bdfbaf91b62ca6fa615d12bd2818c864a93861835e12f
 #EXTINF:-1 tvg-id="tapmad-13036" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789293111020x576.jpg" group-title="Football", Wolves vs Fulham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779029117~acl=/hls/*~hmac=5f9098d101aea7d926ddaf9f0eb460af4f00b99ac584bde4a137189ddab09ee0
-#EXTINF:-1 tvg-id="tapmad-13037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789294321020x576.jpg" group-title="Football", Everton vs Sunderland | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779029117~acl=/hls/*~hmac=5f9098d101aea7d926ddaf9f0eb460af4f00b99ac584bde4a137189ddab09ee0
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779029723~acl=/hls/*~hmac=9109f2f49d9af69fe05bdfbaf91b62ca6fa615d12bd2818c864a93861835e12f
