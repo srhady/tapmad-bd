@@ -1,15 +1,7 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 17-05-2026
+# Last Update: 10:10 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13034" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789252511020x576.jpg" group-title="Football", Brentford vs Crystal Palace | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779034507~acl=/hls/*~hmac=c4c4aae17715e9bb236527f6466de88debf4a7ade0b764e0736f800351b2c60c
-#EXTINF:-1 tvg-id="tapmad-13035" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789290821020x576.jpg" group-title="Football", Leeds United vs Brighton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779034530~acl=/hls/*~hmac=d3fbc3f105f828dc6041805e312f8fc49a2a703bdbf04a139097e9c0bbabe55e
-#EXTINF:-1 tvg-id="tapmad-13036" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789293111020x576.jpg" group-title="Football", Wolves vs Fulham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779034530~acl=/hls/*~hmac=d3fbc3f105f828dc6041805e312f8fc49a2a703bdbf04a139097e9c0bbabe55e
-#EXTINF:-1 tvg-id="tapmad-13037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789294321020x576.jpg" group-title="Football", Everton vs Sunderland | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779034530~acl=/hls/*~hmac=d3fbc3f105f828dc6041805e312f8fc49a2a703bdbf04a139097e9c0bbabe55e
