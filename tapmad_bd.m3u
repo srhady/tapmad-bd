@@ -1,15 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:20 PM 17-05-2026
+# Last Update: 09:30 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13034" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789252511020x576.jpg" group-title="Football", Brentford vs Crystal Palace | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779032113~acl=/hls/*~hmac=b882c28bf306170ed729511f33612770eef1edd9cd891b7e572ad5d9c039cc5c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779032706~acl=/hls/*~hmac=3af09f44624e47ba96a4f8ff54e7a08dcdd2d2c648121f2355ba8a0301fb4df8
 #EXTINF:-1 tvg-id="tapmad-13035" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789290821020x576.jpg" group-title="Football", Leeds United vs Brighton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779032113~acl=/hls/*~hmac=b882c28bf306170ed729511f33612770eef1edd9cd891b7e572ad5d9c039cc5c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779032724~acl=/hls/*~hmac=a03335cdad64bf0d3e2f23d4b30d1424ac94acf4ee05b3233cd32943a7b0e6bf
 #EXTINF:-1 tvg-id="tapmad-13036" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789293111020x576.jpg" group-title="Football", Wolves vs Fulham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779032113~acl=/hls/*~hmac=b882c28bf306170ed729511f33612770eef1edd9cd891b7e572ad5d9c039cc5c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779032724~acl=/hls/*~hmac=a03335cdad64bf0d3e2f23d4b30d1424ac94acf4ee05b3233cd32943a7b0e6bf
 #EXTINF:-1 tvg-id="tapmad-13037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789294321020x576.jpg" group-title="Football", Everton vs Sunderland | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779032113~acl=/hls/*~hmac=b882c28bf306170ed729511f33612770eef1edd9cd891b7e572ad5d9c039cc5c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779032724~acl=/hls/*~hmac=a03335cdad64bf0d3e2f23d4b30d1424ac94acf4ee05b3233cd32943a7b0e6bf
