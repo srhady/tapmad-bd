@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 19-05-2026
+# Last Update: 01:00 AM 19-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13039" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789296271020x576.jpg" group-title="Football", Arsenal vs Burnley | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779131707~acl=/hls/*~hmac=518556e910e747f7f1237508333480f92d5402f7a778e0f2b9c3a95658b3eb72
