@@ -1,44 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 19-05-2026",
+        "LastUpdate": "11:40 PM 19-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 13
+        "UpcomingCount": 11
     },
     "Matches": [
-        {
-            "EntityId": 13040,
-            "VideoName": "Bournemouth vs Man City",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 37",
-            "EventStartDate": "2026-05-20 00:30:00",
-            "Description": "Watch Bournemouth vs Man City live match streaming online in Bangladesh only on tapmad. The Bournemouth vs Man City match will take place on 20-May, Wednesday, at 12:30 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929737540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929737540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "bournemouth vs man city live-epl-2026"
-        },
-        {
-            "EntityId": 13203,
-            "VideoName": "China PR vs Australia Live",
-            "CategoryName": "AFC U17 Asian Cup 2026",
-            "StageName": "Semi Final 2",
-            "EventStartDate": "2026-05-20 00:30:00",
-            "Description": "Watch China PR vs Australia live online on tapmad. The AFC U17 Asian Cup Saudi Arabia 2026 China PR vs Australia match is scheduled to take place on 19-May,  at 12:30 AM. The joint draws will determine the group stage fixtures for both tournaments, featuring Asia’s top youth teams competing for continental glory. Fans can follow the match live in HD on tapmad via web, app, or smart TV and stay updated with all official match schedules.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779175958540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779175958540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 291,
-            "UrlSlug": "china-pr-vs-australia-live"
-        },
         {
             "EntityId": 13041,
             "VideoName": "Chelsea vs Tottenham",
