@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 20-05-2026",
+        "LastUpdate": "12:20 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 11
+        "LiveCount": 2,
+        "UpcomingCount": 10
     },
     "Matches": [
+        {
+            "EntityId": 13040,
+            "VideoName": "Bournemouth vs Man City",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 37",
+            "EventStartDate": "2026-05-20 00:30:00",
+            "Description": "Watch Bournemouth vs Man City live match streaming online in Bangladesh only on tapmad. The Bournemouth vs Man City match will take place on 20-May, Wednesday, at 12:30 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929737540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929737540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "bournemouth vs man city live-epl-2026",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779215715~acl=/hls/*~hmac=5847d3f2e38807325b8a07bce32ff2707324287cf4fa87e665fe3929c852d9b4"
+        },
         {
             "EntityId": 13203,
             "VideoName": "China PR vs Australia Live",
@@ -25,20 +40,6 @@
             "CategoryId": 291,
             "UrlSlug": "china-pr-vs-australia-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 13041,
-            "VideoName": "Chelsea vs Tottenham",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 37",
-            "EventStartDate": "2026-05-20 01:15:00",
-            "Description": "Watch Chelsea vs Tottenham live match streaming online in Bangladesh only on tapmad. The Chelsea vs Tottenham match will take place on 20-May, Wednesday, at 01:15 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929944540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929944540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "chelsea vs tottenham live-epl-2026"
         },
         {
             "EntityId": 13489,
