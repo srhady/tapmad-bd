@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 20-05-2026",
+        "LastUpdate": "02:00 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "bournemouth vs man city live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779221106~acl=/hls/*~hmac=b01fc08cf315b5239b7e795b49d377d432a2143103e7315282a56e742390e919"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779221706~acl=/hls/*~hmac=b32416609f1109e1faad854d8a48377401082a1e9d587f8bca8728b8e1f338da"
         },
         {
             "EntityId": 13203,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "chelsea vs tottenham live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779221106~acl=/hls/*~hmac=b01fc08cf315b5239b7e795b49d377d432a2143103e7315282a56e742390e919"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779221706~acl=/hls/*~hmac=b32416609f1109e1faad854d8a48377401082a1e9d587f8bca8728b8e1f338da"
         },
         {
             "EntityId": 13491,
