@@ -57,12 +57,8 @@
 * Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.m3u">
-<img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162538.jpg" width="45%"> <img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162712.jpg" width="45%">
-<br><br>
-<img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162014.jpg" width="92%">
-<br><br>
-<img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162717.jpg" width="45%">
+<a href="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002418.jpg">
+<img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002503.jpg"> 
 </a>
 </p>
 
