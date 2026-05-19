@@ -11,7 +11,7 @@
 </a>
   <p align="center">
   <a href="">
-      <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg" width="60%">
+      <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg" width="75%">
   </a>
 </p>
 ​<p align="center">
