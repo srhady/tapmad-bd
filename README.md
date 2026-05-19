@@ -9,9 +9,11 @@
 <h2 align="center">An automated API wrapper to fetch live match schedules, metadata, and dynamic stream manifests directly from Tapmad.</h2>
 
 </a>
+  <p align="center">
   <a href="">
       <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg" width="60%">
   </a>
+</p>
 ​<p align="center">
 <img src="https://img.shields.io/badge/Made_With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="Bangladesh">
