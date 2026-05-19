@@ -1,4 +1,4 @@
-name: Tapmad Manual Update
+Name: Tapmad Manual Update
 
 on:
   workflow_dispatch:
@@ -29,7 +29,6 @@ jobs:
         run: |
           pip install pycryptodome
 
-      # জেসনের বদলে এখন সরাসরি পুরনো M3U ফাইলটা কপি করবে স্মার্ট স্কিপ (ক্যাশ) এর জন্য
       - name: Load Old M3U for Caching
         run: |
           cp public_repo/tapmad_bd.m3u . || echo "Old M3U cache not found"
@@ -46,7 +45,8 @@ jobs:
           
           
           mv ../tapmad_bd.m3u . || echo "m3u not found"
+          mv ../tapmad_bd.json . || echo "json not found"
           
-          git add tapmad_bd.m3u
+          git add tapmad_bd.m3u tapmad_bd.json
           TZ='Asia/Dhaka' git commit -m "Manual Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
           git push
