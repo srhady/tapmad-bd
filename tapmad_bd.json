@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
-        "PlaylistName": "Tapmad bd",
-        "LastUpdate": "11:20 PM 19-05-2026",
+        "PlaylistName": "Tapmad Matches Metadata",
+        "LastUpdate": "11:30 PM 19-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -21,7 +21,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929737540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929737540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 177,
             "UrlSlug": "bournemouth vs man city live-epl-2026"
         },
@@ -35,7 +35,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779175958540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779175958540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 291,
             "UrlSlug": "china-pr-vs-australia-live"
         },
@@ -49,7 +49,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929944540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929944540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 177,
             "UrlSlug": "chelsea vs tottenham live-epl-2026"
         },
@@ -63,7 +63,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779190058540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779190058540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Bundesliga Special #20 live"
         },
@@ -77,7 +77,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779190205540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779190205540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Bundesliga Original Series live"
         },
@@ -91,7 +91,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778140045540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778140045540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 348,
             "UrlSlug": "bangladesh-vs-pakistan-2nd-test-live"
         },
@@ -105,7 +105,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779176838540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779176838540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 350,
             "UrlSlug": "AFC Women's Champions League-Melbourne City-vs-Tokyo Verdy Beleza"
         },
@@ -119,7 +119,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779177324540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779177324540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 350,
             "UrlSlug": "AFC Women's Champions League-Naegohyang Women's FC-vs-Suwon FC Women"
         },
@@ -133,7 +133,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779079621540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779079621540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 185,
             "UrlSlug": "sc freiburg-vs-aston villa-live"
         },
@@ -147,7 +147,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779185116540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779185116540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Wolfsburg vs Paderborn live"
         },
@@ -161,7 +161,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779180395540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779180395540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 224,
             "UrlSlug": "fa cup final - season review live"
         },
@@ -175,7 +175,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779180733540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779180733540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 175,
             "UrlSlug": "dfb-pokal-football-bayern-vs-vfbstuttgart-Live"
         },
@@ -189,7 +189,7 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779081674540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779081674540x302.jpg",
             "IsFreeToWatch": false,
-            "IsSportsContent": true,
+            "Status": "Upcoming",
             "CategoryId": 183,
             "UrlSlug": "psg-vs-arsenal-ucl-live-match"
         }
