@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad bd",
-        "LastUpdate": "11:14 PM 19-05-2026",
+        "LastUpdate": "11:20 PM 19-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 13
     },
     "Matches": [
-        {
-            "EntityId": 13198,
-            "VideoName": "Japan vs Uzbekistan Live",
-            "CategoryName": "AFC U17 Asian Cup 2026",
-            "StageName": "Semi Final 1",
-            "EventStartDate": "2026-05-19 21:00:00",
-            "Description": "Watch Japan vs Uzbekistan live online on tapmad. The AFC U17 Asian Cup Saudi Arabia 2026 Japan vs Uzbekistan match is scheduled to take place on 19-May,  at 09:00 PM. The joint draws will determine the group stage fixtures for both tournaments, featuring Asia’s top youth teams competing for continental glory. Fans can follow the match live in HD on tapmad via web, app, or smart TV and stay updated with all official match schedules.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779174062540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779174062540x302.jpg",
-            "IsFreeToWatch": false,
-            "IsSportsContent": true,
-            "CategoryId": 291,
-            "UrlSlug": "japan-vs-uzbekistan-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
         {
             "EntityId": 13040,
             "VideoName": "Bournemouth vs Man City",
