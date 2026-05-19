@@ -57,12 +57,10 @@
 * Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u`
 
 <p align="center">
-<a 
-<img
-src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002418.jpg">
-<img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002503.jpg"> 
-</a>
+  <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002418.jpg" width="45%">
+  <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/Screenshot_20260520_002503.jpg" width="45%">
 </p>
+
 
 # 🚬 Author 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=DEVELOPED+BY+HADY)](https://git.io/typing-svg)
