@@ -39,22 +39,22 @@
 # 🕹️ How To Use
 
 **For Users (Media Players)**
-* 👉 **[Auto Updated M3U Playlist File](https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.m3u)**
+* 👉 **[Auto Updated M3U Playlist File](https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u)**
 * Add this raw link directly to your preferred media player.
 
 **For Developers (Frontend/API)**
-* 👉 **[Auto Updated JSON File](https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.json)**
+* 👉 **[Auto Updated JSON File](https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.json)**
 * Use this JSON file to build your own sports schedule UI or frontend application.
 
 # 🎬 How To Play
 
 **📱 Android / iOS**
 * Use **Network Stream Player** or **OTT Navigator**.
-* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.m3u`
+* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u`
 
 **🖥️ Android TV / Smart TV**
 * Use **TiviMate** or **Televizo**.
-* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.m3u`
+* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u`
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/srhady/tapmad/main/tapmad_bd.m3u">
