@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:10 AM 20-05-2026",
+        "LastUpdate": "02:20 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,21 +11,6 @@
         "UpcomingCount": 9
     },
     "Matches": [
-        {
-            "EntityId": 13040,
-            "VideoName": "Bournemouth vs Man City",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 37",
-            "EventStartDate": "2026-05-20 00:30:00",
-            "Description": "Watch Bournemouth vs Man City live match streaming online in Bangladesh only on tapmad. The Bournemouth vs Man City match will take place on 20-May, Wednesday, at 12:30 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929737540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929737540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "bournemouth vs man city live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779222306~acl=/hls/*~hmac=5b3dee7d7334a9a48f6edd9bd6361b5d3222e0b6b07b02b041bf1e811749af64"
-        },
         {
             "EntityId": 13203,
             "VideoName": "China PR vs Australia Live",
@@ -54,7 +39,22 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "chelsea vs tottenham live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779222306~acl=/hls/*~hmac=5b3dee7d7334a9a48f6edd9bd6361b5d3222e0b6b07b02b041bf1e811749af64"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779222906~acl=/hls/*~hmac=3d5d88324aabcfa9d5cfb2f229f04f946e6e740d91a62ee34e517a58762ba021"
+        },
+        {
+            "EntityId": 13489,
+            "VideoName": "Bundesliga Special #20",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-05-20 02:00:00",
+            "Description": "Watch Bundesliga Special #20 live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Special #20 will take place on 20-May, Wednesday, at 02:00 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779190058540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779190058540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Special #20 live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779222906~acl=/hls/*~hmac=acfe8009b27ea800d2c5513bbdb7b8984a5cf9f63bb82c13057d500c38c49178"
         },
         {
             "EntityId": 13491,
