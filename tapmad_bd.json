@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:10 AM 20-05-2026",
+        "LastUpdate": "03:20 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 13041,
-            "VideoName": "Chelsea vs Tottenham",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 37",
-            "EventStartDate": "2026-05-20 01:15:00",
-            "Description": "Watch Chelsea vs Tottenham live match streaming online in Bangladesh only on tapmad. The Chelsea vs Tottenham match will take place on 20-May, Wednesday, at 01:15 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929944540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929944540x302.jpg",
+            "EntityId": 13491,
+            "VideoName": "Bundesliga Original Series",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-05-20 03:30:00",
+            "Description": "Watch Bundesliga Original Series live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Original Series will take place on 20-May, Wednesday, at 03:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779190205540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779190205540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "chelsea vs tottenham live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779225908~acl=/hls/*~hmac=18707ef5fdc12ad2144838d49f090a244e476b60eae9c8f0dc6c78a02419ebc9"
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Original Series live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779226506~acl=/hls/*~hmac=36d70e00c9f4be033d88416d80fe2608c74b63a3a0c3f55979f10c0edd29f3cd"
         },
         {
             "EntityId": 13220,
