@@ -10,7 +10,7 @@
 
 </a>
   <a href="">
-      <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg">
+      <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg" width="60%">
   </a>
 ​<p align="center">
 <img src="https://img.shields.io/badge/Made_With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
