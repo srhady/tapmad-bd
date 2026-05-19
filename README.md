@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/srhady/Hady/raw/refs/heads/main/bingsport-tth-logo.webp" alt="Tapmad Metadata" width="120"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg" alt="Tapmad Metadata" width="120"></a>
   <br>
   Tapmad Live Matches & Metadata Indexer
   <br>
@@ -10,7 +10,7 @@
 
 </a>
   <a href="">
-      <img src="https://github.com/srhady/Hady/raw/refs/heads/main/IMG_20260310_134701.jpg">
+      <img src="https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/.photo/IMG_20260520_001513.jpg">
   </a>
 ​<p align="center">
 <img src="https://img.shields.io/badge/Made_With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
