@@ -1,4 +1,4 @@
-Name: Tapmad Manual Update
+name: Tapmad Manual Update
 
 on:
   workflow_dispatch:
