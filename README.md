@@ -15,7 +15,6 @@
 ​<p align="center">
 <img src="https://img.shields.io/badge/Made_With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="Bangladesh">
-<img src="https://img.shields.io/badge/last--commit--time-12:06%20AM,%2020%20May%202026-blue?style=for-the-badge" alt="Last Commit">
 </p>
 
 # 📒 Introduction
@@ -36,17 +35,6 @@
 * 🛡️ **Clean Extraction:** Extracts clean manifest URLs from the platform's Web API.
 * 🚀 **Plug & Play:** Ready to be parsed by any frontend application or standard IPTV player.
 
-# 🌐 Visit My Website
-<div align="center">
-  <a href="https://srhady.github.io/Hady/">
-    <img src="https://github.com/srhady/Hady/raw/refs/heads/main/.photo/IMG_20260316_011540.jpg" alt="Hady's Website" width="100%">
-  </a>
-  <br>
-  <br>
-  <b>🔗 <a href="https://livesportsplay.top/">Visit My Live Sports Portal</a></b>
-</div>
-
-<br>
 
 # 🕹️ How To Use
 
