@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 AM 20-05-2026",
+        "LastUpdate": "01:00 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 10
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "bournemouth vs man city live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779217506~acl=/hls/*~hmac=01a88449103051b726c135e89e8363319ec5173bd855bc0658259d0c13e16ceb"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779218107~acl=/hls/*~hmac=06ede592543e1a06850dce4e99b9c3e5def4f2d91778d8b7651ac73f5f11bbf0"
         },
         {
             "EntityId": 13203,
@@ -40,6 +40,21 @@
             "CategoryId": 291,
             "UrlSlug": "china-pr-vs-australia-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
+        {
+            "EntityId": 13041,
+            "VideoName": "Chelsea vs Tottenham",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 37",
+            "EventStartDate": "2026-05-20 01:15:00",
+            "Description": "Watch Chelsea vs Tottenham live match streaming online in Bangladesh only on tapmad. The Chelsea vs Tottenham match will take place on 20-May, Wednesday, at 01:15 AM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778929944540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778929944540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "chelsea vs tottenham live-epl-2026",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779218107~acl=/hls/*~hmac=06ede592543e1a06850dce4e99b9c3e5def4f2d91778d8b7651ac73f5f11bbf0"
         },
         {
             "EntityId": 13489,
