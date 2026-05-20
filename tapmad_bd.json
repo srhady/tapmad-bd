@@ -1,30 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 PM 20-05-2026",
+        "LastUpdate": "03:10 PM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 13329,
-            "VideoName": "Naegohyang Women's FC vs Suwon FC Women",
-            "CategoryName": "AFC Women's Champions League 2025/26",
-            "StageName": "Semi Final 2",
-            "EventStartDate": "2026-05-20 16:00:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 20-May at 04:00 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779177324540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779177324540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 350,
-            "UrlSlug": "AFC Women's Champions League-Naegohyang Women's FC-vs-Suwon FC Women"
-        },
         {
             "EntityId": 12806,
             "VideoName": "SC Freiburg vs Aston Villa",
