@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 AM 20-05-2026
+# Last Update: 10:40 AM 20-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13324" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791768381020x576.jpg" group-title="Football", Melbourne City vs Tokyo Verdy Beleza | AFC Women's Champions League 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
