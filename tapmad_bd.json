@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 21-05-2026",
+        "LastUpdate": "12:20 AM 21-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 185,
             "UrlSlug": "sc freiburg-vs-aston villa-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779301525~acl=/hls/*~hmac=ff7367bddf3cb9c87b44e382033210115027943ca0b482a1dda770c7eea0c5b8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779302120~acl=/hls/*~hmac=f390c0ce056a47c628485b7902c2cddeef6140466b9aa959f32f465ca826d1e0"
         },
         {
             "EntityId": 13477,
