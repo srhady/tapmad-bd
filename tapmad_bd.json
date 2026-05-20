@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:40 AM 20-05-2026",
+        "LastUpdate": "09:50 AM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 7
     },
     "Matches": [
+        {
+            "EntityId": 13220,
+            "VideoName": "Bangladesh vs Pakistan Live",
+            "CategoryName": "Pakistan Tour of Bangladesh 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-05-16 10:00:00",
+            "Description": "The 2nd Test of the Pakistan Tour of Bangladesh 2026 marks the start of a two-match Test series. Watch Bangladesh vs Pakistan 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Bangladesh cricket team featuring Najmul Hossain Shanto & Nahid Rana focusing on balance and pace control. Pakistan, led by Shan Masood, rely on experienced players such as Babar Azam & Shaheen Afridi to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1778140045540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1778140045540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 348,
+            "UrlSlug": "bangladesh-vs-pakistan-2nd-test-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
         {
             "EntityId": 13324,
             "VideoName": "Melbourne City vs Tokyo Verdy Beleza",
