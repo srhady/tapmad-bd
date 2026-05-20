@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 20-05-2026",
+        "LastUpdate": "02:50 PM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 8
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -52,6 +52,20 @@
             "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Wolfsburg vs Paderborn live"
+        },
+        {
+            "EntityId": 13208,
+            "VideoName": "China PR vs Japan Live",
+            "CategoryName": "AFC U17 Asian Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-22 23:00:00",
+            "Description": "Watch China PR vs Japan live online on tapmad. The AFC U17 Asian Cup Saudi Arabia 2026 China PR vs Japan match is scheduled to take place on 22-May,  at 11:00 PM. The joint draws will determine the group stage fixtures for both tournaments, featuring Asia’s top youth teams competing for continental glory. Fans can follow the match live in HD on tapmad via web, app, or smart TV and stay updated with all official match schedules.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779266117540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779266117540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 291,
+            "UrlSlug": "china-pr-vs-japan-live"
         },
         {
             "EntityId": 13401,
