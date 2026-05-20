@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 PM 20-05-2026",
+        "LastUpdate": "01:00 PM 20-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 6
     },
     "Matches": [
-        {
-            "EntityId": 13324,
-            "VideoName": "Melbourne City vs Tokyo Verdy Beleza",
-            "CategoryName": "AFC Women's Champions League 2025/26",
-            "StageName": "Semi Final 1",
-            "EventStartDate": "2026-05-20 11:00:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 20-May at 11:00 AM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779176838540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779176838540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 350,
-            "UrlSlug": "AFC Women's Champions League-Melbourne City-vs-Tokyo Verdy Beleza",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
         {
             "EntityId": 13329,
             "VideoName": "Naegohyang Women's FC vs Suwon FC Women",
