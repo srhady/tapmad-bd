@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 AM 22-05-2026",
+        "LastUpdate": "02:10 AM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 13741,
-            "VideoName": "RG26 Gael + Friends Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Match",
-            "EventStartDate": "2026-05-21 23:00:00",
-            "Description": "Watch French Open 2026 RG26 Gael + Friends live online on tapmad. The event is scheduled to take place on 21-May,  at 10:00 PM. featuring fan-favorite stars and special guests ahead of Roland-Garros 2026. Experience exciting rallies, fun moments, and behind-the-scenes interactions as the tournament atmosphere builds in Paris. Stream live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779348977540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779348977540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "rg26-gael-friends",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779394507~acl=/hls/*~hmac=d371155f86d4054a9d6153d139f6d98ff92ccb9a54201ecea7a50abc46266a67"
-        },
         {
             "EntityId": 13477,
             "VideoName": "Wolfsburg vs Paderborn",
@@ -39,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 182,
             "UrlSlug": "Wolfsburg vs Paderborn live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779394507~acl=/hls/*~hmac=d371155f86d4054a9d6153d139f6d98ff92ccb9a54201ecea7a50abc46266a67"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779395106~acl=/hls/*~hmac=0f9a71af613653cc3107c027995c3332f7f2fc2f2da69e5187fb9ef489e012f9"
         },
         {
             "EntityId": 13208,
