@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 21-05-2026",
+        "LastUpdate": "11:40 PM 21-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 449,
             "UrlSlug": "rg26-gael-friends",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779385506~acl=/hls/*~hmac=38d0f082889569a788275e131198a6e49e020a41828ff362faa07582dc7eb2b4"
-        },
-        {
-            "EntityId": 13477,
-            "VideoName": "Wolfsburg vs Paderborn",
-            "CategoryName": "Bundesliga 2025/26",
-            "StageName": "Relegation PlayOff Leg 1",
-            "EventStartDate": "2026-05-22 00:30:00",
-            "Description": "Watch Wolfsburg vs Paderborn live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Wolfsburg vs Paderborn will take place on 22-May, Friday, at 12:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779185116540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779185116540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 182,
-            "UrlSlug": "Wolfsburg vs Paderborn live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779386106~acl=/hls/*~hmac=8764d66f109b2d4d52b98a2fcdcddbb1a7542227956352212e8b9fa26418f4b9"
         },
         {
             "EntityId": 13208,
