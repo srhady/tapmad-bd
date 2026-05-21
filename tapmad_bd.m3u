@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 22-05-2026
+# Last Update: 01:00 AM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13741" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793489771020x576.jpg" group-title="Tennis", RG26 Gael + Friends Live | French Open 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779390306~acl=/hls/*~hmac=5b843b88d0b7eadd81b0deece470916e8aed9b060ef41b92f0af049d91e1f6b2
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779390907~acl=/hls/*~hmac=4c3551d12a475bf944615e22cbc44064aa3cb5c5443a2640f9d96c3d4d9dd905
 #EXTINF:-1 tvg-id="tapmad-13477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791851161020x576.jpg" group-title="Football", Wolfsburg vs Paderborn | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779390306~acl=/hls/*~hmac=5b843b88d0b7eadd81b0deece470916e8aed9b060ef41b92f0af049d91e1f6b2
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779390906~acl=/hls/*~hmac=03369abcc4af970964ee335829bab11879de093a4a4034667fa69f6ca03fa553
