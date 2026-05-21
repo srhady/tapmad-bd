@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 21-05-2026",
+        "LastUpdate": "06:40 PM 21-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 9
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 449,
             "UrlSlug": "rg26-live-draw",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779367506~acl=/hls/*~hmac=6468fcce87643243a0e08027c0ecd5c7146c99c142ce8a8c3298921fe1b9fd31"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779368106~acl=/hls/*~hmac=68c9c56a9ac8d363a294366d08417014920a446cc9fa3589d838eee7d658a733"
         },
         {
             "EntityId": 13741,
@@ -81,6 +81,20 @@
             "Status": "Upcoming",
             "CategoryId": 224,
             "UrlSlug": "fa cup final - season review live"
+        },
+        {
+            "EntityId": 13334,
+            "VideoName": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
+            "CategoryName": "AFC Women's Champions League 2025/26",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-23 11:00:00",
+            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 23-May at 11:00 AM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779366643540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779366643540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 350,
+            "UrlSlug": "AFC Women's Champions League-Tokyo Verdy Beleza-vs-Naegohyang Women's FC"
         },
         {
             "EntityId": 13406,
