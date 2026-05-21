@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 22-05-2026",
+        "LastUpdate": "02:00 AM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 449,
             "UrlSlug": "rg26-gael-friends",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779393906~acl=/hls/*~hmac=2c8d7bcbd4e4c165dea83c9977b7323ae5784d9f8bcd2c69d33e23f91ac39488"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779394507~acl=/hls/*~hmac=d371155f86d4054a9d6153d139f6d98ff92ccb9a54201ecea7a50abc46266a67"
         },
         {
             "EntityId": 13477,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 182,
             "UrlSlug": "Wolfsburg vs Paderborn live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779393906~acl=/hls/*~hmac=2c8d7bcbd4e4c165dea83c9977b7323ae5784d9f8bcd2c69d33e23f91ac39488"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779394507~acl=/hls/*~hmac=d371155f86d4054a9d6153d139f6d98ff92ccb9a54201ecea7a50abc46266a67"
         },
         {
             "EntityId": 13208,
