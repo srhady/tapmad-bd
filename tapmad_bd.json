@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 22-05-2026",
+        "LastUpdate": "12:00 AM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 291,
             "UrlSlug": "china-pr-vs-japan-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 13401,
-            "VideoName": "FA Cup Final - Season Review Live",
-            "CategoryName": "FA Cup 2025/26",
-            "StageName": "Season Review",
-            "EventStartDate": "2026-05-22 23:00:00",
-            "Description": "Watch FA Cup 2025/26 live online on tapmad. The Emirates FA Cup is the oldest football tournament in the world. The FA Cup Final - Season Review match will be played on 19-May, Tuesday, at 05:00 AM. Stream FA Cup 2025/26 in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779180395540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779180395540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 224,
-            "UrlSlug": "fa cup final - season review live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 13334,
