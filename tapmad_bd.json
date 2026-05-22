@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 PM 22-05-2026",
+        "LastUpdate": "09:10 PM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 439,
             "UrlSlug": "somerset-women-vs-hampshire-women-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779462906~acl=/hls/*~hmac=b0eec363fc1d360ad239c21ba715913ef388363d1b88967a21073c27b0c01e82"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779463506~acl=/hls/*~hmac=5e2d469f208b17ddaac4cf056512566178b5b7104b1bd9b66e90aeb1e6f1b5e9"
         },
         {
             "EntityId": 13208,
