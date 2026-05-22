@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:20 PM 22-05-2026",
+        "LastUpdate": "10:30 PM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -24,7 +24,22 @@
             "Status": "Live",
             "CategoryId": 439,
             "UrlSlug": "somerset-women-vs-hampshire-women-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779467723~acl=/hls/*~hmac=d9189a2c25efb901452f4c148e30179f15696f817ea6790ff373ffda1e3a6aa3"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779468307~acl=/hls/*~hmac=0cd055c739e20d61356789e0cdc1cb7b96624874ef7a3dd342259a859954f551"
+        },
+        {
+            "EntityId": 13208,
+            "VideoName": "China PR vs Japan Live",
+            "CategoryName": "AFC U17 Asian Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-22 23:00:00",
+            "Description": "Watch China PR vs Japan live online on tapmad. The AFC U17 Asian Cup Saudi Arabia 2026 China PR vs Japan match is scheduled to take place on 22-May,  at 11:00 PM. The joint draws will determine the group stage fixtures for both tournaments, featuring Asia’s top youth teams competing for continental glory. Fans can follow the match live in HD on tapmad via web, app, or smart TV and stay updated with all official match schedules.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779266117540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779266117540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 291,
+            "UrlSlug": "china-pr-vs-japan-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
             "EntityId": 13334,

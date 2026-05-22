@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:20 PM 22-05-2026
+# Last Update: 10:30 PM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13441" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794430971020x576.jpg" group-title="Cricket", Somerset Women vs Hampshire Women Live | Vitality Blast Women 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779467723~acl=/hls/*~hmac=d9189a2c25efb901452f4c148e30179f15696f817ea6790ff373ffda1e3a6aa3
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779468307~acl=/hls/*~hmac=0cd055c739e20d61356789e0cdc1cb7b96624874ef7a3dd342259a859954f551
+#EXTINF:-1 tvg-id="tapmad-13208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792661171020x576.jpg" group-title="Football", China PR vs Japan Live | AFC U17 Asian Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
