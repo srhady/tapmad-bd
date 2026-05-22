@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 22-05-2026",
+        "LastUpdate": "06:10 PM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 16
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -66,6 +66,34 @@
             "Status": "Upcoming",
             "CategoryId": 451,
             "UrlSlug": "tus-koblemnz-vs-sv-eintracht-trier-live"
+        },
+        {
+            "EntityId": 13777,
+            "VideoName": "FSV Zwickau vs FC Ergebirge Aue",
+            "CategoryName": "Amateur Cup Finals Day 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-23 07:30:00",
+            "Description": "Watch FSV Zwickau vs FC Ergebirge Aue live match streaming online on tapmad in an exciting football showdown as both teams battle for an important result. Expect competitive action, key moments, and high-energy football throughout the match. The FSV Zwickau vs FC Ergebirge Aue match will take place on 23-May, Saturday, at 07:30 PM. Stream the match live in HD and enjoy uninterrupted football action on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779451168540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779451168540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 451,
+            "UrlSlug": "fsv-zwickau-vs-fc-ergebirge-aue-live"
+        },
+        {
+            "EntityId": 13778,
+            "VideoName": "Wurzburger Kickers vs TSV 1860 Munchen",
+            "CategoryName": "Amateur Cup Finals Day 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-23 08:30:00",
+            "Description": "Watch Wurzburger Kickers vs TSV 1860 Munchen live match streaming online on tapmad in an exciting football showdown as both teams battle for an important result. Expect competitive action, key moments, and high-energy football throughout the match. The Wurzburger Kickers vs TSV 1860 Munchen match will take place on 23-May, Saturday, at 08:30 PM. Stream the match live in HD and enjoy uninterrupted football action on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779451358540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779451358540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 451,
+            "UrlSlug": "wurzburger-kickers-vs-tsv-1860-munchen-live"
         },
         {
             "EntityId": 13334,
@@ -220,20 +248,6 @@
             "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Paderborn vs Wolfsburg live"
-        },
-        {
-            "EntityId": 13342,
-            "VideoName": "PSG vs Arsenal",
-            "CategoryName": "UEFA Champions League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-30 22:00:00",
-            "Description": "Watch PSG vs Arsenal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The PSG vs Arsenal match will take place on 30-May, Saturday, at 10:00 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779081674540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779081674540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 183,
-            "UrlSlug": "psg-vs-arsenal-ucl-live-match"
         }
     ]
 }
