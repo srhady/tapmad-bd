@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:40 PM 22-05-2026",
+        "LastUpdate": "05:50 PM 22-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -52,6 +52,20 @@
             "Status": "Upcoming",
             "CategoryId": 224,
             "UrlSlug": "fa cup final - season review live"
+        },
+        {
+            "EntityId": 13776,
+            "VideoName": "TuS Koblemnz vs SV Eintracht Trier",
+            "CategoryName": "Amateur Cup Finals Day 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-23 05:30:00",
+            "Description": "Watch TuS Koblemnz vs SV Eintracht Trier live match streaming online on tapmad in an exciting football showdown as both teams battle for an important result. Expect competitive action, key moments, and high-energy football throughout the match. The TuS Koblemnz vs SV Eintracht Trier match will take place on 23-May, Saturday, at 05:30 PM. Stream the match live in HD and enjoy uninterrupted football action on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779450473540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779450473540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 451,
+            "UrlSlug": "tus-koblemnz-vs-sv-eintracht-trier-live"
         },
         {
             "EntityId": 13334,
