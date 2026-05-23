@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 23-05-2026",
+        "LastUpdate": "11:40 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
+        {
+            "EntityId": 13337,
+            "VideoName": "Bayern vs VfB Stuttgart Live",
+            "CategoryName": "DFB-Pokal 2025/26",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-24 00:00:00",
+            "Description": "Watch Bayern vs VfB Stuttgart online on tapmad. The DFB-Pokal, also known as the German Cup in English, is a German knockout football cup competition held annually by the German Football Association (DFB). Sixty-four teams participate in the competition, including all clubs from the Bundesliga and Liga. The Bayern vs VfB Stuttgart match will take place on 24-May, at 12:00 AM. Watch DFB Pokal 2025 live in HD and ad-free on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779180733540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779180733540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 175,
+            "UrlSlug": "dfb-pokal-football-bayern-vs-vfbstuttgart-Live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779558906~acl=/hls/*~hmac=825d5fbbb17df646a9acefdfa4d84f94a5ef8e1ea6fa684293455b46a2c93ddf"
+        },
         {
             "EntityId": 13406,
             "VideoName": "Habirora vs Henderson",

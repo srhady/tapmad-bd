@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 23-05-2026
+# Last Update: 11:40 PM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791807321020x576.jpg" group-title="Football", Bayern vs VfB Stuttgart Live | DFB-Pokal 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779558906~acl=/hls/*~hmac=825d5fbbb17df646a9acefdfa4d84f94a5ef8e1ea6fa684293455b46a2c93ddf
 #EXTINF:-1 tvg-id="tapmad-13406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792624521020x576.jpg" group-title="Mma", Habirora vs Henderson | PFL 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
