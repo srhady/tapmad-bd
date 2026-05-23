@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 AM 24-05-2026",
+        "LastUpdate": "01:50 AM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "glamorgan-vs-gloucestershire-3rd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779566107~acl=/hls/*~hmac=d03ec2fbba74e47cc75c69167983415712c3ad1bf863f905615e4aec1f49fd16"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779566706~acl=/hls/*~hmac=bb6e2daf5cabae4dcb7f98d17c6565ea78e00282c332a80f45f58e1222aed2a3"
         },
         {
             "EntityId": 13550,
