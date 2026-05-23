@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:50 PM 23-05-2026",
+        "LastUpdate": "05:00 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 451,
             "UrlSlug": "fc-energie-cottbus -vs-vfb-krieschow-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779534306~acl=/hls/*~hmac=7eb8ebc1157bdfd58132f592a07efe12a0abac47c239f6a90c2f53709476e325"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779534906~acl=/hls/*~hmac=5e0a42242a44ac771d6496c43a89d785d9e48d8b79d0236fdaf41addc0ef868d"
         },
         {
             "EntityId": 13777,
