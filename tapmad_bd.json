@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 PM 23-05-2026",
+        "LastUpdate": "10:20 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -24,7 +24,22 @@
             "Status": "Live",
             "CategoryId": 451,
             "UrlSlug": "finals-daylive",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779553506~acl=/hls/*~hmac=9130abb78d6365c901ec60aad137def448dadabe7f654fb362af8be8b369a953"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779554106~acl=/hls/*~hmac=ec46c1c344fe4a4a2b5ce8a0e1e52599732caab2f2420b2fedab31dbf36ae667"
+        },
+        {
+            "EntityId": 13406,
+            "VideoName": "Habirora vs Henderson",
+            "CategoryName": "PFL 2026",
+            "StageName": "Match",
+            "EventStartDate": "2026-05-23 22:30:00",
+            "Description": "Watch Habirora vs Henderson live online on tapmad. The PFL 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Habirora vs Henderson lightweight world title fight will take place on 23-May, at 10:30 PM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779262452540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779262452540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 275,
+            "UrlSlug": "pfl-2026-habirora-vs-henderson-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
             "EntityId": 13337,

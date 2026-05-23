@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 23-05-2026
+# Last Update: 10:20 PM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13784" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795344691020x576.jpg" group-title="Football", Finals Day Live | Amateur Cup Finals Day 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779553506~acl=/hls/*~hmac=9130abb78d6365c901ec60aad137def448dadabe7f654fb362af8be8b369a953
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779554106~acl=/hls/*~hmac=ec46c1c344fe4a4a2b5ce8a0e1e52599732caab2f2420b2fedab31dbf36ae667
+#EXTINF:-1 tvg-id="tapmad-13406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792624521020x576.jpg" group-title="Mma", Habirora vs Henderson | PFL 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
