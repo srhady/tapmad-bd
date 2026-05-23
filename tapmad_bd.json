@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:40 PM 23-05-2026",
+        "LastUpdate": "11:50 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 175,
             "UrlSlug": "dfb-pokal-football-bayern-vs-vfbstuttgart-Live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779558906~acl=/hls/*~hmac=825d5fbbb17df646a9acefdfa4d84f94a5ef8e1ea6fa684293455b46a2c93ddf"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779559506~acl=/hls/*~hmac=770ad2a31587e3d36ed833bfa91fff238cda417cbb7e51f96836d54444c97676"
         },
         {
             "EntityId": 13406,
