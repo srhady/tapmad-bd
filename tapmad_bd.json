@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 24-05-2026",
+        "LastUpdate": "12:20 AM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 175,
             "UrlSlug": "dfb-pokal-football-bayern-vs-vfbstuttgart-Live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779560706~acl=/hls/*~hmac=7970d02278c1df36dfb1313a65d6eef3a4c14035c93aad029c1aa23cfd242714"
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 13406,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "glamorgan-vs-gloucestershire-3rd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779560707~acl=/hls/*~hmac=9161bfc89218e201cec61b301325a99b1d77ac48da40edd9ddcbf420164f5041"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779561306~acl=/hls/*~hmac=12dc937f877ed1502e8f7d603904966110457510d7986493733197d3ae76463c"
         },
         {
             "EntityId": 13550,
