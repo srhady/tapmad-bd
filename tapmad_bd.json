@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:50 PM 23-05-2026",
+        "LastUpdate": "07:00 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 451,
             "UrlSlug": "finals-daylive",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779541514~acl=/hls/*~hmac=3def19a512bb46faf57ac32b9e8d1cab98cc83314cb67a49573c0cde85456a12"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779542106~acl=/hls/*~hmac=b55e917a8c5b38c6a6f862d345fbd713612c887ce214c613215e0413372198b6"
         },
         {
             "EntityId": 13406,
