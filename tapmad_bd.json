@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 23-05-2026",
+        "LastUpdate": "06:40 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 451,
             "UrlSlug": "finals-daylive",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779540306~acl=/hls/*~hmac=fd9a079228b5784b7c262783396571f29ac2cceca7e94c237f279dc365a1bdc0"
-        },
-        {
-            "EntityId": 13777,
-            "VideoName": "FSV Zwickau vs FC Ergebirge Aue",
-            "CategoryName": "Amateur Cup Finals Day 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-23 19:30:00",
-            "Description": "Watch FSV Zwickau vs FC Ergebirge Aue live match streaming online on tapmad in an exciting football showdown as both teams battle for an important result. Expect competitive action, key moments, and high-energy football throughout the match. The FSV Zwickau vs FC Ergebirge Aue match will take place on 23-May, Saturday, at 07:30 PM. Stream the match live in HD and enjoy uninterrupted football action on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779451168540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779451168540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 451,
-            "UrlSlug": "fsv-zwickau-vs-fc-ergebirge-aue-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779540906~acl=/hls/*~hmac=b5b24b24c8624b4f381d9d16ed3ff4219d03153db66610b74cc3b7af0c6cb38b"
         },
         {
             "EntityId": 13406,
@@ -263,6 +249,20 @@
             "Status": "Upcoming",
             "CategoryId": 177,
             "UrlSlug": "sunderland vs chelsea live-epl-2026"
+        },
+        {
+            "EntityId": 13051,
+            "VideoName": "Crystal Palace vs Arsenal",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 38",
+            "EventStartDate": "2026-05-24 21:00:00",
+            "Description": "Watch Crystal Palace vs Arsenal live match streaming online in Bangladesh only on tapmad. The Crystal Palace vs Arsenal match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499805540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499805540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 177,
+            "UrlSlug": "crystal palace vs arsenal live-epl-2026"
         }
     ]
 }
