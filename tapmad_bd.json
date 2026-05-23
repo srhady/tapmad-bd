@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 PM 23-05-2026",
+        "LastUpdate": "09:20 PM 23-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
+        {
+            "EntityId": 13784,
+            "VideoName": "Finals Day Live",
+            "CategoryName": "Amateur Cup Finals Day 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-23 17:30:00",
+            "Description": "Watch Finals Day live match streaming online on tapmad in an exciting football showdown as both teams battle for an important result. Expect competitive action, key moments, and high-energy football throughout the match. The Finals Day match will take place on 23-May, Saturday, at 05:30 PM. Stream the match live in HD and enjoy uninterrupted football action on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779534469540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779534469540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 451,
+            "UrlSlug": "finals-daylive",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779550506~acl=/hls/*~hmac=163fb2bb1b11dc4c40e049d4d594c7eb726db73027fa512bcf647a8117f374fd"
+        },
         {
             "EntityId": 13406,
             "VideoName": "Habirora vs Henderson",
