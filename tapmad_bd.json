@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:50 PM 24-05-2026",
+        "LastUpdate": "08:10 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 13
+        "UpcomingCount": 3
     },
     "Matches": [
         {
@@ -99,147 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "middlesex-vs-surrey-4th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779631506~acl=/hls/*~hmac=edc317a3fff0c90b59e0a1b7cc3a48fd56fa71a8ac924c96f8b69cb586eae64c"
-        },
-        {
-            "EntityId": 13042,
-            "VideoName": "Man City vs Aston Villa",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Man City vs Aston Villa live match streaming online in Bangladesh only on tapmad. The Man City vs Aston Villa match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779495949540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779495949540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "man city vs aston villa live-epl-2026"
-        },
-        {
-            "EntityId": 13043,
-            "VideoName": "Brighton vs Man United",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Brighton vs Man United live match streaming online in Bangladesh only on tapmad. The Brighton vs Man United match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779496048540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779496048540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "brighton vs man united live-epl-2026"
-        },
-        {
-            "EntityId": 13044,
-            "VideoName": "Fulham vs Newcastle",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Fulham vs Newcastle live match streaming online in Bangladesh only on tapmad. The Fulham vs Newcastle match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499139540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499139540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "fulham vs newcastle live-epl-2026"
-        },
-        {
-            "EntityId": 13045,
-            "VideoName": "Tottenham vs Everton",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Tottenham vs Everton live match streaming online in Bangladesh only on tapmad. The Tottenham vs Everton match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499242540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499242540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "tottenham vs everton live-epl-2026"
-        },
-        {
-            "EntityId": 13046,
-            "VideoName": "Liverpool vs Brentford",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Liverpool vs Brentford live match streaming online in Bangladesh only on tapmad. The Liverpool vs Brentford match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499342540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499342540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "liverpool vs brentford live-epl-2026"
-        },
-        {
-            "EntityId": 13047,
-            "VideoName": "Burnley vs Wolves",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Burnley vs Wolves live match streaming online in Bangladesh only on tapmad. The Burnley vs Wolves match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499433540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499433540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "burnley vs wolves live-epl-2026"
-        },
-        {
-            "EntityId": 13048,
-            "VideoName": "Nottm Forest vs Bournemouth",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Nottm Forest vs Bournemouth live match streaming online in Bangladesh only on tapmad. The Nottm Forest vs Bournemouth match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499529540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499529540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "nottm forest vs bournemouth live-epl-2026"
-        },
-        {
-            "EntityId": 13049,
-            "VideoName": "West Ham vs Leeds United",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch West Ham vs Leeds United live match streaming online in Bangladesh only on tapmad. The West Ham vs Leeds United match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499630540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499630540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "west ham vs leeds united live-epl-2026"
-        },
-        {
-            "EntityId": 13050,
-            "VideoName": "Sunderland vs Chelsea",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Sunderland vs Chelsea live match streaming online in Bangladesh only on tapmad. The Sunderland vs Chelsea match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499706540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "sunderland vs chelsea live-epl-2026"
-        },
-        {
-            "EntityId": 13051,
-            "VideoName": "Crystal Palace vs Arsenal",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Crystal Palace vs Arsenal live match streaming online in Bangladesh only on tapmad. The Crystal Palace vs Arsenal match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499805540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499805540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 177,
-            "UrlSlug": "crystal palace vs arsenal live-epl-2026"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779632762~acl=/hls/*~hmac=9fce5cf82b682276fe697171df18caa31c81b5eae72f9151d1ed6a4baf0d42e8"
         },
         {
             "EntityId": 13553,
