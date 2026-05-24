@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:40 PM 24-05-2026",
+        "LastUpdate": "08:50 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 9,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -85,6 +85,66 @@
             "CategoryId": 275,
             "UrlSlug": "pfl-2026-muhammad-yahya-vs-mehdi-saadi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
+        },
+        {
+            "EntityId": 13042,
+            "VideoName": "Man City vs Aston Villa",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 38",
+            "EventStartDate": "2026-05-24 21:00:00",
+            "Description": "Watch Man City vs Aston Villa live match streaming online in Bangladesh only on tapmad. The Man City vs Aston Villa match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779495949540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779495949540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "man city vs aston villa live-epl-2026",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779635107~acl=/hls/*~hmac=83e896fb4fa2c53467d81af5ba72fbd1f7c6ac815d86a688af70c9582228db8e"
+        },
+        {
+            "EntityId": 13048,
+            "VideoName": "Nottm Forest vs Bournemouth",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 38",
+            "EventStartDate": "2026-05-24 21:00:00",
+            "Description": "Watch Nottm Forest vs Bournemouth live match streaming online in Bangladesh only on tapmad. The Nottm Forest vs Bournemouth match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499529540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499529540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "nottm forest vs bournemouth live-epl-2026",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+        },
+        {
+            "EntityId": 13049,
+            "VideoName": "West Ham vs Leeds United",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 38",
+            "EventStartDate": "2026-05-24 21:00:00",
+            "Description": "Watch West Ham vs Leeds United live match streaming online in Bangladesh only on tapmad. The West Ham vs Leeds United match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499630540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499630540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "west ham vs leeds united live-epl-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779635133~acl=/hls/*~hmac=e51ea3d7de98523de4723813bcf3ee5be6b4adb20e3bcb10337b0b3282fd31d0"
+        },
+        {
+            "EntityId": 13050,
+            "VideoName": "Sunderland vs Chelsea",
+            "CategoryName": "EPL 2025/26",
+            "StageName": "MATCHDAY 38",
+            "EventStartDate": "2026-05-24 21:00:00",
+            "Description": "Watch Sunderland vs Chelsea live match streaming online in Bangladesh only on tapmad. The Sunderland vs Chelsea match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499706540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499706540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 177,
+            "UrlSlug": "sunderland vs chelsea live-epl-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779635154~acl=/hls/*~hmac=e4b9ad6837a39744d0d5402bf72a4048aa54e4041fda338152e3943e13994792"
         },
         {
             "EntityId": 13553,

@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:40 PM 24-05-2026
+# Last Update: 08:50 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -15,3 +15,11 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Mma", Muhammad Yahya vs Mehdi Saadi | PFL 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13042" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794959491020x576.jpg" group-title="Football", Man City vs Aston Villa | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779635107~acl=/hls/*~hmac=83e896fb4fa2c53467d81af5ba72fbd1f7c6ac815d86a688af70c9582228db8e
+#EXTINF:-1 tvg-id="tapmad-13048" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794995281020x576.jpg" group-title="Football", Nottm Forest vs Bournemouth | EPL 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13049" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794996301020x576.jpg" group-title="Football", West Ham vs Leeds United | EPL 2025/26
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779635133~acl=/hls/*~hmac=e51ea3d7de98523de4723813bcf3ee5be6b4adb20e3bcb10337b0b3282fd31d0
+#EXTINF:-1 tvg-id="tapmad-13050" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794997061020x576.jpg" group-title="Football", Sunderland vs Chelsea | EPL 2025/26
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779635154~acl=/hls/*~hmac=e4b9ad6837a39744d0d5402bf72a4048aa54e4041fda338152e3943e13994792
