@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:10 PM 24-05-2026",
+        "LastUpdate": "11:20 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
-        "UpcomingCount": 3
+        "LiveCount": 5,
+        "UpcomingCount": 2
     },
     "Matches": [
         {
@@ -72,36 +72,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
-            "EntityId": 13045,
-            "VideoName": "Tottenham vs Everton",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Tottenham vs Everton live match streaming online in Bangladesh only on tapmad. The Tottenham vs Everton match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499242540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499242540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "tottenham vs everton live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=218563fd6efd25d3ea544b4045af03b132f3f8360909e3dc53dcaf28fff8fab9"
-        },
-        {
-            "EntityId": 13050,
-            "VideoName": "Sunderland vs Chelsea",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Sunderland vs Chelsea live match streaming online in Bangladesh only on tapmad. The Sunderland vs Chelsea match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499706540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "sunderland vs chelsea live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=5d75fea59f90a2e20febae9ae264414c1708766ab38d64b8f406d0cb491ce0f6"
-        },
-        {
             "EntityId": 13051,
             "VideoName": "Crystal Palace vs Arsenal",
             "CategoryName": "EPL 2025/26",
@@ -114,21 +84,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "crystal palace vs arsenal live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=5d75fea59f90a2e20febae9ae264414c1708766ab38d64b8f406d0cb491ce0f6"
-        },
-        {
-            "EntityId": 13553,
-            "VideoName": "Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-05-25 00:15:00",
-            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 26-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779441719540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779441719540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-or-gentlemen's-singles-1-\"great\"-match---1st-round---philippe-chatrier-feed"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779644107~acl=/hls/*~hmac=1f70e40f0bee20ccbb55d701a353ea95d491b908d91906b8107b26ec0ebb716b"
         },
         {
             "EntityId": 13478,
