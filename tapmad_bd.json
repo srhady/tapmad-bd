@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 AM 25-05-2026",
+        "LastUpdate": "01:00 AM 25-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -55,21 +55,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---court-14",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
-        },
-        {
-            "EntityId": 13051,
-            "VideoName": "Crystal Palace vs Arsenal",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Crystal Palace vs Arsenal live match streaming online in Bangladesh only on tapmad. The Crystal Palace vs Arsenal match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499805540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499805540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "crystal palace vs arsenal live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779649517~acl=/hls/*~hmac=c6c79941ad575ae878de6c159f36dcf3726e753ceea972486a1dc81d03dfd325"
         },
         {
             "EntityId": 13553,
