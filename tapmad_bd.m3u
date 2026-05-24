@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 PM 24-05-2026
+# Last Update: 07:10 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,5 +13,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Mma", Muhammad Yahya vs Mehdi Saadi | PFL 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13444" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794469831020x576.jpg" group-title="Cricket", Middlesex vs Surrey Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779628507~acl=/hls/*~hmac=d78729c7cf71c7f020eda72b49000de74fa25ff619c0ce228ec640ec9a1ee811
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779629106~acl=/hls/*~hmac=3aac13838541c6f6921e7764cea0031de317bdff17ea6120b9d06e4ee1f2be6d
