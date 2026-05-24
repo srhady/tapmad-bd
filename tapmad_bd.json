@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:20 AM 24-05-2026",
+        "LastUpdate": "06:30 AM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -38,6 +38,34 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---world-feed"
+        },
+        {
+            "EntityId": 13609,
+            "VideoName": "Ladies' & Gentlemen's Singles - 1st Round Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-05-24 15:00:00",
+            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 1st Round - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 24-May,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779582096540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779582096540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---simonne-mathieu"
+        },
+        {
+            "EntityId": 13611,
+            "VideoName": "Ladies' & Gentlemen's Singles - 1st Round Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-05-24 15:00:00",
+            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 1st Round - Court 14 live online on tapmad. The event is scheduled to take place on 24-May,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779582283540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779582283540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---court-14"
         },
         {
             "EntityId": 13552,
@@ -220,34 +248,6 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles-1-\"great\"-match---1st-round---philippe-chatrier-feed"
-        },
-        {
-            "EntityId": 13478,
-            "VideoName": "Paderborn vs Wolfsburg",
-            "CategoryName": "Bundesliga 2025/26",
-            "StageName": "Relegation PlayOff Leg 2",
-            "EventStartDate": "2026-05-26 00:30:00",
-            "Description": "Watch Paderborn vs Wolfsburg live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Paderborn vs Wolfsburg will take place on 26-May, Tuesday, at 12:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779350512540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779350512540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 182,
-            "UrlSlug": "Paderborn vs Wolfsburg live"
-        },
-        {
-            "EntityId": 13342,
-            "VideoName": "PSG vs Arsenal",
-            "CategoryName": "UEFA Champions League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-30 22:00:00",
-            "Description": "Watch PSG vs Arsenal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The PSG vs Arsenal match will take place on 30-May, Saturday, at 10:00 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779081674540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779081674540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 183,
-            "UrlSlug": "psg-vs-arsenal-ucl-live-match"
         }
     ]
 }
