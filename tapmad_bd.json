@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 25-05-2026",
+        "LastUpdate": "12:10 AM 25-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -57,21 +57,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13483,
-            "VideoName": "Muhammad Yahya vs Mehdi Saadi",
-            "CategoryName": "PFL 2026",
-            "StageName": "Quarter Final 1",
-            "EventStartDate": "2026-05-24 19:00:00",
-            "Description": "Watch Muhammad Yahya vs Mehdi Saadi live online on tapmad. The PFL 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Muhammad Yahya vs Mehdi Saadi lightweight world title fight will take place on 24-May, at 07:00 PM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779263068540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779263068540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-2026-muhammad-yahya-vs-mehdi-saadi-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
             "EntityId": 13051,
             "VideoName": "Crystal Palace vs Arsenal",
             "CategoryName": "EPL 2025/26",
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "crystal palace vs arsenal live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779646506~acl=/hls/*~hmac=7d71d98e38c1cca89b3f213e861b96606985788271e4b1759c4af82810713871"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779647106~acl=/hls/*~hmac=a709ca3402a169442eae0b27cef5370f624005f697f97fc822be5df5bd15d3f5"
         },
         {
             "EntityId": 13478,
