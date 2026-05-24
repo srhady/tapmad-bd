@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:40 AM 25-05-2026",
+        "LastUpdate": "03:50 AM 25-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -40,21 +40,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---simonne-mathieu",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
-        },
-        {
-            "EntityId": 13553,
-            "VideoName": "Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-05-25 00:15:00",
-            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 26-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779441719540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779441719540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-or-gentlemen's-singles-1-\"great\"-match---1st-round---philippe-chatrier-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
         },
         {
             "EntityId": 13478,
