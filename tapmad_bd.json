@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:20 PM 24-05-2026",
+        "LastUpdate": "09:30 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 15,
+        "LiveCount": 14,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "man city vs aston villa live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779636906~acl=/hls/*~hmac=eb5ad0505b6c3b2efeb68c26ec9a8954dad93c0815ef9c5fae1728e7793c0d03"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=9b829a7343b14c702cafa9366f1131b6b8b4b12a52346001cbf58cc8c3270669"
         },
         {
             "EntityId": 13043,
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "brighton vs man united live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779636906~acl=/hls/*~hmac=eb5ad0505b6c3b2efeb68c26ec9a8954dad93c0815ef9c5fae1728e7793c0d03"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=9b829a7343b14c702cafa9366f1131b6b8b4b12a52346001cbf58cc8c3270669"
         },
         {
             "EntityId": 13044,
@@ -129,7 +129,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "fulham vs newcastle live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779636906~acl=/hls/*~hmac=eb5ad0505b6c3b2efeb68c26ec9a8954dad93c0815ef9c5fae1728e7793c0d03"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=9b829a7343b14c702cafa9366f1131b6b8b4b12a52346001cbf58cc8c3270669"
         },
         {
             "EntityId": 13045,
@@ -144,7 +144,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "tottenham vs everton live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=75d6c90ff59c879ec916ec064b14ef3982c9b928b54c81ce90abb39f5d26c966"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=9b829a7343b14c702cafa9366f1131b6b8b4b12a52346001cbf58cc8c3270669"
         },
         {
             "EntityId": 13046,
@@ -159,22 +159,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "liverpool vs brentford live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=75d6c90ff59c879ec916ec064b14ef3982c9b928b54c81ce90abb39f5d26c966"
-        },
-        {
-            "EntityId": 13047,
-            "VideoName": "Burnley vs Wolves",
-            "CategoryName": "EPL 2025/26",
-            "StageName": "MATCHDAY 38",
-            "EventStartDate": "2026-05-24 21:00:00",
-            "Description": "Watch Burnley vs Wolves live match streaming online in Bangladesh only on tapmad. The Burnley vs Wolves match will take place on 24-May, Sunday, at 09:00 PM. Download tapmad app to watch Premier League live matches online, without ads via app, web or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779499433540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779499433540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 177,
-            "UrlSlug": "burnley vs wolves live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/arsenal3254798543798/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=75d6c90ff59c879ec916ec064b14ef3982c9b928b54c81ce90abb39f5d26c966"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=9b829a7343b14c702cafa9366f1131b6b8b4b12a52346001cbf58cc8c3270669"
         },
         {
             "EntityId": 13048,
@@ -204,7 +189,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "west ham vs leeds united live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=2a935b7c1c39e42bc2195962de808a95d5939953c4f53bfd6f1df28a5922738e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=136fde8754b54f834af3c54caed8d8a0352be6a5e465368cc98a73fbbacb7634"
         },
         {
             "EntityId": 13050,
@@ -219,7 +204,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "sunderland vs chelsea live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=2a935b7c1c39e42bc2195962de808a95d5939953c4f53bfd6f1df28a5922738e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=136fde8754b54f834af3c54caed8d8a0352be6a5e465368cc98a73fbbacb7634"
         },
         {
             "EntityId": 13051,
@@ -234,7 +219,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "crystal palace vs arsenal live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779636907~acl=/hls/*~hmac=2a935b7c1c39e42bc2195962de808a95d5939953c4f53bfd6f1df28a5922738e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779637514~acl=/hls/*~hmac=136fde8754b54f834af3c54caed8d8a0352be6a5e465368cc98a73fbbacb7634"
         },
         {
             "EntityId": 13553,
