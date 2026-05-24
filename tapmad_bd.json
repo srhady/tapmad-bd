@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:40 PM 24-05-2026",
+        "LastUpdate": "05:50 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "middlesex-vs-surrey-4th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779623706~acl=/hls/*~hmac=d8e8d21e76224310e382d92e8d465b13c6263ca0a6de007e2afbb9dc040956c4"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779624306~acl=/hls/*~hmac=2b5ddd7157fe3291e7c636a02664b71c9022c9f0476fe7ffc61fc44e7f959bc3"
         },
         {
             "EntityId": 13483,
