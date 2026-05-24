@@ -1,10 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:50 PM 24-05-2026
+# Last Update: 04:00 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13551" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794406761020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13609" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795820961020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
