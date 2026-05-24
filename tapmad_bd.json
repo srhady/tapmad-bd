@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 PM 24-05-2026",
+        "LastUpdate": "10:20 PM 24-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 15,
+        "LiveCount": 14,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -57,21 +57,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13552,
-            "VideoName": "Ladies' & Gentlemen's Singles - 1st Round Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-05-24 16:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 1st Round - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 24-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779440912540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779440912540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---philippe-chatrier-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
             "EntityId": 13483,
             "VideoName": "Muhammad Yahya vs Mehdi Saadi",
             "CategoryName": "PFL 2026",
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "man city vs aston villa live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779640505~acl=/hls/*~hmac=82495a111c14bd044abfe85064e30d1057b21b7ab3d3e867342a0571196408eb"
         },
         {
             "EntityId": 13043,
@@ -114,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "brighton vs man united live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779640524~acl=/hls/*~hmac=f1d577e53f1035946962cfcba844baa1a3f36e8d43f883cd38f98318dd8512c4"
         },
         {
             "EntityId": 13044,
@@ -129,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "fulham vs newcastle live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779640524~acl=/hls/*~hmac=f1d577e53f1035946962cfcba844baa1a3f36e8d43f883cd38f98318dd8512c4"
         },
         {
             "EntityId": 13045,
@@ -144,7 +129,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "tottenham vs everton live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=018b5a8224f9fdf6cfa4c20a3d2cc462d1cb8d19aa2676b55bffc7046c5615d8"
         },
         {
             "EntityId": 13046,
@@ -159,7 +144,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "liverpool vs brentford live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=018b5a8224f9fdf6cfa4c20a3d2cc462d1cb8d19aa2676b55bffc7046c5615d8"
         },
         {
             "EntityId": 13047,
@@ -174,7 +159,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "burnley vs wolves live-epl-2026",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/arsenal3254798543798/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/arsenal3254798543798/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=018b5a8224f9fdf6cfa4c20a3d2cc462d1cb8d19aa2676b55bffc7046c5615d8"
         },
         {
             "EntityId": 13048,
@@ -204,7 +189,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "west ham vs leeds united live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=fb5691b26984fa49af7d70c864be365dc930273752078821fa29f401916420b0"
         },
         {
             "EntityId": 13050,
@@ -219,7 +204,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "sunderland vs chelsea live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=fb5691b26984fa49af7d70c864be365dc930273752078821fa29f401916420b0"
         },
         {
             "EntityId": 13051,
@@ -234,7 +219,7 @@
             "Status": "Live",
             "CategoryId": 177,
             "UrlSlug": "crystal palace vs arsenal live-epl-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779640525~acl=/hls/*~hmac=fb5691b26984fa49af7d70c864be365dc930273752078821fa29f401916420b0"
         },
         {
             "EntityId": 13553,
