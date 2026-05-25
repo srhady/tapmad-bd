@@ -1,12 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:20 AM 26-05-2026
+# Last Update: 12:40 AM 26-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13554" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796889371020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round - Suzanne Lenglen Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13555" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796890751020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13613" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796885971020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round - Simonne Mathieu Live | French Open 2026
@@ -15,3 +13,5 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13557" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796895831020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles 1 "Great" match - 1st Round - Philippe Chatrier Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793505121020x576.jpg" group-title="Football", Paderborn vs Wolfsburg | Bundesliga 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779735306~acl=/hls/*~hmac=7b0b93e430418103e292b9d84bc0c2557c7d8cfda133a3a49aecc4c5e4365a9c
