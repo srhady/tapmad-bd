@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 26-05-2026",
+        "LastUpdate": "12:50 AM 26-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 182,
             "UrlSlug": "Paderborn vs Wolfsburg live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779735306~acl=/hls/*~hmac=7b0b93e430418103e292b9d84bc0c2557c7d8cfda133a3a49aecc4c5e4365a9c"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779735906~acl=/hls/*~hmac=8c0bc3686aa71c12a5f3e6f0fd77a55e71cdd748d4e9d324ab56d8d0d30e853e"
         },
         {
             "EntityId": 13558,
