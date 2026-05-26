@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:20 PM 26-05-2026",
+        "LastUpdate": "08:30 PM 26-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 11
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 439,
             "UrlSlug": "hampshire-women-vs-essex-women-5th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779806118~acl=/hls/*~hmac=30a298dea4aee48f7254405c001e0de74b4eae26264859f671503d2476a1ec0c"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779806706~acl=/hls/*~hmac=c4a5ad9a619e8d0c99c0d4471e52f9df1115e33915d209a0c36c4a418333e584"
         },
         {
             "EntityId": 13446,
@@ -128,6 +128,34 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles-1-great-match---1st-round---philippe-chatrier-feed"
+        },
+        {
+            "EntityId": 13844,
+            "VideoName": "Bundesliga Special #21",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-05-27 02:00:00",
+            "Description": "Watch Bundesliga Special #21 vs  match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Special #21 vs  match will take place on 27-May, Wednesday, at 02:00 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779805215540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779805215540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Special #21 live"
+        },
+        {
+            "EntityId": 13845,
+            "VideoName": "Bundesliga Original Series",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-05-27 03:30:00",
+            "Description": "Watch Bundesliga Original Series vs  match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Original Series vs  match will take place on 27-May, Wednesday, at 03:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779805580540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779805580540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Original Series live"
         },
         {
             "EntityId": 13562,
