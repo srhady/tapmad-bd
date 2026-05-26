@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 26-05-2026",
+        "LastUpdate": "12:00 AM 27-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 11
     },
     "Matches": [
@@ -72,21 +72,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 13560,
-            "VideoName": "Ladies' & Gentlemen's Singles - 1st Round - Philippe Chatrier Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-05-26 16:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 1st Round - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 26-May,  at 04:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779701597540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779701597540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---1st-round---philippe-chatrier-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
             "EntityId": 13446,
             "VideoName": "Hampshire vs Essex Live",
             "CategoryName": "Vitality Blast Men 2026",
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "hampshire-vs-essex-6th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779818707~acl=/hls/*~hmac=6e0388596bcb8c24e3e7f96fc9ee6fedd7e3072de936b18597bbcb1e30cbe82f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779819307~acl=/hls/*~hmac=44f3457ab2484c4bb6e1ff80500856e5fd7d0f4f1489461b67d66942275d9123"
         },
         {
             "EntityId": 13844,
