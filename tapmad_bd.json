@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:40 PM 26-05-2026",
+        "LastUpdate": "11:50 PM 26-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "hampshire-vs-essex-6th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779818106~acl=/hls/*~hmac=d67d4cae6181e4dab03607cc84c2a75fab79003f7f1ae6ca26e39f969d8ede61"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779818707~acl=/hls/*~hmac=6e0388596bcb8c24e3e7f96fc9ee6fedd7e3072de936b18597bbcb1e30cbe82f"
         },
         {
             "EntityId": 13844,
