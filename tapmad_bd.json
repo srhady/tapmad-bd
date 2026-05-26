@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 27-05-2026",
+        "LastUpdate": "01:10 AM 27-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 11
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "hampshire-vs-essex-6th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779822907~acl=/hls/*~hmac=288ea15ef5e104b431841bed1f808bcd3b43a820bdb768e481009b2a800f4dd1"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779823506~acl=/hls/*~hmac=8bc284c4a5c5495bc9482b25a95e81a4685b384f563ee213b3db191d49fd0d12"
         },
         {
             "EntityId": 13561,
@@ -100,20 +100,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles-1-great-match---1st-round---philippe-chatrier-feed",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 13844,
-            "VideoName": "Bundesliga Special #21",
-            "CategoryName": "Bundesliga 2025/26",
-            "StageName": "Show",
-            "EventStartDate": "2026-05-27 02:00:00",
-            "Description": "Watch Bundesliga Special #21 vs  match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Special #21 vs  match will take place on 27-May, Wednesday, at 02:00 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779805215540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779805215540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 182,
-            "UrlSlug": "Bundesliga Special #21 live"
         },
         {
             "EntityId": 13845,
