@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:50 PM 26-05-2026",
+        "LastUpdate": "11:00 PM 26-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 439,
             "UrlSlug": "hampshire-women-vs-essex-women-5th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779815106~acl=/hls/*~hmac=b071fe213888c16b9465b05524b8f86d3f42309758c87a85e9d2d29a3e497364"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779815706~acl=/hls/*~hmac=41ca0cae991bfd118e8c2b5bdf6e8ad9b595357a52ade0a64534807bcffb66b4"
         },
         {
             "EntityId": 13446,
