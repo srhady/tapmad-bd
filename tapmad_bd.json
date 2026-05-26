@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 27-05-2026",
+        "LastUpdate": "12:30 AM 27-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 6,
         "UpcomingCount": 11
     },
     "Matches": [
@@ -84,7 +84,22 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "hampshire-vs-essex-6th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779820506~acl=/hls/*~hmac=5a776e4cf7786ac8ee26d1dc993c08c206189872e45e8a36e9e9bda385fe4eb5"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779821107~acl=/hls/*~hmac=80bfca9d74c866bae15aa706a6fe957f387d7c3c73ea071cc11534441294be4b"
+        },
+        {
+            "EntityId": 13561,
+            "VideoName": "Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round - Philippe Chatrier Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-05-27 00:15:00",
+            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles 1 \"Great\" match - 1st Round - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 26-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779702352540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779702352540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-or-gentlemen's-singles-1-great-match---1st-round---philippe-chatrier-feed",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 13844,
