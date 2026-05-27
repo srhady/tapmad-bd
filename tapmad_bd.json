@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 AM 28-05-2026",
+        "LastUpdate": "01:30 AM 28-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 12
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 456,
             "UrlSlug": "crystal palace-vs-rayo vallecano-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779910506~acl=/hls/*~hmac=0ca832d33d4f031f171b47c653ec7ceca4ace220093e7b98158382ee1ff28407"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779911107~acl=/hls/*~hmac=170cb9b138a242941c6499da6cdbd75fed27b5570b9d0e9f7873b240583f30d8"
         },
         {
             "EntityId": 13566,
@@ -243,6 +243,20 @@
             "UrlSlug": "worcestershire-vs-warwickshire-8th-t20-live"
         },
         {
+            "EntityId": 13852,
+            "VideoName": "Bosnia and Herzegovina vs North Macedonia",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-30 00:30:00",
+            "Description": "Watch Bosnia and Herzegovina vs North Macedonia live online on tapmad. The Bosnia and Herzegovina vs North Macedonia game will be played on 30-May, at 12:30 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779909726540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779909727540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Bosnia and Herzegovina vs North Macedonia live"
+        },
+        {
             "EntityId": 12996,
             "VideoName": "Song vs Figueiredo",
             "CategoryName": "UFC 2026",
@@ -269,6 +283,20 @@
             "Status": "Upcoming",
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-1st-odi-live"
+        },
+        {
+            "EntityId": 13853,
+            "VideoName": "Scotland vs Curaco",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-30 18:00:00",
+            "Description": "Watch Scotland vs Curaco live online on tapmad. The Scotland vs Curaco game will be played on 30-May, at 06:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779910116540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779910116540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Scotland vs Curaco live"
         },
         {
             "EntityId": 13342,
