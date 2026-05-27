@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 AM 28-05-2026",
+        "LastUpdate": "01:50 AM 28-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 456,
             "UrlSlug": "crystal palace-vs-rayo vallecano-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779911707~acl=/hls/*~hmac=e4fb15454be3c23d1ebad1efe490ced0c66edfaccb4fb89ab5b8e64206bc72eb"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779912335~acl=/hls/*~hmac=1ecff97f101a7c5047444f6307ce9cbd4750c0133305cce7921df3a2f5b8bf56"
         },
         {
             "EntityId": 13566,
