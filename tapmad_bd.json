@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 PM 27-05-2026",
+        "LastUpdate": "12:40 PM 27-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 15
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -194,6 +194,20 @@
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---2nd-round---philippe-chatrier-"
         },
         {
+            "EntityId": 13448,
+            "VideoName": "Worcestershire vs Warwickshire Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-05-29 22:30:00",
+            "Description": "Watch 8th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863319540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863319540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 440,
+            "UrlSlug": "worcestershire-vs-warwickshire-8th-t20-live"
+        },
+        {
             "EntityId": 12996,
             "VideoName": "Song vs Figueiredo",
             "CategoryName": "UFC 2026",
@@ -206,6 +220,20 @@
             "Status": "Upcoming",
             "CategoryId": 265,
             "UrlSlug": "ufc fight night-song vs figueiredo-live"
+        },
+        {
+            "EntityId": 13485,
+            "VideoName": "Pakistan vs Australia Live",
+            "CategoryName": "Australia Tour of Pakistan 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-05-30 17:30:00",
+            "Description": "The 1st ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863700540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863700540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 271,
+            "UrlSlug": "pakistan-vs-australia-1st-odi-live"
         },
         {
             "EntityId": 13342,
