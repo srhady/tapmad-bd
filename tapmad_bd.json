@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 28-05-2026",
+        "LastUpdate": "12:10 AM 28-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 11
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -100,20 +100,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---2nd-round---philippe-chatrier-",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 13841,
-            "VideoName": "Crystal Palace vs Rayo Vallecano",
-            "CategoryName": "UEFA Conference League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-28 01:00:00",
-            "Description": "Watch Crystal Palace vs Rayo Vallecano live match online on tapmad.. The Crystal Palace vs Rayo Vallecano match will take place on 27-May, Wednesday, at 1:00 AM. Stream all Confrence League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779902255540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779902256540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 456,
-            "UrlSlug": "crystal palace-vs-rayo vallecano-live-match"
         },
         {
             "EntityId": 13566,
