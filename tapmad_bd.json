@@ -1,61 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 AM 28-05-2026",
+        "LastUpdate": "03:10 AM 28-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 0,
         "UpcomingCount": 14
     },
     "Matches": [
-        {
-            "EntityId": 13562,
-            "VideoName": "Ladies' & Gentlemen's Singles - 2nd Round - Suzanne Lenglen Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-05-27 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 2nd Round - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 27-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779782723540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779782723540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---2nd-round---suzanne-lenglen",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
-            "EntityId": 13563,
-            "VideoName": "Ladies' & Gentlemen's Singles - 2nd Round - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-05-27 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 2nd Round - World Feed live online on tapmad. The event is scheduled to take place on 27-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779782902540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779782902540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---2nd-round---world-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
-        },
-        {
-            "EntityId": 13841,
-            "VideoName": "Crystal Palace vs Rayo Vallecano",
-            "CategoryName": "UEFA Conference League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-28 01:00:00",
-            "Description": "Watch Crystal Palace vs Rayo Vallecano live match online on tapmad.. The Crystal Palace vs Rayo Vallecano match will take place on 27-May, Wednesday, at 1:00 AM. Stream all Confrence League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779902255540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779902256540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 456,
-            "UrlSlug": "crystal palace-vs-rayo vallecano-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779916507~acl=/hls/*~hmac=5053eb26c13243026d8c5f66e38de5caa18ebd85505f89808d8902a62e2c150e"
-        },
         {
             "EntityId": 13566,
             "VideoName": "Ladies' & Gentlemen's Singles - 2nd Round - Suzanne Lenglen Live",
