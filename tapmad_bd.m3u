@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 27-05-2026
+# Last Update: 12:00 AM 28-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,7 +13,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13815" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797825491020x576.jpg" group-title="Tennis", Ladies', Gentlemen's & Mixed Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13564" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797834861020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 2nd Round - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796936761020x576.jpg" group-title="Cricket", Leicestershire vs Derbyshire Live | Vitality Blast Men 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13565" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797854461020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 2nd Round - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
