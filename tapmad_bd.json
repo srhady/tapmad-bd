@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 AM 29-05-2026",
+        "LastUpdate": "05:50 AM 29-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -236,18 +236,18 @@
             "UrlSlug": "ufc fight night-song vs figueiredo-live"
         },
         {
-            "EntityId": 13485,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-05-30 17:30:00",
-            "Description": "The 1st ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863700540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863700540x302.jpg",
+            "EntityId": 13895,
+            "VideoName": "GT2 European Series - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-05-30 17:25:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Series - Race 1 match is scheduled to take place on 30-May, at 05:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780011997540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780011997540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-1st-odi-live"
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series---race-1-live"
         }
     ]
 }
