@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 28-05-2026",
+        "LastUpdate": "12:00 AM 29-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -72,18 +72,18 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13568,
-            "VideoName": "Ladies' & Gentlemen's Singles - 2nd Round - Philippe Chatrier Live",
+            "EntityId": 13569,
+            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 2nd Round - Philippe Chatrier  Live",
             "CategoryName": "French Open 2026",
-            "StageName": "Match",
-            "EventStartDate": "2026-05-28 16:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 2nd Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 28-May,  at 04:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779861843540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779861843540x302.jpg",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-05-29 00:15:00",
+            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - 2nd Round - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 29-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779862951540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779862951540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---2nd-round---philippe-chatrier",
+            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---2nd-round---philippe-chatrier-",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
         },
         {
