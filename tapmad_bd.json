@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 30-05-2026",
+        "LastUpdate": "12:50 AM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "worcestershire-vs-warwickshire-8th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780080925~acl=/hls/*~hmac=dd7c723a1ab8dee48b99d0f2500fc699c8e3164d7d0fefb93544809d90db47ad"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780081506~acl=/hls/*~hmac=cad8510d435c7b27880fcad1f8ea0e2e06eadde279cf1d1f77128f2831b02791"
         },
         {
             "EntityId": 13573,
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Bosnia and Herzegovina vs North Macedonia live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780080925~acl=/hls/*~hmac=dd7c723a1ab8dee48b99d0f2500fc699c8e3164d7d0fefb93544809d90db47ad"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780081507~acl=/hls/*~hmac=77d7ec4a34e91c626d221df881651f4821f3e926ca8a8f1e6172d7e9155fbf71"
         },
         {
             "EntityId": 13894,
