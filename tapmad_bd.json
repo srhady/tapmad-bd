@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 29-05-2026",
+        "LastUpdate": "02:10 PM 29-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,62 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 13570,
-            "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-29 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 29-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779978239540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779978240540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---suzanne-lenglen"
-        },
-        {
-            "EntityId": 13571,
-            "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Finals",
-            "EventStartDate": "2026-05-29 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 3rd Round - World Feed live online on tapmad. The event is scheduled to take place on 29-May,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779978568540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779978568540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---world-feed"
-        },
-        {
-            "EntityId": 13818,
-            "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-05-29 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 29-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779977737540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779977737540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---simonne-mathieu"
-        },
-        {
-            "EntityId": 13819,
-            "VideoName": "Mixed Doubles - 1st Round - Court 14 Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-05-29 15:00:00",
-            "Description": "Watch French Open 2026 Mixed Doubles - 1st Round - Court 14 live online on tapmad. The event is scheduled to take place on 29-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779977997540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779977997540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "mixed-doubles---1st-round---court-14"
-        },
         {
             "EntityId": 13572,
             "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live",
@@ -248,6 +192,62 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series---race-1-live"
+        },
+        {
+            "EntityId": 13485,
+            "VideoName": "Pakistan vs Australia Live",
+            "CategoryName": "Australia Tour of Pakistan 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-05-30 17:30:00",
+            "Description": "The 1st ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863700540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863700540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 271,
+            "UrlSlug": "pakistan-vs-australia-1st-odi-live"
+        },
+        {
+            "EntityId": 13853,
+            "VideoName": "Scotland vs Curaco",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-30 18:00:00",
+            "Description": "Watch Scotland vs Curaco live online on tapmad. The Scotland vs Curaco game will be played on 30-May, at 06:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779910116540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779910116540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Scotland vs Curaco live"
+        },
+        {
+            "EntityId": 13896,
+            "VideoName": "McLaren Trophy Europe - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-05-30 20:25:00",
+            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 1 match is scheduled to take place on 30-May, at 08:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018136540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018136540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live"
+        },
+        {
+            "EntityId": 13897,
+            "VideoName": "GT4 European Series - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-05-30 21:40:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1 match is scheduled to take place on 30-May, at 09:40 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018682540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018682540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live"
         }
     ]
 }
