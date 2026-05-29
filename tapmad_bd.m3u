@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 30-05-2026
+# Last Update: 01:00 AM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,11 +11,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13818" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799777371020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13819" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799779971020x576.jpg" group-title="Tennis", Mixed Doubles - 1st Round - Court 14 Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13448" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798633191020x576.jpg" group-title="Cricket", Worcestershire vs Warwickshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780081506~acl=/hls/*~hmac=cad8510d435c7b27880fcad1f8ea0e2e06eadde279cf1d1f77128f2831b02791
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780082106~acl=/hls/*~hmac=a4863a170657d9d7c85faa8f6b91b9e5259cc54f7976ec7a6fd3d794debf3c2f
 #EXTINF:-1 tvg-id="tapmad-13573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799792781020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799097261020x576.jpg" group-title="Football", Bosnia and Herzegovina vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780081507~acl=/hls/*~hmac=77d7ec4a34e91c626d221df881651f4821f3e926ca8a8f1e6172d7e9155fbf71
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780082106~acl=/hls/*~hmac=a4863a170657d9d7c85faa8f6b91b9e5259cc54f7976ec7a6fd3d794debf3c2f
