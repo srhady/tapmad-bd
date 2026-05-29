@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:20 AM 30-05-2026",
+        "LastUpdate": "02:30 AM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -42,21 +42,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13818,
-            "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-05-29 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 29-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779977737540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779977737540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---simonne-mathieu",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
             "EntityId": 13573,
             "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 3rd Round - Philippe Chatrier Live",
             "CategoryName": "French Open 2026",
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Bosnia and Herzegovina vs North Macedonia live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780086908~acl=/hls/*~hmac=6bf88542c60830ae52ee2f7d7b61f8d10c25d05a56b4919c9d300a7e6044ea4d"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780087507~acl=/hls/*~hmac=a68e6e0916538466432c3b8b485e6a1db31ba3584f2e42f4a5d7a2be748feccd"
         },
         {
             "EntityId": 13894,

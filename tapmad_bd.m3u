@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:20 AM 30-05-2026
+# Last Update: 02:30 AM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,9 +9,7 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13571" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799785681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13818" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799777371020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799792781020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799097261020x576.jpg" group-title="Football", Bosnia and Herzegovina vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780086908~acl=/hls/*~hmac=6bf88542c60830ae52ee2f7d7b61f8d10c25d05a56b4919c9d300a7e6044ea4d
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780087507~acl=/hls/*~hmac=a68e6e0916538466432c3b8b485e6a1db31ba3584f2e42f4a5d7a2be748feccd
