@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:40 PM 29-05-2026",
+        "LastUpdate": "10:50 PM 29-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "worcestershire-vs-warwickshire-8th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780073706~acl=/hls/*~hmac=d98ea4662407aa0da6430f9d892583df1b3741b2d3b405318fcbba4a7d6a4abe"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780074317~acl=/hls/*~hmac=1e4b44a6423b7483ab5da8708710e68b96404a1c736893ed2df3c81dfe91b217"
         },
         {
             "EntityId": 13573,
