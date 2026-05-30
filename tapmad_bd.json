@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:40 PM 30-05-2026",
+        "LastUpdate": "04:50 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 265,
             "UrlSlug": "ufc fight night-song vs figueiredo-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780138506~acl=/hls/*~hmac=6650601ca9f3b5c9734ecdb067f9227a56d0c00dbe058cf3034188d2d7e9ff37"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780139106~acl=/hls/*~hmac=6c6961c04ba150f507f1ca666e3255af780fe25a4b2edafcbf96d7ac2b66ddcb"
         },
         {
             "EntityId": 13853,
