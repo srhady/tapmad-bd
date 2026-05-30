@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:20 PM 30-05-2026",
+        "LastUpdate": "07:40 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 10,
-        "UpcomingCount": 5
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -160,20 +160,6 @@
             "CategoryId": 438,
             "UrlSlug": "sprint-race-1---italy-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8"
-        },
-        {
-            "EntityId": 13896,
-            "VideoName": "McLaren Trophy Europe - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-05-30 20:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 1 match is scheduled to take place on 30-May, at 08:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018136540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018136540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live"
         },
         {
             "EntityId": 13897,
