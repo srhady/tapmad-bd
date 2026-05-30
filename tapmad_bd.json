@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 31-05-2026",
+        "LastUpdate": "01:10 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780168522~acl=/hls/*~hmac=c888c6ad9225f5da4b65f545ab76af6f8d65b8dac74f7e99e3b52441a04c24cc"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780169107~acl=/hls/*~hmac=c17458c43cf42c8495fac193cb7c6924dd93ae37290dd290e7de53c75aba56fc"
         },
         {
             "EntityId": 13577,
