@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:20 PM 30-05-2026",
+        "LastUpdate": "04:30 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 10
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -114,21 +114,7 @@
             "Status": "Live",
             "CategoryId": 265,
             "UrlSlug": "ufc fight night-song vs figueiredo-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780137306~acl=/hls/*~hmac=abd1919ca978afa303301a48312bdc4d5494a2f6df25fdbc8412b6ffabfe6b7a"
-        },
-        {
-            "EntityId": 13895,
-            "VideoName": "GT2 European Series - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-05-30 17:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Series - Race 1 match is scheduled to take place on 30-May, at 05:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780011997540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780011997540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series---race-1-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780137906~acl=/hls/*~hmac=82ceb0a03ca315f3a4bec4f4e852fd156fe980076a3e8472c4c3060559d38205"
         },
         {
             "EntityId": 13485,
