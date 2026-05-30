@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:20 PM 30-05-2026",
+        "LastUpdate": "10:40 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 8,
-        "UpcomingCount": 8
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -130,6 +130,20 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
+        },
+        {
+            "EntityId": 13769,
+            "VideoName": "Regione Sardegna Grand Prix of Italy Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-05-30 19:05:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780159021540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780159021540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 438,
+            "UrlSlug": "regione-sardegna-grand-prix-of-italy-live"
         },
         {
             "EntityId": 13449,
