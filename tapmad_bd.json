@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 30-05-2026",
+        "LastUpdate": "09:40 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 9,
-        "UpcomingCount": 5
+        "LiveCount": 7,
+        "UpcomingCount": 7
     },
     "Matches": [
-        {
-            "EntityId": 13342,
-            "VideoName": "PSG vs Arsenal",
-            "CategoryName": "UEFA Champions League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-30 22:00:00",
-            "Description": "Watch Paris Saint-Germain vs Arsenal FC live on tapmad in the final of the UEFA Champions League. After an incredible European campaign, both clubs now stand one match away from lifting the most prestigious trophy in club football. PSG aim to finally secure European glory, while Arsenal look to complete a historic run with a championship-winning performance. Expect intense action, elite talent, and unforgettable moments as two football giants clash on the biggest stage. Stream the UCL Final live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779081674540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779081674540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 183,
-            "UrlSlug": "psg-vs-arsenal-ucl-live-match",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780155915~acl=/hls/*~hmac=9fbde9f3ab97974078df2753c0e88a5a2f759ada65ce1b1c4fb3aa7a1221d474"
-        },
         {
             "EntityId": 13574,
             "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live",
@@ -117,21 +102,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
-            "EntityId": 13896,
-            "VideoName": "McLaren Trophy Europe - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-05-30 20:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 1 match is scheduled to take place on 30-May, at 08:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018136540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018136540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
             "EntityId": 13897,
             "VideoName": "GT4 European Series - Race 1 Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -189,6 +159,20 @@
             "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---suzanne-lenglen"
         },
         {
+            "EntityId": 13579,
+            "VideoName": "Mix Doubles & Ladies' & Gentlemen's Singles - 4th Round - World Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-05-31 15:00:00",
+            "Description": "Watch French Open 2026 Mix Doubles & Ladies' & Gentlemen's Singles - 4th Round - World Feed live online on tapmad. The event is scheduled to take place on 31-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780155143540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780155143540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "mix-doubles-&-ladies'-&-gentlemen's-singles---4th-round---world-feed"
+        },
+        {
             "EntityId": 13822,
             "VideoName": "Mixed Doubles - 2nd Round - Simonne Mathieu Live",
             "CategoryName": "French Open 2026",
@@ -215,6 +199,20 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "juniors'-singles---1st-round---court-14"
+        },
+        {
+            "EntityId": 13580,
+            "VideoName": "Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-05-31 16:00:00",
+            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 31-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780155443540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780155443540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---philippe-chatrier"
         }
     ]
 }
