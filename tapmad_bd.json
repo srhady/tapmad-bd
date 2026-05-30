@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 PM 30-05-2026",
+        "LastUpdate": "04:40 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -114,21 +114,7 @@
             "Status": "Live",
             "CategoryId": 265,
             "UrlSlug": "ufc fight night-song vs figueiredo-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780137906~acl=/hls/*~hmac=82ceb0a03ca315f3a4bec4f4e852fd156fe980076a3e8472c4c3060559d38205"
-        },
-        {
-            "EntityId": 13485,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-05-30 17:30:00",
-            "Description": "The 1st ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863700540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863700540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-1st-odi-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780138506~acl=/hls/*~hmac=6650601ca9f3b5c9734ecdb067f9227a56d0c00dbe058cf3034188d2d7e9ff37"
         },
         {
             "EntityId": 13853,
