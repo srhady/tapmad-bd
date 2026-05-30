@@ -1,16 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:50 AM 30-05-2026",
+        "LastUpdate": "07:00 AM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
+        {
+            "EntityId": 13751,
+            "VideoName": "Qualifications - Italy Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-05-30 14:00:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780102137540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780102137540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 438,
+            "UrlSlug": "qualifications---italy-live"
+        },
         {
             "EntityId": 13894,
             "VideoName": "GT4 European Series - Qualifying Round Live",
