@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:20 AM 31-05-2026",
+        "LastUpdate": "02:30 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 14
     },
     "Matches": [
-        {
-            "EntityId": 13342,
-            "VideoName": "PSG vs Arsenal",
-            "CategoryName": "UEFA Champions League 2025/26",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-30 22:00:00",
-            "Description": "Watch Paris Saint-Germain vs Arsenal FC live on tapmad in the final of the UEFA Champions League. After an incredible European campaign, both clubs now stand one match away from lifting the most prestigious trophy in club football. PSG aim to finally secure European glory, while Arsenal look to complete a historic run with a championship-winning performance. Expect intense action, elite talent, and unforgettable moments as two football giants clash on the biggest stage. Stream the UCL Final live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779081674540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779081674540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 183,
-            "UrlSlug": "psg-vs-arsenal-ucl-live-match",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8"
-        },
         {
             "EntityId": 13574,
             "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live",
@@ -69,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780173313~acl=/hls/*~hmac=9afe8a7582aa85a404368c2883f4d7f5129906dea3fe1b03f1ada318ff10df24"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780173906~acl=/hls/*~hmac=536374a5daa73538aea560d04d5ff10dd8c4fc4105308d26b9821db21d84277f"
         },
         {
             "EntityId": 13577,
