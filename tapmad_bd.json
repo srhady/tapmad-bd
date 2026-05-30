@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 AM 31-05-2026",
+        "LastUpdate": "01:50 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 13
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780170907~acl=/hls/*~hmac=3d35ade2b65aa28a1368ed12830a1d1389e7bd702a3f510b162c89e03bd47369"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780171507~acl=/hls/*~hmac=c451127c9751a8354cf04d601295a8654922a4928d601289ae9e9aeef27365d9"
         },
         {
             "EntityId": 13577,
@@ -185,6 +185,20 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "juniors'-singles---1st-round---court-14"
+        },
+        {
+            "EntityId": 13899,
+            "VideoName": "GT2 European Series - Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-05-31 15:15:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Series - Race 2 match is scheduled to take place on 31-May, at 03:15 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780170164540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780170164540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series---race-2-live"
         },
         {
             "EntityId": 13580,
