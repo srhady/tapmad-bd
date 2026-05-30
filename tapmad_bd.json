@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 31-05-2026",
+        "LastUpdate": "12:20 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
-        "UpcomingCount": 8
+        "LiveCount": 7,
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -87,21 +87,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
         },
         {
-            "EntityId": 13576,
-            "VideoName": "Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-05-30 16:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 30-May,  at 04:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780008968540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780008968540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
             "EntityId": 13485,
             "VideoName": "Pakistan vs Australia Live",
             "CategoryName": "Australia Tour of Pakistan 2026",
@@ -129,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780165520~acl=/hls/*~hmac=6e781fc532efd339ef44bd0bb12d8f85bf06747eaaa04365545b999f5d3c5e4e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780166107~acl=/hls/*~hmac=8b175bc6fd58ef5b832e5109596358904a668199957359f715ebfb86ec3e40c6"
         },
         {
             "EntityId": 13578,
@@ -202,6 +187,20 @@
             "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---philippe-chatrier"
         },
         {
+            "EntityId": 13854,
+            "VideoName": "Switzerland vs Jordan",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-31 19:00:00",
+            "Description": "Watch Switzerland vs Jordan live online on tapmad. The Switzerland vs Jordan game will be played on 31-May, at 07:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780164575540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780164575540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Switzerland vs Jordan live"
+        },
+        {
             "EntityId": 13769,
             "VideoName": "Regione Sardegna Grand Prix of Italy Live",
             "CategoryName": "UIM F1H2O World Championship 2026",
@@ -228,6 +227,34 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "warwickshire-vs-northampton-10th-t20-live"
+        },
+        {
+            "EntityId": 13855,
+            "VideoName": "Czechia vs Koso",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-31 20:00:00",
+            "Description": "Watch Czechia vs Koso live online on tapmad. The Czechia vs Koso game will be played on 31-May, at 08:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780164902540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780164902540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Czechia vs Koso live"
+        },
+        {
+            "EntityId": 13856,
+            "VideoName": "Poland vs Ukraine",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-31 21:30:00",
+            "Description": "Watch Poland vs Ukraine live online on tapmad. The Poland vs Ukraine game will be played on 31-May, at 09:30 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780165104540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780165104540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Poland vs Ukraine live"
         },
         {
             "EntityId": 13581,
