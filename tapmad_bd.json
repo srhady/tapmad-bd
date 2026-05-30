@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:20 PM 30-05-2026",
+        "LastUpdate": "09:30 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 183,
             "UrlSlug": "psg-vs-arsenal-ucl-live-match",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780155320~acl=/hls/*~hmac=036b2eb5ec1bda402293bb083195256c9fa41f978d37d8b4c0aa46caa1ac41e4"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780155915~acl=/hls/*~hmac=9fbde9f3ab97974078df2753c0e88a5a2f759ada65ce1b1c4fb3aa7a1221d474"
         },
         {
             "EntityId": 13574,
@@ -117,21 +117,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
-            "EntityId": 13763,
-            "VideoName": "Sprint Race 2 - Italy Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Match 2",
-            "EventStartDate": "2026-05-30 19:50:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780103200540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780103200540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 438,
-            "UrlSlug": "sprint-race-2---italy-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8"
-        },
-        {
             "EntityId": 13896,
             "VideoName": "McLaren Trophy Europe - Race 1 Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -144,6 +129,21 @@
             "Status": "Live",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
+        },
+        {
+            "EntityId": 13897,
+            "VideoName": "GT4 European Series - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-05-30 21:40:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1 match is scheduled to take place on 30-May, at 09:40 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018682540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018682540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
