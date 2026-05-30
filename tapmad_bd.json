@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 30-05-2026",
+        "LastUpdate": "04:10 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
-        "UpcomingCount": 11
+        "LiveCount": 7,
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -111,9 +111,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779694316540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779694316540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 265,
-            "UrlSlug": "ufc fight night-song vs figueiredo-live"
+            "UrlSlug": "ufc fight night-song vs figueiredo-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780136706~acl=/hls/*~hmac=a7e77a59247b903dc01b95feb2c506b9d4b1f2bbddfad096d842e663cfb93205"
         },
         {
             "EntityId": 13895,
