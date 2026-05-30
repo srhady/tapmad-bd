@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 30-05-2026",
+        "LastUpdate": "01:10 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 13751,
-            "VideoName": "Qualifications - Italy Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-05-30 14:00:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780102137540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780102137540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 438,
-            "UrlSlug": "qualifications---italy-live"
-        },
         {
             "EntityId": 13894,
             "VideoName": "GT4 European Series - Qualifying Round Live",
@@ -248,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live"
+        },
+        {
+            "EntityId": 13577,
+            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 3rd Round - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-05-31 00:15:00",
+            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - 3rd Round - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 31-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780009161540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780009161540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---3rd-round---philippe-chatrier-"
         }
     ]
 }
