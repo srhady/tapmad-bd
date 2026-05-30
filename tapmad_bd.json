@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:10 PM 30-05-2026",
+        "LastUpdate": "08:20 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 10,
+        "LiveCount": 8,
         "UpcomingCount": 4
     },
     "Matches": [
@@ -87,36 +87,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 12996,
-            "VideoName": "Song vs Figueiredo",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-05-30 17:00:00",
-            "Description": "UFC Fight Night Live: Watch Song vs Figueiredo live online on tapmad. Enjoy watching Song vs Figueiredo live streaming online in Pakistan with full match highlights. The fight will start at 05:00 PM on 30-May. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779694316540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779694316540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-song vs figueiredo-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8"
-        },
-        {
-            "EntityId": 13895,
-            "VideoName": "GT2 European Series - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-05-30 17:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Series - Race 1 match is scheduled to take place on 30-May, at 05:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780011997540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780011997540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series---race-1-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
             "EntityId": 13485,
             "VideoName": "Pakistan vs Australia Live",
             "CategoryName": "Australia Tour of Pakistan 2026",
@@ -132,34 +102,34 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
-            "EntityId": 13853,
-            "VideoName": "Scotland vs Curaco",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-05-30 18:00:00",
-            "Description": "Watch Scotland vs Curaco live online on tapmad. The Scotland vs Curaco game will be played on 30-May, at 06:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779910116540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779910116540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Scotland vs Curaco live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8"
-        },
-        {
-            "EntityId": 13757,
-            "VideoName": "Sprint Race 1 - Italy Live",
+            "EntityId": 13763,
+            "VideoName": "Sprint Race 2 - Italy Live",
             "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Match 1",
-            "EventStartDate": "2026-05-30 19:05:00",
+            "StageName": "Match 2",
+            "EventStartDate": "2026-05-30 19:50:00",
             "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780102722540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780102722540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780103200540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780103200540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 438,
-            "UrlSlug": "sprint-race-1---italy-live",
+            "UrlSlug": "sprint-race-2---italy-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8"
+        },
+        {
+            "EntityId": 13896,
+            "VideoName": "McLaren Trophy Europe - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-05-30 20:25:00",
+            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 1 match is scheduled to take place on 30-May, at 08:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018136540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018136540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
             "EntityId": 13897,

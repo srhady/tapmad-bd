@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:10 PM 30-05-2026
+# Last Update: 08:20 PM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -15,13 +15,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13576" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg" group-title="Mma", Song vs Figueiredo | UFC 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800119971020x576.jpg" group-title="Racing", GT2 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13853" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg" group-title="Football", Scotland vs Curaco | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg" group-title="Racing", Sprint Race 1 - Italy Live | UIM F1H2O World Championship 2026
+#EXTINF:-1 tvg-id="tapmad-13763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801031991020x576.jpg" group-title="Racing", Sprint Race 2 - Italy Live | UIM F1H2O World Championship 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800181361020x576.jpg" group-title="Racing", McLaren Trophy Europe - Race 1 Live | GT World Challenge EU & Asia 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
