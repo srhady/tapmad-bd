@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:10 AM 31-05-2026",
+        "LastUpdate": "03:20 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -40,21 +40,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-&-gentlemen's-singles---3rd-round---world-feed",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
-            "EntityId": 13449,
-            "VideoName": "Sussex vs Middlesex Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-05-31 00:00:00",
-            "Description": "Watch 9th T20 of the Vitality Blast 2027 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780009706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780009706540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 440,
-            "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780176306~acl=/hls/*~hmac=7ea046fc7cdaf02381b0a8dbb3f59368adfb6febb9ca3298db162bb03998fda2"
         },
         {
             "EntityId": 13577,
