@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 31-05-2026",
+        "LastUpdate": "12:50 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
+        "LiveCount": 7,
         "UpcomingCount": 12
     },
     "Matches": [
@@ -87,21 +87,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
         },
         {
-            "EntityId": 13485,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-05-30 17:30:00",
-            "Description": "The 1st ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1779863700540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1779863700540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-1st-odi-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
             "EntityId": 13449,
             "VideoName": "Sussex vs Middlesex Live",
             "CategoryName": "Vitality Blast Men 2026",
@@ -114,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780167311~acl=/hls/*~hmac=efd8514f87e3215f87dd033fcfce0c8e8a84efb292a6c5dafbb6ff17b376120e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780167906~acl=/hls/*~hmac=d8a740707972e220aecc152c96b0b8c2a5896bf14f5c2e780bc49c35a4362ef4"
         },
         {
             "EntityId": 13577,
