@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 AM 31-05-2026",
+        "LastUpdate": "01:00 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 12
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780167906~acl=/hls/*~hmac=d8a740707972e220aecc152c96b0b8c2a5896bf14f5c2e780bc49c35a4362ef4"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780168522~acl=/hls/*~hmac=c888c6ad9225f5da4b65f545ab76af6f8d65b8dac74f7e99e3b52441a04c24cc"
         },
         {
             "EntityId": 13577,
@@ -115,6 +115,20 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---3rd-round---philippe-chatrier-",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
+        {
+            "EntityId": 13898,
+            "VideoName": "GT World Challenge powered by AWS - Qualifiying Round Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-05-31 13:50:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifiying Round match is scheduled to take place on 31-May, at 01:50 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780167251540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780167251540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---qualifiying-round-live"
         },
         {
             "EntityId": 13578,
