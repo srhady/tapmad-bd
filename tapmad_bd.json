@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 AM 31-05-2026",
+        "LastUpdate": "02:50 AM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 14
+        "UpcomingCount": 15
     },
     "Matches": [
         {
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "sussex-vs-middlesex-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780174507~acl=/hls/*~hmac=bf45f881c090fdb185b9deb3c0c8682aa75c9103067c68424c55a4c56579132a"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780175111~acl=/hls/*~hmac=b82ca37e1aef75289c859dac53c4b4879620f671a6e9ee718f8d9acde21a8e58"
         },
         {
             "EntityId": 13577,
@@ -168,6 +168,20 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---philippe-chatrier"
+        },
+        {
+            "EntityId": 13900,
+            "VideoName": "McLaren Trophy Europe - Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-05-31 16:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 2 match is scheduled to take place on 31-May, at 04:35 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780173709540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780173709540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-2-live"
         },
         {
             "EntityId": 13854,
