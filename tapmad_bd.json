@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:10 PM 30-05-2026",
+        "LastUpdate": "11:20 PM 30-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
-        "UpcomingCount": 8
+        "LiveCount": 7,
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -115,35 +115,6 @@
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-1st-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 13897,
-            "VideoName": "GT4 European Series - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-05-30 21:40:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1 match is scheduled to take place on 30-May, at 09:40 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780018682540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780018682540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
-            "EntityId": 13577,
-            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 3rd Round - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-05-31 00:15:00",
-            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - 3rd Round - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 31-May,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780009161540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780009161540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---3rd-round---philippe-chatrier-"
         },
         {
             "EntityId": 13578,
