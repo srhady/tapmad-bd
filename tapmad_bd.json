@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:40 PM 31-05-2026",
+        "LastUpdate": "11:50 PM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 1
+        "UpcomingCount": 0
     },
     "Matches": [
         {
@@ -42,33 +42,19 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
         },
         {
-            "EntityId": 13580,
-            "VideoName": "Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live",
+            "EntityId": 13581,
+            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 4th Round - Philippe Chatrier Live",
             "CategoryName": "French Open 2026",
             "StageName": "1st Round",
-            "EventStartDate": "2026-05-31 16:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 31-May,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780155443540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780155443540x302.jpg",
+            "EventStartDate": "2026-06-01 00:15:00",
+            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - 4th Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 1-June,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780157379540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780157379540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---philippe-chatrier",
+            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---4th-round---philippe-chatrier",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
-            "EntityId": 13857,
-            "VideoName": "Germany vs Finland",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-01 00:45:00",
-            "Description": "Watch Germany vs Finland live online on tapmad. The Germany vs Finland game will be played on 1-June, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780217533540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780217533540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Germany vs Finland live"
         }
     ]
 }
