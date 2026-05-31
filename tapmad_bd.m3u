@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 31-05-2026
+# Last Update: 09:10 PM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -20,4 +20,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802170431020x576.jpg" group-title="Racing", GT World Challenge powered by AWS - Main Race Live | GT World Challenge EU & Asia 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802173611020x576.jpg" group-title="Football", Czechia vs Koso | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780240507~acl=/hls/*~hmac=2534b6060506a97b37ab3afdc7d78c323679f9a6f5e688a2c2b3c87a78054607
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780241106~acl=/hls/*~hmac=3b06de143460a97baed6699041a6416a1bd60d5ef277a1086b437f1cdaaba77f
+#EXTINF:-1 tvg-id="tapmad-13856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802174481020x576.jpg" group-title="Football", Poland vs Ukraine | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
