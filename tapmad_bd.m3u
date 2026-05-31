@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:50 PM 31-05-2026
+# Last Update: 09:00 PM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -15,9 +15,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13580" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801554431020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802172821020x576.jpg" group-title="Football", Switzerland vs Jordan | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13450" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801616721020x576.jpg" group-title="Cricket", Warwickshire vs Northampton Live | Vitality Blast Men 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802170431020x576.jpg" group-title="Racing", GT World Challenge powered by AWS - Main Race Live | GT World Challenge EU & Asia 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802173611020x576.jpg" group-title="Football", Czechia vs Koso | European Qualifiers FIFA World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780240507~acl=/hls/*~hmac=2534b6060506a97b37ab3afdc7d78c323679f9a6f5e688a2c2b3c87a78054607
