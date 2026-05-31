@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 PM 31-05-2026
+# Last Update: 07:50 PM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -23,5 +23,3 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master
 https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802170431020x576.jpg" group-title="Racing", GT World Challenge powered by AWS - Main Race Live | GT World Challenge EU & Asia 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802173611020x576.jpg" group-title="Football", Czechia vs Koso | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780235715~acl=/hls/*~hmac=94a534607319c87315d7bb6d67475f38eafc72dadc1c6f225745d930f5b0efc4
