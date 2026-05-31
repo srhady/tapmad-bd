@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 31-05-2026",
+        "LastUpdate": "07:40 PM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
+        "LiveCount": 10,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -130,6 +130,36 @@
             "CategoryId": 440,
             "UrlSlug": "warwickshire-vs-northampton-10th-t20-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8"
+        },
+        {
+            "EntityId": 13902,
+            "VideoName": "GT World Challenge powered by AWS - Main Race Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Main Race",
+            "EventStartDate": "2026-05-31 19:30:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Main Race match is scheduled to take place on 31-May, at 07:30 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780217043540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780217043540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---main-race-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
+        {
+            "EntityId": 13855,
+            "VideoName": "Czechia vs Koso",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-05-31 20:00:00",
+            "Description": "Watch Czechia vs Koso live online on tapmad. The Czechia vs Koso game will be played on 31-May, at 08:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780217362540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780217362540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Czechia vs Koso live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780235715~acl=/hls/*~hmac=94a534607319c87315d7bb6d67475f38eafc72dadc1c6f225745d930f5b0efc4"
         },
         {
             "EntityId": 13856,
