@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 PM 31-05-2026",
+        "LastUpdate": "02:00 PM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 14
     },
     "Matches": [
+        {
+            "EntityId": 13898,
+            "VideoName": "GT World Challenge powered by AWS - Qualifiying Round Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-05-31 13:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifiying Round match is scheduled to take place on 31-May, at 01:35 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780167251540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780167251540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---qualifiying-round-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
         {
             "EntityId": 13578,
             "VideoName": "Ladies' & Gentlemen's Singles - 4th Round - Suzanne Lenglen Live",
