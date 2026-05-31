@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:20 PM 31-05-2026",
+        "LastUpdate": "08:30 PM 31-05-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 10,
+        "LiveCount": 9,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -102,21 +102,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
-            "EntityId": 13769,
-            "VideoName": "Regione Sardegna Grand Prix of Italy Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-05-31 19:05:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780159021540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780159021540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 438,
-            "UrlSlug": "regione-sardegna-grand-prix-of-italy-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8"
-        },
-        {
             "EntityId": 13450,
             "VideoName": "Warwickshire vs Northampton Live",
             "CategoryName": "Vitality Blast Men 2026",
@@ -159,7 +144,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Czechia vs Koso live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780238107~acl=/hls/*~hmac=bb33b49f7746941e9f8baf89649548e1b235a0e7a03c821b4e3580f4a733bbbc"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780238706~acl=/hls/*~hmac=65f156b185857bf6947a5444f7c63cf1419b97f38875b8545e84557379997796"
         },
         {
             "EntityId": 13856,
