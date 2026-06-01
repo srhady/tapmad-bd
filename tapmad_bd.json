@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 AM 02-06-2026",
+        "LastUpdate": "01:30 AM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -55,21 +55,6 @@
             "CategoryId": 449,
             "UrlSlug": "juniors-doubles---1st-round---court-14",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 13929,
-            "VideoName": "Turkiye vs North Macedonia",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-01 23:30:00",
-            "Description": "Watch Turkiye vs North Macedonia live online on tapmad. The Turkiye vs North Macedonia game will be played on 01-Jun, at 11:30 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780311057540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780311057540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Turkiye vs North Macedonia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780342507~acl=/hls/*~hmac=54b0e11a183b68d8c0e4da86a880b0aceaa1290a4544caabb36e8091b7388ea3"
         },
         {
             "EntityId": 13585,

@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:20 AM 02-06-2026
+# Last Update: 01:30 AM 02-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,8 +11,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Tennis", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13929" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803110571020x576.jpg" group-title="Football", Turkiye vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780342507~acl=/hls/*~hmac=54b0e11a183b68d8c0e4da86a880b0aceaa1290a4544caabb36e8091b7388ea3
 #EXTINF:-1 tvg-id="tapmad-13585" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803050291020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 4th Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13930" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803100361020x576.jpg" group-title="Football", Austria vs Tunisia | European Qualifiers FIFA World Cup 2026
