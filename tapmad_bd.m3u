@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:20 PM 01-06-2026
+# Last Update: 11:30 PM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,10 +14,10 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u
 #EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Tennis", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803092121020x576.jpg" group-title="Football", Bulgaria vs Montenegro | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780335307~acl=/hls/*~hmac=0a28136a2071fad875dc0535c1e3458d62bf47c1adc0d6f87b2d13ab87faff6e
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=ffadd377305cda91b7ed3aa88d6e0a567c354b5dfcaa78b7a40db82bb696cf53
 #EXTINF:-1 tvg-id="tapmad-13927" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803094781020x576.jpg" group-title="Football", Slovakia vs Malta | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780335307~acl=/hls/*~hmac=0a28136a2071fad875dc0535c1e3458d62bf47c1adc0d6f87b2d13ab87faff6e
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=ffadd377305cda91b7ed3aa88d6e0a567c354b5dfcaa78b7a40db82bb696cf53
 #EXTINF:-1 tvg-id="tapmad-13928" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803096301020x576.jpg" group-title="Football", Norway vs Sweden | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780335307~acl=/hls/*~hmac=6e432905ce66bfbf11f1e17347b03cd7b36962366647d4f22a538e531cb45ff3
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=c04a119233a291e323e9d090fa64d4e03c1a9d58a0cb4d0c6602fe2981c5644d
 #EXTINF:-1 tvg-id="tapmad-13929" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803110571020x576.jpg" group-title="Football", Turkiye vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780335307~acl=/hls/*~hmac=6e432905ce66bfbf11f1e17347b03cd7b36962366647d4f22a538e531cb45ff3
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=c04a119233a291e323e9d090fa64d4e03c1a9d58a0cb4d0c6602fe2981c5644d
