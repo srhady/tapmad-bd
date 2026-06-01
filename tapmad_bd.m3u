@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:50 PM 01-06-2026
+# Last Update: 10:00 PM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,11 +11,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13584" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802991151020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13824" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802981511020x576.jpg" group-title="Tennis", Ladies', Gentlemen's & Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Tennis", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803092121020x576.jpg" group-title="Football", Bulgaria vs Montenegro | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780329907~acl=/hls/*~hmac=cb36c724e039465d3f0832de34ed57299d3098b9c00334c1eddef24cbcc8f6bd
 #EXTINF:-1 tvg-id="tapmad-13927" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803094781020x576.jpg" group-title="Football", Slovakia vs Malta | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780329907~acl=/hls/*~hmac=cb36c724e039465d3f0832de34ed57299d3098b9c00334c1eddef24cbcc8f6bd
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780330507~acl=/hls/*~hmac=0683655023855b84e41ee85cd875bced759c33cd04800df5e79035146026578b
