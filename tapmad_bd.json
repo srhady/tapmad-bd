@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 02-06-2026",
+        "LastUpdate": "12:20 AM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 7,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Norway vs Sweden live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780338307~acl=/hls/*~hmac=2278609ad6e427802373dca713f93cb2a7fbb6ac94a73defd43300dc52ea878a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780338907~acl=/hls/*~hmac=187e5e5c552619f23f527cf95add5e36ba9f60ecae5d0d96c1460ecd0a90bfa1"
         },
         {
             "EntityId": 13929,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs North Macedonia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780338307~acl=/hls/*~hmac=2278609ad6e427802373dca713f93cb2a7fbb6ac94a73defd43300dc52ea878a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780338907~acl=/hls/*~hmac=187e5e5c552619f23f527cf95add5e36ba9f60ecae5d0d96c1460ecd0a90bfa1"
         },
         {
             "EntityId": 13585,
@@ -100,6 +100,21 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---4th-round---philippe-chatrier",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+        },
+        {
+            "EntityId": 13930,
+            "VideoName": "Austria vs Tunisia",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-02 00:45:00",
+            "Description": "Watch Austria vs Tunisia live online on tapmad. The Austria vs Tunisia game will be played on 02-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780310036540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780310036540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Austria vs Tunisia live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
         },
         {
             "EntityId": 13586,
