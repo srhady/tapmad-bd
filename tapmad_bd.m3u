@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 01-06-2026
+# Last Update: 12:00 AM 02-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,13 +11,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Tennis", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803092121020x576.jpg" group-title="Football", Bulgaria vs Montenegro | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=cde48f0aef362c7735468c9fd45f764fbe913985a20360c0e5b611a38d5362ae
-#EXTINF:-1 tvg-id="tapmad-13927" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803094781020x576.jpg" group-title="Football", Slovakia vs Malta | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=cde48f0aef362c7735468c9fd45f764fbe913985a20360c0e5b611a38d5362ae
 #EXTINF:-1 tvg-id="tapmad-13928" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803096301020x576.jpg" group-title="Football", Norway vs Sweden | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=de82205316ac186c19e9ccc2b7102536fd8f322170d9548099ce17c724cfe73a
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780337707~acl=/hls/*~hmac=341d3fdb6366b9168c72f8959015aed050cabaceba5ab2852825ee83ad028eaf
 #EXTINF:-1 tvg-id="tapmad-13929" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803110571020x576.jpg" group-title="Football", Turkiye vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=de82205316ac186c19e9ccc2b7102536fd8f322170d9548099ce17c724cfe73a
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780337708~acl=/hls/*~hmac=b7242422654b0bb67a029b763f20d94058369d3586bd0e1c994adf21c222fd85
 #EXTINF:-1 tvg-id="tapmad-13585" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803050291020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 4th Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8

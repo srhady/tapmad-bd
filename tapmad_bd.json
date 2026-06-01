@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 01-06-2026",
+        "LastUpdate": "12:00 AM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
+        "LiveCount": 6,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -57,36 +57,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 13926,
-            "VideoName": "Bulgaria vs Montenegro",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-01 22:00:00",
-            "Description": "Watch Bulgaria vs Montenegro live online on tapmad. The Bulgaria vs Montenegro game will be played on 01-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780309213540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780309213540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Bulgaria vs Montenegro live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=cde48f0aef362c7735468c9fd45f764fbe913985a20360c0e5b611a38d5362ae"
-        },
-        {
-            "EntityId": 13927,
-            "VideoName": "Slovakia vs Malta",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-01 22:00:00",
-            "Description": "Watch Slovakia vs Malta live online on tapmad. The Slovakia vs Malta game will be played on 01-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780309478540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780309478540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Slovakia vs Malta live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=cde48f0aef362c7735468c9fd45f764fbe913985a20360c0e5b611a38d5362ae"
-        },
-        {
             "EntityId": 13928,
             "VideoName": "Norway vs Sweden",
             "CategoryName": "European Qualifiers FIFA World Cup 2026",
@@ -99,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Norway vs Sweden live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=de82205316ac186c19e9ccc2b7102536fd8f322170d9548099ce17c724cfe73a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780337707~acl=/hls/*~hmac=341d3fdb6366b9168c72f8959015aed050cabaceba5ab2852825ee83ad028eaf"
         },
         {
             "EntityId": 13929,
@@ -114,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs North Macedonia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780337107~acl=/hls/*~hmac=de82205316ac186c19e9ccc2b7102536fd8f322170d9548099ce17c724cfe73a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780337708~acl=/hls/*~hmac=b7242422654b0bb67a029b763f20d94058369d3586bd0e1c994adf21c222fd85"
         },
         {
             "EntityId": 13585,
