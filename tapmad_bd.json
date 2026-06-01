@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 01-06-2026",
+        "LastUpdate": "06:10 PM 01-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 8
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -169,6 +169,20 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Austria vs Tunisia live"
+        },
+        {
+            "EntityId": 13826,
+            "VideoName": "Mixed Doubles - 3rd Round - Simonne Mathieu Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "3rd Round",
+            "EventStartDate": "2026-06-02 15:00:00",
+            "Description": "Watch French Open 2026 Mixed Doubles - 3rd Round - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 02-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780315727540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780315727540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "mixed-doubles---3rd-round---simonne-mathieu"
         },
         {
             "EntityId": 13486,
