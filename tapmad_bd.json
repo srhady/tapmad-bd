@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 02-06-2026",
+        "LastUpdate": "12:30 AM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 6,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -69,22 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Norway vs Sweden live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780338907~acl=/hls/*~hmac=187e5e5c552619f23f527cf95add5e36ba9f60ecae5d0d96c1460ecd0a90bfa1"
-        },
-        {
-            "EntityId": 13929,
-            "VideoName": "Turkiye vs North Macedonia",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-01 23:30:00",
-            "Description": "Watch Turkiye vs North Macedonia live online on tapmad. The Turkiye vs North Macedonia game will be played on 01-Jun, at 11:30 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780311057540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780311057540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Turkiye vs North Macedonia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780338907~acl=/hls/*~hmac=187e5e5c552619f23f527cf95add5e36ba9f60ecae5d0d96c1460ecd0a90bfa1"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780339507~acl=/hls/*~hmac=b933cefc584bea55df728358f7c7a7bfc51de4041284aa9976adc4bc797db489"
         },
         {
             "EntityId": 13585,
