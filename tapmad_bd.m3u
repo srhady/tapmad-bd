@@ -1,7 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 PM 01-06-2026
+# Last Update: 03:23 PM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13582" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802987591020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 4th Round - Suzanne Lenglen Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13583" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802989821020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - 3rd Round - World Feed Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13584" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802991151020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13824" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802981511020x576.jpg" group-title="Tennis", Ladies', Gentlemen's & Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Tennis", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
