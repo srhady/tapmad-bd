@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 01-06-2026",
+        "LastUpdate": "11:40 PM 01-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -42,21 +42,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13584,
-            "VideoName": "Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "2nd Round",
-            "EventStartDate": "2026-06-01 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 01-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780299115540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780299115540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-&-gentlemen's-singles---4th-round---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
             "EntityId": 13825,
             "VideoName": "Juniors Doubles - 1st Round - Court 14 Live",
             "CategoryName": "French Open 2026",
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Bulgaria vs Montenegro live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=ffadd377305cda91b7ed3aa88d6e0a567c354b5dfcaa78b7a40db82bb696cf53"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780336507~acl=/hls/*~hmac=4d60acf3d614f02c880e40d809bfc6f2e4cc9cff060ec8e0145fdf8ae56c0530"
         },
         {
             "EntityId": 13927,
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Slovakia vs Malta live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=ffadd377305cda91b7ed3aa88d6e0a567c354b5dfcaa78b7a40db82bb696cf53"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780336532~acl=/hls/*~hmac=8c7897ed96df72375e4eeef78d24b225b49cc5e3178038ab5c9599bdaa561855"
         },
         {
             "EntityId": 13928,
@@ -114,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Norway vs Sweden live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=c04a119233a291e323e9d090fa64d4e03c1a9d58a0cb4d0c6602fe2981c5644d"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780336532~acl=/hls/*~hmac=145f904232f35affd1768953473d03030d37c5b684183b560ad86aae851adb4c"
         },
         {
             "EntityId": 13929,
@@ -129,7 +114,22 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs North Macedonia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780335907~acl=/hls/*~hmac=c04a119233a291e323e9d090fa64d4e03c1a9d58a0cb4d0c6602fe2981c5644d"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780336532~acl=/hls/*~hmac=145f904232f35affd1768953473d03030d37c5b684183b560ad86aae851adb4c"
+        },
+        {
+            "EntityId": 13585,
+            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - 4th Round - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "2nd Round",
+            "EventStartDate": "2026-06-02 00:15:00",
+            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - 4th Round - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 02-Jun,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780305029540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780305029540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---4th-round---philippe-chatrier",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 13930,
