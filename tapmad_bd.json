@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 PM 02-06-2026",
+        "LastUpdate": "04:40 PM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 15
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -85,20 +85,6 @@
             "CategoryId": 449,
             "UrlSlug": "wheelchair---1st-round---court-14",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 13486,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-06-02 17:30:00",
-            "Description": "The 2nd ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780307845540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780307845540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-2nd-odi-live"
         },
         {
             "EntityId": 13931,
