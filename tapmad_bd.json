@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:20 AM 03-06-2026",
+        "LastUpdate": "03:30 AM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 13589,
-            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - Quarter Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-06-03 00:15:00",
-            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - Quarter Finals - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 03-Jun,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780321059540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780321059540x302.jpg",
+            "EntityId": 14085,
+            "VideoName": "Bundesliga Original Series",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-06-03 03:30:00",
+            "Description": "Watch Bundesliga Original Series vs  match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Original Series vs  match will take place on 03-Jun, Wednesday, at 03:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780385234540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780385234540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---quarter-finals---philippe-chatrier-",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Original Series live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780436712~acl=/hls/*~hmac=f4bd0135dd7cfb39faec20118026e69fa1e49b0764227ccda0f27d9313d0536a"
         },
         {
             "EntityId": 13590,
