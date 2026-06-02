@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 AM 03-06-2026",
+        "LastUpdate": "01:00 AM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -57,21 +57,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 13932,
-            "VideoName": "Georgia vs Romania",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-02 23:00:00",
-            "Description": "Watch Georgia vs Romania live online on tapmad. The Georgia vs Romania game will be played on 02-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780386235540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780386235540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Georgia vs Romania live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780427107~acl=/hls/*~hmac=515d0361de05266c7f0344cefa05c68dd07f6e98d3825985b0e33b33938b6543"
-        },
-        {
             "EntityId": 13589,
             "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - Quarter Finals - Philippe Chatrier Live",
             "CategoryName": "French Open 2026",
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Wales vs Ghana live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780427107~acl=/hls/*~hmac=515d0361de05266c7f0344cefa05c68dd07f6e98d3825985b0e33b33938b6543"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780427707~acl=/hls/*~hmac=d445c1b5fda1b268e481b2e4365292553881cb00e96510969a220c20f70b5b4c"
         },
         {
             "EntityId": 14084,
