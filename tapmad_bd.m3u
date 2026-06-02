@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 02-06-2026
+# Last Update: 12:00 AM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,13 +9,13 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13586" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803203731020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - Quarter Finals - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803208791020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - Quarter Finals - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13826" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803157271020x576.jpg" group-title="Tennis", Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803158781020x576.jpg" group-title="Tennis", Wheelchair - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13931" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803859681020x576.jpg" group-title="Football", Croatia vs Belgium | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780423506~acl=/hls/*~hmac=8885796f53b61746c8af7a9c14b9686e0016971343de8e6944ac045ef2939182
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780424107~acl=/hls/*~hmac=7d1f98764a566f4691d1988784e7c7f40525d384406fc7e642251091b049337c
 #EXTINF:-1 tvg-id="tapmad-13932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803862351020x576.jpg" group-title="Football", Georgia vs Romania | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780423506~acl=/hls/*~hmac=8885796f53b61746c8af7a9c14b9686e0016971343de8e6944ac045ef2939182
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780424107~acl=/hls/*~hmac=7d1f98764a566f4691d1988784e7c7f40525d384406fc7e642251091b049337c
+#EXTINF:-1 tvg-id="tapmad-13589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803210591020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
