@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 03-06-2026",
+        "LastUpdate": "02:00 AM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Wales vs Ghana live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780430707~acl=/hls/*~hmac=2c7e0b8c069d33be44b38ce8f98db92662e654a7aaa467274944ea6a4a26c0d5"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780431307~acl=/hls/*~hmac=27c47e77444392e61f9853738e04c878ee95436eba8db9539f942e26534659ba"
         },
         {
             "EntityId": 14085,
