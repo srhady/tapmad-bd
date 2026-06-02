@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:20 AM 03-06-2026",
+        "LastUpdate": "02:30 AM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 16
     },
     "Matches": [
@@ -39,22 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Wales vs Ghana live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780432506~acl=/hls/*~hmac=c48af9855ea4a79920a3e26096455d91e1999c3d441c19fa427d76aa53f13bb6"
-        },
-        {
-            "EntityId": 14084,
-            "VideoName": "Bundesliga Periodical Monthly Special",
-            "CategoryName": "Bundesliga 2025/26",
-            "StageName": "Show",
-            "EventStartDate": "2026-06-03 02:00:00",
-            "Description": "Watch Bundesliga Periodical Monthly Special vs  match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Periodical Monthly Special vs  match will take place on 03-Jun, Wednesday, at 02:00 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780384543540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780384543540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 182,
-            "UrlSlug": "Bundesliga Periodical Monthly Special live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780432506~acl=/hls/*~hmac=c48af9855ea4a79920a3e26096455d91e1999c3d441c19fa427d76aa53f13bb6"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780433107~acl=/hls/*~hmac=56d160670cdd952c67f2a3c39b37f17f6d2669cfcd445632fd7bbea54a33f98f"
         },
         {
             "EntityId": 14085,
