@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:50 PM 02-06-2026",
+        "LastUpdate": "10:00 PM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Croatia vs Belgium live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780416307~acl=/hls/*~hmac=8ccf2cf2afa107d98d45f7d8a44d8e511974f9743886be0e8636297bc92803ba"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780416907~acl=/hls/*~hmac=047db74710ab800f231c57303494814c7cc225748ebc0d7fbe0daf03e5e3520c"
         },
         {
             "EntityId": 13932,
