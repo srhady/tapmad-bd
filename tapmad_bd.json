@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 02-06-2026",
+        "LastUpdate": "06:10 PM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780402506~acl=/hls/*~hmac=439b15e35c3eee5a20cd4152fc4af4acc11159e2e06ea52db3acd805fb616bf6"
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
         },
         {
             "EntityId": 13586,
@@ -326,18 +326,18 @@
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---quarter-finals---philippe-chatrier-"
         },
         {
-            "EntityId": 13487,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-06-04 17:30:00",
-            "Description": "The 3rd ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780307924540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780307924540x302.jpg",
+            "EntityId": 13937,
+            "VideoName": "Netherlands vs Algeria",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:45:00",
+            "Description": "Watch Netherlands vs Algeria live online on tapmad. The Netherlands vs Algeria game will be played on 04-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402020540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-3rd-odi-live"
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Netherlands vs Algeria live"
         }
     ]
 }
