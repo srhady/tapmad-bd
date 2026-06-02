@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 03-06-2026
+# Last Update: 01:50 AM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="tapmad-13589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803210591020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803864511020x576.jpg" group-title="Football", Wales vs Ghana | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780430107~acl=/hls/*~hmac=640cf43eb6ccf0daeb5f13343b5cb224fcc88dec982c3f8c21c6f7929a176327
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780430707~acl=/hls/*~hmac=2c7e0b8c069d33be44b38ce8f98db92662e654a7aaa467274944ea6a4a26c0d5
