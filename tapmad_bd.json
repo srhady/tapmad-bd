@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 AM 03-06-2026",
+        "LastUpdate": "12:40 AM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Romania live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780425908~acl=/hls/*~hmac=2bcb481e2b71e8a102aa84b0c5cc1ffb20c9bd3d2bd119b2a3055603daa6886a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780426507~acl=/hls/*~hmac=7da515077b2ffc7fd09eeec9dc5db80d92c7c1be45a1fe28359e6caa3a161f06"
         },
         {
             "EntityId": 13589,
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Wales vs Ghana live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780425908~acl=/hls/*~hmac=2bcb481e2b71e8a102aa84b0c5cc1ffb20c9bd3d2bd119b2a3055603daa6886a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780426507~acl=/hls/*~hmac=7da515077b2ffc7fd09eeec9dc5db80d92c7c1be45a1fe28359e6caa3a161f06"
         },
         {
             "EntityId": 14084,
