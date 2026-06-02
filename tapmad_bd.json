@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 02-06-2026",
+        "LastUpdate": "05:10 PM 02-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780398907~acl=/hls/*~hmac=aaf1af2196b32d38b64c9f037a81824bc7ffe978a100c1f234252d0048d2da0e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780399507~acl=/hls/*~hmac=84293549b1c0e2ab6ff0905976045d3a6b79a5208aa58ca908526b479ba26c52"
         },
         {
             "EntityId": 13586,
