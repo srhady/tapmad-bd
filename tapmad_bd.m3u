@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 02-06-2026
+# Last Update: 09:40 PM 02-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,8 +9,6 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13586" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803203731020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - Quarter Finals - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13587" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803207201020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - Quarter Finals - World Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803208791020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - Quarter Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13826" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803157271020x576.jpg" group-title="Tennis", Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
@@ -18,4 +16,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 #EXTINF:-1 tvg-id="tapmad-13827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803158781020x576.jpg" group-title="Tennis", Wheelchair - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13931" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803859681020x576.jpg" group-title="Football", Croatia vs Belgium | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780415106~acl=/hls/*~hmac=13402835e870b8a345a057f6a8e5afc78aec4a8c2f68b5353702804957b91dcc
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780415707~acl=/hls/*~hmac=422c328f6ba66d231a167fe3213c6296bdf45d5e3d6104d7ec4b9f8d20dc4337
