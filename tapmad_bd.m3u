@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 03-06-2026
+# Last Update: 11:40 PM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,12 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u
 #EXTINF:-1 tvg-id="tapmad-13828" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803948451020x576.jpg" group-title="Tennis", Mixed Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803914501020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780508707~acl=/hls/*~hmac=748e52c4e6cfbba0551d3a7e3bc12ec3ad45f466abae01532773c35e573f8405
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=d94d15ba964a9ce14f5f8d88f3f90e02dc4fab39b1f8e9d0c63a6d634cb2c2d6
 #EXTINF:-1 tvg-id="tapmad-13934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803975751020x576.jpg" group-title="Football", Gibraltar vs British Virgin Islands | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780508707~acl=/hls/*~hmac=188d9fb343f933322a5d409c821bff129663666bda31a3c031bea795e1e609db
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c
+#EXTINF:-1 tvg-id="tapmad-13451" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804027591020x576.jpg" group-title="Cricket", Surrey vs Middlesex Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=d94d15ba964a9ce14f5f8d88f3f90e02dc4fab39b1f8e9d0c63a6d634cb2c2d6
+#EXTINF:-1 tvg-id="tapmad-13935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803977501020x576.jpg" group-title="Football", Denmark vs DR Congo | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c
+#EXTINF:-1 tvg-id="tapmad-13936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803979351020x576.jpg" group-title="Football", Albania vs Israel | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c

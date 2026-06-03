@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 03-06-2026",
+        "LastUpdate": "11:40 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 9,
         "UpcomingCount": 12
     },
     "Matches": [
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780508707~acl=/hls/*~hmac=748e52c4e6cfbba0551d3a7e3bc12ec3ad45f466abae01532773c35e573f8405"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=d94d15ba964a9ce14f5f8d88f3f90e02dc4fab39b1f8e9d0c63a6d634cb2c2d6"
         },
         {
             "EntityId": 13934,
@@ -99,7 +99,52 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780508707~acl=/hls/*~hmac=188d9fb343f933322a5d409c821bff129663666bda31a3c031bea795e1e609db"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c"
+        },
+        {
+            "EntityId": 13451,
+            "VideoName": "Surrey vs Middlesex Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-03 23:30:00",
+            "Description": "Watch 11th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402759540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402759540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 440,
+            "UrlSlug": "surrey-vs-middlesex-11th-t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=d94d15ba964a9ce14f5f8d88f3f90e02dc4fab39b1f8e9d0c63a6d634cb2c2d6"
+        },
+        {
+            "EntityId": 13935,
+            "VideoName": "Denmark vs DR Congo",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:00:00",
+            "Description": "Watch Denmark vs DR Congo live online on tapmad. The Denmark vs DR Congo game will be played on 04-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780397750540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780397750540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Denmark vs DR Congo live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c"
+        },
+        {
+            "EntityId": 13936,
+            "VideoName": "Albania vs Israel",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:00:00",
+            "Description": "Watch Albania vs Israel live online on tapmad. The Albania vs Israel game will be played on 04-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780397935540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780397935540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Albania vs Israel live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780509307~acl=/hls/*~hmac=326102d038a5dfa9382b6a187d51838690b2e589fc31d54011c1366837f0074c"
         },
         {
             "EntityId": 13937,
