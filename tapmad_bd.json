@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 04-06-2026",
+        "LastUpdate": "01:00 AM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -27,19 +27,19 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 13934,
-            "VideoName": "Gibraltar vs British Virgin Islands",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-03 23:00:00",
-            "Description": "Watch Gibraltar vs British Virgin Islands live online on tapmad. The Gibraltar vs British Virgin Islands game will be played on 03-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780397575540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780397575540x302.jpg",
+            "EntityId": 13956,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-06-03 20:30:00",
+            "Description": "The 1st ODI of the  Sri Lanka Tour of West Indies 2026 marks the start of a three match Odi series. Watch West Indies vs Sri Lanka 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780391450540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780391450540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780512906~acl=/hls/*~hmac=a3367069b5dd4bfe7d3c01bc33ff247852a3020c5fd6a3ae6dea5edc27610c5e"
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780514107~acl=/hls/*~hmac=eb228b529bcbe88606476afebcc4bbf91109bb373d58b2e323ca5d7315a20241"
         },
         {
             "EntityId": 13451,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "surrey-vs-middlesex-11th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780512906~acl=/hls/*~hmac=7d3c5134af7b54e7192196188551f159df91162f3ed30f052c163d057b766317"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780514106~acl=/hls/*~hmac=df28b3f58b363fc09ff6297308fd1a7b081e0df7fa162581376ff2c709b8a2cc"
         },
         {
             "EntityId": 13935,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Denmark vs DR Congo live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780512959~acl=/hls/*~hmac=11fa126094742d0efd55a917d524d507a23cf2e9cac3d1f30f2616046da3b63b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780514106~acl=/hls/*~hmac=60036a7ab22d04ceeac27199ee6b7edf3ace14425e2741e3f0658842856ed651"
         },
         {
             "EntityId": 13936,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Albania vs Israel live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780512963~acl=/hls/*~hmac=020d3fd022fa4322e4b35a9d10ac0d88186ae4c84d77a34b8f48b5c135ce7d29"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780514107~acl=/hls/*~hmac=28222ec3c5f00c2f060d385ef66b5770d9ef39f56bae725675dd5a3a7c702623"
         },
         {
             "EntityId": 13593,
