@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 04-06-2026",
+        "LastUpdate": "12:30 AM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=54db733be8860162384018acea7ff3e63a0147b53208cf44ef34eec65e63064a"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780512315~acl=/hls/*~hmac=da2ab05464b986d726aa0ff48b21fb64f7d1639a0faf778741f0662ebee7db48"
         },
         {
             "EntityId": 13934,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780512315~acl=/hls/*~hmac=e60752c5d515019fe9580225f85ecf36a7d1d8410f9a430893f429cd97e7146a"
         },
         {
             "EntityId": 13935,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Denmark vs DR Congo live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780512315~acl=/hls/*~hmac=e60752c5d515019fe9580225f85ecf36a7d1d8410f9a430893f429cd97e7146a"
         },
         {
             "EntityId": 13936,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Albania vs Israel live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780512315~acl=/hls/*~hmac=e60752c5d515019fe9580225f85ecf36a7d1d8410f9a430893f429cd97e7146a"
         },
         {
             "EntityId": 13593,
@@ -147,20 +147,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 13596,
-            "VideoName": "Mixed Doubles - Final - Philippe Chatrier Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-04 04:00:00",
-            "Description": "Watch French Open 2026 Mixed Doubles - Final - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 04-Jun,  at 04:00 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469885540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469885540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "mixed-doubles---final---philippe-chatrier-feed"
-        },
-        {
             "EntityId": 13830,
             "VideoName": "Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu Live",
             "CategoryName": "French Open 2026",
@@ -215,6 +201,20 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "wheelchair---2nd-round-&-1/2-finals---court-14"
+        },
+        {
+            "EntityId": 13596,
+            "VideoName": "Mixed Doubles - Final - Philippe Chatrier Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-04 16:00:00",
+            "Description": "Watch French Open 2026 Mixed Doubles - Final - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 04-Jun,  at 04:00 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469885540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469885540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "mixed-doubles---final---philippe-chatrier-feed"
         },
         {
             "EntityId": 14071,
