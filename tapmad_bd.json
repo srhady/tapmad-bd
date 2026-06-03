@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 03-06-2026",
+        "LastUpdate": "09:50 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780501532~acl=/hls/*~hmac=001cafc5291b3edebd2852d34b3f782f4718c5aeb73e263d5a5746964c6ce7d8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780502708~acl=/hls/*~hmac=92c403415e67e53a583ee87d3eb41d311cad8a1e4af093d78a384cbe59ae724d"
         },
         {
             "EntityId": 13934,
