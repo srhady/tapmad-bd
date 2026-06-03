@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 03-06-2026",
+        "LastUpdate": "10:10 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 17
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -99,21 +99,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780503333~acl=/hls/*~hmac=de7363ab5fa2e0fad6df6aa2c6c3e3362e26cd7bdf5dd38546311fd0a605927f"
-        },
-        {
-            "EntityId": 13934,
-            "VideoName": "Gibraltar vs British Virgin Islands",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-03 23:00:00",
-            "Description": "Watch Gibraltar vs British Virgin Islands live online on tapmad. The Gibraltar vs British Virgin Islands game will be played on 03-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780397575540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780397575540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780503907~acl=/hls/*~hmac=3c1dfd923108929da3990fec364d125c6cbec99d5928918dc45ee082b17878a3"
         },
         {
             "EntityId": 13451,
