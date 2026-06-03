@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:10 AM 04-06-2026",
+        "LastUpdate": "02:20 AM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780518306~acl=/hls/*~hmac=8689bb5770ab21ae06e74b3e073822b7ebeac7049b801d1ebe9b674f5aba3920"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780518907~acl=/hls/*~hmac=d64f4b1fc4c6c865ceeaeb56b2a29c85a704bc80de2bad3bb9f511c7e452f8c3"
         },
         {
             "EntityId": 13451,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "surrey-vs-middlesex-11th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780518306~acl=/hls/*~hmac=8689bb5770ab21ae06e74b3e073822b7ebeac7049b801d1ebe9b674f5aba3920"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780518907~acl=/hls/*~hmac=d64f4b1fc4c6c865ceeaeb56b2a29c85a704bc80de2bad3bb9f511c7e452f8c3"
         },
         {
             "EntityId": 13593,
