@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:50 PM 03-06-2026
+# Last Update: 11:00 PM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -16,6 +16,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 #EXTINF:-1 tvg-id="tapmad-13829" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803949831020x576.jpg" group-title="Tennis", Juniors Doubles - 2nd Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803914501020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780506306~acl=/hls/*~hmac=3d2d14d52c4e9994d825233c2574d71bb8bddad5941bb3c63879d5b724970e98
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780506907~acl=/hls/*~hmac=0542c5fcacfe65ac45c18c192ea83fe2b169f00bca6a931adbd3bb599b4a88bd
 #EXTINF:-1 tvg-id="tapmad-13934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803975751020x576.jpg" group-title="Football", Gibraltar vs British Virgin Islands | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780506306~acl=/hls/*~hmac=4eb2fa23c90d9fd5da018be63707f3624d3d38f655baa16a60093e2bfabab3c5
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780506907~acl=/hls/*~hmac=69002dfe0988e371d19d3eaf6d33dd295ebf09f4a212700c52e08d710986cbee
