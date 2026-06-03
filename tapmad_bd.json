@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:40 PM 03-06-2026",
+        "LastUpdate": "10:50 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -99,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780505706~acl=/hls/*~hmac=4c16c82e881f5142d41039594fc01ffe5385b8a51662b653c5afc8a8cf368d3f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780506306~acl=/hls/*~hmac=3d2d14d52c4e9994d825233c2574d71bb8bddad5941bb3c63879d5b724970e98"
         },
         {
             "EntityId": 13934,
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780505706~acl=/hls/*~hmac=3009c6e8fcb0a682baedb860167590eb9dd536bcb473d26e56774af3a0aa3f31"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780506306~acl=/hls/*~hmac=4eb2fa23c90d9fd5da018be63707f3624d3d38f655baa16a60093e2bfabab3c5"
         },
         {
             "EntityId": 13935,
