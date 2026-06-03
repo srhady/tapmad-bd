@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 AM 04-06-2026",
+        "LastUpdate": "01:30 AM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780515307~acl=/hls/*~hmac=a6c124d05274c75da0287772de09361a6c049e9dbc89d4a49e126711d15b5d63"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780515906~acl=/hls/*~hmac=1f691731692c7016d86d90b058f27977d5b1450392b537505a854c4cff9117f7"
         },
         {
             "EntityId": 13451,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "surrey-vs-middlesex-11th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780515329~acl=/hls/*~hmac=e80740b2c7608badcb46be2704f777e78eb0c82da715f898a0626a86f12b3315"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780515906~acl=/hls/*~hmac=1f691731692c7016d86d90b058f27977d5b1450392b537505a854c4cff9117f7"
         },
         {
             "EntityId": 13935,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Denmark vs DR Congo live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780515329~acl=/hls/*~hmac=296f9b75d6fc8ca748e2fb8c48b461eab313b24ca28c75ca5099dfbb4b08f074"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780515906~acl=/hls/*~hmac=91bf0fe864525830aa1e9dcd685e9ffa7a0254144d676023d76404ce2d359402"
         },
         {
             "EntityId": 13936,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Albania vs Israel live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780515329~acl=/hls/*~hmac=296f9b75d6fc8ca748e2fb8c48b461eab313b24ca28c75ca5099dfbb4b08f074"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780515906~acl=/hls/*~hmac=91bf0fe864525830aa1e9dcd685e9ffa7a0254144d676023d76404ce2d359402"
         },
         {
             "EntityId": 13593,
