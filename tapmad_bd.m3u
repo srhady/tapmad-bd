@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:20 AM 04-06-2026
+# Last Update: 02:30 AM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,9 +8,7 @@
 #EXTINF:-1 tvg-id="tapmad-13591" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803953831020x576.jpg" group-title="Tennis", Ladies' Doubles - Quarter Finals - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803914501020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780518907~acl=/hls/*~hmac=d64f4b1fc4c6c865ceeaeb56b2a29c85a704bc80de2bad3bb9f511c7e452f8c3
-#EXTINF:-1 tvg-id="tapmad-13451" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804027591020x576.jpg" group-title="Cricket", Surrey vs Middlesex Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780518907~acl=/hls/*~hmac=d64f4b1fc4c6c865ceeaeb56b2a29c85a704bc80de2bad3bb9f511c7e452f8c3
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780519507~acl=/hls/*~hmac=c99afc2b3770c977bc1c55d22d14bef718f7ea341d57506a16fe7b59bd2db2be
 #EXTINF:-1 tvg-id="tapmad-13593" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803957001020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13937" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804020201020x576.jpg" group-title="Football", Netherlands vs Algeria | European Qualifiers FIFA World Cup 2026
