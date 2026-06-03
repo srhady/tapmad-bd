@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:10 PM 03-06-2026",
+        "LastUpdate": "11:20 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 13
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780507522~acl=/hls/*~hmac=6760738749e0a0b4bd3f5395ed5ffd25ae900b8c89720d41da84f93c965d94a3"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780508106~acl=/hls/*~hmac=c6df9bd253ae2dfa93309843544d33dccc4d074295ab740a069aebc38779a542"
         },
         {
             "EntityId": 13934,
@@ -99,21 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780507527~acl=/hls/*~hmac=52f06e5c994fc7c58c017ef86157723d0c0bde90b5aae1f4a75aaf2a6ca96a2b"
-        },
-        {
-            "EntityId": 13593,
-            "VideoName": "Ladies' or Gentlemen's Singles1 \"Great\" match - Quarter Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-06-04 00:15:00",
-            "Description": "Watch French Open 2026 Ladies' or Gentlemen's Singles1 \"Great\" match - Quarter Finals - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 04-Jun,  at 12:15 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780395700540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780395700540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---quarter-finals---philippe-chatrier-"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780508106~acl=/hls/*~hmac=c4d09268e502c2216cd2e77727a572789d05709c16f6a21f26bb8384184f581d"
         },
         {
             "EntityId": 13937,
