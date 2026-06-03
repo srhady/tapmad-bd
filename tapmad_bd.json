@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 PM 03-06-2026",
+        "LastUpdate": "12:50 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 15
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -208,18 +208,46 @@
             "UrlSlug": "European Qualifiers 2026 Luxembourg vs Italy live"
         },
         {
-            "EntityId": 13487,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-06-04 17:30:00",
-            "Description": "The 3rd ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780307924540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780307924540x302.jpg",
+            "EntityId": 13830,
+            "VideoName": "Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1/2 Finals",
+            "EventStartDate": "2026-06-04 04:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 04-Jun,  at 04:00 AM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780468884540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780468884540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-3rd-odi-live"
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-doubles---1/2-finals---simonne-mathieu"
+        },
+        {
+            "EntityId": 13594,
+            "VideoName": "Wheelchair - Semi Finals - Suzanne Lenglen Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "3rd Round",
+            "EventStartDate": "2026-06-04 15:00:00",
+            "Description": "Watch French Open 2026 Wheelchair - Semi Finals - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469298540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469298540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "wheelchair---semi-finals---suzanne-lenglen"
+        },
+        {
+            "EntityId": 13831,
+            "VideoName": "Wheelchair - 2nd Round & 1/2 Finals - Court 14 Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "1/2 Finals",
+            "EventStartDate": "2026-06-04 15:00:00",
+            "Description": "Watch French Open 2026 Wheelchair - 2nd Round & 1/2 Finals - Court 14 live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469077540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469077540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "wheelchair---2nd-round-&-1/2-finals---court-14"
         }
     ]
 }
