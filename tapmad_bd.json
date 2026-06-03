@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:40 PM 03-06-2026",
+        "LastUpdate": "06:50 PM 03-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -283,6 +283,20 @@
             "UrlSlug": "wheelchair---2nd-round-&-1/2-finals---court-14"
         },
         {
+            "EntityId": 14071,
+            "VideoName": "England vs New Zealand",
+            "CategoryName": "New Zealand Tour of England 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-06-04 16:00:00",
+            "Description": "The 1st Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780490687540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780490687540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 461,
+            "UrlSlug": "england-vs-new-zealand-1st-test-live"
+        },
+        {
             "EntityId": 13487,
             "VideoName": "Pakistan vs Australia Live",
             "CategoryName": "Australia Tour of Pakistan 2026",
@@ -309,20 +323,6 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "singles-ladies'---semi-finals---philippe-chatrier"
-        },
-        {
-            "EntityId": 13452,
-            "VideoName": "Somerset vs Glamorgan Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-05 00:00:00",
-            "Description": "Watch 12th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780471558540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780471558540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 440,
-            "UrlSlug": "somerset-vs-glamorgan-12th-t20-live"
         }
     ]
 }
