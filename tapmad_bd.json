@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 04-06-2026",
+        "LastUpdate": "12:20 AM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 9,
         "UpcomingCount": 9
     },
     "Matches": [
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780511107~acl=/hls/*~hmac=04bad6027a850d2fe01fe9a3a93bc31273a5bace84e90bd8d7777ef63663bdc4"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=54db733be8860162384018acea7ff3e63a0147b53208cf44ef34eec65e63064a"
         },
         {
             "EntityId": 13934,
@@ -54,22 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Gibraltar vs British Virgin Islands live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780511106~acl=/hls/*~hmac=f800956001bd14097c60d0ce9b6a710b2a9511be359661015c0bcd4f1c04ac59"
-        },
-        {
-            "EntityId": 13451,
-            "VideoName": "Surrey vs Middlesex Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-03 23:30:00",
-            "Description": "Watch 11th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402759540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402759540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 440,
-            "UrlSlug": "surrey-vs-middlesex-11th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780511106~acl=/hls/*~hmac=08237d5125799ccd56ef5629eda0b8712c4f8d198f32de3aa5708629cb2fd9a5"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
         },
         {
             "EntityId": 13935,
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Denmark vs DR Congo live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780511106~acl=/hls/*~hmac=f800956001bd14097c60d0ce9b6a710b2a9511be359661015c0bcd4f1c04ac59"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
         },
         {
             "EntityId": 13936,
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Albania vs Israel live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780511107~acl=/hls/*~hmac=887ef936a880eb31db77fa9a6b16cd6caf7f8ea850f444ee24cc278552e1ff27"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780511707~acl=/hls/*~hmac=659421327887fe1f454350b50c28bb5b4a49c48025674d45ceab0fb64348dc0f"
         },
         {
             "EntityId": 13593,
@@ -115,6 +100,51 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-or-gentlemen's-singles1-\"great\"-match---quarter-finals---philippe-chatrier-",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+        },
+        {
+            "EntityId": 13937,
+            "VideoName": "Netherlands vs Algeria",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:45:00",
+            "Description": "Watch Netherlands vs Algeria live online on tapmad. The Netherlands vs Algeria game will be played on 04-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402020540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Netherlands vs Algeria live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
+        },
+        {
+            "EntityId": 13938,
+            "VideoName": "Poland vs Nigeria",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:45:00",
+            "Description": "Watch Poland vs Nigeria live online on tapmad. The Poland vs Nigeria game will be played on 04-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402275540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402275540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Poland vs Nigeria live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
+        },
+        {
+            "EntityId": 13939,
+            "VideoName": "Luxembourg vs Italy",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 00:45:00",
+            "Description": "Watch Luxembourg vs Italy live online on tapmad. The Luxembourg vs Italy game will be played on 04-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402424540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402424540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Luxembourg vs Italy live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
             "EntityId": 13596,
