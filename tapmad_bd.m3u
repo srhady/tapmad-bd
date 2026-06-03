@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 04-06-2026
+# Last Update: 01:50 AM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,13 +8,13 @@
 #EXTINF:-1 tvg-id="tapmad-13591" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803953831020x576.jpg" group-title="Tennis", Ladies' Doubles - Quarter Finals - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803914501020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780516507~acl=/hls/*~hmac=983eb374a47e8f45f0162e1a7170ac68d53d718bd0bbc1ad772d46b2ef544393
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780517107~acl=/hls/*~hmac=b27af1b6d888c7ccae5bdca02fd18354c58e13f988a430012525623fee4bd59b
 #EXTINF:-1 tvg-id="tapmad-13451" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804027591020x576.jpg" group-title="Cricket", Surrey vs Middlesex Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780516507~acl=/hls/*~hmac=983eb374a47e8f45f0162e1a7170ac68d53d718bd0bbc1ad772d46b2ef544393
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780517106~acl=/hls/*~hmac=0141e15f0da53856beda8f4d9ef49de50f3bf9108f1fc8deeeae8a9d491f9608
 #EXTINF:-1 tvg-id="tapmad-13935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803977501020x576.jpg" group-title="Football", Denmark vs DR Congo | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780516507~acl=/hls/*~hmac=17667da5a98cc99d7cafe80248fcc8392454279819d61fbe07b9581ce092c8ad
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780517106~acl=/hls/*~hmac=4c57d8fba8c7ce1d499988503e03c360814f37df33345f0f19c864ac696098da
 #EXTINF:-1 tvg-id="tapmad-13936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803979351020x576.jpg" group-title="Football", Albania vs Israel | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780516507~acl=/hls/*~hmac=17667da5a98cc99d7cafe80248fcc8392454279819d61fbe07b9581ce092c8ad
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780517128~acl=/hls/*~hmac=1bd65cf21e6351cdbfb23a1b2a3f24b40065dc227370cd587bdc8ea8a7946aee
 #EXTINF:-1 tvg-id="tapmad-13593" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803957001020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13937" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804020201020x576.jpg" group-title="Football", Netherlands vs Algeria | European Qualifiers FIFA World Cup 2026
