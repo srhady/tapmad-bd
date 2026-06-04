@@ -1,58 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 04-06-2026",
+        "LastUpdate": "02:10 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 14
+        "UpcomingCount": 11
     },
     "Matches": [
-        {
-            "EntityId": 13594,
-            "VideoName": "Wheelchair - Semi Finals - Suzanne Lenglen Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-06-04 15:00:00",
-            "Description": "Watch French Open 2026 Wheelchair - Semi Finals - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469298540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469298540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "wheelchair---semi-finals---suzanne-lenglen"
-        },
-        {
-            "EntityId": 13595,
-            "VideoName": "Gentlemen's & Doubles - Semi Finals - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-04 15:00:00",
-            "Description": "Watch French Open 2026 Gentlemen's & Doubles - Semi Finals - World Feed live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469469540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469469540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-&-doubles---semi-finals---world-feed"
-        },
-        {
-            "EntityId": 13831,
-            "VideoName": "Wheelchair - 2nd Round & 1/2 Finals - Court 14 Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "1/2 Finals",
-            "EventStartDate": "2026-06-04 15:00:00",
-            "Description": "Watch French Open 2026 Wheelchair - 2nd Round & 1/2 Finals - Court 14 live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469077540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469077540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "wheelchair---2nd-round-&-1/2-finals---court-14"
-        },
         {
             "EntityId": 13596,
             "VideoName": "Mixed Doubles - Final - Philippe Chatrier Feed Live",
