@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:10 PM 04-06-2026",
+        "LastUpdate": "05:20 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-3rd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780572306~acl=/hls/*~hmac=28b97896df6cbd2b5709090806ae2acd3986f5916b85c5296058a3b8115cfb54"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780572907~acl=/hls/*~hmac=586ce226669065b21f3c6c2b9bdd7596796644899d167facb132775bcfb51fa8"
         },
         {
             "EntityId": 13594,
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780572306~acl=/hls/*~hmac=28b97896df6cbd2b5709090806ae2acd3986f5916b85c5296058a3b8115cfb54"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780572907~acl=/hls/*~hmac=586ce226669065b21f3c6c2b9bdd7596796644899d167facb132775bcfb51fa8"
         },
         {
             "EntityId": 13597,
