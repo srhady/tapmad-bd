@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:40 PM 04-06-2026",
+        "LastUpdate": "03:50 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 4,
         "UpcomingCount": 9
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 449,
             "UrlSlug": "gentlemen's-double---semi-finals---suzanne-lenglen",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
+        },
+        {
+            "EntityId": 13595,
+            "VideoName": "Gentlemen's & Doubles - Semi Finals - World Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "4th Round",
+            "EventStartDate": "2026-06-04 15:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's & Doubles - Semi Finals - World Feed live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469469540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469469540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-&-doubles---semi-finals---world-feed",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
             "EntityId": 13831,
@@ -54,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780566928~acl=/hls/*~hmac=5942f319a570ad3c35437def4be026042e6750caae099238b30fc48db5d34259"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780567506~acl=/hls/*~hmac=499675f3aefa5333c68341c6c4b7a7e9d80ea4a9eb5737b27f02f3976eea4fbb"
         },
         {
             "EntityId": 13487,

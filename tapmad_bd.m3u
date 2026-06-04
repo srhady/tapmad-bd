@@ -1,13 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:40 PM 04-06-2026
+# Last Update: 03:50 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13594" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804692981020x576.jpg" group-title="Tennis", Gentlemen's Double - Semi Finals - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13595" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804694691020x576.jpg" group-title="Tennis", Gentlemen's & Doubles - Semi Finals - World Feed Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804690771020x576.jpg" group-title="Tennis", Wheelchair - 2nd Round & 1/2 Finals - Court 14 Live | French Open 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780566928~acl=/hls/*~hmac=5942f319a570ad3c35437def4be026042e6750caae099238b30fc48db5d34259
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780567506~acl=/hls/*~hmac=499675f3aefa5333c68341c6c4b7a7e9d80ea4a9eb5737b27f02f3976eea4fbb
