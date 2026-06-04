@@ -1,44 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:50 PM 04-06-2026",
+        "LastUpdate": "03:10 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 11
+        "UpcomingCount": 9
     },
     "Matches": [
-        {
-            "EntityId": 13596,
-            "VideoName": "Mixed Doubles - Final - Philippe Chatrier Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-04 16:00:00",
-            "Description": "Watch French Open 2026 Mixed Doubles - Final - Philippe Chatrier Feed live online on tapmad. The event is scheduled to take place on 04-Jun,  at 04:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469885540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469885540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "mixed-doubles---final---philippe-chatrier-feed"
-        },
-        {
-            "EntityId": 14071,
-            "VideoName": "England vs New Zealand",
-            "CategoryName": "New Zealand Tour of England 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-06-04 16:00:00",
-            "Description": "The 1st Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780490687540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780490687540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 461,
-            "UrlSlug": "england-vs-new-zealand-1st-test-live"
-        },
         {
             "EntityId": 13487,
             "VideoName": "Pakistan vs Australia Live",
