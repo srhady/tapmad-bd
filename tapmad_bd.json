@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 PM 04-06-2026",
+        "LastUpdate": "02:50 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 12
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -24,20 +24,6 @@
             "Status": "Upcoming",
             "CategoryId": 449,
             "UrlSlug": "mixed-doubles---final---philippe-chatrier-feed"
-        },
-        {
-            "EntityId": 13830,
-            "VideoName": "Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "1/2 Finals",
-            "EventStartDate": "2026-06-04 16:00:00",
-            "Description": "Watch French Open 2026 Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 04-Jun,  at 04:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780468884540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780468884540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-doubles---1/2-finals---simonne-mathieu"
         },
         {
             "EntityId": 14071,
