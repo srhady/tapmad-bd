@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 PM 04-06-2026",
+        "LastUpdate": "01:50 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 11
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -136,6 +136,48 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Northern Ireland vs Guinea live"
+        },
+        {
+            "EntityId": 14153,
+            "VideoName": "Slovenia vs Cyprus",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 22:00:00",
+            "Description": "Watch Slovenia vs Cyprus live online on tapmad. The Slovenia vs Cyprus game will be played on 04-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780558782540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780558782540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Slovenia vs Cyprus live"
+        },
+        {
+            "EntityId": 14154,
+            "VideoName": "Andorra vs Leichtenstein",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 23:00:00",
+            "Description": "Watch Andorra vs Leichtenstein live online on tapmad. The Andorra vs Leichtenstein game will be played on 04-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780558955540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780558955540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Andorra vs Leichtenstein live"
+        },
+        {
+            "EntityId": 14155,
+            "VideoName": "Sweden vs Greece",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-04 23:00:00",
+            "Description": "Watch Sweden vs Greece live online on tapmad. The Sweden vs Greece game will be played on 04-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780559094540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780559094540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Sweden vs Greece live"
         },
         {
             "EntityId": 13452,
