@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 05-06-2026",
+        "LastUpdate": "12:10 AM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
-        "UpcomingCount": 6
+        "LiveCount": 5,
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780596907~acl=/hls/*~hmac=a3ab9a6db4711253f4cb7fe806279dfaf95ee3d2150063895072d35dc67fe6c5"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=d781c2fed407ad1bfb7746df77e661772e826c4219dfb652a34a3feb150d0c5d"
         },
         {
             "EntityId": 13487,
@@ -40,36 +40,6 @@
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-3rd-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 14152,
-            "VideoName": "Northern Ireland vs Guinea",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-04 22:00:00",
-            "Description": "Watch Northern Ireland vs Guinea live online on tapmad. The Northern Ireland vs Guinea game will be played on 04-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780557634540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780557634540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Northern Ireland vs Guinea live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
-        {
-            "EntityId": 14153,
-            "VideoName": "Slovenia vs Cyprus",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-04 22:00:00",
-            "Description": "Watch Slovenia vs Cyprus live online on tapmad. The Slovenia vs Cyprus game will be played on 04-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780558782540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780558782540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Slovenia vs Cyprus live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
         },
         {
             "EntityId": 14154,
@@ -114,21 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780596907~acl=/hls/*~hmac=b597c4d6162158a96656bf38d48b8bd257d54f35c3ca41971b0b5510e50ec313"
-        },
-        {
-            "EntityId": 14156,
-            "VideoName": "Spain vs Iraq",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 01:00:00",
-            "Description": "Watch Spain vs Iraq live online on tapmad. The Spain vs Iraq game will be played on 05-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580605540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580605540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Spain vs Iraq live"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=eeb8c28506658bfb78a8ecdd2ac05c4e71bcedabd00e24a321eaf966369dd580"
         },
         {
             "EntityId": 14157,
