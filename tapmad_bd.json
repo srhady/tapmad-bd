@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 PM 04-06-2026",
+        "LastUpdate": "09:10 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 11
+        "LiveCount": 4,
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780586129~acl=/hls/*~hmac=f3f98f8b82b6b2160a265819e5673e3ab60f5ebeab6b108a5a8e8a5019893673"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780586707~acl=/hls/*~hmac=e40dce2745e8066fc31f3b708a8a0012fe38a31c7d4d39785f5ed857305a680c"
         },
         {
             "EntityId": 13487,
@@ -40,21 +40,6 @@
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-3rd-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 13594,
-            "VideoName": "Gentlemen's Double - Semi Finals - Suzanne Lenglen Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-06-04 15:00:00",
-            "Description": "Watch French Open 2026  Gentlemen's Double - Semi Finals - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 04-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780469298540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780469298540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-double---semi-finals---suzanne-lenglen",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
         },
         {
             "EntityId": 13831,
@@ -85,34 +70,6 @@
             "CategoryId": 449,
             "UrlSlug": "singles-ladies'---semi-finals---philippe-chatrier",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
-        {
-            "EntityId": 14152,
-            "VideoName": "Northern Ireland vs Guinea",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-04 22:00:00",
-            "Description": "Watch Northern Ireland vs Guinea live online on tapmad. The Northern Ireland vs Guinea game will be played on 04-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780557634540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780557634540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Northern Ireland vs Guinea live"
-        },
-        {
-            "EntityId": 14153,
-            "VideoName": "Slovenia vs Cyprus",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-04 22:00:00",
-            "Description": "Watch Slovenia vs Cyprus live online on tapmad. The Slovenia vs Cyprus game will be played on 04-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780558782540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780558782540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Slovenia vs Cyprus live"
         },
         {
             "EntityId": 14154,
