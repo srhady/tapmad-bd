@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:10 PM 04-06-2026",
+        "LastUpdate": "06:20 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 7
+        "LiveCount": 6,
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780575913~acl=/hls/*~hmac=e99ab90607dfe385e3c0892dc515da00a6f0f5bf8ea61a3e2e81cc0fbdb78570"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780576506~acl=/hls/*~hmac=e3b1f10cf722379be29adf0a798a08be1cf8dfed8e4b20a70bcff3d4e2e7593a"
         },
         {
             "EntityId": 13487,
@@ -85,6 +85,21 @@
             "CategoryId": 449,
             "UrlSlug": "gentlemen's-doubles---1/2-finals---simonne-mathieu",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
+        {
+            "EntityId": 13597,
+            "VideoName": "Singles Ladies' - Semi Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "4th Round",
+            "EventStartDate": "2026-06-04 19:00:00",
+            "Description": "Watch French Open 2026 Singles Ladies' - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 04-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780470190540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780470190540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "singles-ladies'---semi-finals---philippe-chatrier",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
             "EntityId": 14152,
@@ -155,6 +170,20 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live"
+        },
+        {
+            "EntityId": 14297,
+            "VideoName": "Bundesliga Original Series",
+            "CategoryName": "Bundesliga 2025/26",
+            "StageName": "Show",
+            "EventStartDate": "2026-06-05 03:30:00",
+            "Description": "Watch Bundesliga Bundesliga Original Series match live streaming online on tapmad. Bundesliga is a German national football league that runs from August to May every year. 18 teams battle it out over the span of 34 match days to become the champion. The Bundesliga Original Series vs  match will take place on 05-Jun, Friday, at 03:30 AM. Watch the Bundesliga in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780575454540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780575454540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 182,
+            "UrlSlug": "Bundesliga Original Series live"
         },
         {
             "EntityId": 14078,

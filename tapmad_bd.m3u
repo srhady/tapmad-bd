@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:10 PM 04-06-2026
+# Last Update: 06:20 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780575913~acl=/hls/*~hmac=e99ab90607dfe385e3c0892dc515da00a6f0f5bf8ea61a3e2e81cc0fbdb78570
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780576506~acl=/hls/*~hmac=e3b1f10cf722379be29adf0a798a08be1cf8dfed8e4b20a70bcff3d4e2e7593a
 #EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13594" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804692981020x576.jpg" group-title="Tennis", Gentlemen's Double - Semi Finals - Suzanne Lenglen Live | French Open 2026
@@ -15,3 +15,5 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804688841020x576.jpg" group-title="Tennis", Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13597" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804701901020x576.jpg" group-title="Tennis", Singles Ladies' - Semi Finals - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
