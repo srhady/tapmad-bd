@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:10 AM 05-06-2026
+# Last Update: 12:20 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=d781c2fed407ad1bfb7746df77e661772e826c4219dfb652a34a3feb150d0c5d
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780598106~acl=/hls/*~hmac=b8c11f1b756dddf5d75dfa673332f84a22a48305d24b0aaa548995ab7add16d2
 #EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14154" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805589551020x576.jpg" group-title="Football", Andorra vs Leichtenstein | European Qualifiers FIFA World Cup 2026
@@ -14,4 +14,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14155" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805590941020x576.jpg" group-title="Football", Sweden vs Greece | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Cricket", Somerset vs Glamorgan Live | Vitality Blast Men 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=eeb8c28506658bfb78a8ecdd2ac05c4e71bcedabd00e24a321eaf966369dd580
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780598106~acl=/hls/*~hmac=7c9327ba02e8ce746980b7b55f357bc7ba6ea262435572ac2fe05f5de40cec4d

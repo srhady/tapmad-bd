@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 AM 05-06-2026",
+        "LastUpdate": "12:20 AM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 5
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=d781c2fed407ad1bfb7746df77e661772e826c4219dfb652a34a3feb150d0c5d"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780598106~acl=/hls/*~hmac=b8c11f1b756dddf5d75dfa673332f84a22a48305d24b0aaa548995ab7add16d2"
         },
         {
             "EntityId": 13487,
@@ -84,21 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780597507~acl=/hls/*~hmac=eeb8c28506658bfb78a8ecdd2ac05c4e71bcedabd00e24a321eaf966369dd580"
-        },
-        {
-            "EntityId": 14157,
-            "VideoName": "France vs Ivory Coast",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 01:10:00",
-            "Description": "Watch France vs Ivory Coast  live online on tapmad. The France vs Ivory Coast  game will be played on 05-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580724540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580724540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 France vs Ivory Coast  live"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780598106~acl=/hls/*~hmac=7c9327ba02e8ce746980b7b55f357bc7ba6ea262435572ac2fe05f5de40cec4d"
         },
         {
             "EntityId": 14297,
