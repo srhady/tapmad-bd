@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 PM 04-06-2026
+# Last Update: 07:10 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780578907~acl=/hls/*~hmac=5954343d8754d1ef04a16aa7b1e1bf5158cb0a0e22e189c80993938a2db5f1fa
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780579507~acl=/hls/*~hmac=b83b5b745eabde86b4c5db1587321714d01af2c387bd8d90796c33fafe6044cd
 #EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13594" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804692981020x576.jpg" group-title="Tennis", Gentlemen's Double - Semi Finals - Suzanne Lenglen Live | French Open 2026
