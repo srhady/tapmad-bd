@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 04-06-2026
+# Last Update: 11:20 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780593907~acl=/hls/*~hmac=353b5b0dfbc7dfeb974e9cc6eb9cf2de5ef01f353acecc30880477ed93776f4f
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780594506~acl=/hls/*~hmac=3ea3c17bf0f0e5fa4c526663713407d3033dfd34eb38cc2e1ce6e08c7eac1d7f
 #EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804690771020x576.jpg" group-title="Tennis", Wheelchair - 2nd Round & 1/2 Finals - Court 14 Live | French Open 2026
