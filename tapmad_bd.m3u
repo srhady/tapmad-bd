@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 PM 04-06-2026
+# Last Update: 04:10 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,7 +11,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804690771020x576.jpg" group-title="Tennis", Wheelchair - 2nd Round & 1/2 Finals - Court 14 Live | French Open 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13596" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804698851020x576.jpg" group-title="Tennis", Mixed Doubles - Final - Philippe Chatrier Feed Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804688841020x576.jpg" group-title="Tennis", Gentlemen's Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780568110~acl=/hls/*~hmac=bfe48ad01ca5418c7de534b14d99908370fe724b72f03b7c7dbbd170821fe535
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780568707~acl=/hls/*~hmac=c4897364a99dc7058b3b93604921d587e166e22b3ef1742a225d48b6e77aa67a
