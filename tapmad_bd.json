@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 AM 05-06-2026",
+        "LastUpdate": "02:10 AM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780604108~acl=/hls/*~hmac=03a57617500f6914c796561942aabbc3db2ef8e743209435d27dcec8b3ea2847"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780604712~acl=/hls/*~hmac=1ade9509d666b7c9839330217a33a7a9a42c3629c42afc0874a941b2fb988f60"
         },
         {
             "EntityId": 14156,
