@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 04-06-2026",
+        "LastUpdate": "12:00 AM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780596307~acl=/hls/*~hmac=044213a8efff5c52382f8fa601693b26cd4e9e698d5a4254f2cd94ecdcb90a31"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780596907~acl=/hls/*~hmac=a3ab9a6db4711253f4cb7fe806279dfaf95ee3d2150063895072d35dc67fe6c5"
         },
         {
             "EntityId": 13487,
@@ -114,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780596307~acl=/hls/*~hmac=d2092266b5cefbf381ead75e20237e09ce654d5c320f66d80e238e8a043724d3"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780596907~acl=/hls/*~hmac=b597c4d6162158a96656bf38d48b8bd257d54f35c3ca41971b0b5510e50ec313"
         },
         {
             "EntityId": 14156,
