@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:40 AM 05-06-2026
+# Last Update: 03:50 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Cricket", Somerset vs Glamorgan Live | Vitality Blast Men 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780610707~acl=/hls/*~hmac=7c77c6e7f6c14a96ff6170cacc9c2b513260751784c34d9a9d2c553070b5b016
 #EXTINF:-1 tvg-id="tapmad-14297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805754541020x576.jpg" group-title="Football", Bundesliga Original Series | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
