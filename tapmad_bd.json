@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 PM 04-06-2026",
+        "LastUpdate": "04:40 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -99,21 +99,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780569911~acl=/hls/*~hmac=5ba6ba01e4ec2dbe45d0c09f78c012018cd824a98ff131e13dfcf535e0c38f62"
-        },
-        {
-            "EntityId": 13487,
-            "VideoName": "Pakistan vs Australia Live",
-            "CategoryName": "Australia Tour of Pakistan 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-06-04 17:30:00",
-            "Description": "The 3rd ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780307924540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780307924540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 271,
-            "UrlSlug": "pakistan-vs-australia-3rd-odi-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780570507~acl=/hls/*~hmac=15ef4b1b9ccd6d94627b5ea26bc8228fc450bd289a81763f431cd4f146b3cf32"
         },
         {
             "EntityId": 13597,
