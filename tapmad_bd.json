@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:40 PM 04-06-2026",
+        "LastUpdate": "07:50 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 8
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780581307~acl=/hls/*~hmac=aef10eff63e0ea4d1ac87a4b2f641d8ae1d4a766d3b33ab37e742a8cb95be6a6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780581906~acl=/hls/*~hmac=2fff65ca42e5a5ecf38aeba084553df80920cda4600e6ca2686c9b5f81741a10"
         },
         {
             "EntityId": 13487,
@@ -157,6 +157,34 @@
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live"
         },
         {
+            "EntityId": 14156,
+            "VideoName": "Spain vs Iraq",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 01:00:00",
+            "Description": "Watch Spain vs Iraq live online on tapmad. The Spain vs Iraq game will be played on 05-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580605540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580605540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Spain vs Iraq live"
+        },
+        {
+            "EntityId": 14157,
+            "VideoName": "France vs Ivory Coast",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 01:10:00",
+            "Description": "Watch France vs Ivory Coast  live online on tapmad. The France vs Ivory Coast  game will be played on 05-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580724540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580724540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 France vs Ivory Coast  live"
+        },
+        {
             "EntityId": 14297,
             "VideoName": "Bundesliga Original Series",
             "CategoryName": "Bundesliga 2025/26",
@@ -169,6 +197,20 @@
             "Status": "Upcoming",
             "CategoryId": 182,
             "UrlSlug": "Bundesliga Original Series live"
+        },
+        {
+            "EntityId": 14166,
+            "VideoName": "Czechia vs Guatemala",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 06:00:00",
+            "Description": "Watch Czechia vs Guatemala live online on tapmad. The Czechia vs Guatemala game will be played on 05-Jun, at 06:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580846540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580847540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Czechia vs Guatemala live"
         },
         {
             "EntityId": 14078,
