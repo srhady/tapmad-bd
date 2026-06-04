@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 04-06-2026",
+        "LastUpdate": "11:40 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 8,
+        "LiveCount": 7,
         "UpcomingCount": 6
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780595107~acl=/hls/*~hmac=9af02c4a816439544a0b0dafdc4314e3f2416b9841362d8593bc7716eb7ffb82"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780595707~acl=/hls/*~hmac=9799955500b5d9fa047eaee2616897f2e6cedd520e4d851778afbe249e91c0f0"
         },
         {
             "EntityId": 13487,
@@ -40,21 +40,6 @@
             "CategoryId": 271,
             "UrlSlug": "pakistan-vs-australia-3rd-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 13597,
-            "VideoName": "Singles Ladies' - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-04 19:00:00",
-            "Description": "Watch French Open 2026 Singles Ladies' - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 04-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780470190540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780470190540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "singles-ladies'---semi-finals---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
             "EntityId": 14152,
@@ -129,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "somerset-vs-glamorgan-12th-t20-live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780595107~acl=/hls/*~hmac=3c9cc3d9dbdfea322d69ee1228afc8daf6d44971c5b25ee114a3caa5a7a83ef2"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780595706~acl=/hls/*~hmac=816fe0148d9dd5030f445f7135f6e5d4cc06e03e46335dd2f6bd456d9fd93992"
         },
         {
             "EntityId": 14156,

@@ -1,16 +1,14 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 04-06-2026
+# Last Update: 11:40 PM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780595107~acl=/hls/*~hmac=9af02c4a816439544a0b0dafdc4314e3f2416b9841362d8593bc7716eb7ffb82
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780595707~acl=/hls/*~hmac=9799955500b5d9fa047eaee2616897f2e6cedd520e4d851778afbe249e91c0f0
 #EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13597" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804701901020x576.jpg" group-title="Tennis", Singles Ladies' - Semi Finals - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14152" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805576341020x576.jpg" group-title="Football", Northern Ireland vs Guinea | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14153" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805587821020x576.jpg" group-title="Football", Slovenia vs Cyprus | European Qualifiers FIFA World Cup 2026
@@ -20,4 +18,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14155" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805590941020x576.jpg" group-title="Football", Sweden vs Greece | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Cricket", Somerset vs Glamorgan Live | Vitality Blast Men 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780595107~acl=/hls/*~hmac=3c9cc3d9dbdfea322d69ee1228afc8daf6d44971c5b25ee114a3caa5a7a83ef2
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780595706~acl=/hls/*~hmac=816fe0148d9dd5030f445f7135f6e5d4cc06e03e46335dd2f6bd456d9fd93992
