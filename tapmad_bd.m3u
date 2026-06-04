@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 AM 05-06-2026
+# Last Update: 05:20 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-14166" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805808461020x576.jpg" group-title="Football", Czechia vs Guatemala | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780616108~acl=/hls/*~hmac=71cb6cacf932d4684d9a05db35c5e1e53746e701898ac50297b16cdd2eb218db
