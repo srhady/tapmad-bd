@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:20 PM 04-06-2026",
+        "LastUpdate": "07:30 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780580106~acl=/hls/*~hmac=8286ddd8663258370a6277e59989539821f2ae3a489c2cccc28c6fe4cfcf9ca8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780580706~acl=/hls/*~hmac=471f90452395c3b696fa6f0a859582d605ee0464c3e5252d958b8c4eaedae94c"
         },
         {
             "EntityId": 13487,
