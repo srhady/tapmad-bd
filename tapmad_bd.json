@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:50 PM 04-06-2026",
+        "LastUpdate": "05:00 PM 04-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 7,
         "UpcomingCount": 8
     },
     "Matches": [
+        {
+            "EntityId": 13487,
+            "VideoName": "Pakistan vs Australia Live",
+            "CategoryName": "Australia Tour of Pakistan 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-06-04 17:30:00",
+            "Description": "The 3rd ODI of the Australia Tour of Pakistan 2026 marks the start of a three-match Odi series. Watch Pakistan vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Pakistan cricket team featuring Babar Azam and Shaheen Afridi focusing on balance and pace control. Australia, led by Mitchell Marsh, rely on experienced players such as Adam Zampa & Matt Short to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780307924540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780307924540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 271,
+            "UrlSlug": "pakistan-vs-australia-3rd-odi-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780571707~acl=/hls/*~hmac=8aa1a846a5415008c1e2e51a84b96035cb8c0028302f2014c295159c98d8f3fd"
+        },
         {
             "EntityId": 13594,
             "VideoName": "Gentlemen's Double - Semi Finals - Suzanne Lenglen Live",
@@ -99,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780571111~acl=/hls/*~hmac=2b234d6b19462df6cd6c7a0dd2b77a09c48365fffb0c185f3a0a0be94967626b"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780571733~acl=/hls/*~hmac=4cb78f023d2e072309cf392a555a321bdb85af1ef5c6a1adae800f522e6e34e0"
         },
         {
             "EntityId": 13597,
