@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:40 PM 05-06-2026",
+        "LastUpdate": "07:50 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780667712~acl=/hls/*~hmac=87df336fc418cdd871183521039d27aed5b07aa2122775d61548003d57928f52"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780668306~acl=/hls/*~hmac=62b73be923a0c5338b49edb1e3f970a47c23d8613066d20d0be880e9998bfb35"
         },
         {
             "EntityId": 13599,
@@ -255,6 +255,34 @@
             "UrlSlug": "gentlemen's-doubles---finals---philippe-chatrier"
         },
         {
+            "EntityId": 13603,
+            "VideoName": "Wheelchair - Finals - Suzanne Lenglen Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-06 15:00:00",
+            "Description": "Watch French Open 2026 Wheelchair - Finals - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 06-Jun,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667098540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667098540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "wheelchair---finals---suzanne-lenglen"
+        },
+        {
+            "EntityId": 13604,
+            "VideoName": "Juniors Singles & Doubles - Finals - World Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-06 15:00:00",
+            "Description": "Watch French Open 2026 Juniors Singles & Doubles - Finals - World Feed live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667265540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667265540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "juniors-singles-&-doubles---finals---world-feed"
+        },
+        {
             "EntityId": 13835,
             "VideoName": "Singles & Doubles Juniors - Finals - Court 14 Live",
             "CategoryName": "French Open 2026",
@@ -295,34 +323,6 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "durham-vs-northampton-14th-t20-live"
-        },
-        {
-            "EntityId": 13957,
-            "VideoName": "West Indies vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of West Indies 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-06-07 01:30:00",
-            "Description": "The 2nd ODI of the  Sri Lanka Tour of West Indies 2026 marks the start of a three match Odi series. Watch West Indies vs Sri Lanka 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780561050540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780561050540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 460,
-            "UrlSlug": "west-indies-vs-sri-lanka-2nd-odi-live"
-        },
-        {
-            "EntityId": 14299,
-            "VideoName": "Turkiye vs Venezuela",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-07 03:00:00",
-            "Description": "Watch Turkiye vs Venezuela live online on tapmad. The Turkiye vs Venezuela game will be played on 07-Jun, at 03:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780662480540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780662480540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live"
         }
     ]
 }
