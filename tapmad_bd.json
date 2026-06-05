@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 05-06-2026",
+        "LastUpdate": "02:40 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 10
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -24,6 +24,20 @@
             "Status": "Upcoming",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live"
+        },
+        {
+            "EntityId": 13600,
+            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "4th Round",
+            "EventStartDate": "2026-06-05 18:30:00",
+            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 06:30 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648352540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648352540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier"
         },
         {
             "EntityId": 14167,
@@ -66,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Slovakia vs Montenegro live"
+        },
+        {
+            "EntityId": 13601,
+            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-05 23:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 11:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648479540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648479540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier"
         },
         {
             "EntityId": 14170,
