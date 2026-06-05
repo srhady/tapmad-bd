@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 05-06-2026",
+        "LastUpdate": "12:00 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=acfcc3c3149856337838e6b07fe92370ce78c9a20d3aa61386713079adbafa46"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780683306~acl=/hls/*~hmac=6c530d9f88b232acc4628ad94cc33614e904f780c1d1183de3f902b8502889da"
         },
         {
             "EntityId": 13599,
@@ -69,22 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=2f51eeb3950a7375651d2a94dd312a5a88a2c287b85eb8374b4c6adf9857ddd5"
-        },
-        {
-            "EntityId": 14168,
-            "VideoName": "Georgia vs Bahrain",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 22:00:00",
-            "Description": "Watch Georgia vs Bahrain live online on tapmad. The Georgia vs Bahrain game will be played on 05-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640305540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640305540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=2f51eeb3950a7375651d2a94dd312a5a88a2c287b85eb8374b4c6adf9857ddd5"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782"
         },
         {
             "EntityId": 14169,
@@ -129,7 +114,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780682708~acl=/hls/*~hmac=e53272edc2102b763ba3a39ec1d1d57b8fd98456865874c1bbec3d25f53e3d66"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782"
         },
         {
             "EntityId": 14171,
@@ -144,7 +129,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780682708~acl=/hls/*~hmac=e53272edc2102b763ba3a39ec1d1d57b8fd98456865874c1bbec3d25f53e3d66"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782"
         },
         {
             "EntityId": 14172,
@@ -160,6 +145,21 @@
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Hungary vs Finland live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
+        },
+        {
+            "EntityId": 14173,
+            "VideoName": "Azerbaijan vs Malta",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-06 00:00:00",
+            "Description": "Watch Azerbaijan vs Malta live online on tapmad. The Azerbaijan vs Malta game will be played on 06-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780657955540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780657955540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782"
         },
         {
             "EntityId": 13834,

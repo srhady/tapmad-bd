@@ -1,27 +1,27 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 05-06-2026
+# Last Update: 12:00 AM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=acfcc3c3149856337838e6b07fe92370ce78c9a20d3aa61386713079adbafa46
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780683306~acl=/hls/*~hmac=6c530d9f88b232acc4628ad94cc33614e904f780c1d1183de3f902b8502889da
 #EXTINF:-1 tvg-id="tapmad-13599" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806468891020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - Semi Finals - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14167" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806401721020x576.jpg" group-title="Football", Belarus vs Syria | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=2f51eeb3950a7375651d2a94dd312a5a88a2c287b85eb8374b4c6adf9857ddd5
-#EXTINF:-1 tvg-id="tapmad-14168" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806403051020x576.jpg" group-title="Football", Georgia vs Bahrain | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780682707~acl=/hls/*~hmac=2f51eeb3950a7375651d2a94dd312a5a88a2c287b85eb8374b4c6adf9857ddd5
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782
 #EXTINF:-1 tvg-id="tapmad-14169" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806404941020x576.jpg" group-title="Football", Slovakia vs Montenegro | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13601" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806484791020x576.jpg" group-title="Tennis", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806406721020x576.jpg" group-title="Football", San Marino vs Bangladesh | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780682708~acl=/hls/*~hmac=e53272edc2102b763ba3a39ec1d1d57b8fd98456865874c1bbec3d25f53e3d66
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782
 #EXTINF:-1 tvg-id="tapmad-14171" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806408731020x576.jpg" group-title="Football", Moldova vs Bulgaria | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780682708~acl=/hls/*~hmac=e53272edc2102b763ba3a39ec1d1d57b8fd98456865874c1bbec3d25f53e3d66
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782
 #EXTINF:-1 tvg-id="tapmad-14172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806410341020x576.jpg" group-title="Football", Hungary vs Finland | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806579551020x576.jpg" group-title="Football", Azerbaijan vs Malta | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780683307~acl=/hls/*~hmac=a2595ec7c6d7f1c575c26f87e91a1a698ba89ae55c4c0920209f8f97fae5e782
