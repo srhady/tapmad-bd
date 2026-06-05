@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:10 AM 06-06-2026",
+        "LastUpdate": "01:20 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=823be27969e6f3be9487e73b295fd56ab2c2e34eacff5ddd157869796e6f41c9"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780688107~acl=/hls/*~hmac=1ebd7a57e56f9ae4b1d8e8cabed1068e3103b2dfb0109f8dff9afab5679556dd"
         },
         {
             "EntityId": 14173,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=2d6a77be3757be8fa9ae3f6c0e711d3aaeb1a2efc7e45ceb5b054dc7cfdc8bb1"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780688107~acl=/hls/*~hmac=7a400555c0895b619d609ae150b09b75fd876ecfaf38e069b443159806c3fda0"
         },
         {
             "EntityId": 13834,
