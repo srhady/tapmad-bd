@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 AM 06-06-2026",
+        "LastUpdate": "03:10 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 13
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -192,6 +192,20 @@
             "Status": "Upcoming",
             "CategoryId": 465,
             "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live"
+        },
+        {
+            "EntityId": 14190,
+            "VideoName": "Liechtenstein vs Cyprus",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-07 19:00:00",
+            "Description": "Watch Liechtenstein vs Cyprus live online on tapmad. The Liechtenstein vs Cyprus game will be played on 07-Jun, at 06:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780693475540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780693475540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Liechtenstein vs Cyprus live"
         }
     ]
 }
