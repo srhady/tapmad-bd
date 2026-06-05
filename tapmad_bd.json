@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:10 PM 05-06-2026",
+        "LastUpdate": "12:20 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 3
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -24,6 +24,34 @@
             "Status": "Upcoming",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live"
+        },
+        {
+            "EntityId": 14167,
+            "VideoName": "Belarus vs Syria",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 22:00:00",
+            "Description": "Watch Belarus vs Syria live online on tapmad. The Belarus vs Syria game will be played on 05-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640172540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640172540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live"
+        },
+        {
+            "EntityId": 14168,
+            "VideoName": "Georgia vs Bahrain",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 22:00:00",
+            "Description": "Watch Georgia vs Bahrain live online on tapmad. The Georgia vs Bahrain game will be played on 05-Jun, at 10:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640305540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640305540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live"
         },
         {
             "EntityId": 14078,
