@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 06-06-2026
+# Last Update: 01:50 AM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806410341020x576.jpg" group-title="Football", Hungary vs Finland | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806417811020x576.jpg" group-title="Cricket", Yorkshire vs Lancashire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780689307~acl=/hls/*~hmac=1858965abfbf189572a51b03c799eef7fb2e7c0f00c8775ef20ea914e9ad3bfc
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780689907~acl=/hls/*~hmac=169e5b4b9c94872ce00e7d70be005556728f0117a2ac49fe76ae18be854da980
 #EXTINF:-1 tvg-id="tapmad-14173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806579551020x576.jpg" group-title="Football", Azerbaijan vs Malta | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780689307~acl=/hls/*~hmac=517cafdd1e4a8327e42fccfaab357673bfe4337c00604474e72b9060903829e2
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780689907~acl=/hls/*~hmac=f807ccdd1210acc8c9fb0b6249ad3c5cc198bfa9908ce2bb983a73fd0002543d
