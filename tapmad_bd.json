@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 AM 05-06-2026",
+        "LastUpdate": "06:50 AM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Czechia vs Guatemala live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780620310~acl=/hls/*~hmac=036d1a7c74ac65b49842825692e1491a7d31134972f910ca45a3117c229f4481"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780621509~acl=/hls/*~hmac=8fd135f4bd0b2067f2f132046a997b5b4a094e967c665e51c6eca955ecfcc67c"
         },
         {
             "EntityId": 14071,
