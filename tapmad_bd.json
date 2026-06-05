@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:40 PM 05-06-2026",
+        "LastUpdate": "10:50 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
-        "UpcomingCount": 17
+        "LiveCount": 9,
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780678507~acl=/hls/*~hmac=87226fc83f68146aaaa22ff085ecef5796004185c0cfdfa72b01a4c83d0f4d19"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=1d1ba41042888a3091c940d4e781cd5e16b123752f0f98a46275d9d409312560"
         },
         {
             "EntityId": 13599,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780678508~acl=/hls/*~hmac=79ca0132161c889b353d4fbfe080ba73723fcd84c0b753ab811c6a5f1d53739b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49"
         },
         {
             "EntityId": 14168,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780678508~acl=/hls/*~hmac=79ca0132161c889b353d4fbfe080ba73723fcd84c0b753ab811c6a5f1d53739b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49"
         },
         {
             "EntityId": 14169,
@@ -117,18 +117,34 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
-            "EntityId": 14172,
-            "VideoName": "Hungary vs Finland",
+            "EntityId": 14170,
+            "VideoName": "San Marino vs Bangladesh",
             "CategoryName": "European Qualifiers FIFA World Cup 2026",
             "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 23:45:00",
-            "Description": "Watch Hungary vs Finland live online on tapmad. The Hungary vs Finland game will be played on 05-Jun, at 11:45 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780641034540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780641034540x302.jpg",
+            "EventStartDate": "2026-06-05 23:00:00",
+            "Description": "Watch San Marino vs Bangladesh live online on tapmad. The San Marino vs Bangladesh game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640672540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640672540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Hungary vs Finland live"
+            "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49"
+        },
+        {
+            "EntityId": 14171,
+            "VideoName": "Moldova vs Bulgaria",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-05 23:00:00",
+            "Description": "Watch Moldova vs Bulgaria live online on tapmad. The Moldova vs Bulgaria game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640873540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640873540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49"
         },
         {
             "EntityId": 13453,

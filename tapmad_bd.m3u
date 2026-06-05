@@ -1,21 +1,25 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:40 PM 05-06-2026
+# Last Update: 10:50 PM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780678507~acl=/hls/*~hmac=87226fc83f68146aaaa22ff085ecef5796004185c0cfdfa72b01a4c83d0f4d19
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=1d1ba41042888a3091c940d4e781cd5e16b123752f0f98a46275d9d409312560
 #EXTINF:-1 tvg-id="tapmad-13599" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806468891020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - Semi Finals - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14167" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806401721020x576.jpg" group-title="Football", Belarus vs Syria | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780678508~acl=/hls/*~hmac=79ca0132161c889b353d4fbfe080ba73723fcd84c0b753ab811c6a5f1d53739b
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49
 #EXTINF:-1 tvg-id="tapmad-14168" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806403051020x576.jpg" group-title="Football", Georgia vs Bahrain | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780678508~acl=/hls/*~hmac=79ca0132161c889b353d4fbfe080ba73723fcd84c0b753ab811c6a5f1d53739b
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49
 #EXTINF:-1 tvg-id="tapmad-14169" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806404941020x576.jpg" group-title="Football", Slovakia vs Montenegro | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13601" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806484791020x576.jpg" group-title="Tennis", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806406721020x576.jpg" group-title="Football", San Marino vs Bangladesh | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49
+#EXTINF:-1 tvg-id="tapmad-14171" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806408731020x576.jpg" group-title="Football", Moldova vs Bulgaria | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780679107~acl=/hls/*~hmac=c3a8304a7f19b780956241a3d10c0215ecddd2d371dc5ec9f6331b78cfd6be49
