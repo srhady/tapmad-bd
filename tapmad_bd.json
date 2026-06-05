@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 06-06-2026",
+        "LastUpdate": "12:30 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 6,
         "UpcomingCount": 14
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 449,
             "UrlSlug": "juniors-singles-&-doubles---semi-finals---world-feed",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 14169,
-            "VideoName": "Slovakia vs Montenegro",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 22:30:00",
-            "Description": "Watch Slovakia vs Montenegro live online on tapmad. The Slovakia vs Montenegro game will be played on 05-Jun, at 10:30 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640494540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640494540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Slovakia vs Montenegro live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
         },
         {
             "EntityId": 13601,
@@ -69,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780684507~acl=/hls/*~hmac=7360bd420e581c675d0d253afc994b8c7a975a79124ce9d9d307e8f51ee6385d"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399"
         },
         {
             "EntityId": 14171,
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780684507~acl=/hls/*~hmac=7360bd420e581c675d0d253afc994b8c7a975a79124ce9d9d307e8f51ee6385d"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399"
         },
         {
             "EntityId": 14172,
@@ -114,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780684525~acl=/hls/*~hmac=23044d2ce92bcdfdbe8c62b4563ff4f91c9fc25cb90bddcdfe6eeeafcf19b261"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399"
         },
         {
             "EntityId": 13834,
