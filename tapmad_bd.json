@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 PM 05-06-2026",
+        "LastUpdate": "10:20 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=dd048ae0181512ed0bc34300736cbda6ec506281cafdab29c83b732914c438d7"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780677307~acl=/hls/*~hmac=7ad71790f1486cf5f9e2a659272266834ee02e7b4e4f85cf3a4a563931cc3f3f"
         },
         {
             "EntityId": 13599,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=4b7a26be5e4d5db5d851ae75b934c2a7ac1465f2c2d821509fba1b1988d4a1da"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780677307~acl=/hls/*~hmac=b308ae7e7d2219ef9640523ddf02793e6fcca554695c663057bc4656b5448db8"
         },
         {
             "EntityId": 14168,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=4b7a26be5e4d5db5d851ae75b934c2a7ac1465f2c2d821509fba1b1988d4a1da"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780677307~acl=/hls/*~hmac=b308ae7e7d2219ef9640523ddf02793e6fcca554695c663057bc4656b5448db8"
         },
         {
             "EntityId": 14172,
