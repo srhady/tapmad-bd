@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 05-06-2026",
+        "LastUpdate": "10:10 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=04441ecd7db725e99e72069b227f57b491604efce87084ca84dc1041d6a278a7"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=dd048ae0181512ed0bc34300736cbda6ec506281cafdab29c83b732914c438d7"
         },
         {
             "EntityId": 13599,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=00bffcf06307788e063cb893a790ef8a7f1f06878e76f188a96278b0da357091"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=4b7a26be5e4d5db5d851ae75b934c2a7ac1465f2c2d821509fba1b1988d4a1da"
         },
         {
             "EntityId": 14168,
@@ -84,49 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=00bffcf06307788e063cb893a790ef8a7f1f06878e76f188a96278b0da357091"
-        },
-        {
-            "EntityId": 13601,
-            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 11:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648479540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648479540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier"
-        },
-        {
-            "EntityId": 14170,
-            "VideoName": "San Marino vs Bangladesh",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch San Marino vs Bangladesh live online on tapmad. The San Marino vs Bangladesh game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640672540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640672540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live"
-        },
-        {
-            "EntityId": 14171,
-            "VideoName": "Moldova vs Bulgaria",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch Moldova vs Bulgaria live online on tapmad. The Moldova vs Bulgaria game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640873540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640873540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780676707~acl=/hls/*~hmac=4b7a26be5e4d5db5d851ae75b934c2a7ac1465f2c2d821509fba1b1988d4a1da"
         },
         {
             "EntityId": 14172,
@@ -323,6 +281,48 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live"
+        },
+        {
+            "EntityId": 14301,
+            "VideoName": "Turkiye vs Venezuela",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-07 04:00:00",
+            "Description": "Watch Turkiye vs Venezuela live online on tapmad. The Turkiye vs Venezuela game will be played on 07-Jun, at 04:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780662538540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780662538540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live"
+        },
+        {
+            "EntityId": 14142,
+            "VideoName": "Muhammad vs Bonfim",
+            "CategoryName": "UFC 2026",
+            "StageName": "Fight Night",
+            "EventStartDate": "2026-06-07 06:00:00",
+            "Description": "UFC Fight Night Live: Watch Muhammad vs Bonfim live online on tapmad. Enjoy watching Muhammad vs Bonfim live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 07-Jun. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780662935540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780662935540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc fight night-muhammad vs bonfim-live"
+        },
+        {
+            "EntityId": 14184,
+            "VideoName": "Race Day - Erzincan Turkey Live",
+            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
+            "StageName": "Day 2",
+            "EventStartDate": "2026-06-07 17:00:00",
+            "Description": "Watch Race Day - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 465,
+            "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live"
         }
     ]
 }
