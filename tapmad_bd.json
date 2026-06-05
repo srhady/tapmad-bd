@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:50 AM 06-06-2026",
+        "LastUpdate": "01:00 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 14
     },
     "Matches": [
-        {
-            "EntityId": 13599,
-            "VideoName": "Juniors Singles & Doubles - Semi Finals - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-05 15:00:00",
-            "Description": "Watch French Open 2026 Juniors Singles & Doubles - Semi Finals - World Feed live online on tapmad. The event is scheduled to take place on 05-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780646889540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780646889540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "juniors-singles-&-doubles---semi-finals---world-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
         {
             "EntityId": 14170,
             "VideoName": "San Marino vs Bangladesh",
@@ -39,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
         },
         {
             "EntityId": 14171,
@@ -54,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
         },
         {
             "EntityId": 14172,
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=395e4eaf7506bf4dec2beb5eae50c27f6272f9e5211d039615520b38eec8a56f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780686907~acl=/hls/*~hmac=e8f890ad35c4b571af8c9f0805ddb5f5acf42bc3dc9a9e8c91123fce60c776d8"
         },
         {
             "EntityId": 14173,
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
         },
         {
             "EntityId": 13834,
