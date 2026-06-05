@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 PM 05-06-2026",
+        "LastUpdate": "12:50 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -108,6 +108,20 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Hungary vs Finland live"
+        },
+        {
+            "EntityId": 13453,
+            "VideoName": "Yorkshire vs Lancashire Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-06 00:00:00",
+            "Description": "Watch 13th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780641781540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780641781540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 440,
+            "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live"
         },
         {
             "EntityId": 14078,
