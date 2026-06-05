@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 06-06-2026
+# Last Update: 12:40 AM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,10 +10,12 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u
 #EXTINF:-1 tvg-id="tapmad-13601" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806484791020x576.jpg" group-title="Tennis", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806406721020x576.jpg" group-title="Football", San Marino vs Bangladesh | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598
 #EXTINF:-1 tvg-id="tapmad-14171" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806408731020x576.jpg" group-title="Football", Moldova vs Bulgaria | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598
 #EXTINF:-1 tvg-id="tapmad-14172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806410341020x576.jpg" group-title="Football", Hungary vs Finland | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806417811020x576.jpg" group-title="Cricket", Yorkshire vs Lancashire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=4853cfc22960f8367a86f1b503436f40c540eec319bcf3cfaa2a03c322dc07f2
 #EXTINF:-1 tvg-id="tapmad-14173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806579551020x576.jpg" group-title="Football", Azerbaijan vs Malta | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780685108~acl=/hls/*~hmac=4ae4e96c7d3988b723044e83a74b1dac2805c5a0781185fa5c8f782885970399
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598
