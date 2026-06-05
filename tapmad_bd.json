@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 PM 05-06-2026",
+        "LastUpdate": "11:10 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 9,
-        "UpcomingCount": 16
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780679706~acl=/hls/*~hmac=6ae9f73aec29192a68fc7fcb90f649b0efa48c71d105ce36c8e63ba1abb1125c"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=27dff57e66bfabe1d3a0c5826a2fbad7aa53aea0d6697092146f8ce813d43ab9"
         },
         {
             "EntityId": 13599,
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780679706~acl=/hls/*~hmac=58c35a3218675dfce01e671ac2d22930aabb470b64cedb971e18d8a85337158e"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=4fa95599b2e0e6849b96979799ce293247457004bce3186956ccab2e07f02bdb"
         },
         {
             "EntityId": 14168,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780679707~acl=/hls/*~hmac=d394fe97048d2522eaf1deb84f28d47fcab6ec792745e07092970046f85bc78b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=4fa95599b2e0e6849b96979799ce293247457004bce3186956ccab2e07f02bdb"
         },
         {
             "EntityId": 14169,
@@ -129,7 +129,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780679707~acl=/hls/*~hmac=d394fe97048d2522eaf1deb84f28d47fcab6ec792745e07092970046f85bc78b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=4fa95599b2e0e6849b96979799ce293247457004bce3186956ccab2e07f02bdb"
         },
         {
             "EntityId": 14171,
@@ -144,35 +144,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780679707~acl=/hls/*~hmac=d394fe97048d2522eaf1deb84f28d47fcab6ec792745e07092970046f85bc78b"
-        },
-        {
-            "EntityId": 13453,
-            "VideoName": "Yorkshire vs Lancashire Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-06 00:00:00",
-            "Description": "Watch 13th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780641781540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780641781540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 440,
-            "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live"
-        },
-        {
-            "EntityId": 14173,
-            "VideoName": "Azerbaijan vs Malta",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-06 00:00:00",
-            "Description": "Watch Azerbaijan vs Malta live online on tapmad. The Azerbaijan vs Malta game will be played on 06-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780657955540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780657955540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=4fa95599b2e0e6849b96979799ce293247457004bce3186956ccab2e07f02bdb"
         },
         {
             "EntityId": 13834,
