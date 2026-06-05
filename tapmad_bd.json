@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:10 PM 05-06-2026",
+        "LastUpdate": "06:20 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 5,
         "UpcomingCount": 12
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780662306~acl=/hls/*~hmac=8c68576cdc28eee2ce8b134f034fd74b99b11506807e47962bf55b31fe0aeabf"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780662907~acl=/hls/*~hmac=19c032539816f698547d690f313ede86aee87d2e97ce4d191807034706a7d6fb"
         },
         {
             "EntityId": 13598,
@@ -40,6 +40,21 @@
             "CategoryId": 449,
             "UrlSlug": "wheelchair---semi-finals---suzanne-lenglen",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
+        },
+        {
+            "EntityId": 13599,
+            "VideoName": "Juniors Singles & Doubles - Semi Finals - World Feed Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "4th Round",
+            "EventStartDate": "2026-06-05 15:00:00",
+            "Description": "Watch French Open 2026 Juniors Singles & Doubles - Semi Finals - World Feed live online on tapmad. The event is scheduled to take place on 05-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780646889540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780646889540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "juniors-singles-&-doubles---semi-finals---world-feed",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 13833,
