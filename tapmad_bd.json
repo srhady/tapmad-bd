@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:50 PM 05-06-2026",
+        "LastUpdate": "08:00 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780668306~acl=/hls/*~hmac=62b73be923a0c5338b49edb1e3f970a47c23d8613066d20d0be880e9998bfb35"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780668907~acl=/hls/*~hmac=72ea3c71d1d5eaf3d3270f6db8ab46dc2a393bd3a01d1a41b2ac977f987ce739"
         },
         {
             "EntityId": 13599,
@@ -311,18 +311,18 @@
             "UrlSlug": "qualifying-sessions-erzincan-turkey-wdsc-2026-live"
         },
         {
-            "EntityId": 13454,
-            "VideoName": "Durham vs Northampton Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-07 00:00:00",
-            "Description": "Watch 14th T20 of the Vitality Blast 2032 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780658248540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780658248540x302.jpg",
+            "EntityId": 13605,
+            "VideoName": "Women's Single - Semi Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-06 19:00:00",
+            "Description": "Watch French Open 2026 Women's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 06-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667456540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667456540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 440,
-            "UrlSlug": "durham-vs-northampton-14th-t20-live"
+            "CategoryId": 449,
+            "UrlSlug": "women's-single---semi-finals---philippe-chatrier"
         }
     ]
 }
