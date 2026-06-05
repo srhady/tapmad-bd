@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 05-06-2026",
+        "LastUpdate": "07:40 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780667133~acl=/hls/*~hmac=d9a4af559cee9d8fc909fe151eb8d0532fa9cd75d49eb4990c365b279b2e3117"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780667712~acl=/hls/*~hmac=87df336fc418cdd871183521039d27aed5b07aa2122775d61548003d57928f52"
         },
         {
             "EntityId": 13599,
@@ -213,6 +213,20 @@
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live"
         },
         {
+            "EntityId": 13834,
+            "VideoName": "Singles & Doubles Juniors - Finals - Simonne Mathieu Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-06 04:00:00",
+            "Description": "Watch French Open 2026 Singles & Doubles Juniors - Finals - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666230540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666230540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "singles-&-doubles-juniors---finals---simonne-mathieu"
+        },
+        {
             "EntityId": 14078,
             "VideoName": "India vs Afghanistan",
             "CategoryName": "Afghanistan Tour of India 2026",
@@ -225,6 +239,34 @@
             "Status": "Upcoming",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live"
+        },
+        {
+            "EntityId": 13602,
+            "VideoName": "Gentlemen's Doubles - Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-06 15:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's Doubles - Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666667540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666667540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-doubles---finals---philippe-chatrier"
+        },
+        {
+            "EntityId": 13835,
+            "VideoName": "Singles & Doubles Juniors - Finals - Court 14 Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-06 15:00:00",
+            "Description": "Watch French Open 2026 Singles & Doubles Juniors - Finals - Court 14 live online on tapmad. The event is scheduled to take place on 06-Jun,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666448540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666448540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "singles-&-doubles-juniors---finals---court-14"
         },
         {
             "EntityId": 14178,
@@ -281,48 +323,6 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live"
-        },
-        {
-            "EntityId": 14301,
-            "VideoName": "Turkiye vs Venezuela",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-07 04:00:00",
-            "Description": "Watch Turkiye vs Venezuela live online on tapmad. The Turkiye vs Venezuela game will be played on 07-Jun, at 04:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780662538540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780662538540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live"
-        },
-        {
-            "EntityId": 14142,
-            "VideoName": "Muhammad vs Bonfim",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-06-07 06:00:00",
-            "Description": "UFC Fight Night Live: Watch Muhammad vs Bonfim live online on tapmad. Enjoy watching Muhammad vs Bonfim live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 07-Jun. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780662935540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780662935540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-muhammad vs bonfim-live"
-        },
-        {
-            "EntityId": 14184,
-            "VideoName": "Race Day - Erzincan Turkey Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Day 2",
-            "EventStartDate": "2026-06-07 17:00:00",
-            "Description": "Watch Race Day - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 465,
-            "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live"
         }
     ]
 }
