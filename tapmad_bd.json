@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 06-06-2026",
+        "LastUpdate": "12:50 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 6,
         "UpcomingCount": 14
     },
     "Matches": [
@@ -27,21 +27,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
-            "EntityId": 13601,
-            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 11:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648479540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648479540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
-        },
-        {
             "EntityId": 14170,
             "VideoName": "San Marino vs Bangladesh",
             "CategoryName": "European Qualifiers FIFA World Cup 2026",
@@ -54,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
         },
         {
             "EntityId": 14171,
@@ -69,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
         },
         {
             "EntityId": 14172,
@@ -99,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=4853cfc22960f8367a86f1b503436f40c540eec319bcf3cfaa2a03c322dc07f2"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=395e4eaf7506bf4dec2beb5eae50c27f6272f9e5211d039615520b38eec8a56f"
         },
         {
             "EntityId": 14173,
@@ -114,7 +99,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780685707~acl=/hls/*~hmac=cee28a0d1487767171454250ae7e18eabc009c51f89a3b7c77245cd7493a8598"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780686307~acl=/hls/*~hmac=2854cfc387d1bcbd26ec5356fff8e4c4b245e4027a28bb512dcd024801462c50"
         },
         {
             "EntityId": 13834,
