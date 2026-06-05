@@ -1,46 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 06-06-2026",
+        "LastUpdate": "01:10 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 3,
         "UpcomingCount": 14
     },
     "Matches": [
-        {
-            "EntityId": 14170,
-            "VideoName": "San Marino vs Bangladesh",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch San Marino vs Bangladesh live online on tapmad. The San Marino vs Bangladesh game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640672540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640672540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 San Marino vs Bangladesh live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
-        },
-        {
-            "EntityId": 14171,
-            "VideoName": "Moldova vs Bulgaria",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-05 23:00:00",
-            "Description": "Watch Moldova vs Bulgaria live online on tapmad. The Moldova vs Bulgaria game will be played on 05-Jun, at 11:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780640873540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780640873540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Moldova vs Bulgaria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
-        },
         {
             "EntityId": 14172,
             "VideoName": "Hungary vs Finland",
@@ -69,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "yorkshire-vs-lancashire-13th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780686907~acl=/hls/*~hmac=e8f890ad35c4b571af8c9f0805ddb5f5acf42bc3dc9a9e8c91123fce60c776d8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=823be27969e6f3be9487e73b295fd56ab2c2e34eacff5ddd157869796e6f41c9"
         },
         {
             "EntityId": 14173,
@@ -84,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Azerbaijan vs Malta live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780686908~acl=/hls/*~hmac=351f049d933d595789a5a0504738948eb4809a595b5d51b9ee761b845e18a227"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=2d6a77be3757be8fa9ae3f6c0e711d3aaeb1a2efc7e45ceb5b054dc7cfdc8bb1"
         },
         {
             "EntityId": 13834,
