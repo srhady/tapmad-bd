@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:50 PM 05-06-2026",
+        "LastUpdate": "10:00 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,6 +11,21 @@
         "UpcomingCount": 17
     },
     "Matches": [
+        {
+            "EntityId": 14071,
+            "VideoName": "England vs New Zealand",
+            "CategoryName": "New Zealand Tour of England 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-06-04 16:00:00",
+            "Description": "The 1st Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780490687540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780490687540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 461,
+            "UrlSlug": "england-vs-new-zealand-1st-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=04441ecd7db725e99e72069b227f57b491604efce87084ca84dc1041d6a278a7"
+        },
         {
             "EntityId": 13599,
             "VideoName": "Juniors Singles & Doubles - Semi Finals - World Feed Live",
@@ -42,21 +57,6 @@
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
         },
         {
-            "EntityId": 13600,
-            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-05 18:30:00",
-            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 06:30 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648352540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648352540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
-        },
-        {
             "EntityId": 14167,
             "VideoName": "Belarus vs Syria",
             "CategoryName": "European Qualifiers FIFA World Cup 2026",
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Belarus vs Syria live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780675507~acl=/hls/*~hmac=b295170c123e22917c4e7efc0cb66277d28534a150e29acd4f3d5025f561bc1b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=00bffcf06307788e063cb893a790ef8a7f1f06878e76f188a96278b0da357091"
         },
         {
             "EntityId": 14168,
@@ -84,7 +84,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Georgia vs Bahrain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780675507~acl=/hls/*~hmac=b295170c123e22917c4e7efc0cb66277d28534a150e29acd4f3d5025f561bc1b"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780676107~acl=/hls/*~hmac=00bffcf06307788e063cb893a790ef8a7f1f06878e76f188a96278b0da357091"
         },
         {
             "EntityId": 13601,
