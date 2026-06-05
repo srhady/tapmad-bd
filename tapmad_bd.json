@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 PM 05-06-2026",
+        "LastUpdate": "05:40 PM 05-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 13
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780659907~acl=/hls/*~hmac=e9933db8b99ac6c713938ab39bd4451ada4b6ac236dcf703d29d6662cd2fc274"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780660506~acl=/hls/*~hmac=82d4336e92c38738be74f9a7d5ae28b34e2dbcc852383c91cdf434c4907e44a9"
         },
         {
             "EntityId": 13598,
@@ -70,20 +70,6 @@
             "CategoryId": 449,
             "UrlSlug": "ladies-doubles---1/2-finals---simonne-mathieu",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
-            "EntityId": 13600,
-            "VideoName": "Gentlemen's Single - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "4th Round",
-            "EventStartDate": "2026-06-05 18:30:00",
-            "Description": "Watch French Open 2026 Gentlemen's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 05-Jun,  at 06:30 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780648352540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780648352540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-single---semi-finals---philippe-chatrier"
         },
         {
             "EntityId": 14167,

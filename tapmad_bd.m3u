@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 05-06-2026
+# Last Update: 05:40 PM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780659907~acl=/hls/*~hmac=e9933db8b99ac6c713938ab39bd4451ada4b6ac236dcf703d29d6662cd2fc274
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780660506~acl=/hls/*~hmac=82d4336e92c38738be74f9a7d5ae28b34e2dbcc852383c91cdf434c4907e44a9
 #EXTINF:-1 tvg-id="tapmad-13598" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806466431020x576.jpg" group-title="Tennis", Wheelchair - Semi Finals - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
