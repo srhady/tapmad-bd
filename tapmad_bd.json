@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 06-06-2026",
+        "LastUpdate": "02:10 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 13
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -24,63 +24,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780733707~acl=/hls/*~hmac=3ded4717991cdec9169179b8417eacca62345f2ba3a682ed074ce89d8f30e41d"
-        },
-        {
-            "EntityId": 13602,
-            "VideoName": "Gentlemen's Doubles - Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-06 15:00:00",
-            "Description": "Watch French Open 2026 Gentlemen's Doubles - Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666667540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666667540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "gentlemen's-doubles---finals---philippe-chatrier"
-        },
-        {
-            "EntityId": 13603,
-            "VideoName": "Wheelchair - Finals - Suzanne Lenglen Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-06 15:00:00",
-            "Description": "Watch French Open 2026 Wheelchair - Finals - Suzanne Lenglen live online on tapmad. The event is scheduled to take place on 06-Jun,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667098540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667098540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "wheelchair---finals---suzanne-lenglen"
-        },
-        {
-            "EntityId": 13604,
-            "VideoName": "Juniors Singles & Doubles - Finals - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-06 15:00:00",
-            "Description": "Watch French Open 2026 Juniors Singles & Doubles - Finals - World Feed live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667265540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667265540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "juniors-singles-&-doubles---finals---world-feed"
-        },
-        {
-            "EntityId": 13835,
-            "VideoName": "Singles & Doubles Juniors - Finals - Court 14 Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-06 15:00:00",
-            "Description": "Watch French Open 2026 Singles & Doubles Juniors - Finals - Court 14 live online on tapmad. The event is scheduled to take place on 06-Jun,  at 02:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666448540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666448540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "singles-&-doubles-juniors---finals---court-14"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780734306~acl=/hls/*~hmac=f6d92895016b134cd1ac88f4748ec52cb761048592a255180deab889291b2195"
         },
         {
             "EntityId": 14178,
