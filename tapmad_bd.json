@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 07-06-2026",
+        "LastUpdate": "01:10 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 7
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "durham-vs-northampton-14th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780773307~acl=/hls/*~hmac=cad0c936296244bf2ce789482461da9948ccba50ad97218b32edf226f9d170be"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780773907~acl=/hls/*~hmac=eba10139b54cd8db54085be9dace28d016df9eaa0c4fcdbaee77d78b159796f6"
         },
         {
             "EntityId": 14300,
@@ -55,20 +55,6 @@
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Switzerland vs Australia live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
-            "EntityId": 14323,
-            "VideoName": "England vs New Zealand",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-07 02:00:00",
-            "Description": "Watch England vs New Zealand live online on tapmad. The England vs New Zealand game will be played on 07-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780769476540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780769476540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 England vs New Zealand live"
         },
         {
             "EntityId": 14301,

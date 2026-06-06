@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 07-06-2026
+# Last Update: 01:10 AM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806582481020x576.jpg" group-title="Cricket", Durham vs Northampton Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780773307~acl=/hls/*~hmac=cad0c936296244bf2ce789482461da9948ccba50ad97218b32edf226f9d170be
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780773907~acl=/hls/*~hmac=eba10139b54cd8db54085be9dace28d016df9eaa0c4fcdbaee77d78b159796f6
 #EXTINF:-1 tvg-id="tapmad-14300" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806601481020x576.jpg" group-title="Football", Albania vs Luxembourg | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807692041020x576.jpg" group-title="Football", Switzerland vs Australia | European Qualifiers FIFA World Cup 2026
