@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 07-06-2026",
+        "LastUpdate": "12:50 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "durham-vs-northampton-14th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780772107~acl=/hls/*~hmac=c572a1ad10b9f77c36568cafccfbe485c40563f292be22146355f68e99449cb2"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780772707~acl=/hls/*~hmac=f776c5ebb8612948d6fb7d38b5f6173fb9b9a18cd0f4b0bfc7f3691427e0cbec"
         },
         {
             "EntityId": 14300,
