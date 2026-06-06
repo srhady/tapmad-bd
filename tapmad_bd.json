@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 AM 07-06-2026",
+        "LastUpdate": "02:40 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "durham-vs-northampton-14th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780778706~acl=/hls/*~hmac=93218aa3c3209f9fd0128a3956651856d7de0f810b1dbb6030dde12e9da24930"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780779307~acl=/hls/*~hmac=efd5354514eb8e4021ef9d1401c91b28db3a67f3a694617a98eb75d057309535"
         },
         {
             "EntityId": 14322,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 England vs New Zealand live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780778707~acl=/hls/*~hmac=2982863b1d32e11de04afd6f72fa9745b1b93813bcaa5ba20f67888e736b28b5"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780779307~acl=/hls/*~hmac=233263625de3ea6045e5253b84e4df3ca164916bc017aeb061fdf70d869e25aa"
         },
         {
             "EntityId": 14301,
