@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 AM 07-06-2026
+# Last Update: 05:10 AM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806625381020x576.jpg" group-title="Football", Turkiye vs Venezuela | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780787714~acl=/hls/*~hmac=0b8a5e1c76f849f52967f808726d78485966db20f85973f2149420c3fb3b6523
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780788322~acl=/hls/*~hmac=8b9759e46bad6f82d9283f756ed8763661139318d0dcffe76fef17a4d33ab848
+#EXTINF:-1 tvg-id="tapmad-14142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806629351020x576.jpg" group-title="Mma", Muhammad vs Bonfim | UFC 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
