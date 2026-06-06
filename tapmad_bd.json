@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:10 PM 06-06-2026",
+        "LastUpdate": "02:20 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780734306~acl=/hls/*~hmac=f6d92895016b134cd1ac88f4748ec52cb761048592a255180deab889291b2195"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780734906~acl=/hls/*~hmac=246d9f001f18f180e4d9b07ce0739b33fa98346bce1fdbffd38258b54d0301cf"
         },
         {
             "EntityId": 14178,
