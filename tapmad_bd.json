@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 AM 07-06-2026",
+        "LastUpdate": "04:10 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 14323,
-            "VideoName": "England vs New Zealand",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-07 02:00:00",
-            "Description": "Watch England vs New Zealand live online on tapmad. The England vs New Zealand game will be played on 07-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780769476540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780769476540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 England vs New Zealand live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780784118~acl=/hls/*~hmac=8ad2967bbf8529d14f879985703137ac44aa424764dc99cb082b4bf04c230f26"
-        },
         {
             "EntityId": 14301,
             "VideoName": "Turkiye vs Venezuela",
@@ -39,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780784118~acl=/hls/*~hmac=8ad2967bbf8529d14f879985703137ac44aa424764dc99cb082b4bf04c230f26"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780784718~acl=/hls/*~hmac=27068b2a8d2ca06ad43a1c3cd6d28d261b45c6227ebd7484ff40181500c88cf7"
         },
         {
             "EntityId": 14142,
