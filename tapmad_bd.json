@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 AM 06-06-2026",
+        "LastUpdate": "10:20 AM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 13
     },
     "Matches": [
-        {
-            "EntityId": 14078,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-06-06 10:00:00",
-            "Description": "The 1st Test of the Afghanistan Tour of India 2026 marks the start of a only Test match. Watch India vs Afghanistan 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780555921540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780555921540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780719907~acl=/hls/*~hmac=299725ecdcf7494c3e87e90654a95a6df1d32b658568f5758b0b6f55f91592b8"
-        },
         {
             "EntityId": 13602,
             "VideoName": "Gentlemen's Doubles - Finals - Philippe Chatrier Live",
