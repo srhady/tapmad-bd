@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 06-06-2026",
+        "LastUpdate": "04:10 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 7,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780740907~acl=/hls/*~hmac=5bbfb10c9c5d21f090d8471348d820a1af720989c42ed158a8eaff9725cdd799"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780741506~acl=/hls/*~hmac=41c035282def4d9555ef2f0055a85e7b6fddc00e8485b0846a592e8139d5e19b"
         },
         {
             "EntityId": 14078,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780740907~acl=/hls/*~hmac=5bbfb10c9c5d21f090d8471348d820a1af720989c42ed158a8eaff9725cdd799"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780741506~acl=/hls/*~hmac=41c035282def4d9555ef2f0055a85e7b6fddc00e8485b0846a592e8139d5e19b"
         },
         {
             "EntityId": 13602,
@@ -115,20 +115,6 @@
             "CategoryId": 449,
             "UrlSlug": "singles-&-doubles-juniors---finals---simonne-mathieu",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
-            "EntityId": 14178,
-            "VideoName": "Qualifying Sessions - Erzincan Turkey Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Day 1",
-            "EventStartDate": "2026-06-06 17:00:00",
-            "Description": "Watch Qualifying Sessions - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665466540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665466540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 465,
-            "UrlSlug": "qualifying-sessions-erzincan-turkey-wdsc-2026-live"
         },
         {
             "EntityId": 13605,
