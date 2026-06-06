@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:40 PM 06-06-2026",
+        "LastUpdate": "06:50 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 4,
         "UpcomingCount": 9
     },
     "Matches": [
-        {
-            "EntityId": 14071,
-            "VideoName": "England vs New Zealand",
-            "CategoryName": "New Zealand Tour of England 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-06-04 16:00:00",
-            "Description": "The 1st Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780490687540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780490687540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 461,
-            "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780750506~acl=/hls/*~hmac=02b35c522fa5a71ab8f13e9c215e28417d40d383b38ab92822efb1bf684ae2c7"
-        },
         {
             "EntityId": 13603,
             "VideoName": "Wheelchair - Finals - Suzanne Lenglen Live",
@@ -70,21 +55,6 @@
             "CategoryId": 449,
             "UrlSlug": "singles-&-doubles-juniors---finals---simonne-mathieu",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
-            "EntityId": 14178,
-            "VideoName": "Qualifying Sessions - Erzincan Turkey Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Day 1",
-            "EventStartDate": "2026-06-06 17:00:00",
-            "Description": "Watch Qualifying Sessions - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665466540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665466540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 465,
-            "UrlSlug": "qualifying-sessions-erzincan-turkey-wdsc-2026-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
         },
         {
             "EntityId": 13605,
