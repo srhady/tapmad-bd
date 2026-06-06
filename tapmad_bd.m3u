@@ -1,12 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:50 PM 06-06-2026
+# Last Update: 09:00 PM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780758307~acl=/hls/*~hmac=bc7ae4cd760055ef7278ae066cdf99e290c123dd2344318872ee1bae52fecebd
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780758906~acl=/hls/*~hmac=19e1c6d5e8734edbc2339f3b96f0f6004d145da153cada375857c8ac1500b89a
 #EXTINF:-1 tvg-id="tapmad-13835" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806664481020x576.jpg" group-title="Tennis", Singles & Doubles Juniors - Finals - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13834" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806662291020x576.jpg" group-title="Tennis", Singles & Doubles Juniors - Finals - Simonne Mathieu Live | French Open 2026
