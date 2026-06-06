@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 AM 07-06-2026",
+        "LastUpdate": "04:40 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 5
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780785915~acl=/hls/*~hmac=25e177347c494fe90895b8fcead9f233d9ee1935a2969876a7dfd9a0b11bdd70"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780786507~acl=/hls/*~hmac=b1cedbf90387be85a0978f25bd0297e430c906fabd666a50b95850937cb3885c"
         },
         {
             "EntityId": 14142,
@@ -55,6 +55,20 @@
             "UrlSlug": "india-vs-afghanistan-1st-test-live"
         },
         {
+            "EntityId": 13606,
+            "VideoName": "Ladies' Doubles - Final - Philippe Chatrier  Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Quarterfinals",
+            "EventStartDate": "2026-06-07 15:00:00",
+            "Description": "Watch French Open 2026 Ladies' Doubles - Final - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 07-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785012540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785012540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "ladies'-doubles---final---philippe-chatrier-"
+        },
+        {
             "EntityId": 14071,
             "VideoName": "England vs New Zealand",
             "CategoryName": "New Zealand Tour of England 2026",
@@ -81,6 +95,20 @@
             "Status": "Upcoming",
             "CategoryId": 465,
             "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live"
+        },
+        {
+            "EntityId": 13607,
+            "VideoName": "Gentlemen's Single - Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-07 19:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's Single - Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 07-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785210540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785210540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-single---finals---philippe-chatrier"
         },
         {
             "EntityId": 14190,
