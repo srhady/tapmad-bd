@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 PM 06-06-2026",
+        "LastUpdate": "03:40 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 7,
         "UpcomingCount": 9
     },
     "Matches": [
+        {
+            "EntityId": 14071,
+            "VideoName": "England vs New Zealand",
+            "CategoryName": "New Zealand Tour of England 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-06-04 16:00:00",
+            "Description": "The 1st Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780490687540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780490687540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 461,
+            "UrlSlug": "england-vs-new-zealand-1st-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780739708~acl=/hls/*~hmac=e36550c79ba412aa79eb2b89dcac905c9eb9f2763ede83e4e3478c6e3883f9c2"
+        },
         {
             "EntityId": 14078,
             "VideoName": "India vs Afghanistan",
@@ -24,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780739113~acl=/hls/*~hmac=160a3a31c65e8116646d8501cfc24039a528d6901c7e6314ce73c3428125d3d7"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780739708~acl=/hls/*~hmac=e36550c79ba412aa79eb2b89dcac905c9eb9f2763ede83e4e3478c6e3883f9c2"
         },
         {
             "EntityId": 13602,
@@ -85,6 +100,21 @@
             "CategoryId": 449,
             "UrlSlug": "singles-&-doubles-juniors---finals---court-14",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
+        },
+        {
+            "EntityId": 13834,
+            "VideoName": "Singles & Doubles Juniors - Finals - Simonne Mathieu Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-06 15:35:00",
+            "Description": "Watch French Open 2026 Singles & Doubles Juniors - Finals - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666230540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666230540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "singles-&-doubles-juniors---finals---simonne-mathieu",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
         },
         {
             "EntityId": 14178,
