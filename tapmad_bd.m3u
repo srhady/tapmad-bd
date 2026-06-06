@@ -1,12 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 PM 06-06-2026
+# Last Update: 06:00 PM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780747506~acl=/hls/*~hmac=8aba726aa11403b417f2713bdaf4a70dc8c1f2e042965b4ae7e927565162f734
 #EXTINF:-1 tvg-id="tapmad-13602" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806666671020x576.jpg" group-title="Tennis", Gentlemen's Doubles - Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806670981020x576.jpg" group-title="Tennis", Wheelchair - Finals - Suzanne Lenglen Live | French Open 2026
