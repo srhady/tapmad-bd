@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:40 PM 06-06-2026",
+        "LastUpdate": "09:50 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 1,
         "UpcomingCount": 9
     },
     "Matches": [
@@ -24,37 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780761306~acl=/hls/*~hmac=11b202ac8fed320896e1ad4af91af3a52c407673798f914ad0ad3d12bc6bacc8"
-        },
-        {
-            "EntityId": 13834,
-            "VideoName": "Singles & Doubles Juniors - Finals - Simonne Mathieu Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-06 15:35:00",
-            "Description": "Watch French Open 2026 Singles & Doubles Juniors - Finals - Simonne Mathieu live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780666230540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780666230540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "singles-&-doubles-juniors---finals---simonne-mathieu",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8"
-        },
-        {
-            "EntityId": 13605,
-            "VideoName": "Women's Single - Semi Finals - Philippe Chatrier Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-06 19:00:00",
-            "Description": "Watch French Open 2026 Women's Single - Semi Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 06-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667456540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667456540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "women's-single---semi-finals---philippe-chatrier",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780761906~acl=/hls/*~hmac=082a61c6ee3328a202f4c73e45ff4ea40ed73675a2c92ff35eb0ef0b6985aa8b"
         },
         {
             "EntityId": 13454,
