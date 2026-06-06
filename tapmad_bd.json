@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:50 PM 06-06-2026",
+        "LastUpdate": "05:00 PM 06-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 6,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780743907~acl=/hls/*~hmac=6118cadab8dca5eb0b9f92750e2bedee87793a97ddae72f86447a46012dbd09b"
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780744507~acl=/hls/*~hmac=ab470324e256d4f2064aa65e49308bfd46fb301ef70cfe85b9ef0e86c451d910"
         },
         {
             "EntityId": 14078,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780743907~acl=/hls/*~hmac=6118cadab8dca5eb0b9f92750e2bedee87793a97ddae72f86447a46012dbd09b"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780744507~acl=/hls/*~hmac=ab470324e256d4f2064aa65e49308bfd46fb301ef70cfe85b9ef0e86c451d910"
         },
         {
             "EntityId": 13602,
@@ -70,21 +70,6 @@
             "CategoryId": 449,
             "UrlSlug": "wheelchair---finals---suzanne-lenglen",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
-            "EntityId": 13604,
-            "VideoName": "Juniors Singles & Doubles - Finals - World Feed Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-06 15:00:00",
-            "Description": "Watch French Open 2026 Juniors Singles & Doubles - Finals - World Feed live online on tapmad. The event is scheduled to take place on 06-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780667265540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780667265540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "juniors-singles-&-doubles---finals---world-feed",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
         },
         {
             "EntityId": 13835,
