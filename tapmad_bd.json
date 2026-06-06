@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:10 AM 07-06-2026",
+        "LastUpdate": "04:20 AM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Turkiye vs Venezuela live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780784718~acl=/hls/*~hmac=27068b2a8d2ca06ad43a1c3cd6d28d261b45c6227ebd7484ff40181500c88cf7"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780785313~acl=/hls/*~hmac=7de0becadc911522d0c7d8b80fef9267164a42a9a71454ae637e830e48aefd96"
         },
         {
             "EntityId": 14142,
