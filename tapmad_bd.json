@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:50 PM 07-06-2026",
+        "LastUpdate": "09:00 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 449,
             "UrlSlug": "gentlemen's-single---finals---philippe-chatrier",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
-        },
-        {
-            "EntityId": 14190,
-            "VideoName": "Liechtenstein vs Cyprus",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-07 19:00:00",
-            "Description": "Watch Liechtenstein vs Cyprus live online on tapmad. The Liechtenstein vs Cyprus game will be played on 07-Jun, at 06:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780693475540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780693475540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Liechtenstein vs Cyprus live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780844707~acl=/hls/*~hmac=69b5d08b4c72055f4f7a73668a429f6904b6cc2349ff295c82bc2fe2a117d745"
         },
         {
             "EntityId": 14324,
