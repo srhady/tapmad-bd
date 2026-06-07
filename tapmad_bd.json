@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:20 PM 07-06-2026",
+        "LastUpdate": "09:30 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 3
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -53,6 +53,34 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Kosovo vs Andorra live"
+        },
+        {
+            "EntityId": 14326,
+            "VideoName": "Croatia vs Slovenia",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-08 00:45:00",
+            "Description": "Watch Croatia vs Slovenia live online on tapmad. The Croatia vs Slovenia game will be played on 08-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780845535540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780845535540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Croatia vs Slovenia live"
+        },
+        {
+            "EntityId": 14327,
+            "VideoName": "Greece vs Italy",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-08 01:00:00",
+            "Description": "Watch Greece vs Italy live online on tapmad. The Greece vs Italy game will be played on 08-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780845735540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780845735540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Greece vs Italy live"
         },
         {
             "EntityId": 14078,
