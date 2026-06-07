@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 08-06-2026",
+        "LastUpdate": "01:10 AM 08-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Croatia vs Slovenia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780859708~acl=/hls/*~hmac=4ae15027c5c22b091014f38e37703dc55ba6fb417acdd85eee6778cb8bc56c68"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780860308~acl=/hls/*~hmac=476063ed8556a3a649a6d594f80061b66a6e2694ff376f62688a21272d102f81"
         },
         {
             "EntityId": 14327,
