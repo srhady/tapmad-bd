@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 07-06-2026",
+        "LastUpdate": "05:10 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 4,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780830907~acl=/hls/*~hmac=78ccf3fb8a45964e52d1443486dfa00c69ec1ba89b864102b3f3efa863214376"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780831507~acl=/hls/*~hmac=76a65f409630010679745c94def5d1c363e44f7d68f66952bfc25205a4951e33"
         },
         {
             "EntityId": 14078,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780830930~acl=/hls/*~hmac=a7abcec91622190011982ee9fb075b77352aef3a3ee42fbd5f3e7b45a21959c8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780831507~acl=/hls/*~hmac=76a65f409630010679745c94def5d1c363e44f7d68f66952bfc25205a4951e33"
         },
         {
             "EntityId": 13606,
@@ -55,6 +55,21 @@
             "CategoryId": 449,
             "UrlSlug": "ladies'-doubles---final---philippe-chatrier-",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+        },
+        {
+            "EntityId": 14184,
+            "VideoName": "Race Day - Erzincan Turkey Live",
+            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
+            "StageName": "Day 2",
+            "EventStartDate": "2026-06-07 17:00:00",
+            "Description": "Watch Race Day - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 465,
+            "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
         },
         {
             "EntityId": 13607,
