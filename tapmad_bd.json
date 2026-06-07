@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 07-06-2026",
+        "LastUpdate": "02:10 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 6
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780820107~acl=/hls/*~hmac=dc35a863a50149bcd8b15f6a47765b0eb6168dbfcf316659f9985d7f17dd3aa7"
-        },
-        {
-            "EntityId": 13606,
-            "VideoName": "Ladies' Doubles - Final - Philippe Chatrier  Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-07 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' Doubles - Final - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 07-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785012540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785012540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-doubles---final---philippe-chatrier-"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780820707~acl=/hls/*~hmac=5b14f2885c666f43b20651677d9b20adc87e79656803b3c98855e6a5fba0ec70"
         },
         {
             "EntityId": 14071,
