@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:10 PM 07-06-2026",
+        "LastUpdate": "08:20 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Liechtenstein vs Cyprus live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780842306~acl=/hls/*~hmac=a3faa7895af34558d1604bdb7d1e464613f8c0d10fdd93fa55f81e715b483fc8"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780842907~acl=/hls/*~hmac=736f22e8a77b33d41c2c94a2165f9d596b3c3515c3278f9a209c78f2dece18f4"
         },
         {
             "EntityId": 14324,
