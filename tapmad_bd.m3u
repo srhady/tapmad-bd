@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 08-06-2026
+# Last Update: 01:00 AM 08-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,6 @@
 #EXTINF:-1 tvg-id="tapmad-14325" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808450571020x576.jpg" group-title="Football", Kosovo vs Andorra | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14326" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808455351020x576.jpg" group-title="Football", Croatia vs Slovenia | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780859107~acl=/hls/*~hmac=cdfa332caca002dc0d4de4ec0228ba23b69aad460a1b82b801f3523cc0a5ac74
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780859708~acl=/hls/*~hmac=4ae15027c5c22b091014f38e37703dc55ba6fb417acdd85eee6778cb8bc56c68
 #EXTINF:-1 tvg-id="tapmad-14327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808457351020x576.jpg" group-title="Football", Greece vs Italy | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
