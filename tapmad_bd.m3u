@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:10 PM 07-06-2026
+# Last Update: 03:20 PM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805559211020x576.jpg" group-title="Cricket", India vs Afghanistan | Afghanistan Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780824322~acl=/hls/*~hmac=144c14597e77cba5149fa47466cbfd6dc8aea5acccc305c33a6357896bf4584b
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780824907~acl=/hls/*~hmac=a0b30d736a2b7cdfc4a45c8626245b27aebb83f9634c0c929986fb7b9323217a
 #EXTINF:-1 tvg-id="tapmad-13606" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807850111020x576.jpg" group-title="Tennis", Ladies' Doubles - Final - Philippe Chatrier  Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
