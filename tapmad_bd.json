@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 08-06-2026",
+        "LastUpdate": "12:50 AM 08-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 1
     },
     "Matches": [
@@ -39,7 +39,22 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Croatia vs Slovenia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780858507~acl=/hls/*~hmac=89f9c9c063729a7bcf57b090e02e4a06856f64f718ab2b817c5bcae6b9120945"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780859107~acl=/hls/*~hmac=cdfa332caca002dc0d4de4ec0228ba23b69aad460a1b82b801f3523cc0a5ac74"
+        },
+        {
+            "EntityId": 14327,
+            "VideoName": "Greece vs Italy",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-08 01:00:00",
+            "Description": "Watch Greece vs Italy live online on tapmad. The Greece vs Italy game will be played on 08-Jun, at 1:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780845735540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780845735540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Greece vs Italy live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 14078,
