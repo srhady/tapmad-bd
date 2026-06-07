@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 PM 07-06-2026
+# Last Update: 06:00 PM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780833906~acl=/hls/*~hmac=6657ce209c612f610f34480856ab516b6f7d262ff759b1d14e724cf926d8da1c
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780834507~acl=/hls/*~hmac=dbff9731127a74187d6b3132456692382c9e57f2839ea3980363d4ef6ba7d5cf
 #EXTINF:-1 tvg-id="tapmad-14184" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806658441020x576.jpg" group-title="Skateboarding", Race Day - Erzincan Turkey Live | World Downhill Skateboarding Championship (WDSC) 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
