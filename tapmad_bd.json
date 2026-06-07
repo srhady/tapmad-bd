@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:20 PM 07-06-2026",
+        "LastUpdate": "05:30 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 2,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -24,37 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780832107~acl=/hls/*~hmac=eae3807c6186edd30cbce9956c7ec95ef9b57f9bb687fbbcb74791761c5f0422"
-        },
-        {
-            "EntityId": 14078,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-06-06 10:00:00",
-            "Description": "The 1st Test of the Afghanistan Tour of India 2026 marks the start of a only Test match. Watch India vs Afghanistan 1st Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780555921540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780555921540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780832107~acl=/hls/*~hmac=eae3807c6186edd30cbce9956c7ec95ef9b57f9bb687fbbcb74791761c5f0422"
-        },
-        {
-            "EntityId": 13606,
-            "VideoName": "Ladies' Doubles - Final - Philippe Chatrier  Live",
-            "CategoryName": "French Open 2026",
-            "StageName": "Quarterfinals",
-            "EventStartDate": "2026-06-07 15:00:00",
-            "Description": "Watch French Open 2026 Ladies' Doubles - Final - Philippe Chatrier  live online on tapmad. The event is scheduled to take place on 07-Jun,  at 03:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785012540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785012540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 449,
-            "UrlSlug": "ladies'-doubles---final---philippe-chatrier-",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780832707~acl=/hls/*~hmac=c0ac78adfbc5197df08268ffe93635dd21ba1f0b8e40ef8e8939ded817bd1ba2"
         },
         {
             "EntityId": 14184,
