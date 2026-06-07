@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:50 PM 07-06-2026",
+        "LastUpdate": "08:00 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 14184,
-            "VideoName": "Race Day - Erzincan Turkey Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Day 2",
-            "EventStartDate": "2026-06-07 17:00:00",
-            "Description": "Watch Race Day - Erzincan Turkey the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 465,
-            "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
         {
             "EntityId": 13607,
             "VideoName": "Gentlemen's Single - Finals - Philippe Chatrier Live",
@@ -54,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Liechtenstein vs Cyprus live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780841107~acl=/hls/*~hmac=62bdd7c3257d0de691a8c4f731b844fe887b5cf17481a6e410fd28cf4d3aa99a"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780841707~acl=/hls/*~hmac=74e5eecee1fce433b3e34ea952eaec232cc2a35cdffd8d5574135313d14f4ec6"
         },
         {
             "EntityId": 14324,
