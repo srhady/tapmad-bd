@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 08-06-2026",
+        "LastUpdate": "02:00 AM 08-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 1
     },
     "Matches": [
-        {
-            "EntityId": 14325,
-            "VideoName": "Kosovo vs Andorra",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-08 00:00:00",
-            "Description": "Watch Kosovo vs Andorra live online on tapmad. The Kosovo vs Andorra game will be played on 08-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780845057540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780845057540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Kosovo vs Andorra live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
         {
             "EntityId": 14326,
             "VideoName": "Croatia vs Slovenia",
@@ -39,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Croatia vs Slovenia live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780862708~acl=/hls/*~hmac=189882ccddb0d61c798f3ad2941e256f5b6aee84e8ccedff652f26521b930f92"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780863308~acl=/hls/*~hmac=93eec3a3f39962e2771665837cf77159ab9f692f065ea70fd9ea4d06d407eeee"
         },
         {
             "EntityId": 14327,
