@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:20 PM 07-06-2026",
+        "LastUpdate": "06:30 PM 07-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780835706~acl=/hls/*~hmac=128b6fce6beb21f25fa9206707b75ac37fcdca9b6949253f67907b9cccc5c9d9"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780836307~acl=/hls/*~hmac=791d8c993b36b10433194a35a9537cb3f1f4de3fb3f3d4772cde318106b09cab"
         },
         {
             "EntityId": 14184,
@@ -40,6 +40,21 @@
             "CategoryId": 465,
             "UrlSlug": "race-day-erzincan-turkey-wdsc-2026-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
+        },
+        {
+            "EntityId": 13607,
+            "VideoName": "Gentlemen's Single - Finals - Philippe Chatrier Live",
+            "CategoryName": "French Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-07 19:00:00",
+            "Description": "Watch French Open 2026 Gentlemen's Single - Finals - Philippe Chatrier live online on tapmad. The event is scheduled to take place on 07-Jun,  at 07:00 PM. The world’s top tennis players step onto the clay courts of Paris aiming to begin their Grand Slam journey with strong performances. Catch every serve, rally, and key moment live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785210540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785210540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 449,
+            "UrlSlug": "gentlemen's-single---finals---philippe-chatrier",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
         },
         {
             "EntityId": 14324,
