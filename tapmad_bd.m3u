@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 AM 09-06-2026
+# Last Update: 02:20 AM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14333" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809000591020x576.jpg" group-title="Football", Netherlands vs Uzbekistan | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780950307~acl=/hls/*~hmac=d76a795c1f3440bfe720833421b513215e90c82629714a3309fce1359c12105b
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780950906~acl=/hls/*~hmac=27bb99c8372953719e522f72879e3905e7d0f3b665d9014659382703a63e90cb
 #EXTINF:-1 tvg-id="tapmad-13958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808996221020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780950327~acl=/hls/*~hmac=97364c6c5b2ee372d09e73a43d869680d335c6c5c8a193b651d31078da8fee44
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780950906~acl=/hls/*~hmac=bb53eb3a5da213a5cad62238c4ffd3dc9ccaf09326fa1c821c22f4ca951ad807
