@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 PM 08-06-2026",
+        "LastUpdate": "10:20 PM 08-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 6
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -40,6 +40,20 @@
             "UrlSlug": "west-indies-vs-sri-lanka-3rd-odi-live"
         },
         {
+            "EntityId": 14517,
+            "VideoName": "Peru vs Spain",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-09 08:00:00",
+            "Description": "Watch Peru vs Spain live online on tapmad. The Peru vs Spain game will be played on 09-Jun, at 08:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780934638540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780934638540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Peru vs Spain live"
+        },
+        {
             "EntityId": 14131,
             "VideoName": "Bangladesh vs Australia",
             "CategoryName": "Australia Tour of Bangladesh 2026",
@@ -66,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Armenia vs Moldova live"
+        },
+        {
+            "EntityId": 14335,
+            "VideoName": "Belarus vs Burkina Faso",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-09 22:30:00",
+            "Description": "Watch Belarus vs Burkina Faso live online on tapmad. The Belarus vs Burkina Faso game will be played on 09-Jun, at 10:30 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780935429540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780935429540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Belarus vs Burkina Faso live"
         },
         {
             "EntityId": 13455,
