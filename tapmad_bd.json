@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:50 AM 09-06-2026",
+        "LastUpdate": "03:00 AM 09-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 14333,
-            "VideoName": "Netherlands vs Uzbekistan",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-09 00:45:00",
-            "Description": "Watch Netherlands vs Uzbekistan live online on tapmad. The Netherlands vs Uzbekistan game will be played on 09-Jun, at 12:45 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780900059540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780900059540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Netherlands vs Uzbekistan live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780952709~acl=/hls/*~hmac=4290febb5c80d0e5460170c2fa872be1c859baf4c2ec9bd3340abb14f49f4c67"
-        },
         {
             "EntityId": 13958,
             "VideoName": "West Indies vs Sri Lanka",
@@ -39,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-3rd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780952709~acl=/hls/*~hmac=27a0ad4b15ce232c4ba0c4038c2db75d5ecfe1e06cf2aa2f4c3ea3f02fb2fb1f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780953312~acl=/hls/*~hmac=5291562814600a82d05784d529552bc594ef1d62b4271bf15c38adb145e7d038"
         },
         {
             "EntityId": 14517,
