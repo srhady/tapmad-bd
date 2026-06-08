@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 AM 09-06-2026",
+        "LastUpdate": "02:50 AM 09-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Netherlands vs Uzbekistan live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780952116~acl=/hls/*~hmac=3e42d646c7ef104a471ce3087de18ee6f3098ef6e31d0409dfbf7e028846aeec"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780952709~acl=/hls/*~hmac=4290febb5c80d0e5460170c2fa872be1c859baf4c2ec9bd3340abb14f49f4c67"
         },
         {
             "EntityId": 13958,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-3rd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780952116~acl=/hls/*~hmac=4da660755ca2c1ef91db6e8988e415b03f8530895ae1c3ca9bd17893db21ddd6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780952709~acl=/hls/*~hmac=27a0ad4b15ce232c4ba0c4038c2db75d5ecfe1e06cf2aa2f4c3ea3f02fb2fb1f"
         },
         {
             "EntityId": 14517,
