@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 AM 09-06-2026
+# Last Update: 08:40 AM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-14517" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809346371020x576.jpg" group-title="Football", Peru vs Spain | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780973711~acl=/hls/*~hmac=af14eda52b53b5b1fba6c03478b72040171c028554c25ebd34e819b79942f4a3
