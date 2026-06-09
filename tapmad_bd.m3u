@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:40 AM 10-06-2026
+# Last Update: 12:50 AM 10-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,6 @@
 #EXTINF:-1 tvg-id="tapmad-14336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809356251020x576.jpg" group-title="Football", Hungary vs Kazakhstan | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13455" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809219381020x576.jpg" group-title="Cricket", Essex vs Kent Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781031308~acl=/hls/*~hmac=174a5071c387d72d8d9006608b7ed7e1f49b0a16d4de63e04bc5d16595a02497
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781031907~acl=/hls/*~hmac=41237c6f4a58128b77a0f37c5f774c5589114855fba7ab73bd90a0a8f880447c
 #EXTINF:-1 tvg-id="tapmad-14337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809358021020x576.jpg" group-title="Football", Azerbaijan vs San Marino | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
