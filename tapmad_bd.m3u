@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 AM 10-06-2026
+# Last Update: 02:10 AM 10-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13455" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809219381020x576.jpg" group-title="Cricket", Essex vs Kent Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781036110~acl=/hls/*~hmac=076164f77da5b0c9ff7eceac1195c6ba07902363aef6c60932123c63f9713b55
-#EXTINF:-1 tvg-id="tapmad-14337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809358021020x576.jpg" group-title="Football", Azerbaijan vs San Marino | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781036725~acl=/hls/*~hmac=4777363c281f938d48500cfd5ff85805ab5c3009b7d5e9abe10576e4ccdcc489

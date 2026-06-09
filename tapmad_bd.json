@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 AM 10-06-2026",
+        "LastUpdate": "02:10 AM 10-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 4
     },
     "Matches": [
@@ -24,22 +24,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "essex-vs-kent-15th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781036110~acl=/hls/*~hmac=076164f77da5b0c9ff7eceac1195c6ba07902363aef6c60932123c63f9713b55"
-        },
-        {
-            "EntityId": 14337,
-            "VideoName": "Azerbaijan vs San Marino",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-10 00:00:00",
-            "Description": "Watch Azerbaijan vs San Marino live online on tapmad. The Azerbaijan vs San Marino game will be played on 10-Jun, at 12:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780935802540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780935802540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Azerbaijan vs San Marino live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781036725~acl=/hls/*~hmac=4777363c281f938d48500cfd5ff85805ab5c3009b7d5e9abe10576e4ccdcc489"
         },
         {
             "EntityId": 14365,
