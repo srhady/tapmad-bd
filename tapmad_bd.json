@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 AM 09-06-2026",
+        "LastUpdate": "09:40 AM 09-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Peru vs Spain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780976707~acl=/hls/*~hmac=93d6c4ef1833a9eeb551b92faf331fa9e8e6c4b0406379795477342057085f26"
+            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780977306~acl=/hls/*~hmac=c3ec2d3cd0e289ee2b40a19badee621dc720626ee37a705f98f28dd9e18c2350"
         },
         {
             "EntityId": 14131,
