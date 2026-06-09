@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 AM 10-06-2026",
+        "LastUpdate": "12:40 AM 10-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "essex-vs-kent-15th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781030707~acl=/hls/*~hmac=ba190c4b08cd731ee20a24c3f68926b6101b7d8041df241ca81bf5ff6e3d0877"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781031308~acl=/hls/*~hmac=174a5071c387d72d8d9006608b7ed7e1f49b0a16d4de63e04bc5d16595a02497"
         },
         {
             "EntityId": 14337,
