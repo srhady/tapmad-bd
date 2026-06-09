@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:20 AM 09-06-2026",
+        "LastUpdate": "08:30 AM 09-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 7
     },
     "Matches": [
-        {
-            "EntityId": 14517,
-            "VideoName": "Peru vs Spain",
-            "CategoryName": "European Qualifiers FIFA World Cup 2026",
-            "StageName": "Friendly Matches",
-            "EventStartDate": "2026-06-09 08:00:00",
-            "Description": "Watch Peru vs Spain live online on tapmad. The Peru vs Spain game will be played on 09-Jun, at 08:00 AM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780934638540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780934638540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 133,
-            "UrlSlug": "European Qualifiers 2026 Peru vs Spain live",
-            "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780972507~acl=/hls/*~hmac=ef86c829e4536b6eea8b92cbbd828f2614578ec83dc4e2f683dd7447103badc5"
-        },
         {
             "EntityId": 14131,
             "VideoName": "Bangladesh vs Australia",
