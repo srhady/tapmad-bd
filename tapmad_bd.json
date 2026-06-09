@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:20 PM 09-06-2026",
+        "LastUpdate": "08:30 PM 09-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 14131,
-            "VideoName": "Bangladesh vs Australia",
-            "CategoryName": "Australia Tour of Bangladesh 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-06-09 11:00:00",
-            "Description": "The 1st ODI of the Australia Tour of Bangladesh 2026 marks the start of a three-match Odi series. Watch Bangladesh vs Australia 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780937063540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780937063540x302.jpg",
+            "EntityId": 14334,
+            "VideoName": "Armenia vs Moldova",
+            "CategoryName": "European Qualifiers FIFA World Cup 2026",
+            "StageName": "Friendly Matches",
+            "EventStartDate": "2026-06-09 21:00:00",
+            "Description": "Watch Armenia vs Moldova live online on tapmad. The Armenia vs Moldova game will be played on 09-Jun, at 09:00 PM. Catch the European Qualifiers 2026 live stream in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780934821540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780934821540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 463,
-            "UrlSlug": "bangladesh-vs-australia-1st-odi-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+            "CategoryId": 133,
+            "UrlSlug": "European Qualifiers 2026 Armenia vs Moldova live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
         },
         {
             "EntityId": 14335,
