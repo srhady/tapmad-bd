@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 AM 11-06-2026
+# Last Update: 02:20 AM 11-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14365" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810005401020x576.jpg" group-title="Football", Portugal vs Nigeria | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781123114~acl=/hls/*~hmac=51183a393eb106ad11965eb83f79f77cdc35c3269a03a995e026c0c7aa4f5861
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781123707~acl=/hls/*~hmac=59b726f74e80b8bf6cf85cf1fee6a82be3e934444b986dc6ac039cbfbd254e13
 #EXTINF:-1 tvg-id="tapmad-14366" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810006971020x576.jpg" group-title="Football", England vs Costa Rica | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
