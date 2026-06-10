@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 11-06-2026",
+        "LastUpdate": "02:00 AM 11-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 133,
             "UrlSlug": "European Qualifiers 2026 Portugal vs Nigeria live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781121906~acl=/hls/*~hmac=ae155fb5ca2485363cd15e11e6c2f7864378babd88e20cee30639eb0f7caad9e"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781122519~acl=/hls/*~hmac=415c503366bcd3052450ce507f4d5283ebf923ea388b50e6ba9dc2c55ec4f74d"
         },
         {
             "EntityId": 14366,
