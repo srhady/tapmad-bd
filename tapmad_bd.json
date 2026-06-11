@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:20 PM 11-06-2026",
+        "LastUpdate": "05:30 PM 11-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 4
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 463,
             "UrlSlug": "bangladesh-vs-australia-2nd-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+        },
+        {
+            "EntityId": 14490,
+            "VideoName": "Women's Semi Final B Session - World Cup Budapest, Hungary Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-06-11 17:30:00",
+            "Description": "Watch Women's Semi Final B Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 11-Jun,  at 05:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781095992540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781095992540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 464,
+            "UrlSlug": "women's-semi-final-b-session---world-cup-budapest,-hungary-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
         },
         {
             "EntityId": 14484,
