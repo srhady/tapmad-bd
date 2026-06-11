@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:40 PM 11-06-2026",
+        "LastUpdate": "08:50 PM 11-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 6
     },
     "Matches": [
-        {
-            "EntityId": 14132,
-            "VideoName": "Bangladesh vs Australia",
-            "CategoryName": "Australia Tour of Bangladesh 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-06-11 11:00:00",
-            "Description": "The 2nd ODI of the Australia Tour of Bangladesh 2026 marks the start of a three-match Odi series. Watch Bangladesh vs Australia 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780937081540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780937081540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 463,
-            "UrlSlug": "bangladesh-vs-australia-2nd-odi-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
         {
             "EntityId": 13959,
             "VideoName": "West Indies vs Sri Lanka",
