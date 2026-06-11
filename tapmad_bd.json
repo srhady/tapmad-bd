@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:50 PM 11-06-2026",
+        "LastUpdate": "03:00 PM 11-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 4
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -96,6 +96,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "men's-semi-final-b-session---world-cup-budapest,-hungary-live"
+        },
+        {
+            "EntityId": 14508,
+            "VideoName": "Women's Final Session - World Cup Budapest, Hungary Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-12 20:00:00",
+            "Description": "Watch Women's Final Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 12-Jun,  at 08:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781167959540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781167959540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "women's-final-session---world-cup-budapest,-hungary-live"
         }
     ]
 }
