@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:10 PM 12-06-2026",
+        "LastUpdate": "06:20 PM 12-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 8
+        "UpcomingCount": 0
     },
     "Matches": [
         {
@@ -40,118 +40,6 @@
             "CategoryId": 269,
             "UrlSlug": "e1-croatia-gp-2026-session-1",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
-        },
-        {
-            "EntityId": 14508,
-            "VideoName": "Women's Final Session - World Cup Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-12 20:00:00",
-            "Description": "Watch Women's Final Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 12-Jun,  at 08:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781167959540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781167959540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "women's-final-session---world-cup-budapest,-hungary-live"
-        },
-        {
-            "EntityId": 14079,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-06-13 14:00:00",
-            "Description": "The 1st ODI of the Afghanistan Tour of India 2026 marks the start of a only two match T20 series. Watch India vs Afghanistan 1st T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250533540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250533540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-1st-odi-live"
-        },
-        {
-            "EntityId": 14514,
-            "VideoName": "Men's Final Session - World Cup Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-13 15:00:00",
-            "Description": "Watch Men's Final Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 13-Jun,  at 03:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781259838540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781259838540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "men's-final-session---world-cup-budapest,-hungary-live"
-        },
-        {
-            "EntityId": 14479,
-            "VideoName": "Adeshina vs Campos Live",
-            "CategoryName": "PFL 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-06-13 23:00:00",
-            "Description": "Watch Adeshina vs Campos live fight online on tapmad. The PFL World Tournament features eight weight classes, each with 8 fighters competing for the title of Tournament Champion. The Adeshina vs Campos fight will take place on 13-Jun, at 11:00 PM. Watch the deadliest punches and fiercest knocks online in HD and ad-free only on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250102540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250102540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-africa-adeshina-vs-campos-live"
-        },
-        {
-            "EntityId": 14133,
-            "VideoName": "Bangladesh vs Australia",
-            "CategoryName": "Australia Tour of Bangladesh 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-06-14 11:00:00",
-            "Description": "The 3rd ODI of the Australia Tour of Bangladesh 2026 marks the start of a three-match Odi series. Watch Bangladesh vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781265568540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781265568540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 463,
-            "UrlSlug": "bangladesh-vs-australia-3rd-odi-live"
-        },
-        {
-            "EntityId": 14144,
-            "VideoName": "Topuria vs Gaethje",
-            "CategoryName": "UFC 2026",
-            "StageName": "Freedom 250",
-            "EventStartDate": "2026-06-15 06:00:00",
-            "Description": "UFC Freedom 250 Live: Watch Topuria vs Gaethje live online on tapmad. Enjoy watching Topuria vs Gaethje live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 15-Jun. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781178081540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781178082540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc freedom 250-topuria vs gaethje-live"
-        },
-        {
-            "EntityId": 14080,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-06-17 14:00:00",
-            "Description": "The 2nd ODI of the Afghanistan Tour of India 2026 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250706540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-2nd-odi-live"
-        },
-        {
-            "EntityId": 14081,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-06-20 14:00:00",
-            "Description": "The 3rd ODI of the Afghanistan Tour of India 2027 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250938540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250938540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-3rd-odi-live"
         }
     ]
 }
