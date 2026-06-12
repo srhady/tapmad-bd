@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:20 PM 12-06-2026",
+        "LastUpdate": "06:30 PM 12-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 0
     },
     "Matches": [
-        {
-            "EntityId": 14502,
-            "VideoName": "Men's Semi Final B Session - World Cup Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-06-12 16:30:00",
-            "Description": "Watch Men's Semi Final B Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 12-Jun,  at 04:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781162982540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781162982540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 464,
-            "UrlSlug": "men's-semi-final-b-session---world-cup-budapest,-hungary-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-        },
         {
             "EntityId": 14342,
             "VideoName": "Session 1 - Q1 E1 Croatia Live",
