@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:20 PM 12-06-2026",
+        "LastUpdate": "04:30 PM 12-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 6
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -53,6 +53,20 @@
             "Status": "Upcoming",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-odi-live"
+        },
+        {
+            "EntityId": 14514,
+            "VideoName": "Men's Final Session - World Cup Budapest, Hungary Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-13 15:00:00",
+            "Description": "Watch Men's Final Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 13-Jun,  at 03:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781259838540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781259838540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "men's-final-session---world-cup-budapest,-hungary-live"
         },
         {
             "EntityId": 14479,
