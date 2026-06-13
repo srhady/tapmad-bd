@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:10 AM 14-06-2026",
+        "LastUpdate": "04:20 AM 14-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 14479,
-            "VideoName": "Adeshina vs Campos Live",
-            "CategoryName": "PFL 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-06-13 23:00:00",
-            "Description": "Watch Adeshina vs Campos live fight online on tapmad. The PFL World Tournament features eight weight classes, each with 8 fighters competing for the title of Tournament Champion. The Adeshina vs Campos fight will take place on 13-Jun, at 11:00 PM. Watch the deadliest punches and fiercest knocks online in HD and ad-free only on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250102540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250102540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-africa-adeshina-vs-campos-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
-        },
         {
             "EntityId": 13960,
             "VideoName": "West Indies vs Sri Lanka",
