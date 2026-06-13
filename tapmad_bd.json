@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 13-06-2026",
+        "LastUpdate": "06:40 PM 13-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 7
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8"
+        },
+        {
+            "EntityId": 14357,
+            "VideoName": "Session 4 - Race OFF E1 Croatia Live",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 4",
+            "EventStartDate": "2026-06-13 18:40:00",
+            "Description": "Watch E1 Croatia GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781269363540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781269363540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 269,
+            "UrlSlug": "e1-croatia-gp-2026-session-4",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
             "EntityId": 14362,
