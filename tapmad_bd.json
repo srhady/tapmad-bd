@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 13-06-2026",
+        "LastUpdate": "02:10 PM 13-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781338506~acl=/hls/*~hmac=1792e3ae6d6393d2a5b619447a0daf41c8d81684575e88247d79095cb8490501"
-        },
-        {
-            "EntityId": 14514,
-            "VideoName": "Men's Final Session - World Cup Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-13 15:00:00",
-            "Description": "Watch Men's Final Session - World Cup Budapest, Hungary live online on tapmad. The event is scheduled to take place on 13-Jun,  at 03:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781259838540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781259838540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "men's-final-session---world-cup-budapest,-hungary-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781339106~acl=/hls/*~hmac=37e7e5980252c142e698f29043b18efd58d49179dd07bb699c0725976643dbb0"
         },
         {
             "EntityId": 14357,
