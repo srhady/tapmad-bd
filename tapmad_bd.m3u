@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 13-06-2026
+# Last Update: 10:40 PM 13-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14079" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812505331020x576.jpg" group-title="Cricket", India vs Afghanistan | Afghanistan Tour of India 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14479" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812501021020x576.jpg" group-title="Mma", Adeshina vs Campos Live | PFL 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
