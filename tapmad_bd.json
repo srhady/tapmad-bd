@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:40 PM 13-06-2026",
+        "LastUpdate": "03:50 PM 13-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -40,6 +40,21 @@
             "CategoryId": 464,
             "UrlSlug": "men's-final-session---world-cup-budapest,-hungary-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8"
+        },
+        {
+            "EntityId": 14352,
+            "VideoName": "Session 3 - Group Races E1 Croatia Live",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 3",
+            "EventStartDate": "2026-06-13 15:50:00",
+            "Description": "Watch E1 Croatia GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781268635540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781268635540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 269,
+            "UrlSlug": "e1-croatia-gp-2026-session-3",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         }
     ]
 }
