@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 13-06-2026",
+        "LastUpdate": "10:10 PM 13-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 6
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -25,20 +25,6 @@
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-1st-odi-live",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8"
-        },
-        {
-            "EntityId": 14479,
-            "VideoName": "Adeshina vs Campos Live",
-            "CategoryName": "PFL 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-06-13 23:00:00",
-            "Description": "Watch Adeshina vs Campos live fight online on tapmad. The PFL World Tournament features eight weight classes, each with 8 fighters competing for the title of Tournament Champion. The Adeshina vs Campos fight will take place on 13-Jun, at 11:00 PM. Watch the deadliest punches and fiercest knocks online in HD and ad-free only on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250102540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250102540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-africa-adeshina-vs-campos-live"
         },
         {
             "EntityId": 13960,
