@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:50 AM 14-06-2026",
+        "LastUpdate": "11:00 AM 14-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 3
     },
     "Matches": [
+        {
+            "EntityId": 14133,
+            "VideoName": "Bangladesh vs Australia",
+            "CategoryName": "Australia Tour of Bangladesh 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-06-14 11:00:00",
+            "Description": "The 3rd ODI of the Australia Tour of Bangladesh 2026 marks the start of a three-match Odi series. Watch Bangladesh vs Australia 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781265568540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781265568540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 463,
+            "UrlSlug": "bangladesh-vs-australia-3rd-odi-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
+        },
         {
             "EntityId": 14144,
             "VideoName": "Topuria vs Gaethje",
