@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:50 AM 14-06-2026",
+        "LastUpdate": "06:00 AM 14-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 4
     },
     "Matches": [
+        {
+            "EntityId": 13960,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-06-14 06:30:00",
+            "Description": "The 2nd T20 of the  Sri Lanka Tour of West Indies 2026 marks the start of a three match T20i series. Watch West Indies vs Sri Lanka 2nd T20i live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781272065540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781272065540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-2nd-t20-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
+        },
         {
             "EntityId": 14133,
             "VideoName": "Bangladesh vs Australia",
