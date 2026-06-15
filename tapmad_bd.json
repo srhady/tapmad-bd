@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:50 AM 15-06-2026",
+        "LastUpdate": "06:00 AM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 2
     },
     "Matches": [
+        {
+            "EntityId": 14144,
+            "VideoName": "Topuria vs Gaethje",
+            "CategoryName": "UFC 2026",
+            "StageName": "Freedom 250",
+            "EventStartDate": "2026-06-15 06:00:00",
+            "Description": "UFC Freedom 250 Live: Watch Topuria vs Gaethje live online on tapmad. Enjoy watching Topuria vs Gaethje live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 15-Jun. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781178081540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781178082540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 265,
+            "UrlSlug": "ufc freedom 250-topuria vs gaethje-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781482507~acl=/hls/*~hmac=63b236263827fe3fb7b3d180561c778e2bcc4f101fd9d47065b68703d0933cb1"
+        },
         {
             "EntityId": 14080,
             "VideoName": "India vs Afghanistan",
