@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 PM 15-06-2026",
+        "LastUpdate": "01:30 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 2
     },
     "Matches": [
+        {
+            "EntityId": 14371,
+            "VideoName": "Stockholm City vs Malmo Mavericks",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-15 13:00:00",
+            "Description": "Watch Stockholm City vs Malmo Mavericks match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 1:00 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781506048540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781506048540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781509506~acl=/hls/*~hmac=cb2c54471f049126ac534b046547a3ad762ad176ecf94c9026036ca4e7bce55a"
+        },
         {
             "EntityId": 14080,
             "VideoName": "India vs Afghanistan",
