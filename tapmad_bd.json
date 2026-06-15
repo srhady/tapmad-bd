@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:50 PM 15-06-2026",
+        "LastUpdate": "05:00 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 6
     },
     "Matches": [
+        {
+            "EntityId": 14377,
+            "VideoName": "Stockholm United vs Uppsala Tigers",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-15 16:30:00",
+            "Description": "Watch Stockholm United vs Uppsala Tigers match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 4:30 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781510743540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781510743540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781522106~acl=/hls/*~hmac=546f294180da74f20f51367f9337f3731ad24ea5d37432840b07a773d1735ad4"
+        },
         {
             "EntityId": 14371,
             "VideoName": "Stockholm City vs Malmo Mavericks",
