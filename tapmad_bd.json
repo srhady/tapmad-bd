@@ -1,1 +1,73 @@
-
+{
+    "HeaderInfo": {
+        "PlaylistName": "Tapmad Matches Metadata",
+        "LastUpdate": "08:24 AM 15-06-2026",
+        "Telegram": "https://t.me/livesportsplay",
+        "Owner": "Md Sohanur Rahman Hady",
+        "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
+    },
+    "Stats": {
+        "LiveCount": 2,
+        "UpcomingCount": 2
+    },
+    "Matches": [
+        {
+            "EntityId": 14144,
+            "VideoName": "Topuria vs Gaethje",
+            "CategoryName": "UFC 2026",
+            "StageName": "Freedom 250",
+            "EventStartDate": "2026-06-15 06:00:00",
+            "Description": "UFC Freedom 250 Live: Watch Topuria vs Gaethje live online on tapmad. Enjoy watching Topuria vs Gaethje live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 15-Jun. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781178081540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781178082540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 265,
+            "UrlSlug": "ufc freedom 250-topuria vs gaethje-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
+        },
+        {
+            "EntityId": 13961,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "3rd T20I",
+            "EventStartDate": "2026-06-15 06:30:00",
+            "Description": "The 3rd T20 of the  Sri Lanka Tour of West Indies 2026 marks the start of a three match T20i series. Watch West Indies vs Sri Lanka 3rd T20i live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781440297540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781440297540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-3rd-t20-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
+        },
+        {
+            "EntityId": 14080,
+            "VideoName": "India vs Afghanistan",
+            "CategoryName": "Afghanistan Tour of India 2026",
+            "StageName": "2nd ODI",
+            "EventStartDate": "2026-06-17 14:00:00",
+            "Description": "The 2nd ODI of the Afghanistan Tour of India 2026 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250706540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250706540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 462,
+            "UrlSlug": "india-vs-afghanistan-2nd-odi-live"
+        },
+        {
+            "EntityId": 14081,
+            "VideoName": "India vs Afghanistan",
+            "CategoryName": "Afghanistan Tour of India 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-06-20 14:00:00",
+            "Description": "The 3rd ODI of the Afghanistan Tour of India 2027 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250938540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250938540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 462,
+            "UrlSlug": "india-vs-afghanistan-3rd-odi-live"
+        }
+    ]
+}
