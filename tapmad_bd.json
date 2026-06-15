@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:20 PM 15-06-2026",
+        "LastUpdate": "04:30 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 4
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781519723~acl=/hls/*~hmac=476ba987686b6af77cf0afcc359c8d53f821f175b75e3fd663a25b1b4f45654c"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781520306~acl=/hls/*~hmac=f3f6b5860e70d1b9f5e3e59a6fe746edbd6b34e75cba0f5d44fc56f9f21eba0b"
         },
         {
             "EntityId": 14383,
@@ -67,6 +67,20 @@
             "Status": "Upcoming",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-2nd-odi-live"
+        },
+        {
+            "EntityId": 14134,
+            "VideoName": "Bangladesh vs Australia",
+            "CategoryName": "Australia Tour of Bangladesh 2026",
+            "StageName": "1st T20I",
+            "EventStartDate": "2026-06-17 14:00:00",
+            "Description": "The 1st T20 of the Australia Tour of Bangladesh 2026 marks the start of a three-match T20 series. Watch Bangladesh vs Australia 1st T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781518778540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781518778540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 463,
+            "UrlSlug": "bangladesh-vs-australia-1st-t20-live"
         },
         {
             "EntityId": 14081,
