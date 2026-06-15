@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 AM 15-06-2026",
+        "LastUpdate": "06:10 AM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 2
     },
     "Matches": [
@@ -24,7 +24,22 @@
             "Status": "Live",
             "CategoryId": 265,
             "UrlSlug": "ufc freedom 250-topuria vs gaethje-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781482507~acl=/hls/*~hmac=63b236263827fe3fb7b3d180561c778e2bcc4f101fd9d47065b68703d0933cb1"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781483109~acl=/hls/*~hmac=c85d7e95e11e1f1229a7b9a33a66be1527eb9fc48497d38edfdce4585623a14a"
+        },
+        {
+            "EntityId": 13961,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "3rd T20I",
+            "EventStartDate": "2026-06-15 06:30:00",
+            "Description": "The 3rd T20 of the  Sri Lanka Tour of West Indies 2026 marks the start of a three match T20i series. Watch West Indies vs Sri Lanka 3rd T20i live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781440297540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781440297540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-3rd-t20-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
         },
         {
             "EntityId": 14080,

@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 15-06-2026
+# Last Update: 06:10 AM 15-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14144" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811780811020x576.jpg" group-title="Mma", Topuria vs Gaethje | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781482507~acl=/hls/*~hmac=63b236263827fe3fb7b3d180561c778e2bcc4f101fd9d47065b68703d0933cb1
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781483109~acl=/hls/*~hmac=c85d7e95e11e1f1229a7b9a33a66be1527eb9fc48497d38edfdce4585623a14a
+#EXTINF:-1 tvg-id="tapmad-13961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17814402971020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
