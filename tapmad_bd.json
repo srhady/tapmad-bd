@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:40 PM 15-06-2026",
+        "LastUpdate": "03:50 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781517306~acl=/hls/*~hmac=577dd051b5ff8ade147fcb0659557ed671fe649ee9e9fb7b599b0614645029a7"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781517906~acl=/hls/*~hmac=bebb5d44469a16352638eae6cd96189480fef9cebe5bf43199d86e2ed732f970"
         },
         {
             "EntityId": 14383,
