@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 15-06-2026",
+        "LastUpdate": "02:10 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 2
+        "UpcomingCount": 3
     },
     "Matches": [
         {
@@ -24,7 +24,21 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781511307~acl=/hls/*~hmac=db147a3939d0402a31cebbc7d8e31d7b819b65ffbe499b55084f080a4b1a2cf1"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781511906~acl=/hls/*~hmac=87705f57ed0e63525c100331205a3083d3e24cb0511aef57ed4a5fb997e4a487"
+        },
+        {
+            "EntityId": 14377,
+            "VideoName": "Stockholm United vs Uppsala Tigers",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-15 16:30:00",
+            "Description": "Watch Stockholm United vs Uppsala Tigers match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 4:30 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781510743540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781510743540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live"
         },
         {
             "EntityId": 14080,
