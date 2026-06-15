@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:40 PM 15-06-2026",
+        "LastUpdate": "07:50 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 14377,
-            "VideoName": "Stockholm United vs Uppsala Tigers",
+            "EntityId": 14383,
+            "VideoName": "Gothenburg Phoenix vs Vasteras United",
             "CategoryName": "Nordic Smash 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-06-15 16:30:00",
-            "Description": "Watch Stockholm United vs Uppsala Tigers match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 4:30 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781510743540x302_.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781510743540x302_.jpg",
+            "EventStartDate": "2026-06-15 20:00:00",
+            "Description": "Watch Gothenburg Phoenix vs Vasteras United match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 8:00 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781512249540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781512249540x302_.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 471,
-            "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781531706~acl=/hls/*~hmac=7a4f59b5ec64f4f035e8cac246bf3b28c420ef9952ed6662d4384281c5e1d83b"
+            "UrlSlug": "nordic-smash-2026-gothenburg-phoenix-vs-vasteras-united-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781532308~acl=/hls/*~hmac=cfa5adcab92fc3fb37ec70ca1eb84a4fd8a1e7f57b139a7d19c2cd1c2e107305"
         },
         {
             "EntityId": 14389,
