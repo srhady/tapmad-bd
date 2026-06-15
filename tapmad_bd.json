@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:10 PM 15-06-2026",
+        "LastUpdate": "06:20 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781526307~acl=/hls/*~hmac=f2973e480337aa614df2b5c0c041c2689d081390f9b872064b3f203286f92dae"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781526907~acl=/hls/*~hmac=691a2fd2ed38f42c84fbd5b245c10ba9c6af11f575aa40dba414f9ecc749983c"
         },
         {
             "EntityId": 14383,
