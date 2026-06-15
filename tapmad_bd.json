@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:00 PM 15-06-2026",
+        "LastUpdate": "07:10 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 5
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781529307~acl=/hls/*~hmac=a2d10ea2e2bd3bc52674e9a4ea71d91febb140705e0b7b2774977f61b9176630"
-        },
-        {
-            "EntityId": 14383,
-            "VideoName": "Gothenburg Phoenix vs Vasteras United",
-            "CategoryName": "Nordic Smash 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-15 20:00:00",
-            "Description": "Watch Gothenburg Phoenix vs Vasteras United match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 8:00 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781512249540x302_.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781512249540x302_.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 471,
-            "UrlSlug": "nordic-smash-2026-gothenburg-phoenix-vs-vasteras-united-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781529907~acl=/hls/*~hmac=b35489ef7d13d0b82b79ac913d76b45a292d9e458c364e8b921b7342d0f07bf9"
         },
         {
             "EntityId": 14389,
