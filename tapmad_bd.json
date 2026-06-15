@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 PM 15-06-2026",
+        "LastUpdate": "03:40 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 5
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781516707~acl=/hls/*~hmac=ed19a03b03d6d8d6277068b42025c4a61180f86d2939f502602d4d727b3b4436"
-        },
-        {
-            "EntityId": 14377,
-            "VideoName": "Stockholm United vs Uppsala Tigers",
-            "CategoryName": "Nordic Smash 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-15 16:30:00",
-            "Description": "Watch Stockholm United vs Uppsala Tigers match live online on tapmad. The Nordic Smash 2026 will be played on 15-Jun, at 4:30 PM. The tournament brings together the world's best cricket teams competing for the ultimate prize. Expect explosive batting, world-class bowling, and thrilling cricket action as teams battle for glory. Stream every match live in HD on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781510743540x302_.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781510743540x302_.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 471,
-            "UrlSlug": "nordic-smash-2026-stockholm-united-vs-uppsala-tigers-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781517306~acl=/hls/*~hmac=577dd051b5ff8ade147fcb0659557ed671fe649ee9e9fb7b599b0614645029a7"
         },
         {
             "EntityId": 14383,
