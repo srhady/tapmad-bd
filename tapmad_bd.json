@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:10 PM 15-06-2026",
+        "LastUpdate": "03:20 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 4
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-stockholm-city-vs-malmo-mavericks-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781515507~acl=/hls/*~hmac=ea60a3c80cab95fa1c286d2635502e7f3de92a0ad14c912294f1865127f2d779"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781516106~acl=/hls/*~hmac=953ee134cf528948ca7b70788aac479a6c1a1406a9c19e5d5d173f0465395381"
         },
         {
             "EntityId": 14377,
@@ -53,6 +53,20 @@
             "Status": "Upcoming",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-gothenburg-phoenix-vs-vasteras-united-live"
+        },
+        {
+            "EntityId": 14389,
+            "VideoName": "Stockholm United vs Gothenburg Phoenix",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-16 13:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 16-Jun at 01:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781514470540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781514470540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm United-vs-Gothenburg Phoenix"
         },
         {
             "EntityId": 14080,
