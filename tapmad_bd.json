@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 PM 15-06-2026",
+        "LastUpdate": "10:20 PM 15-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-2026-gothenburg-phoenix-vs-vasteras-united-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781540710~acl=/hls/*~hmac=984939fa420592ae4d0528ed43c321a8ba273fc6a235811b16980d400481ae5f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781541307~acl=/hls/*~hmac=c70190425c91e28c86133ca822e9fee3bca1ae5eeef5a9307e05ec7c5005278e"
         },
         {
             "EntityId": 14389,
