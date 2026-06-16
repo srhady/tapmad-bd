@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:50 PM 16-06-2026",
+        "LastUpdate": "04:00 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm United-vs-Gothenburg Phoenix",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781604310~acl=/hls/*~hmac=dfd2ec24a86c2a7b66d638a61a88a56e3ee252aed8088fe6a560f7e4803baf6c"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781604912~acl=/hls/*~hmac=fdaaaf6d6ad85093f074849fd86d2202becc4a4379dac803d160f1bba7b9dcde"
         },
         {
             "EntityId": 14401,
