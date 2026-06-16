@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:40 PM 16-06-2026",
+        "LastUpdate": "05:50 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Malmo Mavericks-vs-Uppsala Tigers",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781610907~acl=/hls/*~hmac=7fd3160003a3fa55eee229fa5dcfe38e883b806eee03f533374b992d9da38883"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781611507~acl=/hls/*~hmac=a8bb2cd55d3489fab7ce05ce0d53966cf1bb7c913c974c2c1ca5b77e6ed8e9ad"
         },
         {
             "EntityId": 14401,
