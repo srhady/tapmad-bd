@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:10 PM 16-06-2026",
+        "LastUpdate": "01:20 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 3
     },
     "Matches": [
+        {
+            "EntityId": 14389,
+            "VideoName": "Stockholm United vs Gothenburg Phoenix",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-16 13:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 16-Jun at 01:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781514470540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781514470540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm United-vs-Gothenburg Phoenix",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781595307~acl=/hls/*~hmac=4b54ebea6274d698e59a894b97fc206030d1c841a4735f61f6c010127edc8a8d"
+        },
         {
             "EntityId": 14080,
             "VideoName": "India vs Afghanistan",
