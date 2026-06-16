@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:20 PM 16-06-2026",
+        "LastUpdate": "09:30 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm City-vs-Vasteras United",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781624107~acl=/hls/*~hmac=e71af7ddb5f4d2b27287420197c1d6399fdc35264e732f08ebbe60e0d1b8d28a"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781624706~acl=/hls/*~hmac=6a9f364979cd8288d0d30f89d8410f9601e11797e047e985d54d82a41d56f346"
         },
         {
             "EntityId": 14407,
