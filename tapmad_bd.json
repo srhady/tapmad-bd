@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 PM 16-06-2026",
+        "LastUpdate": "03:40 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 8
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -24,21 +24,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm United-vs-Gothenburg Phoenix",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781603107~acl=/hls/*~hmac=a8c238d891bc6a6af2ed9e9ac1293feb868dd360b8cdcd0d58dddf8da958a3cc"
-        },
-        {
-            "EntityId": 14395,
-            "VideoName": "Malmo Mavericks vs Uppsala Tigers",
-            "CategoryName": "Nordic Smash 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-16 16:30:00",
-            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 16-Jun at 04:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781596885540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781596885540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 471,
-            "UrlSlug": "nordic-smash-Malmo Mavericks-vs-Uppsala Tigers"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781603707~acl=/hls/*~hmac=f7df57d92f04f61cd6d169c60bc72a4bd14e156c3349bb32166136d4c2e09eaf"
         },
         {
             "EntityId": 14401,
