@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 16-06-2026",
+        "LastUpdate": "08:10 PM 16-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 14395,
-            "VideoName": "Malmo Mavericks vs Uppsala Tigers",
+            "EntityId": 14401,
+            "VideoName": "Stockholm City vs Vasteras United",
             "CategoryName": "Nordic Smash 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-06-16 16:30:00",
-            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 16-Jun at 04:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781596885540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781596885540x302.jpg",
+            "EventStartDate": "2026-06-16 20:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 16-Jun at 08:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781599541540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781599541540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 471,
-            "UrlSlug": "nordic-smash-Malmo Mavericks-vs-Uppsala Tigers",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781619324~acl=/hls/*~hmac=e57a0af96454b12486b21a643a4806e2a3613dee9e8be06efe03b44e07c9a2da"
+            "UrlSlug": "nordic-smash-Stockholm City-vs-Vasteras United",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781619911~acl=/hls/*~hmac=8e8768d424e98f16dac5759f105dc22216b52806284789e489fe0a0cdb85d5e7"
         },
         {
             "EntityId": 14407,
