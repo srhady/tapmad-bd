@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 PM 17-06-2026",
+        "LastUpdate": "03:40 PM 17-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
-        "UpcomingCount": 7
+        "LiveCount": 4,
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -57,18 +57,19 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8"
         },
         {
-            "EntityId": 14413,
-            "VideoName": "Gothenburg Phoenix vs Uppsala Tigers",
-            "CategoryName": "Nordic Smash 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-06-17 16:30:00",
-            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 17-Jun at 04:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781680673540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781680673540x302.jpg",
+            "EntityId": 14072,
+            "VideoName": "England vs New Zealand",
+            "CategoryName": "New Zealand Tour of England 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-06-17 16:00:00",
+            "Description": "The 2nd Test of the New Zealand Tour of England 2026 marks the start of a three match Test series. Watch England vs New Zealand 2nd Test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England cricket team focusing on balance and pace control. New Zealand, led by Tom Latham, rely on experienced players such as Kane Williamson & Devon Conway to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781601880540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781601880540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 471,
-            "UrlSlug": "nordic-smash-Gothenburg Phoenix-vs-Uppsala Tigers"
+            "Status": "Live",
+            "CategoryId": 461,
+            "UrlSlug": "england-vs-new-zealand-2nd-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781690107~acl=/hls/*~hmac=608987091dbfb7df6299fcdac07ec3519091020e5418567d8c992e89b6bfae3e"
         },
         {
             "EntityId": 14419,
