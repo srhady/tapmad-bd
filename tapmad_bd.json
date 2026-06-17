@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:20 PM 17-06-2026",
+        "LastUpdate": "02:40 PM 17-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1781685344~acl=/hls/*~hmac=6f6aab7d9ab68ee764e0aa4bee72b2cd7962895df81ecf97690cd45d77944d68"
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/vertical-backup312/master.m3u8"
         },
         {
             "EntityId": 14134,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 463,
             "UrlSlug": "bangladesh-vs-australia-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781685344~acl=/hls/*~hmac=6f6aab7d9ab68ee764e0aa4bee72b2cd7962895df81ecf97690cd45d77944d68"
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8"
         },
         {
             "EntityId": 14072,
