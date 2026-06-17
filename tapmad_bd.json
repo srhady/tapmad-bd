@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 17-06-2026",
+        "LastUpdate": "10:10 PM 17-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 14080,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "Afghanistan Tour of India 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-06-17 14:00:00",
-            "Description": "The 2nd ODI of the Afghanistan Tour of India 2026 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781682245540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781682245540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 462,
-            "UrlSlug": "india-vs-afghanistan-2nd-odi-live",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8"
-        },
         {
             "EntityId": 14072,
             "VideoName": "England vs New Zealand",
