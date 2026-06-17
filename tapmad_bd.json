@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 PM 17-06-2026",
+        "LastUpdate": "01:50 PM 17-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 4
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -33,13 +33,13 @@
             "StageName": "2nd ODI",
             "EventStartDate": "2026-06-17 14:00:00",
             "Description": "The 2nd ODI of the Afghanistan Tour of India 2026 marks the start of a only two match T20 series. Watch India vs Afghanistan 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, India will look to make the most of home conditions with a well-balanced squad, while Afghanistan aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250706540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781681998540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781681998540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1781682916~acl=/hls/*~hmac=6d7d5a0a4c9d2a93c96af402c9e368740e356e68cab7dcdbde16649cfa598283"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1781683507~acl=/hls/*~hmac=d8a88c9a81eba0fe50eff0c1b247f9aa40213d46020f539cf6cc5ae07f98714e"
         },
         {
             "EntityId": 14134,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 463,
             "UrlSlug": "bangladesh-vs-australia-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781682916~acl=/hls/*~hmac=6d7d5a0a4c9d2a93c96af402c9e368740e356e68cab7dcdbde16649cfa598283"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781683507~acl=/hls/*~hmac=d8a88c9a81eba0fe50eff0c1b247f9aa40213d46020f539cf6cc5ae07f98714e"
         },
         {
             "EntityId": 14072,
@@ -83,6 +83,20 @@
             "Status": "Upcoming",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Gothenburg Phoenix-vs-Uppsala Tigers"
+        },
+        {
+            "EntityId": 14419,
+            "VideoName": "Stockholm City vs Stockholm United",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-17 20:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 17-Jun at 08:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781681660540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781681660540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm City-vs-Stockholm United"
         },
         {
             "EntityId": 14081,
