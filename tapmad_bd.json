@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 PM 17-06-2026",
+        "LastUpdate": "02:50 PM 17-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 6
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -111,6 +111,20 @@
             "Status": "Upcoming",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm City-vs-Gothenburg Phoenix"
+        },
+        {
+            "EntityId": 14135,
+            "VideoName": "Bangladesh vs Australia",
+            "CategoryName": "Australia Tour of Bangladesh 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-06-19 14:00:00",
+            "Description": "The 2nd T20 of the Australia Tour of Bangladesh 2026 marks the start of a three-match T20 series. Watch Bangladesh vs Australia 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Bangladesh will look to make the most of home conditions with a well-balanced squad, while Australia aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781685993540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781685993540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 463,
+            "UrlSlug": "bangladesh-vs-australia-2nd-t20-live"
         },
         {
             "EntityId": 14081,
