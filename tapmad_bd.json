@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 PM 18-06-2026",
+        "LastUpdate": "12:50 PM 18-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 6
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -38,6 +38,20 @@
             "Status": "Upcoming",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Uppsala Tigers-vs-Vasteras United"
+        },
+        {
+            "EntityId": 14437,
+            "VideoName": "Stockholm United vs Malmo Mavericks",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-18 20:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 18-Jun at 08:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781765105540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781765105540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm United-vs-Malmo Mavericks"
         },
         {
             "EntityId": 14135,
