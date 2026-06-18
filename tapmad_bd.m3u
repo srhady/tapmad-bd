@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:50 PM 18-06-2026
+# Last Update: 02:00 PM 18-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-14425" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816839541020x576.jpg" group-title="Cricket", Stockholm City vs Gothenburg Phoenix | Nordic Smash 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
