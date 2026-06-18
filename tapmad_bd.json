@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 PM 18-06-2026",
+        "LastUpdate": "12:40 PM 18-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 5
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -24,6 +24,20 @@
             "Status": "Upcoming",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-2nd-test-live"
+        },
+        {
+            "EntityId": 14431,
+            "VideoName": "Uppsala Tigers vs Vasteras United",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-18 16:30:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 18-Jun at 04:30 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781764609540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781764609540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Uppsala Tigers-vs-Vasteras United"
         },
         {
             "EntityId": 14135,
