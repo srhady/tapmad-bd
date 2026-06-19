@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 19-06-2026",
+        "LastUpdate": "02:10 PM 19-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 463,
             "UrlSlug": "bangladesh-vs-australia-2nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781856907~acl=/hls/*~hmac=1b2d8ad68f4f421f38cbdd9ce034a8aba956f6bd40d9e7e29bb3b09fa8e34fb4"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781857507~acl=/hls/*~hmac=b7a328e5b48def6cf520f1e06fb6be7507afefca10e9c82e48b302298413459c"
         },
         {
             "EntityId": 14443,
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm United-vs-Vasteras United",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781856907~acl=/hls/*~hmac=1b2d8ad68f4f421f38cbdd9ce034a8aba956f6bd40d9e7e29bb3b09fa8e34fb4"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781857507~acl=/hls/*~hmac=b7a328e5b48def6cf520f1e06fb6be7507afefca10e9c82e48b302298413459c"
         }
     ]
 }
