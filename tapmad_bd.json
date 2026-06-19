@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 PM 19-06-2026",
+        "LastUpdate": "02:50 PM 19-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 471,
             "UrlSlug": "nordic-smash-Stockholm United-vs-Vasteras United",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8?hdnts=exp=1781859307~acl=/hls/*~hmac=944290de81d8b22e14d96504eee91f2fdc3dc89e6da5774082e1ea437e57be74"
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8?hdnts=exp=1781859907~acl=/hls/*~hmac=c339231e4125820b7047f2965ee9be21844e3430f6210bcfac72a654e06a0959"
         }
     ]
 }
