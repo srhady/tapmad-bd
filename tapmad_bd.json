@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:20 PM 19-06-2026",
+        "LastUpdate": "02:40 PM 19-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 463,
             "UrlSlug": "bangladesh-vs-australia-2nd-t20-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8"
+        },
+        {
+            "EntityId": 14443,
+            "VideoName": "Stockholm United vs Vasteras United",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-19 13:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 19-Jun at 01:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781765747540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781765747540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm United-vs-Vasteras United",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8?hdnts=exp=1781859307~acl=/hls/*~hmac=944290de81d8b22e14d96504eee91f2fdc3dc89e6da5774082e1ea437e57be74"
         }
     ]
 }
