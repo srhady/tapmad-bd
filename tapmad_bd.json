@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 20-06-2026",
+        "LastUpdate": "08:10 PM 20-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -40,6 +40,21 @@
             "CategoryId": 462,
             "UrlSlug": "india-vs-afghanistan-3rd-odi-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+        },
+        {
+            "EntityId": 14473,
+            "VideoName": "Stockholm City vs Vasteras United",
+            "CategoryName": "Nordic Smash 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-06-20 20:00:00",
+            "Description": "Watch Nordic Smash T20 2026 live online on tapmad. Nordic Smash T20 2026 features exciting T20 cricket action with competitive teams, explosive batting, and thrilling bowling performances. Stream every match live in HD on 20-Jun at 08:00 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781962699540x302_.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781962699540x302_.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 471,
+            "UrlSlug": "nordic-smash-Stockholm City-vs-Vasteras United",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
         },
         {
             "EntityId": 14140,
