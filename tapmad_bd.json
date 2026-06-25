@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:50 AM 26-06-2026",
+        "LastUpdate": "05:00 AM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -94,6 +94,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "women's-semi-final-b-session,-budapest,-hungary-live"
+        },
+        {
+            "EntityId": 14687,
+            "VideoName": "CrowdStrike 24H Spa - Superpole 1 - 4 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Match",
+            "EventStartDate": "2026-06-26 19:05:00",
+            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24H Spa - Superpole 1 - 4 match is scheduled to take place on 26-Jun, at 07:05 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782428196540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782428196540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24h-spa---superpole-1---4-live"
         },
         {
             "EntityId": 13962,
