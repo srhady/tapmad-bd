@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:20 PM 25-06-2026",
+        "LastUpdate": "11:30 PM 25-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 4
     },
     "Matches": [
@@ -39,7 +39,22 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782408907~acl=/hls/*~hmac=c141e13b08d3c33e4d8e04bbba6253f7405480c804bdb3575a462e07ac3f4e7a"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782409507~acl=/hls/*~hmac=227648b3f6e1c0d9fd3d38804e85b1c6e8cae95b99da65cfda25c260452c8d6f"
+        },
+        {
+            "EntityId": 14663,
+            "VideoName": "CrowdStrike 24 Hours of Spa - Qualifying 1 - 4 (Group A, B, C)  Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Race",
+            "EventStartDate": "2026-06-25 23:45:00",
+            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24 Hours of Spa - Qualifying 1 - 4 (Group A, B, C)  match is scheduled to take place on 25-Jun, at 11:45 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782336955540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782336955540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24-hours-of-spa---qualifying-1---4-(group-a,-b,-c)--live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
         },
         {
             "EntityId": 14616,
