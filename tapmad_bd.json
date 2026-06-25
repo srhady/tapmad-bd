@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 25-06-2026",
+        "LastUpdate": "09:40 PM 25-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 5
     },
     "Matches": [
@@ -39,22 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782402306~acl=/hls/*~hmac=6318097010398ca7afd042c6b69628c90f16eb1b821af8a9256f27e96fa435cd"
-        },
-        {
-            "EntityId": 14657,
-            "VideoName": "CrowdStrike 24H Spa - Free Practice 2 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Free Practice",
-            "EventStartDate": "2026-06-25 20:10:00",
-            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24H Spa - Free Practice 2 match is scheduled to take place on 25-Jun, at 08:10 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782336113540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782336113540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24h-spa---free-practice-2-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782402908~acl=/hls/*~hmac=b49733d6392cb5f5856853feba2947d3a99cf5858ccb7e1248517ca97b2592ad"
         },
         {
             "EntityId": 14663,
