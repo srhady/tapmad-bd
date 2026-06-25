@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 26-06-2026
+# Last Update: 12:40 AM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782413107~acl=/hls/*~hmac=b2da3ccdb251ef09a0d2b16fc6731af3bad71f9faa2a40aa08904dd7d848dffb
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782413707~acl=/hls/*~hmac=9107dc4c0fca8fd44b7babaab396326b1136538717db08b1a55ef59455c02c4b
 #EXTINF:-1 tvg-id="tapmad-14663" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17823369551020x576.jpg" group-title="Racing", CrowdStrike 24 Hours of Spa - Qualifying 1 - 4 (Group A, B, C)  Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
