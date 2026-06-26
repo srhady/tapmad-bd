@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 AM 27-06-2026",
+        "LastUpdate": "03:40 AM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 5
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -24,7 +24,21 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782510307~acl=/hls/*~hmac=b089e960a3f52e167f0b2650f88227cb138cea1ed4d605e66b7c9c5629b18fc7"
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782510907~acl=/hls/*~hmac=90cc64332b2ee93f2060fbccb09fcb6124b166117e06aba06d1f7d2afdd44851"
+        },
+        {
+            "EntityId": 14705,
+            "VideoName": "GT4 European Series - Race 1 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-06-27 01:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1 match is scheduled to take place on 27-Jun, at 01:35 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782509906540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782509906540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live"
         },
         {
             "EntityId": 14628,
