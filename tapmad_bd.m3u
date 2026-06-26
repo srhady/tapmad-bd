@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 27-06-2026
+# Last Update: 01:40 AM 27-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782503107~acl=/hls/*~hmac=817690fc3fe9fe8df238e62fa9cf8352caea002dd25fc90b3c93775434d6dd74
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782503707~acl=/hls/*~hmac=c538319c7522176d343436b800814b77233feb9015dd4c1e47e0426be3d8c4b6
 #EXTINF:-1 tvg-id="tapmad-14699" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824291831020x576.jpg" group-title="Racing", CrowdStrike 24 Hours of Spa - GT World Challenge pwd by AWS Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13456" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821117301020x576.jpg" group-title="Cricket", Kent vs Nottinghamshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782503107~acl=/hls/*~hmac=817690fc3fe9fe8df238e62fa9cf8352caea002dd25fc90b3c93775434d6dd74
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782503707~acl=/hls/*~hmac=c538319c7522176d343436b800814b77233feb9015dd4c1e47e0426be3d8c4b6
