@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 26-06-2026
+# Last Update: 11:40 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,6 @@
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782495907~acl=/hls/*~hmac=cb8f941118d2590755fc84a7b7fce80fc4fc12dff3d5e8c401c582db0bda02ec
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782496507~acl=/hls/*~hmac=f19398dbbe87bf4f9fca2e9e6fe0546d4de131e19057d0da80406dae722aaa7b
 #EXTINF:-1 tvg-id="tapmad-14699" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824291831020x576.jpg" group-title="Racing", CrowdStrike 24 Hours of Spa - GT World Challenge pwd by AWS Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
