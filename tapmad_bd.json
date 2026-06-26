@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 26-06-2026",
+        "LastUpdate": "06:40 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 6
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-3rd-test-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
-        },
-        {
-            "EntityId": 14675,
-            "VideoName": "McLaren Trophy Europe - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-06-26 16:40:00",
-            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe - Race 1 match is scheduled to take place on 26-Jun, at 04:40 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782419974540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782419974540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-1-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
         },
         {
             "EntityId": 14681,
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 528,
             "UrlSlug": "ireland-vs-india-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782477908~acl=/hls/*~hmac=c615235a0c97d0dbd328552643ef428ae50d857bdc6619e8569af9237b1a8397"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782478524~acl=/hls/*~hmac=56a591f484d535b2c68454d7dc9792c5b2a788644083ffd88a247d784bb37352"
         },
         {
             "EntityId": 13962,

@@ -1,17 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 26-06-2026
+# Last Update: 06:40 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14675" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824199741020x576.jpg" group-title="Racing", McLaren Trophy Europe - Race 1 Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14681" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824216971020x576.jpg" group-title="Racing", GT3 Legends - Race 1 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822136551020x576.jpg" group-title="Multisports", Women's Semi-Final B Session, Budapest, Hungary Live | UIPM 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824754231020x576.jpg" group-title="Cricket", Ireland vs India | India Tour of Ireland 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782477908~acl=/hls/*~hmac=c615235a0c97d0dbd328552643ef428ae50d857bdc6619e8569af9237b1a8397
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782478524~acl=/hls/*~hmac=56a591f484d535b2c68454d7dc9792c5b2a788644083ffd88a247d784bb37352
