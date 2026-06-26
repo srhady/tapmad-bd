@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 26-06-2026",
+        "LastUpdate": "10:40 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
-        "UpcomingCount": 4
+        "LiveCount": 2,
+        "UpcomingCount": 3
     },
     "Matches": [
         {
@@ -39,36 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782492307~acl=/hls/*~hmac=5561c01853b928debf15fa2af1c8eee78476c4ded3ab1ddd7d509193c476b298"
-        },
-        {
-            "EntityId": 14693,
-            "VideoName": "Lamborghini Super Trofeo - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-06-26 21:10:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Lamborghini Super Trofeo - Race 1 match is scheduled to take place on 26-Jun, at 09:10 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782428671540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782428671540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-lamborghini-super-trofeo---race-1-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
-        },
-        {
-            "EntityId": 14699,
-            "VideoName": "CrowdStrike 24 Hours of Spa - GT World Challenge pwd by AWS Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Match",
-            "EventStartDate": "2026-06-26 23:20:00",
-            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24 Hours of Spa - GT World Challenge pwd by AWS match is scheduled to take place on 26-Jun, at 11:20 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782429183540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782429183540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24-hours-of-spa---gt-world-challenge-pwd-by-aws-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782492907~acl=/hls/*~hmac=03189eea2ff004faf363a53ac25093ef7924c22498f3d2309044ac4d26ab9b1c"
         },
         {
             "EntityId": 13456,
