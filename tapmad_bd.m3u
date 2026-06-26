@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 AM 27-06-2026
+# Last Update: 03:30 AM 27-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782509707~acl=/hls/*~hmac=cdc91ecb336df16262b7da6d5a84e7c3a0bcea34015ea61f8baf75d1a7181796
-#EXTINF:-1 tvg-id="tapmad-13456" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821117301020x576.jpg" group-title="Cricket", Kent vs Nottinghamshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782509707~acl=/hls/*~hmac=cdc91ecb336df16262b7da6d5a84e7c3a0bcea34015ea61f8baf75d1a7181796
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782510307~acl=/hls/*~hmac=b089e960a3f52e167f0b2650f88227cb138cea1ed4d605e66b7c9c5629b18fc7
