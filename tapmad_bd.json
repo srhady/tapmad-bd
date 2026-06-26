@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 27-06-2026",
+        "LastUpdate": "01:30 AM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782501313~acl=/hls/*~hmac=728c147bf76572bf4799b80e3caf2b3cac2227a84aa6305bdcd74354a507d95f"
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782503107~acl=/hls/*~hmac=817690fc3fe9fe8df238e62fa9cf8352caea002dd25fc90b3c93775434d6dd74"
         },
         {
             "EntityId": 14699,
@@ -40,6 +40,21 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24-hours-of-spa---gt-world-challenge-pwd-by-aws-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+        },
+        {
+            "EntityId": 13456,
+            "VideoName": "Kent vs Nottinghamshire Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-06-27 00:00:00",
+            "Description": "Watch 16th T20 of the Vitality Blast 2034 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782111730540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782111730540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 440,
+            "UrlSlug": "kent-vs-nottinghamshire-16th-t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782503107~acl=/hls/*~hmac=817690fc3fe9fe8df238e62fa9cf8352caea002dd25fc90b3c93775434d6dd74"
         },
         {
             "EntityId": 14073,
