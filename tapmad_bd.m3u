@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 PM 26-06-2026
+# Last Update: 04:10 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14669" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824194411020x576.jpg" group-title="Racing", GT4 European Series - Qualifying 1 & 2 Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822113031020x576.jpg" group-title="Multisports", Women's Semi-Final A Session, Budapest, Hungary Live | UIPM 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
