@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:50 PM 26-06-2026
+# Last Update: 08:10 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,10 +8,10 @@
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782482707~acl=/hls/*~hmac=df20ffa42d05351c17431a3a98932a114c6e47fe6341cea3809934d70c0eb9c8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782483907~acl=/hls/*~hmac=8289445aafbb3236d47db757d264ac23a7b26a4af4690a859fd661493c18bad2
 #EXTINF:-1 tvg-id="tapmad-14622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822136551020x576.jpg" group-title="Multisports", Women's Semi-Final B Session, Budapest, Hungary Live | UIPM 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824754231020x576.jpg" group-title="Cricket", Ireland vs India | India Tour of Ireland 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782482708~acl=/hls/*~hmac=2d3a6c9bafae4f3ef1c9e5e7a2a20fac57fb9c245b9859bd40391dda38a70183
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782483907~acl=/hls/*~hmac=8289445aafbb3236d47db757d264ac23a7b26a4af4690a859fd661493c18bad2
 #EXTINF:-1 tvg-id="tapmad-14687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824281961020x576.jpg" group-title="Racing", CrowdStrike 24H Spa - Superpole 1 - 4 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
