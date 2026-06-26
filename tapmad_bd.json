@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:20 PM 26-06-2026",
+        "LastUpdate": "09:30 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -39,7 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782488107~acl=/hls/*~hmac=43cef020dc1a0d9d45c5ae03ff41f2c70ea61d58685d25caf80375b179b3dec6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782488707~acl=/hls/*~hmac=a4cace259041bd84785108c41ce16c60801466b687bb3d30b8719b8a6a2dd9d7"
         },
         {
             "EntityId": 14757,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 528,
             "UrlSlug": "ireland-vs-india-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782488107~acl=/hls/*~hmac=43cef020dc1a0d9d45c5ae03ff41f2c70ea61d58685d25caf80375b179b3dec6"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782488707~acl=/hls/*~hmac=a4cace259041bd84785108c41ce16c60801466b687bb3d30b8719b8a6a2dd9d7"
         },
         {
             "EntityId": 14693,
