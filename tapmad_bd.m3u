@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:50 PM 26-06-2026
+# Last Update: 09:00 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,8 @@
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782486308~acl=/hls/*~hmac=eebf9fefa6bf56810a6bffcf5865366b8724e7d3368de759825e0e91bbfaa56e
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782486927~acl=/hls/*~hmac=a3b142737f223f81c27acf4cbaefa68a4b2238cfc42a02e0f808ead6c5afb80a
 #EXTINF:-1 tvg-id="tapmad-14757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824754231020x576.jpg" group-title="Cricket", Ireland vs India | India Tour of Ireland 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782486326~acl=/hls/*~hmac=7ac2d6b8fe7a01daeca7739ac6ebf3f28e3c8390a6d4fbc8e149c195553727cf
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782486927~acl=/hls/*~hmac=a3b142737f223f81c27acf4cbaefa68a4b2238cfc42a02e0f808ead6c5afb80a
+#EXTINF:-1 tvg-id="tapmad-14693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824286711020x576.jpg" group-title="Racing", Lamborghini Super Trofeo - Race 1 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
