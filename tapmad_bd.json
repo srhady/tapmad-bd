@@ -1,44 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 PM 26-06-2026",
+        "LastUpdate": "01:40 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 12
+        "UpcomingCount": 10
     },
     "Matches": [
-        {
-            "EntityId": 14669,
-            "VideoName": "GT4 European Series - Qualifying 1 & 2 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Round 1 & 2",
-            "EventStartDate": "2026-06-26 14:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Qualifying 1 & 2 match is scheduled to take place on 26-Jun, at 02:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782419441540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782419441540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---qualifying-1-&-2-live"
-        },
-        {
-            "EntityId": 14616,
-            "VideoName": "Women's Semi-Final A Session, Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-06-26 14:30:00",
-            "Description": "Watch Women's Semi-Final A Session, Budapest, Hungary live online on tapmad. The event is scheduled to take place on 26-Jun,  at 02:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782211303540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782211303540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "women's-semi-final-a-session,-budapest,-hungary-live"
-        },
         {
             "EntityId": 14073,
             "VideoName": "England vs New Zealand",
