@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:50 PM 26-06-2026",
+        "LastUpdate": "07:00 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 5,
         "UpcomingCount": 6
     },
     "Matches": [
@@ -69,7 +69,22 @@
             "Status": "Live",
             "CategoryId": 528,
             "UrlSlug": "ireland-vs-india-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782479107~acl=/hls/*~hmac=a292e813e116886a8731f5e475fcb7bf319e0dbee8d11208898bd7ab57fbd965"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782479713~acl=/hls/*~hmac=7e31b39624746771136c2c06f81ba4659e2e37e5c44f0a65d8ecbdc8fe8a0b80"
+        },
+        {
+            "EntityId": 14687,
+            "VideoName": "CrowdStrike 24H Spa - Superpole 1 - 4 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Match",
+            "EventStartDate": "2026-06-26 19:05:00",
+            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24H Spa - Superpole 1 - 4 match is scheduled to take place on 26-Jun, at 07:05 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782428196540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782428196540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24h-spa---superpole-1---4-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
         },
         {
             "EntityId": 13962,

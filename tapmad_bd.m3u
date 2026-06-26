@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 PM 26-06-2026
+# Last Update: 07:00 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,4 +12,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/ma
 #EXTINF:-1 tvg-id="tapmad-14622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822136551020x576.jpg" group-title="Multisports", Women's Semi-Final B Session, Budapest, Hungary Live | UIPM 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824754231020x576.jpg" group-title="Cricket", Ireland vs India | India Tour of Ireland 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782479107~acl=/hls/*~hmac=a292e813e116886a8731f5e475fcb7bf319e0dbee8d11208898bd7ab57fbd965
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782479713~acl=/hls/*~hmac=7e31b39624746771136c2c06f81ba4659e2e37e5c44f0a65d8ecbdc8fe8a0b80
+#EXTINF:-1 tvg-id="tapmad-14687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824281961020x576.jpg" group-title="Racing", CrowdStrike 24H Spa - Superpole 1 - 4 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
