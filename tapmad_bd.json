@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 26-06-2026",
+        "LastUpdate": "08:40 PM 26-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 3,
         "UpcomingCount": 4
     },
     "Matches": [
@@ -39,22 +39,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782485108~acl=/hls/*~hmac=9cdf6991ba674e5448d8dc37ae7bdf0b3d87245f178eb1c4352a8ce862b5b4fc"
-        },
-        {
-            "EntityId": 14622,
-            "VideoName": "Women's Semi-Final B Session, Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-06-26 18:30:00",
-            "Description": "Watch Women's Semi-Final B Session, Budapest, Hungary live online on tapmad. The event is scheduled to take place on 26-Jun,  at 06:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782213655540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782213655540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 464,
-            "UrlSlug": "women's-semi-final-b-session,-budapest,-hungary-live",
-            "stream_url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782485707~acl=/hls/*~hmac=e9d345ca3b40e3f957a1d50d3615a0a8bf60c625564490877c5786a1d79abae3"
         },
         {
             "EntityId": 14757,
@@ -69,22 +54,7 @@
             "Status": "Live",
             "CategoryId": 528,
             "UrlSlug": "ireland-vs-india-1st-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782485108~acl=/hls/*~hmac=9cdf6991ba674e5448d8dc37ae7bdf0b3d87245f178eb1c4352a8ce862b5b4fc"
-        },
-        {
-            "EntityId": 14687,
-            "VideoName": "CrowdStrike 24H Spa - Superpole 1 - 4 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Match",
-            "EventStartDate": "2026-06-26 19:05:00",
-            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24H Spa - Superpole 1 - 4 match is scheduled to take place on 26-Jun, at 07:05 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782428196540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782428196540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24h-spa---superpole-1---4-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782485708~acl=/hls/*~hmac=04ed6bd62b00a761ea11566cb492c2f11945aba6f01951118957bd5f473f2e29"
         },
         {
             "EntityId": 14699,
