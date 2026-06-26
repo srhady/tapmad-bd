@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:20 AM 27-06-2026",
+        "LastUpdate": "04:30 AM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -80,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 461,
             "UrlSlug": "england-vs-new-zealand-3rd-test-live"
+        },
+        {
+            "EntityId": 14723,
+            "VideoName": "Lamborghini Super Trofeo - Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-06-27 16:10:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Lamborghini Super Trofeo - Race 2 match is scheduled to take place on 27-Jun, at 04:10 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782512258540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782512258540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-lamborghini-super-trofeo---race-2-live"
         },
         {
             "EntityId": 14634,
