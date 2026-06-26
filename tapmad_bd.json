@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:50 AM 27-06-2026",
+        "LastUpdate": "02:00 AM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -24,7 +24,7 @@
             "Status": "Live",
             "CategoryId": 460,
             "UrlSlug": "west-indies-vs-sri-lanka-1st-test-live",
-            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782504307~acl=/hls/*~hmac=f00f61e6e17a7d49f31e1a4b3c5cb084303987f1cecb684aa0a0d58a4e8e62d8"
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Fi2F6a-SUIvsCAN/master.m3u8?hdnts=exp=1782504919~acl=/hls/*~hmac=6dddd8c370108ba4e2904eacaa378f52c22a503a08d57f02a9564bd75fe9e181"
         },
         {
             "EntityId": 14699,
@@ -54,7 +54,7 @@
             "Status": "Live",
             "CategoryId": 440,
             "UrlSlug": "kent-vs-nottinghamshire-16th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782504307~acl=/hls/*~hmac=f00f61e6e17a7d49f31e1a4b3c5cb084303987f1cecb684aa0a0d58a4e8e62d8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782504919~acl=/hls/*~hmac=6dddd8c370108ba4e2904eacaa378f52c22a503a08d57f02a9564bd75fe9e181"
         },
         {
             "EntityId": 14073,
