@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:10 PM 27-06-2026",
+        "LastUpdate": "02:20 PM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe---race-2-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+        },
+        {
+            "EntityId": 14628,
+            "VideoName": "Men's Semi-Final A Session, Budapest, Hungar Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-06-27 14:30:00",
+            "Description": "Watch UIPM 2026 Men's Semi-Final A Session, Budapest, Hungar live online on tapmad. The event is scheduled to take place on 27-Jun,  at 02:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782508480540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782508480540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 464,
+            "UrlSlug": "men's-semi-final-a-session,-budapest,-hungar-live",
+            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
             "EntityId": 14073,

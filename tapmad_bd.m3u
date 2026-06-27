@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 PM 27-06-2026
+# Last Update: 02:20 PM 27-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14711" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825105131020x576.jpg" group-title="Racing", McLaren Trophy Europe - Race 2 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825084801020x576.jpg" group-title="Multisports", Men's Semi-Final A Session, Budapest, Hungar Live | UIPM 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
