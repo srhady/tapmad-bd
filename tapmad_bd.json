@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 27-06-2026",
+        "LastUpdate": "07:40 PM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 3
+        "UpcomingCount": 2
     },
     "Matches": [
         {
@@ -40,20 +40,6 @@
             "CategoryId": 464,
             "UrlSlug": "men's-semi-final-b-session,-budapest,-hungary-live",
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "EntityId": 14735,
-            "VideoName": "CrowdStrike 24 Hours of Spa - Race Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-06-27 20:30:00",
-            "Description": "The GT World Challenge EU & Asia 2026 CrowdStrike 24 Hours of Spa - Race match is scheduled to take place on 27-Jun, at 08:30 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782513805540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782513805540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24-hours-of-spa---race-live"
         },
         {
             "EntityId": 14138,
