@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:10 PM 27-06-2026
+# Last Update: 08:20 PM 27-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?hdnts=exp=1782570307~acl=/hls/*~hmac=8e6eff450250f7b0f8a3398ffeb2af4032b09fcf52c1262544245a7fe26f3449
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?hdnts=exp=1782570908~acl=/hls/*~hmac=dacaea25484f2bb8cd2e97034349c10b9ef56949d6fb28c00940310536d72d2f
 #EXTINF:-1 tvg-id="tapmad-14634" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825090231020x576.jpg" group-title="Multisports", Men's Semi-Final B Session, Budapest, Hungary Live | UIPM 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Racing", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
