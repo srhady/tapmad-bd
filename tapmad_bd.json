@@ -1,30 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:40 AM 27-06-2026",
+        "LastUpdate": "07:50 AM 27-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 12
+        "UpcomingCount": 11
     },
     "Matches": [
-        {
-            "EntityId": 14705,
-            "VideoName": "GT4 European Series - Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-06-27 01:35:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1 match is scheduled to take place on 27-Jun, at 01:35 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782509906540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782509906540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1-live"
-        },
         {
             "EntityId": 14711,
             "VideoName": "McLaren Trophy Europe - Race 2 Live",
