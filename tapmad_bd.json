@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 28-06-2026",
+        "LastUpdate": "01:20 PM 28-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 6
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-crowdstrike-24-hours-of-spa---race-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+        },
+        {
+            "EntityId": 14773,
+            "VideoName": "Zimbabwe vs Bangladesh",
+            "CategoryName": "Bangladesh Tour of Zimbabwe 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-06-28 13:30:00",
+            "Description": "Watch The 1st Test of the Bangladesh Tour of Zimbabwe 2026 marks the start of a three match Test series. Watch 1st Test Zimbabwe vs Bangladesh live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782593862540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782593862540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 551,
+            "UrlSlug": "zimbabwe-vs-bangladesh-1st-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1782632107~acl=/hls/*~hmac=1f54d29a70f690be540e11545d088a5580332a23240d3ea43e07cc359c2e436f"
         },
         {
             "EntityId": 14640,
