@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 PM 28-06-2026",
+        "LastUpdate": "01:50 PM 28-06-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 6
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -40,20 +40,6 @@
             "CategoryId": 551,
             "UrlSlug": "zimbabwe-vs-bangladesh-1st-test-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 14640,
-            "VideoName": "Women's Final Session, Budapest, Hungary Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-06-28 14:30:00",
-            "Description": "Watch UIPM 2026 Women's Final Session, Budapest, Hungary live online on tapmad. The event is scheduled to take place on 28-Jun,  at 02:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782601484540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782601484540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "women's-final-session,-budapest,-hungary-live"
         },
         {
             "EntityId": 14073,
