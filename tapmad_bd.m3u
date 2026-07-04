@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 04-07-2026
+# Last Update: 08:10 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,7 +13,5 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14823" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830764271020x576.jpg" group-title="E Sports", Valorant Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831549321020x576.jpg" group-title="Racing", Qualifying Race - Le Castellet, France Live | Kumho FIA TCR World Tour Euro Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Cricket", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783174507~acl=/hls/*~hmac=e1e5a61a8fa8ba8cf5794f2c64e2a3b4b584dd0bccb955075aca4790c9623db0
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783175107~acl=/hls/*~hmac=3df18bb8c28e1b3b56829398a25ae176807e95a1bcb0a39d8303d92932c40d4e

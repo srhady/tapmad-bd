@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 04-07-2026",
+        "LastUpdate": "08:10 PM 04-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
-        "UpcomingCount": 9
+        "LiveCount": 5,
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -72,21 +72,6 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
-            "EntityId": 14848,
-            "VideoName": "Qualifying Race - Le Castellet, France Live",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-07-04 19:05:00",
-            "Description": "Live Stream Qualifying Race - Le Castellet, France Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783154932540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783154932540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 427,
-            "UrlSlug": "qualifying-race---le-castellet,-france-live",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
             "EntityId": 14797,
             "VideoName": "England vs India",
             "CategoryName": "India Tour of England 2026",
@@ -99,21 +84,7 @@
             "Status": "Live",
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-2nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783174507~acl=/hls/*~hmac=e1e5a61a8fa8ba8cf5794f2c64e2a3b4b584dd0bccb955075aca4790c9623db0"
-        },
-        {
-            "EntityId": 14836,
-            "VideoName": "Qualifying Sessions - Ramsey - Isle of Man Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-07-04 21:00:00",
-            "Description": "Watch Qualifying Sessions - Ramsey - Isle of Man the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783064934540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783064934540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 465,
-            "UrlSlug": "ramsey-isle-of-man-wdsc-2026-live"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783175107~acl=/hls/*~hmac=3df18bb8c28e1b3b56829398a25ae176807e95a1bcb0a39d8303d92932c40d4e"
         },
         {
             "EntityId": 13459,
