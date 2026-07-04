@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:50 PM 04-07-2026",
+        "LastUpdate": "10:00 PM 04-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -84,22 +84,7 @@
             "Status": "Live",
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-2nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783181107~acl=/hls/*~hmac=8000958c74a6521f4534238341c9614ccfb97a197eca3d3af61bdc9388eda025"
-        },
-        {
-            "EntityId": 14836,
-            "VideoName": "Qualifying Sessions - Ramsey - Isle of Man Live",
-            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-07-04 21:00:00",
-            "Description": "Watch Qualifying Sessions - Ramsey - Isle of Man the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783064934540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783064934540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 465,
-            "UrlSlug": "ramsey-isle-of-man-wdsc-2026-live",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783181707~acl=/hls/*~hmac=59d8f814069356eae1093093dbc5636e4575ef422f5b3bcc0675c654ed31983a"
         },
         {
             "EntityId": 13459,
