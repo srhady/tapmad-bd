@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:40 PM 04-07-2026",
+        "LastUpdate": "10:50 PM 04-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -57,21 +57,6 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
-            "EntityId": 14823,
-            "VideoName": "Valorant Day 3 - Feed 2",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-04 17:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 3  tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783076427540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783076428540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-        },
-        {
             "EntityId": 14797,
             "VideoName": "England vs India",
             "CategoryName": "India Tour of England 2026",
@@ -84,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-2nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783184119~acl=/hls/*~hmac=c663c623230186e7b11f8dde469c3caaab5e4e127d0c9e96fc232d91a0e81d26"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783184707~acl=/hls/*~hmac=be4f6a80f8b27d33ddc81eef16a4124154ad09c28302a913c7617924700c412c"
         },
         {
             "EntityId": 13459,
