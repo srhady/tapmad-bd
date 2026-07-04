@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 04-07-2026
+# Last Update: 09:10 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,6 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14823" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830764271020x576.jpg" group-title="E Sports", Valorant Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Cricket", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783178125~acl=/hls/*~hmac=d27c715216b456da0043fcff270d96faeefa3c5a31c6872a8f3b24ab8af57f36
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783178707~acl=/hls/*~hmac=4c275bc0190e5726dbed33af61bee892b2ed0f416931c6a4c5548671452f8803
 #EXTINF:-1 tvg-id="tapmad-14836" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830649341020x576.jpg" group-title="Skateboarding", Qualifying Sessions - Ramsey - Isle of Man Live | World Downhill Skateboarding Championship (WDSC) 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
