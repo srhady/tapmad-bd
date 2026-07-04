@@ -1,10 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 PM 04-07-2026
+# Last Update: 07:30 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828112541020x576.jpg" group-title="Tennis", Gentlemen's & Ladies' Singles Third Round | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830763731020x576.jpg" group-title="E Sports", Valorant Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
@@ -14,4 +16,4 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831549321020x576.jpg" group-title="Racing", Qualifying Race - Le Castellet, France Live | Kumho FIA TCR World Tour Euro Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Cricket", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783172107~acl=/hls/*~hmac=0bc9ee49747ee2849b53fdf828ca6f012522c5bf09eb931d1c2edfad2f5dee5c
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783172707~acl=/hls/*~hmac=b17a8b9eabe50ba1f12692fae9b4028a75c4b7d1d084c7a7fe9e23ac0062a33d
