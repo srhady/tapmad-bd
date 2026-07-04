@@ -1,4 +1,183 @@
-পক্সির অভাবে প্লেলিস্ট অফ আছে। ১ জিবি পক্সি ১৫০ টাকা।
-কেউ ডোনেট করতে চাইলে নক করুন t.me/SRHady12
-পক্সি ছাড়া প্লেলিস্ট রান হবে না। কেউ যদি চান প্লেলিস্ট আগের মতো 
-রানিং হোক তাহলে পক্সির খরচটা ডোনেট করুন
+{
+    "HeaderInfo": {
+        "PlaylistName": "Tapmad Matches Metadata",
+        "LastUpdate": "03:20 PM 04-07-2026",
+        "Telegram": "https://t.me/livesportsplay",
+        "Owner": "Md Sohanur Rahman Hady",
+        "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
+    },
+    "Stats": {
+        "LiveCount": 0,
+        "UpcomingCount": 12
+    },
+    "Matches": [
+        {
+            "EntityId": 14822,
+            "VideoName": "Valorant Day 3 - Feed 1",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-04 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 3  tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783076373540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783076373540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming"
+        },
+        {
+            "EntityId": 14823,
+            "VideoName": "Valorant Day 3 - Feed 2",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-04 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 3  tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783076427540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783076428540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming"
+        },
+        {
+            "EntityId": 14848,
+            "VideoName": "Qualifying Race - Le Castellet, France Live",
+            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-07-04 19:05:00",
+            "Description": "Live Stream Qualifying Race - Le Castellet, France Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783154932540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783154932540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 427,
+            "UrlSlug": "qualifying-race---le-castellet,-france-live"
+        },
+        {
+            "EntityId": 14797,
+            "VideoName": "England vs India",
+            "CategoryName": "India Tour of England 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-07-04 19:30:00",
+            "Description": "The 2nd T20 of the India Tour of England 2026 marks the start of a 5 match T20 series. Watch England vs India 2nd T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782835807540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782835807540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 573,
+            "UrlSlug": "england-vs-india-2nd-t20-live"
+        },
+        {
+            "EntityId": 13963,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-07-04 20:00:00",
+            "Description": "The 2nd Test of the  Sri Lanka Tour of West Indies 2026 marks the start of a two match test series. Watch West Indies vs Sri Lanka 2nd test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782979314540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782979314540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-2nd-test-live"
+        },
+        {
+            "EntityId": 14836,
+            "VideoName": "Qualifying Sessions - Ramsey - Isle of Man Live",
+            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-07-04 21:00:00",
+            "Description": "Watch Qualifying Sessions - Ramsey - Isle of Man the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783064934540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783064934540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 465,
+            "UrlSlug": "ramsey-isle-of-man-wdsc-2026-live"
+        },
+        {
+            "EntityId": 13459,
+            "VideoName": "Gloucestershire vs Surrey Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-05 00:00:00",
+            "Description": "Watch 19th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782820642540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782820642540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 440,
+            "UrlSlug": "gloucestershire-vs-surrey-19th-t20-live"
+        },
+        {
+            "EntityId": 14854,
+            "VideoName": "Round 6 - Le Castellet (FRA) Live",
+            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
+            "StageName": "Match",
+            "EventStartDate": "2026-07-05 16:35:00",
+            "Description": "Live Stream Round 6 - Le Castellet (FRA) Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783156429540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783156429540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 427,
+            "UrlSlug": "round-6---le-castellet-(fra)-live"
+        },
+        {
+            "EntityId": 14824,
+            "VideoName": "Valorant Day 4 - Feed 1",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-05 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 4 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783076952540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783076952540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming"
+        },
+        {
+            "EntityId": 14825,
+            "VideoName": "Valorant Day 4 - Feed 2",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-05 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 4 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783077020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783077020540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming"
+        },
+        {
+            "EntityId": 14842,
+            "VideoName": "Race Day - Ramsey - Isle of Man Live",
+            "CategoryName": "World Downhill Skateboarding Championship (WDSC) 2026",
+            "StageName": "Main Race",
+            "EventStartDate": "2026-07-05 19:00:00",
+            "Description": "Watch Race Day - Ramsey - Isle of Man the World Downhill Skateboarding Championship 2026 live on tapmad and experience the thrill of the world's premier downhill skateboarding competition. Featuring elite riders, breathtaking speeds, and challenging downhill courses from around the globe, every event delivers nonstop action and adrenaline-fueled competition. From daring overtakes and technical turns to championship-defining runs, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783155869540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783155869540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 465,
+            "UrlSlug": "race-day-ramsey-wdsc-2026-live"
+        },
+        {
+            "EntityId": 14774,
+            "VideoName": "Zimbabwe vs Bangladesh",
+            "CategoryName": "Bangladesh Tour of Zimbabwe 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-07-06 13:30:00",
+            "Description": "The 1st ODI of the Bangladesh Tour of Zimbabwe 2026 marks the start of a three match Odi series. Watch Zimbabwe vs Bangladesh 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Zimbabwe cricket team focusing on balance and pace control. Bangladesh, led by Mehidy Hasan, rely on experienced player such as Litton Das to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783081316540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783081316540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 551,
+            "UrlSlug": "zimbabwe-vs-bangladesh-1st-odi-live"
+        }
+    ]
+}
