@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:10 PM 04-07-2026
+# Last Update: 07:20 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,4 +14,4 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831549321020x576.jpg" group-title="Racing", Qualifying Race - Le Castellet, France Live | Kumho FIA TCR World Tour Euro Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Cricket", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783171507~acl=/hls/*~hmac=bf5b3fed42ca7e93fe3668183cc597eefac948025d841995eb2fadd1e66cd307
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783172107~acl=/hls/*~hmac=0bc9ee49747ee2849b53fdf828ca6f012522c5bf09eb931d1c2edfad2f5dee5c
