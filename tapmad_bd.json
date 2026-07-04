@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:10 PM 04-07-2026",
+        "LastUpdate": "11:20 PM 04-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -69,7 +69,7 @@
             "Status": "Live",
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-2nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783185907~acl=/hls/*~hmac=8176317240952db0b8ad772cd0f865fe8ba735695157a3d1d432bb6d4179a54f"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783186522~acl=/hls/*~hmac=b6ef0497785a427cee8abc81c354b096caa1434c845316ddd35bce2e73fb72d1"
         },
         {
             "EntityId": 14749,
