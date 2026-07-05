@@ -1,46 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:10 AM 06-07-2026",
+        "LastUpdate": "04:20 AM 06-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 3
+        "LiveCount": 0,
+        "UpcomingCount": 4
     },
     "Matches": [
-        {
-            "EntityId": 13963,
-            "VideoName": "West Indies vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of West Indies 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-07-03 20:00:00",
-            "Description": "The 2nd Test of the  Sri Lanka Tour of West Indies 2026 marks the start of a two match test series. Watch West Indies vs Sri Lanka 2nd test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782979314540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782979314540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 460,
-            "UrlSlug": "west-indies-vs-sri-lanka-2nd-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 14749,
-            "VideoName": "Gentlemen's & Ladies' Singles Fourth Round (Round of 16)",
-            "CategoryName": "Wimbledon 2026",
-            "StageName": "Round of 32",
-            "EventStartDate": "2026-07-05 16:00:00",
-            "Description": "Wimbledon 2026 is one of the most prestigious Grand Slam tennis tournaments in the world, bringing together the biggest stars in tennis to compete on the iconic grass courts of the All England Club. Watch Wimbledon 2026 live in HD on tapmad with official coverage and uninterrupted streaming. From thrilling rallies to championship matches, experience every moment as the world's best players battle for one of tennis' most coveted titles. Stream Wimbledon 2026 live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783157644540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783157644540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 537,
-            "UrlSlug": "gentlemen's-&-ladies'-singles-fourth-round-(round-of-16)-vs--7th-t20-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
-        },
         {
             "EntityId": 14774,
             "VideoName": "Zimbabwe vs Bangladesh",
@@ -54,6 +24,20 @@
             "Status": "Upcoming",
             "CategoryId": 551,
             "UrlSlug": "zimbabwe-vs-bangladesh-1st-odi-live"
+        },
+        {
+            "EntityId": 13963,
+            "VideoName": "West Indies vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of West Indies 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-07-06 20:00:00",
+            "Description": "The 2nd Test of the  Sri Lanka Tour of West Indies 2026 marks the start of a two match test series. Watch West Indies vs Sri Lanka 2nd test live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, West Indies will look to make the most of home conditions with a well-balanced squad, while Sri Lanka aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782979314540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782979314540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 460,
+            "UrlSlug": "west-indies-vs-sri-lanka-2nd-test-live"
         },
         {
             "EntityId": 14798,
