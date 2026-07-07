@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 08-07-2026",
+        "LastUpdate": "12:30 AM 08-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 7,
+        "LiveCount": 6,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -100,21 +100,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
             "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8"
-        },
-        {
-            "EntityId": 14827,
-            "VideoName": "Valorant Day 6",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-07 17:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783331700540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783331700540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
