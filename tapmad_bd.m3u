@@ -1,12 +1,14 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 08-07-2026
+# Last Update: 11:10 PM 08-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14752" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833445391020x576.jpg" group-title="Tennis", Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13461" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833325261020x576.jpg" group-title="Cricket", Surrey vs Warwickshire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834928611020x576.jpg" group-title="E Sports", Dota 2 - Day 2 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14892" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834929061020x576.jpg" group-title="E Sports", Dota 2 - Day 2 - Feed 2 | Esports World Cup 2026 (EWC)
