@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:40 AM 09-07-2026",
+        "LastUpdate": "02:50 AM 09-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 6
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 14958,
-            "VideoName": "Welcome to EWC - Opening Ceremony",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Show",
-            "EventStartDate": "2026-07-08 23:30:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Opening Ceremony live in HD on tapmad with official event coverage and uninterrupted streaming. Celebrate the start of the Esports World Cup with spectacular performances, special appearances, exclusive announcements, and an unforgettable opening show featuring the global esports community. Stream the EWC 2026 Opening Ceremony live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783514693540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783514693540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-opening-ceremony-live-streaming",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "EntityId": 14775,
