@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 09-07-2026",
+        "LastUpdate": "10:20 PM 09-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,21 +11,6 @@
         "UpcomingCount": 0
     },
     "Matches": [
-        {
-            "EntityId": 14775,
-            "VideoName": "Zimbabwe vs Bangladesh",
-            "CategoryName": "Bangladesh Tour of Zimbabwe 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-07-09 13:30:00",
-            "Description": "The 2nd ODI of the Bangladesh Tour of Zimbabwe 2026 marks the start of a three match Odi series. Watch Zimbabwe vs Bangladesh 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Zimbabwe cricket team focusing on balance and pace control. Bangladesh, led by Mehidy Hasan, rely on experienced player such as Litton Das to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783333070540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783333070540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 551,
-            "UrlSlug": "zimbabwe-vs-bangladesh-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8"
-        },
         {
             "EntityId": 14753,
             "VideoName": "Ladies' Singles Semi-Finals & Mixed Doubles Final",
@@ -40,6 +25,21 @@
             "CategoryId": 537,
             "UrlSlug": "ladies'-singles-semi-finals-&-mixed-doubles-final-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+        },
+        {
+            "EntityId": 14799,
+            "VideoName": "England vs India",
+            "CategoryName": "India Tour of England 2026",
+            "StageName": "4th T20I",
+            "EventStartDate": "2026-07-09 22:30:00",
+            "Description": "The 4th T20 of the India Tour of England 2026 marks the start of a 5 match T20 series. Watch England vs India 4th T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783232533540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783232533540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 573,
+            "UrlSlug": "england-vs-india-4th-t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 14896,
