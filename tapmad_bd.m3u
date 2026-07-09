@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 09-07-2026
+# Last Update: 12:00 AM 10-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,9 +11,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg" group-title="E Sports", Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)
 https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835056711020x576.jpg" group-title="E Sports", Dota 2 - Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835057671020x576.jpg" group-title="E Sports", Dota 2 - Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835056711020x576.jpg" group-title="E Sports", Dota 2 - Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14828" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835060441020x576.jpg" group-title="E Sports", Valorant Day 7 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
