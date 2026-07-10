@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:40 AM 11-07-2026",
+        "LastUpdate": "12:50 AM 11-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 0
     },
     "Matches": [
-        {
-            "EntityId": 14754,
-            "VideoName": "Gentlemen's Singles Semi-Finals",
-            "CategoryName": "Wimbledon 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-07-10 16:00:00",
-            "Description": "Wimbledon 2026 is one of the most prestigious Grand Slam tennis tournaments in the world, bringing together the biggest stars in tennis to compete on the iconic grass courts of the All England Club. Watch Wimbledon 2026 live in HD on tapmad with official coverage and uninterrupted streaming. From thrilling rallies to championship matches, experience every moment as the world's best players battle for one of tennis' most coveted titles. Stream Wimbledon 2026 live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783508050540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783508050540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 537,
-            "UrlSlug": "gentlemen's-singles-semi-finals-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
-        },
         {
             "EntityId": 14948,
             "VideoName": "Alsaif vs Ouhachi",
@@ -57,19 +42,19 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "EntityId": 14897,
-            "VideoName": "Dota 2 - Day 4 - Feed 1",
+            "EntityId": 14899,
+            "VideoName": "Dota 2 - Day 4 - Feed 3",
             "CategoryName": "Esports World Cup 2026 (EWC)",
             "StageName": "Group Stage",
             "EventStartDate": "2026-07-10 15:00:00",
             "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 4 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580798540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580798540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580908540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580908540x302.jpg",
             "IsFreeToWatch": true,
             "Status": "Live",
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8"
         },
         {
             "EntityId": 14898,
@@ -87,19 +72,19 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
-            "EntityId": 14899,
-            "VideoName": "Dota 2 - Day 4 - Feed 3",
+            "EntityId": 14897,
+            "VideoName": "Dota 2 - Day 4 - Feed 1",
             "CategoryName": "Esports World Cup 2026 (EWC)",
             "StageName": "Group Stage",
             "EventStartDate": "2026-07-10 15:00:00",
             "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 4 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580908540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580908540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580798540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580798540x302.jpg",
             "IsFreeToWatch": true,
             "Status": "Live",
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8"
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
