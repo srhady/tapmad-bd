@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 PM 11-07-2026",
+        "LastUpdate": "05:40 PM 11-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 6,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -85,6 +85,21 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "EntityId": 14936,
+            "VideoName": "Cycling Day 4 - Steyr Live",
+            "CategoryName": "LIDL Tour of Austria 75",
+            "StageName": "Race",
+            "EventStartDate": "2026-07-11 18:00:00",
+            "Description": "Watch the LIDL Tour of Austria 75 - 2026 live online on tapmad. The event brings together elite cyclists competing across challenging mountain climbs, scenic road stages, and exciting sprint finishes in one of Europe's premier cycling races. Catch every stage live in HD on tapmad via app, web, or smart TV and stay updated with official race coverage and event highlights.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783673521540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783673521540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 628,
+            "UrlSlug": "lidl-tour-of-austria-75-2026-live-streaming",
+            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
