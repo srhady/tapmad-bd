@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 11-07-2026",
+        "LastUpdate": "10:10 PM 11-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 3,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-5th-t20-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 14963,
-            "VideoName": "Qualifying Race - Vila Real (POR) Live",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-07-11 20:25:00",
-            "Description": "Live Stream Qualifying Race - Vila Real (POR) Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783681064540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783681064540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 427,
-            "UrlSlug": "qualifying-race---vila-real-(por)-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
             "EntityId": 14755,
@@ -70,21 +55,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "EntityId": 14936,
-            "VideoName": "Cycling Day 4 - Steyr Live",
-            "CategoryName": "LIDL Tour of Austria 75",
-            "StageName": "Race",
-            "EventStartDate": "2026-07-11 18:00:00",
-            "Description": "Watch the LIDL Tour of Austria 75 - 2026 live online on tapmad. The event brings together elite cyclists competing across challenging mountain climbs, scenic road stages, and exciting sprint finishes in one of Europe's premier cycling races. Catch every stage live in HD on tapmad via app, web, or smart TV and stay updated with official race coverage and event highlights.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783673521540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783673521540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 628,
-            "UrlSlug": "lidl-tour-of-austria-75-2026-live-streaming",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
