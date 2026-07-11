@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:40 AM 12-07-2026",
+        "LastUpdate": "04:50 AM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 5
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -39,6 +39,20 @@
             "Status": "Upcoming",
             "CategoryId": 265,
             "UrlSlug": "ufc 329-mcgregor vs holloway 2-live"
+        },
+        {
+            "EntityId": 14999,
+            "VideoName": "GTWCA Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-07-12 08:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Race 2 match is scheduled to take place on 12-Jul, at 08:35 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783808450540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783808450540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-race-2-live"
         },
         {
             "EntityId": 14993,
