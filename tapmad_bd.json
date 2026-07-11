@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:50 AM 11-07-2026",
+        "LastUpdate": "11:00 AM 11-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 12
     },
     "Matches": [
+        {
+            "EntityId": 15011,
+            "VideoName": "Individual Race - Stage 1 - Xining Circuit Live",
+            "CategoryName": "Tour of Magnificent Qinghai 2026",
+            "StageName": "Stage 1",
+            "EventStartDate": "2026-07-11 11:00:00",
+            "Description": "Watch the Tour of Magnificent Qinghai 2026 live online on tapmad. The event brings together elite cyclists competing across challenging mountain terrain, scenic road stages, and exciting sprint finishes in one of Asia's premier cycling races. Catch every stage live in HD on tapmad via app, web, or smart TV and stay updated with official race coverage and event highlights.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783685356540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783685356540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 642,
+            "UrlSlug": "tour-of-magnificent-qinghai-live-streaming",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
         {
             "EntityId": 14776,
             "VideoName": "Zimbabwe vs Bangladesh",
