@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:20 AM 12-07-2026",
+        "LastUpdate": "12:30 AM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 14800,
-            "VideoName": "England vs India",
-            "CategoryName": "India Tour of England 2026",
-            "StageName": "5th T20I",
-            "EventStartDate": "2026-07-11 19:30:00",
-            "Description": "The 5th T20 of the India Tour of England 2026 marks the start of a 5 match T20 series. Watch England vs India 5th T20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783578044540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783578044540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 573,
-            "UrlSlug": "england-vs-india-5th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
-        },
         {
             "EntityId": 14755,
             "VideoName": "Ladies' Singles Final & Gentlemen's Doubles Final",
