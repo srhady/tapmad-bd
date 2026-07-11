@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:20 PM 11-07-2026
+# Last Update: 09:30 PM 11-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,10 +11,6 @@ https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14755" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836888691020x576.jpg" group-title="Tennis", Ladies' Singles Final & Gentlemen's Doubles Final | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836691081020x576.jpg" group-title="E Sports", Dota 2 - Day 5 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836691531020x576.jpg" group-title="E Sports", Dota 2 - Day 5 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836685761020x576.jpg" group-title="E Sports", Valorant Day 9 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836735211020x576.jpg" group-title="Racing", Cycling Day 4 - Steyr Live | LIDL Tour of Austria 75 - 2026
