@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:50 PM 12-07-2026",
+        "LastUpdate": "03:00 PM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 4,
         "UpcomingCount": 0
     },
     "Matches": [
@@ -25,6 +25,51 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-race-2-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "EntityId": 14905,
+            "VideoName": "Dota 2 - Day 6 - Feed 3",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Tiebreaker Spot",
+            "EventStartDate": "2026-07-12 15:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691343540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691344540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "EntityId": 14904,
+            "VideoName": "Dota 2 - Day 6 - Feed 2",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Tiebreaker Spot",
+            "EventStartDate": "2026-07-12 15:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691302540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691302540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "EntityId": 14903,
+            "VideoName": "Dota 2 - Day 6 - Feed 1",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Tiebreaker Spot",
+            "EventStartDate": "2026-07-12 15:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691257540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691257540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
