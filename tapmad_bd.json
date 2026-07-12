@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 PM 12-07-2026",
+        "LastUpdate": "11:10 PM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -42,19 +42,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "EntityId": 14903,
-            "VideoName": "Dota 2 - Day 6 - Feed 1",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Tiebreaker Spot",
-            "EventStartDate": "2026-07-12 15:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691257540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691257540x302.jpg",
-            "IsFreeToWatch": true,
+            "EntityId": 13464,
+            "VideoName": "Somerset vs Worcestershire Live",
+            "CategoryName": "Vitality Blast Men 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-12 23:35:00",
+            "Description": "Watch 24th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783688504540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783688504540x302.jpg",
+            "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "CategoryId": 440,
+            "UrlSlug": "somerset-vs-worcestershire-24th-t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 14831,
