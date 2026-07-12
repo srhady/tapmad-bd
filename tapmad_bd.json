@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 AM 12-07-2026",
+        "LastUpdate": "10:10 AM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 6
+        "UpcomingCount": 0
     },
     "Matches": [
         {
@@ -40,90 +40,6 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-race-2-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "EntityId": 14993,
-            "VideoName": "Japan Cup Race 2",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-07-12 12:00:00",
-            "Description": "The GT World Challenge EU & Asia 2026  Japan Race 2 match is scheduled to take place on 12-Jul, at12:00 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783683241540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783683241540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-race-2-live"
-        },
-        {
-            "EntityId": 14969,
-            "VideoName": "Round 8 Race - Vila Real (POR)",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-07-12 17:00:00",
-            "Description": "Live Stream Round 8 - Vila Real (POR) Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783822722540.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783822722540.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 427,
-            "UrlSlug": "round-8---vila-real-(por)-live"
-        },
-        {
-            "EntityId": 14756,
-            "VideoName": "Gentlemen's Singles Final & Ladies' Doubles Final",
-            "CategoryName": "Wimbledon 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-07-12 21:00:00",
-            "Description": "Wimbledon 2026 is one of the most prestigious Grand Slam tennis tournaments in the world, bringing together the biggest stars in tennis to compete on the iconic grass courts of the All England Club. Watch Wimbledon 2026 live in HD on tapmad with official coverage and uninterrupted streaming. From thrilling rallies to championship matches, experience every moment as the world's best players battle for one of tennis' most coveted titles. Stream Wimbledon 2026 live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783688924540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783688924540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 537,
-            "UrlSlug": "gentlemen's-singles-final-&-ladies'-doubles-final--vs--14th-t20-live"
-        },
-        {
-            "EntityId": 14975,
-            "VideoName": "Round 9 Race - Vila Real (POR)",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-07-12 22:05:00",
-            "Description": "Live Stream Round 9 - Vila Real (POR) Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783823598540.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783823598540.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 427,
-            "UrlSlug": "round-9---vila-real-(por)-live"
-        },
-        {
-            "EntityId": 13464,
-            "VideoName": "Somerset vs Worcestershire Live",
-            "CategoryName": "Vitality Blast Men 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-12 23:35:00",
-            "Description": "Watch 24th T20 of the Vitality Blast 2026 live on tapmad and enjoy explosive T20 cricket action featuring top county teams and star players. From powerful batting performances to thrilling last-over finishes, the tournament brings nonstop excitement across both men’s and women’s competitions. Stream every match live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783688504540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783688504540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 440,
-            "UrlSlug": "somerset-vs-worcestershire-24th-t20-live"
-        },
-        {
-            "EntityId": 15066,
-            "VideoName": "West Indies vs New Zealand",
-            "CategoryName": "New Zealand Tour of West Indies 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-07-14 00:30:00",
-            "Description": "The 2nd ODI of the New Zealand Tour of West Indies 2026 marks the start of a five match Odi series. Watch New Zealand vs West Indies 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies look to capitalize on home conditions with a balanced lineup, while New Zealand aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783668024540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783668024540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 646,
-            "UrlSlug": "west-indies-vs-new-zealand-2nd-odi-live"
         }
     ]
 }
