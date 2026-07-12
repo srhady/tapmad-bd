@@ -1,30 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:20 PM 12-07-2026",
+        "LastUpdate": "08:30 PM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 6,
         "UpcomingCount": 0
     },
     "Matches": [
         {
-            "EntityId": 14905,
-            "VideoName": "Dota 2 - Day 6 - Feed 3",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Tiebreaker Spot",
-            "EventStartDate": "2026-07-12 15:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691343540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691344540x302.jpg",
-            "IsFreeToWatch": true,
+            "EntityId": 14756,
+            "VideoName": "Gentlemen's Singles Final & Ladies' Doubles Final",
+            "CategoryName": "Wimbledon 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-07-12 21:00:00",
+            "Description": "Wimbledon 2026 is one of the most prestigious Grand Slam tennis tournaments in the world, bringing together the biggest stars in tennis to compete on the iconic grass courts of the All England Club. Watch Wimbledon 2026 live in HD on tapmad with official coverage and uninterrupted streaming. From thrilling rallies to championship matches, experience every moment as the world's best players battle for one of tennis' most coveted titles. Stream Wimbledon 2026 live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783688924540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783688924540x302.jpg",
+            "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "CategoryId": 537,
+            "UrlSlug": "gentlemen's-singles-final-&-ladies'-doubles-final--vs--14th-t20-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "EntityId": 14904,
@@ -42,6 +42,21 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
+            "EntityId": 14905,
+            "VideoName": "Dota 2 - Day 6 - Feed 3",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Tiebreaker Spot",
+            "EventStartDate": "2026-07-12 15:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783691343540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783691344540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
             "EntityId": 14903,
             "VideoName": "Dota 2 - Day 6 - Feed 1",
             "CategoryName": "Esports World Cup 2026 (EWC)",
@@ -57,21 +72,6 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
-            "EntityId": 14831,
-            "VideoName": "Valorant Day 10",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "3rd Place and Finals",
-            "EventStartDate": "2026-07-12 17:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 10 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783689512540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783689512540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
             "EntityId": 14942,
             "VideoName": "Cycling Day 5 - Langenlois Live",
             "CategoryName": "LIDL Tour of Austria 75",
@@ -85,6 +85,21 @@
             "CategoryId": 628,
             "UrlSlug": "lidl-tour-of-austria-75-2026-live-streaming",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "EntityId": 14831,
+            "VideoName": "Valorant Day 10",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "3rd Place and Finals",
+            "EventStartDate": "2026-07-12 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Valorant Day 10 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every VALORANT match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783689512540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783689512540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-valorant-live-streaming",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
