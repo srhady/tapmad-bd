@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:40 AM 12-07-2026",
+        "LastUpdate": "08:50 AM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 5
+        "UpcomingCount": 6
     },
     "Matches": [
         {
@@ -97,6 +97,20 @@
             "Status": "Upcoming",
             "CategoryId": 537,
             "UrlSlug": "gentlemen's-singles-final-&-ladies'-doubles-final--vs--14th-t20-live"
+        },
+        {
+            "EntityId": 14975,
+            "VideoName": "Round 9 Race - Vila Real (POR)",
+            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-07-12 22:05:00",
+            "Description": "Live Stream Round 9 - Vila Real (POR) Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783823598540.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783823598540.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 427,
+            "UrlSlug": "round-9---vila-real-(por)-live"
         },
         {
             "EntityId": 13464,
