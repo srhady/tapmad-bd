@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:10 AM 12-07-2026",
+        "LastUpdate": "10:20 AM 12-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 0
     },
     "Matches": [
-        {
-            "EntityId": 14950,
-            "VideoName": "McGregor vs Holloway 2",
-            "CategoryName": "UFC 2026",
-            "StageName": "UFC 329",
-            "EventStartDate": "2026-07-12 07:00:00",
-            "Description": "UFC 329 Live: Watch McGregor vs Holloway 2 live online on tapmad. Enjoy watching McGregor vs Holloway 2 live streaming online in Bangladesh with full match highlights. The fight will start at 07:00 AM on 12-Jul. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783341939540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783341939540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 265,
-            "UrlSlug": "ufc 329-mcgregor vs holloway 2-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "EntityId": 14999,
             "VideoName": "GTWCA Race 2 Live",
