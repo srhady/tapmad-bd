@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:20 PM 14-07-2026",
+        "LastUpdate": "03:40 PM 14-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 5
+        "LiveCount": 1,
+        "UpcomingCount": 7
     },
     "Matches": [
+        {
+            "EntityId": 14801,
+            "VideoName": "England vs India",
+            "CategoryName": "India Tour of England 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-07-14 16:00:00",
+            "Description": "The 1st ODI of the India Tour of England 2026 marks the start of a 3 match Odi series. Watch England vs Inida 1st Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783925015540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783925015540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 573,
+            "UrlSlug": "england-vs-india-1st-odi-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
         {
             "EntityId": 14777,
             "VideoName": "Zimbabwe vs Bangladesh",
@@ -54,6 +69,20 @@
             "UrlSlug": "england-vs-india-2nd-odi-live"
         },
         {
+            "EntityId": 15067,
+            "VideoName": "West Indies vs New Zealand",
+            "CategoryName": "New Zealand Tour of West Indies 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-07-17 00:30:00",
+            "Description": "The 3rd ODI of the New Zealand Tour of West Indies 2026 marks the start of a five match Odi series. Watch New Zealand vs West Indies 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies look to capitalize on home conditions with a balanced lineup, while New Zealand aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784021277540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784021277540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 646,
+            "UrlSlug": "west-indies-vs-new-zealand-3rd-odi-live"
+        },
+        {
             "EntityId": 13469,
             "VideoName": "Surrey Women vs The Blaze Women Live",
             "CategoryName": "Vitality Blast Women 2026",
@@ -80,6 +109,20 @@
             "Status": "Upcoming",
             "CategoryId": 439,
             "UrlSlug": "hampshire-women-vs-durham-women-27th-t20-live"
+        },
+        {
+            "EntityId": 14803,
+            "VideoName": "England vs India",
+            "CategoryName": "India Tour of England 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-07-19 16:00:00",
+            "Description": "The 3rd ODI of the India Tour of England 2026 marks the start of a 3 match Odi series. Watch England vs Inida 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784020662540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784020662540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 573,
+            "UrlSlug": "england-vs-india-3rd-odi-live"
         }
     ]
 }
