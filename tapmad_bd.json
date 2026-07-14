@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:40 AM 14-07-2026",
+        "LastUpdate": "06:50 AM 14-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 15066,
-            "VideoName": "West Indies vs New Zealand",
-            "CategoryName": "New Zealand Tour of West Indies 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-07-14 00:30:00",
-            "Description": "The 2nd ODI of the New Zealand Tour of West Indies 2026 marks the start of a five match Odi series. Watch New Zealand vs West Indies 2nd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies look to capitalize on home conditions with a balanced lineup, while New Zealand aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783668024540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783668024540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 646,
-            "UrlSlug": "west-indies-vs-new-zealand-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "EntityId": 14801,
             "VideoName": "England vs India",
