@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 14-07-2026
+# Last Update: 10:20 PM 14-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,5 +9,3 @@
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14906" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839260941020x576.jpg" group-title="E Sports", Dota 2 - Day 7 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14907" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839261461020x576.jpg" group-title="E Sports", Dota 2 - Day 7 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
