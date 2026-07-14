@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:10 PM 14-07-2026",
+        "LastUpdate": "01:20 PM 14-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 15029,
-            "VideoName": "Individual Race - Stage 4 - Huzhu - Guide Live",
-            "CategoryName": "Tour of Magnificent Qinghai 2026",
-            "StageName": "Stage 4",
-            "EventStartDate": "2026-07-14 11:00:00",
-            "Description": "Watch the Tour of Magnificent Qinghai 2026 live online on tapmad. The event brings together elite cyclists competing across challenging mountain terrain, scenic road stages, and exciting sprint finishes in one of Asia's premier cycling races. Catch every stage live in HD on tapmad via app, web, or smart TV and stay updated with official race coverage and event highlights.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783928492540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783928492540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 642,
-            "UrlSlug": "tour-of-magnificent-qinghai-live-streaming",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 14801,
             "VideoName": "England vs India",
