@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 PM 16-07-2026",
+        "LastUpdate": "03:10 PM 16-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -80,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 439,
             "UrlSlug": "hampshire-women-vs-durham-women-27th-t20-live"
+        },
+        {
+            "EntityId": 15087,
+            "VideoName": "Eblen vs Kasanganay",
+            "CategoryName": "PFL 2026",
+            "StageName": "Global 9",
+            "EventStartDate": "2026-07-19 03:30:00",
+            "Description": "Watch Eblen vs Kasanganay live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Eblen vs Kasanganay fight will take place on 19-Jul, at 03:30 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784192150540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784192150540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 275,
+            "UrlSlug": "pfl-global-2026-eblen-vs-kasanganay-live"
         },
         {
             "EntityId": 14952,
