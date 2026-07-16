@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:50 PM 16-07-2026",
+        "LastUpdate": "12:00 AM 17-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 13
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-2nd-odi-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 15067,
+            "VideoName": "West Indies vs New Zealand",
+            "CategoryName": "New Zealand Tour of West Indies 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-07-17 00:30:00",
+            "Description": "The 3rd ODI of the New Zealand Tour of West Indies 2026 marks the start of a five match Odi series. Watch New Zealand vs West Indies 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies look to capitalize on home conditions with a balanced lineup, while New Zealand aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784021277540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784021277540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 646,
+            "UrlSlug": "west-indies-vs-new-zealand-3rd-odi-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
         },
         {
             "EntityId": 15094,
