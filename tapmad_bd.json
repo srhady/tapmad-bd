@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 17-07-2026",
+        "LastUpdate": "08:40 PM 17-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15099,
-            "VideoName": "Session 2 - Q2 + Q3 - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 2",
-            "EventStartDate": "2026-07-17 16:55:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784203018540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784203018540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 13470,
             "VideoName": "Hampshire Women vs Durham Women Live",
