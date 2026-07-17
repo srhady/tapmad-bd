@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 17-07-2026",
+        "LastUpdate": "04:10 PM 17-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 15
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -70,20 +70,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-freefire-live-streaming",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 15099,
-            "VideoName": "Session 2 - Q2 + Q3 - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 2",
-            "EventStartDate": "2026-07-17 16:55:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784203018540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784203018540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session"
         },
         {
             "EntityId": 13470,
