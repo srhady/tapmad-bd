@@ -1,45 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:20 PM 17-07-2026",
+        "LastUpdate": "01:30 PM 17-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 16
     },
     "Matches": [
-        {
-            "EntityId": 15047,
-            "VideoName": "Individual Race - Stage 7 - Gangcha - Xihai Town Live",
-            "CategoryName": "Tour of Magnificent Qinghai 2026",
-            "StageName": "Stage 7",
-            "EventStartDate": "2026-07-17 11:00:00",
-            "Description": "Watch the Tour of Magnificent Qinghai 2026 live online on tapmad. The event brings together elite cyclists competing across challenging mountain terrain, scenic road stages, and exciting sprint finishes in one of Asia's premier cycling races. Catch every stage live in HD on tapmad via app, web, or smart TV and stay updated with official race coverage and event highlights.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784107307540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784107307540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 642,
-            "UrlSlug": "tour-of-magnificent-qinghai-live-streaming",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 15094,
-            "VideoName": "Session 1 - Q1 - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 1",
-            "EventStartDate": "2026-07-17 14:25:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784196500540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784196500540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session"
-        },
         {
             "EntityId": 13469,
             "VideoName": "Surrey Women vs The Blaze Women Live",
@@ -137,6 +108,20 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "northamptonshire-vs-somerset-28th-t20-live"
+        },
+        {
+            "EntityId": 15261,
+            "VideoName": "GT World Challenge Qualifiers  Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying 1",
+            "EventStartDate": "2026-07-18 17:05:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge Qualifiers  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784272900540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784272900540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-qualifiers -live"
         },
         {
             "EntityId": 15109,
