@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:20 PM 17-07-2026",
+        "LastUpdate": "05:30 PM 17-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -197,6 +197,20 @@
             "Status": "Upcoming",
             "CategoryId": 440,
             "UrlSlug": "hampshire-vs-nottinghamshire-29th-t20-live"
+        },
+        {
+            "EntityId": 15285,
+            "VideoName": "GT4 European Race  Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-07-18 19:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Race  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784287532540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784287532540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-race -live"
         },
         {
             "EntityId": 15114,
