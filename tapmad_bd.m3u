@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 AM 19-07-2026
+# Last Update: 05:10 AM 19-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15087" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841921501020x576.jpg" group-title="Mma", Eblen vs Kasanganay | PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841900281020x576.jpg" group-title="Mma", Du Plessis vs Usman | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
