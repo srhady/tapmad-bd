@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:10 PM 18-07-2026",
+        "LastUpdate": "04:20 PM 18-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -55,34 +55,6 @@
             "CategoryId": 440,
             "UrlSlug": "northamptonshire-vs-somerset-28th-t20-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 15261,
-            "VideoName": "GT World Challenge Qualifiers  Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying 1",
-            "EventStartDate": "2026-07-18 17:05:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge Qualifiers  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784272900540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784272900540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-qualifiers -live"
-        },
-        {
-            "EntityId": 15109,
-            "VideoName": "Session 4 - Race Off - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 4",
-            "EventStartDate": "2026-07-18 17:10:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784203751540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784203751540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session"
         },
         {
             "EntityId": 15267,
@@ -293,6 +265,34 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-topjet-f2000-race-live"
+        },
+        {
+            "EntityId": 15068,
+            "VideoName": "West Indies vs New Zealand",
+            "CategoryName": "New Zealand Tour of West Indies 2026",
+            "StageName": "4th ODI",
+            "EventStartDate": "2026-07-19 20:00:00",
+            "Description": "The 4th ODI of the New Zealand Tour of West Indies 2026 marks the start of a five match Odi series. Watch New Zealand vs West Indies 4th Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, West Indies look to capitalize on home conditions with a balanced lineup, while New Zealand aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784108832540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784108832540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 646,
+            "UrlSlug": "west-indies-vs-new-zealand-4th-odi-live"
+        },
+        {
+            "EntityId": 15327,
+            "VideoName": "McLaren Trophy Europe Race  Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-07-19 20:55:00",
+            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe Race  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784296769540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784296769540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe-race -live"
         }
     ]
 }
