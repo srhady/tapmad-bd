@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 18-07-2026",
+        "LastUpdate": "10:10 PM 18-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -27,18 +27,18 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
         },
         {
-            "EntityId": 15279,
-            "VideoName": "McLaren Trophy Europe Race Live",
+            "EntityId": 15285,
+            "VideoName": "GT4 European Race  Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
             "StageName": "Race 1",
-            "EventStartDate": "2026-07-18 20:10:00",
-            "Description": "The GT World Challenge EU & Asia 2026 McLaren Trophy Europe Race match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784287006540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784287006540x302.jpg",
+            "EventStartDate": "2026-07-18 19:35:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Race  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784287532540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784287532540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mclaren-trophy-europe-race-live",
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-race -live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
