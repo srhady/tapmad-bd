@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 PM 18-07-2026
+# Last Update: 03:30 PM 18-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,5 @@
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15255" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842724181020x576.jpg" group-title="Racing", GT4 European Qualifiers Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842703421020x576.jpg" group-title="Cricket", Northamptonshire vs Somerset Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
