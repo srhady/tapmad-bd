@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 PM 18-07-2026",
+        "LastUpdate": "04:40 PM 18-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,21 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15104,
-            "VideoName": "Session 3 - Group Races - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 3",
-            "EventStartDate": "2026-07-18 14:30:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784203416540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784203416540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 15255,
             "VideoName": "GT4 European Qualifiers Live",
@@ -55,6 +40,21 @@
             "CategoryId": 440,
             "UrlSlug": "northamptonshire-vs-somerset-28th-t20-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 14912,
+            "VideoName": "Dota 2 - Day 11",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-07-18 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Dota 2 - Day 11 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best VALORANT teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every DOTA 2 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784108029540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784108029540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-dota2-live-streaming",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 15267,
