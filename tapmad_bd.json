@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:40 PM 18-07-2026",
+        "LastUpdate": "01:50 PM 18-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15104,
-            "VideoName": "Session 3 - Group Races - Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 3",
-            "EventStartDate": "2026-07-18 14:30:00",
-            "Description": "Watch E1 Monaco GP 2026 live online on tapmad in HD and ad-free. Follow all the Formula E 2026 action on your mobile, laptop, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784203416540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784203416540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "e1-mocano-gp-session"
-        },
         {
             "EntityId": 15255,
             "VideoName": "GT4 European Qualifiers Live",
@@ -248,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 573,
             "UrlSlug": "england-vs-india-3rd-odi-live"
+        },
+        {
+            "EntityId": 14779,
+            "VideoName": "Zimbabwe vs Bangladesh",
+            "CategoryName": "Bangladesh Tour of Zimbabwe 2026",
+            "StageName": "3rd T20I",
+            "EventStartDate": "2026-07-19 16:30:00",
+            "Description": "The 3rd T20 of the Bangladesh Tour of Zimbabwe 2026 marks the start of a three match t20 series. Watch Zimbabwe vs Bangladesh 3rd t20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Zimbabwe cricket team focusing on balance and pace control. Bangladesh, led by Litton Das, rely on experienced player such as Mehidy Hasan to apply early pressure and dominate key phases.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784105710540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784105710540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 551,
+            "UrlSlug": "zimbabwe-vs-bangladesh-3rd-t20-live"
         }
     ]
 }
