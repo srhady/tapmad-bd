@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 AM 19-07-2026",
+        "LastUpdate": "09:40 AM 19-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 9
     },
     "Matches": [
-        {
-            "EntityId": 14952,
-            "VideoName": "Du Plessis vs Usman",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-07-19 06:00:00",
-            "Description": "UFC Fight Night Live: Watch Du Plessis vs Usman live online on tapmad. Enjoy watching Du Plessis vs Usman live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 19-Jul. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784190028540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784190028540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-du plessis vs usman-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "EntityId": 15297,
             "VideoName": "GT2 European Race Live",
