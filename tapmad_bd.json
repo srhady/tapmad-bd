@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 19-07-2026",
+        "LastUpdate": "02:10 PM 19-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 15297,
-            "VideoName": "GT2 European Race Live",
+            "EntityId": 15303,
+            "VideoName": "GT World Challenge Qualifiers  Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-07-19 13:00:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Race match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784291300540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784291300540x302.jpg",
+            "StageName": "Qualifying 2",
+            "EventStartDate": "2026-07-19 14:05:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge Qualifiers  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784292169540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784292169540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-race-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-qualifiers -live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "EntityId": 15309,
