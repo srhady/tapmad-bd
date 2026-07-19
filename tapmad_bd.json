@@ -1,29 +1,45 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 PM 19-07-2026",
+        "LastUpdate": "03:40 PM 19-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 5
+        "LiveCount": 2,
+        "UpcomingCount": 4
     },
     "Matches": [
         {
-            "EntityId": 14779,
-            "VideoName": "Zimbabwe vs Bangladesh",
-            "CategoryName": "Bangladesh Tour of Zimbabwe 2026",
-            "StageName": "3rd T20I",
-            "EventStartDate": "2026-07-19 16:30:00",
-            "Description": "The 3rd T20 of the Bangladesh Tour of Zimbabwe 2026 marks the start of a three match t20 series. Watch Zimbabwe vs Bangladesh 3rd t20 live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Zimbabwe cricket team focusing on balance and pace control. Bangladesh, led by Litton Das, rely on experienced player such as Mehidy Hasan to apply early pressure and dominate key phases.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784105710540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784105710540x302.jpg",
+            "EntityId": 15309,
+            "VideoName": "GT4 European Race  Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-07-19 15:50:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Race  match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784294762540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784294762540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 551,
-            "UrlSlug": "zimbabwe-vs-bangladesh-3rd-t20-live"
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-race -live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+        },
+        {
+            "EntityId": 14803,
+            "VideoName": "England vs India",
+            "CategoryName": "India Tour of England 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-07-19 16:00:00",
+            "Description": "The 3rd ODI of the India Tour of England 2026 marks the start of a 3 match Odi series. Watch England vs Inida 3rd Odi live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, England will look to make the most of home conditions with a well-balanced squad, while India aim to challenge with a disciplined unit capable of competing in all aspects of the game. Both teams will be eager to gain an early advantage in the series.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784020662540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784020662540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 573,
+            "UrlSlug": "england-vs-india-3rd-odi-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 15315,
