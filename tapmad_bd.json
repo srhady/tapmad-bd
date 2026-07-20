@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 20-07-2026",
+        "LastUpdate": "07:45 PM 20-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 4
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -52,6 +52,48 @@
             "Status": "Upcoming",
             "CategoryId": 646,
             "UrlSlug": "west-indies-vs-new-zealand-5th-odi-live"
+        },
+        {
+            "EntityId": 15406,
+            "VideoName": "Kazakhstan vs Sri Lanka",
+            "CategoryName": "CAVA Men's Volleyball Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-22 11:30:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Kazakhstan vs Sri Lanka live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784554123540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784554123540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 694,
+            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming"
+        },
+        {
+            "EntityId": 15407,
+            "VideoName": "Nepal vs Bangladesh",
+            "CategoryName": "CAVA Men's Volleyball Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-22 14:30:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Nepal vs Bangladesh live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784554266540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784554266540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 694,
+            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming"
+        },
+        {
+            "EntityId": 15408,
+            "VideoName": "Pakistan vs Afghanistan",
+            "CategoryName": "CAVA Men's Volleyball Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-22 17:00:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Pakistan vs Afghanistan live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784554391540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784554391540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 694,
+            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming"
         },
         {
             "EntityId": 15335,
