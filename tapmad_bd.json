@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 22-07-2026",
+        "LastUpdate": "01:30 PM 22-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,14 +12,14 @@
     },
     "Matches": [
         {
-            "EntityId": 15406,
-            "VideoName": "Kazakhstan vs Nepal",
+            "EntityId": 15407,
+            "VideoName": "Uzbekistan vs Bangladesh",
             "CategoryName": "CAVA Men's Volleyball Championship 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-07-22 11:00:00",
-            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Kazakhstan vs Nepal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784700606540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784700606540x302.jpg",
+            "EventStartDate": "2026-07-22 13:30:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Uzbekistan vs Bangladesh live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784703834540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784703834540x302.jpg",
             "IsFreeToWatch": true,
             "Status": "Live",
             "CategoryId": 694,
