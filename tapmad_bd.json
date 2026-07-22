@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 22-07-2026",
+        "LastUpdate": "07:00 PM 22-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 8
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -53,6 +53,20 @@
             "Status": "Upcoming",
             "CategoryId": 674,
             "UrlSlug": "the-hundred-men-2026-live"
+        },
+        {
+            "EntityId": 15471,
+            "VideoName": "Sri Lanka Women vs Pakistan Women",
+            "CategoryName": "Pakistan Women Tour of Sri Lanka 2026",
+            "StageName": "1st ODI",
+            "EventStartDate": "2026-07-23 10:30:00",
+            "Description": "The 1st ODI of the Pakistan Women Tour of Sri Lanka 2026 marks the start of a three match Odi series. Watch Sri Lanka Women vs Pakistan Women live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Sri Lanka Women look to capitalize on home conditions with a balanced lineup, while Pakistan Women aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784724458540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784724458540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 708,
+            "UrlSlug": "sri-lanka-women-vs-pakistan-women-1st-odi-live"
         },
         {
             "EntityId": 15412,
