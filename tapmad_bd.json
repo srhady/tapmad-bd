@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 22-07-2026",
+        "LastUpdate": "10:45 PM 22-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 8
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -40,20 +40,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-easports-live-streaming",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 15184,
-            "VideoName": "Southern Brave vs Welsh Fire",
-            "CategoryName": "The Hundred Men's Competition 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-22 23:30:00",
-            "Description": "The The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Southern Brave vs Welsh Fire live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784617249540x302men.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784617249540x302men.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 674,
-            "UrlSlug": "the-hundred-men-2026-live"
         },
         {
             "EntityId": 15471,
