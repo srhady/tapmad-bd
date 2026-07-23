@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 AM 23-07-2026",
+        "LastUpdate": "10:45 AM 23-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 6
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -25,20 +25,6 @@
             "CategoryId": 708,
             "UrlSlug": "sri-lanka-women-vs-pakistan-women-1st-odi-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 15412,
-            "VideoName": "Sri Lanka vs Nepal",
-            "CategoryName": "CAVA Men's Volleyball Championship 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-23 11:30:00",
-            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Sri Lanka vs Nepal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784711954540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784711954540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 694,
-            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming"
         },
         {
             "EntityId": 15413,
