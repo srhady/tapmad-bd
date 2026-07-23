@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:45 PM 23-07-2026",
+        "LastUpdate": "06:00 PM 23-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 15471,
-            "VideoName": "Sri Lanka Women vs Pakistan Women",
-            "CategoryName": "Pakistan Women Tour of Sri Lanka 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-07-23 10:30:00",
-            "Description": "The 1st ODI of the Pakistan Women Tour of Sri Lanka 2026 marks the start of a three match Odi series. Watch Sri Lanka Women vs Pakistan Women live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Sri Lanka Women look to capitalize on home conditions with a balanced lineup, while Pakistan Women aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784724458540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784724458540x302.jpg",
-            "IsFreeToWatch": false,
+            "EntityId": 15414,
+            "VideoName": "Pakistan vs Bangladesh",
+            "CategoryName": "CAVA Men's Volleyball Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-23 16:30:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Pakistan vs Bangladesh live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784712233540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784712233540x302.jpg",
+            "IsFreeToWatch": true,
             "Status": "Live",
-            "CategoryId": 708,
-            "UrlSlug": "sri-lanka-women-vs-pakistan-women-1st-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "CategoryId": 694,
+            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
             "EntityId": 15219,
