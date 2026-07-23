@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 AM 23-07-2026
+# Last Update: 10:15 AM 23-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-15471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847244581020x576.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
