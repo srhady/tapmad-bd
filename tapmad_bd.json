@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 24-07-2026",
+        "LastUpdate": "06:45 PM 24-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 13
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -179,6 +179,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "men's-semi-final-a-session---world-championships-kaunas,-lithuania-live"
+        },
+        {
+            "EntityId": 15362,
+            "VideoName": "Men's Semi Final B Session - World Championships Kaunas, Lithuania Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-07-26 19:00:00",
+            "Description": "Watch UIPM 2026 Men's Semi Final B Session - World Championships Kaunas, Lithuania live online on tapmad. The event is scheduled to take place on 26-Jul,  at 07:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784896471540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784896471540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "men's-semi-final-b-session---world-championships-kaunas,-lithuania-live"
         },
         {
             "EntityId": 15189,
