@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 24-07-2026",
+        "LastUpdate": "10:45 PM 24-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 13
+        "UpcomingCount": 12
     },
     "Matches": [
-        {
-            "EntityId": 15383,
-            "VideoName": "EA Sports FC 26 - Day 3",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-24 21:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) EA Sports FC 26 - Day 3 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best EA Sports teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every EA Sports match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784796291540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784796291540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-easports-live-streaming",
-            "stream_url": "https://vodintlv2.in-maa-1.linodeobjects.com/EWC/EASportsFC26/Day1/hls/day1/master.m3u8"
-        },
         {
             "EntityId": 15186,
             "VideoName": "Birmingham Pheonix vs Trent Rocket",
@@ -36,9 +21,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784794212540x302men.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784794212540x302men.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 674,
-            "UrlSlug": "the-hundred-men-2026-live"
+            "UrlSlug": "the-hundred-men-2026-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 15221,
