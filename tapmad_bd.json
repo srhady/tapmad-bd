@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:15 AM 25-07-2026",
+        "LastUpdate": "05:30 AM 25-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15502,
-            "VideoName": "Monochrome GT4 Australia Series - Qualifiers Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Round 1 & 2",
-            "EventStartDate": "2026-07-25 06:10:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Monochrome GT4 Australia Series - Qualifiers match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784917741540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784917741540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-monochrome-gt4-australia-series---qualifiers-live"
-        },
         {
             "EntityId": 15509,
             "VideoName": "Motorcraft Mustang Cup Australia - Qualifiers  Live",
@@ -248,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "men's-semi-final-b-session---world-championships-kaunas,-lithuania-live"
+        },
+        {
+            "EntityId": 15189,
+            "VideoName": "Manchester Super Giants vs Birmingham Pheonix",
+            "CategoryName": "The Hundred Men's Competition 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-26 19:30:00",
+            "Description": "The The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Manchester Super Giants vs Birmingham Pheonix live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784890142540x302men.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784890142540x302men.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 674,
+            "UrlSlug": "the-hundred-men-2026-live"
         }
     ]
 }
