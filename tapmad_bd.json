@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 25-07-2026",
+        "LastUpdate": "06:15 PM 25-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
-        "UpcomingCount": 10
+        "LiveCount": 3,
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -42,21 +42,6 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
-            "EntityId": 15472,
-            "VideoName": "Sri Lanka Women vs Pakistan Women",
-            "CategoryName": "Pakistan Women Tour of Sri Lanka 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-07-25 10:30:00",
-            "Description": "The 2nd ODI of the Pakistan Women Tour of Sri Lanka 2026 marks the start of a three match Odi series. Watch Sri Lanka Women vs Pakistan Women live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked white-ball teams, to begin with a strong squad, Sri Lanka Women look to capitalize on home conditions with a balanced lineup, while Pakistan Women aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784798181540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784798181540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 708,
-            "UrlSlug": "sri-lanka-women-vs-pakistan-women-2nd-odi-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "EntityId": 15384,
             "VideoName": "EA Sports FC 26 - Day 4",
             "CategoryName": "Esports World Cup 2026 (EWC)",
@@ -70,20 +55,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-easports-live-streaming",
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "EntityId": 15350,
-            "VideoName": "Women's Semi Final B Session - World Championships Kaunas, Lithuania Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-07-25 19:00:00",
-            "Description": "Watch UIPM 2026 Women's Semi Final B Session - World Championships Kaunas, Lithuania live online on tapmad. The event is scheduled to take place on 25-Jul,  at 07:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784802074540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784802074540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "women's-semi-final-b-session---world-championships-kaunas,-lithuania-live"
         },
         {
             "EntityId": 15187,
