@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 25-07-2026",
+        "LastUpdate": "07:00 PM 25-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 675,
             "UrlSlug": "the-hundred-women-2026-live",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "EntityId": 15344,
-            "VideoName": "Women's Semi Final A Session - World Championships Kaunas, Lithuania Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-07-25 16:00:00",
-            "Description": "Watch UIPM 2026 Women's Semi Final A Session - World Championships Kaunas, Lithuania live online on tapmad. The event is scheduled to take place on 25-Jul,  at 04:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784799412540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784799412540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 464,
-            "UrlSlug": "women's-semi-final-a-session---world-championships-kaunas,-lithuania-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "EntityId": 15384,
