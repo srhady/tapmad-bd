@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:15 PM 25-07-2026",
+        "LastUpdate": "08:30 PM 25-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 7
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -112,6 +112,20 @@
             "Status": "Upcoming",
             "CategoryId": 275,
             "UrlSlug": "pfl-global-2026-jean-vs-musaev-live"
+        },
+        {
+            "EntityId": 15544,
+            "VideoName": "Territory Tourers Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-07-26 05:15:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Territory Tourers Race 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784988824540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784988824540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-territory-tourers-race-2-live"
         },
         {
             "EntityId": 15356,
