@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 26-07-2026",
+        "LastUpdate": "07:00 PM 26-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 15417,
-            "VideoName": "Pakistan vs Uzbekistan",
-            "CategoryName": "CAVA Men's Volleyball Championship 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-26 16:30:00",
-            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Pakistan vs Uzbekistan live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784900138540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784900138540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 694,
-            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-        },
         {
             "EntityId": 15385,
             "VideoName": "EA Sports FC 26 - Day 5",
