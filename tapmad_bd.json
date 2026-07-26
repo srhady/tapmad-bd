@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 AM 26-07-2026",
+        "LastUpdate": "09:15 AM 26-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 6
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -27,33 +27,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8"
         },
         {
-            "EntityId": 15554,
-            "VideoName": "Monochrome GT4 Australia Series Race 2 Live",
+            "EntityId": 15560,
+            "VideoName": "Motorcraft Mustang Australia Cup Race 2 Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
             "StageName": "Race 2",
-            "EventStartDate": "2026-07-26 07:30:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Monochrome GT4 Australia Series Race 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784989950540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784989950540x302.jpg",
+            "EventStartDate": "2026-07-26 09:05:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Motorcraft Mustang Australia Cup Race 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784991493540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784991493540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-monochrome-gt4-australia-series-race-2-live",
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-motorcraft-mustang-australia-cup-race-2-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 15566,
-            "VideoName": "Territory Tourers Race 3 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 3",
-            "EventStartDate": "2026-07-26 10:05:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Territory Tourers Race 3 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784991999540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784991999540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-territory-tourers-race-3-live"
         },
         {
             "EntityId": 15356,
