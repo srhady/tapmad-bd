@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:15 AM 26-07-2026
+# Last Update: 07:30 AM 26-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848793661020x576.jpg" group-title="Mma", Jean vs Musaev | PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15554" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849899501020x576.jpg" group-title="Racing", Monochrome GT4 Australia Series Race 2 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
