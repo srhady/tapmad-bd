@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 AM 26-07-2026",
+        "LastUpdate": "10:45 AM 26-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,21 +11,6 @@
         "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 15464,
-            "VideoName": "Jean vs Musaev",
-            "CategoryName": "PFL 2026",
-            "StageName": "Global 10",
-            "EventStartDate": "2026-07-26 06:00:00",
-            "Description": "Watch Jean vs Musaev live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Jean vs Musaev fight will take place on 26-Jul, at 05:30 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784879366540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784879366540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-global-2026-jean-vs-musaev-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8"
-        },
         {
             "EntityId": 15566,
             "VideoName": "Territory Tourers Race 3 Live",
@@ -40,6 +25,21 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-territory-tourers-race-3-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "EntityId": 15415,
+            "VideoName": "Kazakhstan vs Sri Lanka",
+            "CategoryName": "CAVA Men's Volleyball Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-07-26 11:30:00",
+            "Description": "The CAVA Men's Volleyball Championship 2026 brings together the top men's national volleyball teams from Central and South Asia for an exciting showcase of international volleyball. Featuring powerful attacks, spectacular blocks, fast-paced rallies, and intense competition, every match promises thrilling action as teams battle for the championship title. Watch Kazakhstan vs Sri Lanka live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every serve, spike, and match-winning point live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784899862540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784899862540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 694,
+            "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
             "EntityId": 15356,
