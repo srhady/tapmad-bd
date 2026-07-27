@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 PM 27-07-2026
+# Last Update: 01:45 PM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851318142.jpg" group-title="Multisports", Women's Final Session - WC Kaunas, Lithuania Live | UIPM 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849006281020x576.jpg" group-title="Volleyball", Bangladesh vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
