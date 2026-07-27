@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 PM 27-07-2026",
+        "LastUpdate": "02:00 PM 27-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 3
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -40,6 +40,20 @@
             "CategoryId": 694,
             "UrlSlug": "cava-mens-volleyball-championship-2026-live-streaming",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "EntityId": 15374,
+            "VideoName": "Men's Final Session - World Championships Kaunas, Lithuania Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-07-27 18:00:00",
+            "Description": "Watch UIPM 2026 Men's Final Session - World Championships Kaunas, Lithuania live online on tapmad. The event is scheduled to take place on 27-Jul,  at 06:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785138363540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785138363540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "men's-final-session---world-championships-kaunas,-lithuania-live"
         },
         {
             "EntityId": 15335,
