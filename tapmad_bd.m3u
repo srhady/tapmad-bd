@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 27-07-2026
+# Last Update: 07:45 PM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,5 @@
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851383621020x576.jpg" group-title="Multisports", Men's Final Session - World Championships Kaunas, Lithuania Live | UIPM 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15225" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851365361020x576women.jpg" group-title="Cricket", Southern Brave vs MI London - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
