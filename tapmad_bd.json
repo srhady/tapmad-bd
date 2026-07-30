@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 PM 30-07-2026",
+        "LastUpdate": "03:15 PM 30-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 15477,
-            "VideoName": "Sri Lanka Lions vs Afghanistan Pathans",
-            "CategoryName": "Asian Legends League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-07-30 16:00:00",
-            "Description": "The Asian Legends League 2026 brings together legendary cricketers from across Asia for an exciting T20 tournament filled with nostalgia, skill, and entertainment. Featuring iconic players, explosive batting, disciplined bowling, and thrilling finishes, every match promises high-quality cricket as the legends compete for the championship title. Watch Sri Lanka Lions vs Afghanistan Pathans live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785397094540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785397094540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 709,
-            "UrlSlug": "asian-legends-league-2026-live-streaming"
-        },
         {
             "EntityId": 15229,
             "VideoName": "Southern Brave vs Birmingham Pheonix - Women",
@@ -80,6 +66,20 @@
             "Status": "Upcoming",
             "CategoryId": 708,
             "UrlSlug": "sri-lanka-women-vs-pakistan-women-1st-t20-live"
+        },
+        {
+            "EntityId": 15582,
+            "VideoName": "Nurmagomedov vs Colgan",
+            "CategoryName": "PFL 2026",
+            "StageName": "Global 11",
+            "EventStartDate": "2026-08-01 02:00:00",
+            "Description": "Watch Nurmagomedov vs Colgan live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Nurmagomedov vs Colgan fight will take place on 01-Aug, at 02:00 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785402165540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785402165540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 275,
+            "UrlSlug": "pfl-global-2026-nurmagomedov-vs-colgan-live"
         },
         {
             "EntityId": 15569,
