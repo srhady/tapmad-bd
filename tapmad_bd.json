@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:45 AM 31-07-2026",
+        "LastUpdate": "04:00 AM 31-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 9
     },
     "Matches": [
-        {
-            "EntityId": 15611,
-            "VideoName": "Ceremonial Weigh-In",
-            "CategoryName": "PFL 2026",
-            "StageName": "Global 11",
-            "EventStartDate": "2026-07-31 01:00:00",
-            "Description": "Watch Ceremonial Weigh-In live online on tapmad. The Ceremonial Weigh-In 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Ceremonial Weigh-In will take place on 30-Jul, at 1:00 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785398057540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785398057540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 275,
-            "UrlSlug": "ceremonial-weigh-in-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 15474,
             "VideoName": "Sri Lanka Women vs Pakistan Women",
