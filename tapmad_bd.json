@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 PM 30-07-2026",
+        "LastUpdate": "02:00 PM 30-07-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 3
+        "UpcomingCount": 4
     },
     "Matches": [
         {
@@ -52,6 +52,20 @@
             "Status": "Upcoming",
             "CategoryId": 674,
             "UrlSlug": "the-hundred-men-2026-live"
+        },
+        {
+            "EntityId": 15611,
+            "VideoName": "Ceremonial Weigh-In",
+            "CategoryName": "PFL 2026",
+            "StageName": "Global 11",
+            "EventStartDate": "2026-07-31 01:00:00",
+            "Description": "Watch Ceremonial Weigh-In live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Ceremonial Weigh-In fight will take place on 30-Jul, at 01:00 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785398057540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785398057540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 275,
+            "UrlSlug": "ceremonial-weigh-in-live"
         }
     ]
 }
