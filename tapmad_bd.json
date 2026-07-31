@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:45 PM 31-07-2026",
+        "LastUpdate": "12:00 AM 01-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -45,7 +45,7 @@
             "VideoName": "Qualifications - Kyrgyzstan Live",
             "CategoryName": "UIM F1H2O World Championship 2026",
             "StageName": "Qualification Race",
-            "EventStartDate": "2026-08-01 10:00:00",
+            "EventStartDate": "2026-08-01 08:00:00",
             "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785481372540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785481372540x302.jpg",
@@ -53,6 +53,34 @@
             "Status": "Upcoming",
             "CategoryId": 438,
             "UrlSlug": "qualifications---kyrgyzstan-live"
+        },
+        {
+            "EntityId": 15593,
+            "VideoName": "Sprint Race 1 - Kyrgyzstan Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Match 1",
+            "EventStartDate": "2026-08-01 12:05:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785481934540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785481934540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 438,
+            "UrlSlug": "sprint-race-1---kyrgyzstan-live"
+        },
+        {
+            "EntityId": 15599,
+            "VideoName": "Sprint Race 2 - Kyrgyzstan Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Match 2",
+            "EventStartDate": "2026-08-01 12:50:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785482546540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785482546540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 438,
+            "UrlSlug": "sprint-race-2---kyrgyzstan-live"
         },
         {
             "EntityId": 15480,
@@ -83,20 +111,6 @@
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-french-qualifying-racing-live"
         },
         {
-            "EntityId": 15593,
-            "VideoName": "Sprint Race 1 - Kyrgyzstan Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Match 1",
-            "EventStartDate": "2026-08-01 15:05:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785481934540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785481934540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 438,
-            "UrlSlug": "sprint-race-1---kyrgyzstan-live"
-        },
-        {
             "EntityId": 15622,
             "VideoName": "France - Champion and Tourism Live",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -109,20 +123,6 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-france---champion-and-tourism-live"
-        },
-        {
-            "EntityId": 15599,
-            "VideoName": "Sprint Race 2 - Kyrgyzstan Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Match 2",
-            "EventStartDate": "2026-08-01 15:50:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785482546540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785482546540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 438,
-            "UrlSlug": "sprint-race-2---kyrgyzstan-live"
         },
         {
             "EntityId": 15231,
