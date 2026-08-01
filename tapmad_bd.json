@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 01-08-2026",
+        "LastUpdate": "08:45 PM 01-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
-        "UpcomingCount": 6
+        "LiveCount": 3,
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -55,21 +55,6 @@
             "CategoryId": 675,
             "UrlSlug": "the-hundred-women-2026-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 15634,
-            "VideoName": "French Porsche and Elf Cup Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-08-01 19:50:00",
-            "Description": "The GT World Challenge EU & Asia 2026 French Porsche and Elf Cup match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785499965540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785499965540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-french-porsche-and-elf-cup-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 15640,
@@ -128,6 +113,20 @@
             "UrlSlug": "sri-lanka-women-vs-pakistan-women-2nd-t20-live"
         },
         {
+            "EntityId": 15605,
+            "VideoName": "Grand Prix of Kyrgyzstan - Issyk - Kul Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-02 15:05:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785594529540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785594529540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 438,
+            "UrlSlug": "grand-prix-of-kyrgyzstan---issyk---kul-live"
+        },
+        {
             "EntityId": 15482,
             "VideoName": "Indian Royals vs Pakistan Panthers",
             "CategoryName": "Asian Legends League 2026",
@@ -140,6 +139,20 @@
             "Status": "Upcoming",
             "CategoryId": 709,
             "UrlSlug": "asian-legends-league-2026-live-streaming"
+        },
+        {
+            "EntityId": 15233,
+            "VideoName": "Trent Rockets vs Sunrisers Leeds - Women",
+            "CategoryName": "The Hundred Women's Competition 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-02 16:00:00",
+            "Description": "The The Hundred Women's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Trent Rockets vs Sunrisers Leeds - Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785595007540x302women.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785595007540x302women.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 675,
+            "UrlSlug": "the-hundred-women-2026-live"
         },
         {
             "EntityId": 15336,
