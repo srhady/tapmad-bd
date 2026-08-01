@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 PM 01-08-2026
+# Last Update: 01:45 PM 01-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15587" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854813721020x576.jpg" group-title="Racing", Qualifications - Kyrgyzstan Live | UIM F1H2O World Championship 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15480" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854899171020x576.jpg" group-title="Cricket", Afghanistan Pathans vs Asian Stars | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854981261020x576.jpg" group-title="Racing", French Qualifying Racing Live | GT World Challenge EU & Asia 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
