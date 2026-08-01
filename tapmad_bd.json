@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 01-08-2026",
+        "LastUpdate": "01:30 PM 01-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 438,
             "UrlSlug": "qualifications---kyrgyzstan-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "EntityId": 15480,
+            "VideoName": "Afghanistan Pathans vs Asian Stars",
+            "CategoryName": "Asian Legends League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-01 13:30:00",
+            "Description": "The Asian Legends League 2026 brings together legendary cricketers from across Asia for an exciting T20 tournament filled with nostalgia, skill, and entertainment. Featuring iconic players, explosive batting, disciplined bowling, and thrilling finishes, every match promises high-quality cricket as the legends compete for the championship title. Watch Afghanistan Pathans vs Asian Stars live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785489917540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785489917540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 709,
+            "UrlSlug": "asian-legends-league-2026-live-streaming",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 15622,
