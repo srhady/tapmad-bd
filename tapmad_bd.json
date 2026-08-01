@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 01-08-2026",
+        "LastUpdate": "04:15 PM 01-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 12
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -55,20 +55,6 @@
             "CategoryId": 438,
             "UrlSlug": "sprint-race-1---kyrgyzstan-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 15599,
-            "VideoName": "Sprint Race 2 - Kyrgyzstan Live",
-            "CategoryName": "UIM F1H2O World Championship 2026",
-            "StageName": "Match 2",
-            "EventStartDate": "2026-08-01 16:50:00",
-            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785482546540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785482546540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 438,
-            "UrlSlug": "sprint-race-2---kyrgyzstan-live"
         },
         {
             "EntityId": 15481,
