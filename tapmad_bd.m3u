@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 01-08-2026
+# Last Update: 10:15 PM 01-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,3 +11,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15640" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855006591020x576.jpg" group-title="Racing", France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15569" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854016681020x576.jpg" group-title="Mma", Medic vs Rodriguez | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
