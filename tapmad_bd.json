@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 PM 01-08-2026",
+        "LastUpdate": "03:30 PM 01-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,19 +12,19 @@
     },
     "Matches": [
         {
-            "EntityId": 15616,
-            "VideoName": "French Qualifying Racing Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-08-01 13:45:00",
-            "Description": "The GT World Challenge EU & Asia 2026 French Qualifying Racing match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785498126540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785498126540x302.jpg",
+            "EntityId": 15593,
+            "VideoName": "Sprint Race 1 - Kyrgyzstan Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Match 1",
+            "EventStartDate": "2026-08-01 16:05:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785481934540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785481934540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-french-qualifying-racing-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            "CategoryId": 438,
+            "UrlSlug": "sprint-race-1---kyrgyzstan-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 15599,
