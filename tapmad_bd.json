@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:15 AM 02-08-2026",
+        "LastUpdate": "12:30 AM 02-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 11
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -183,6 +183,20 @@
             "UrlSlug": "the-hundred-women-2026-live"
         },
         {
+            "EntityId": 15670,
+            "VideoName": "GT World Challenge - Race 2 Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-08-02 19:30:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge - Race 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785608000540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785608000540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge---race-2-live"
+        },
+        {
             "EntityId": 15336,
             "VideoName": "West indies vs Pakistan",
             "CategoryName": "Pakistan Tour of West Indies 2026",
@@ -195,6 +209,20 @@
             "Status": "Upcoming",
             "CategoryId": 692,
             "UrlSlug": "west-indies-vs-pakistan-2nd-test-live"
+        },
+        {
+            "EntityId": 15676,
+            "VideoName": "France - MitJet and Tourism Live",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 4",
+            "EventStartDate": "2026-08-02 20:55:00",
+            "Description": "The GT World Challenge EU & Asia 2026 France - MitJet and Tourism match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785608510540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785608510540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-france---mitjet-and-tourism-live"
         },
         {
             "EntityId": 15200,
