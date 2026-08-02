@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 02-08-2026",
+        "LastUpdate": "11:00 PM 02-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 1
+        "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 15199,
-            "VideoName": "Trent Rockets vs Sunrisers Leeds",
-            "CategoryName": "The Hundred Men's Competition 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-02 19:30:00",
-            "Description": "The The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Trent Rockets vs Sunrisers Leeds live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785601749540x302men.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785601749540x302men.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 674,
-            "UrlSlug": "the-hundred-men-2026-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "EntityId": 15336,
             "VideoName": "West indies vs Pakistan",
@@ -65,6 +50,35 @@
             "Description": "The The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch MI London vs Manchester Super Giants live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785602192540x302men.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785602192540x302men.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 674,
+            "UrlSlug": "the-hundred-men-2026-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 15235,
+            "VideoName": "Welsh Fire vs Southern Brave - Women",
+            "CategoryName": "The Hundred Women's Competition 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-03 20:00:00",
+            "Description": "The The Hundred Women's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Welsh Fire vs Southern Brave - Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785689432540x302women.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785689433540x302women.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 675,
+            "UrlSlug": "the-hundred-women-2026-live"
+        },
+        {
+            "EntityId": 15201,
+            "VideoName": "Welsh Fire vs Southern Brave",
+            "CategoryName": "The Hundred Men's Competition 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-03 23:30:00",
+            "Description": "The The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Welsh Fire vs Southern Brave live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785689726540x302men.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785689726540x302men.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 674,
