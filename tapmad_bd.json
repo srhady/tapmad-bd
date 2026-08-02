@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 PM 02-08-2026",
+        "LastUpdate": "03:15 PM 02-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 6
+        "LiveCount": 2,
+        "UpcomingCount": 5
     },
     "Matches": [
         {
@@ -27,18 +27,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "EntityId": 15233,
-            "VideoName": "Trent Rockets vs Sunrisers Leeds - Women",
-            "CategoryName": "The Hundred Women's Competition 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-02 16:00:00",
-            "Description": "The The Hundred Women's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Trent Rockets vs Sunrisers Leeds - Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785595007540x302women.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785595007540x302women.jpg",
+            "EntityId": 15605,
+            "VideoName": "Grand Prix of Kyrgyzstan - Issyk - Kul Live",
+            "CategoryName": "UIM F1H2O World Championship 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-02 15:05:00",
+            "Description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785594529540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785594529540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 675,
-            "UrlSlug": "the-hundred-women-2026-live"
+            "Status": "Live",
+            "CategoryId": 438,
+            "UrlSlug": "grand-prix-of-kyrgyzstan---issyk---kul-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 15199,
