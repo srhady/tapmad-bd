@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 08-08-2026",
+        "LastUpdate": "06:15 PM 08-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 5
     },
     "Matches": [
@@ -39,6 +39,21 @@
             "Status": "Live",
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-PUBG-Mobile-live-streaming",
+            "stream_url": "https://vodintlv2.in-maa-1.linodeobjects.com/EWC/Tekken8/day2/HLS/master.m3u8"
+        },
+        {
+            "EntityId": 15703,
+            "VideoName": "Tekken 8 - Day 4",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-08 19:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) Tekken 8 - Day 4 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best Tekken 8 teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every Tekken 8 match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786092629540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786092629540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-tekken8-live-streaming",
             "stream_url": "https://vodintlv2.in-maa-1.linodeobjects.com/EWC/Tekken8/day2/HLS/master.m3u8"
         },
         {
