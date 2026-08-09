@@ -1,7 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 PM 09-08-2026
+# Last Update: 03:45 PM 09-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-15243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17862487001020x576women.jpg" group-title="Cricket", Sunrisers Leeds vs Welsh Fire - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
