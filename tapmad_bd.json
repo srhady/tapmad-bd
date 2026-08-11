@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 11-08-2026",
+        "LastUpdate": "10:15 PM 11-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 10
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 675,
             "UrlSlug": "the-hundred-women-2026-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 15717,
-            "VideoName": "PUBG Mobile - Day 5",
-            "CategoryName": "Esports World Cup 2026 (EWC)",
-            "StageName": "Survival Stage",
-            "EventStartDate": "2026-08-11 17:00:00",
-            "Description": "Watch the Esports World Cup 2026 (EWC) PUBG Mobile - Day 5 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best PUBG Mobile teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every PUBG Mobile match live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786350027540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786350027540x302.jpg",
-            "IsFreeToWatch": true,
-            "Status": "Live",
-            "CategoryId": 599,
-            "UrlSlug": "esports-world-cup-2026-PUBG-Mobile-live-streaming",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 15212,
