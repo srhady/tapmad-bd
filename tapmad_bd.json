@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:15 PM 12-08-2026",
+        "LastUpdate": "04:30 PM 12-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 12
+        "LiveCount": 3,
+        "UpcomingCount": 13
     },
     "Matches": [
+        {
+            "EntityId": 15247,
+            "VideoName": "Welsh Fire vs London Spirit - Women",
+            "CategoryName": "The Hundred Women's Competition 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-12 16:30:00",
+            "Description": "The Hundred Women's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Welsh Fire vs London Spirirt - Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786450224540x302women.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786450224540x302women.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 675,
+            "UrlSlug": "the-hundred-women-2026-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        },
         {
             "EntityId": 15947,
             "VideoName": "Aussie Mavericks Jaguars vs Vedanta Leopards",
@@ -25,6 +40,21 @@
             "CategoryId": 732,
             "UrlSlug": "world-padel-league-2026-aussie-mavericks-jaguars-vs-vedanta-leopards-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "EntityId": 15718,
+            "VideoName": "PUBG Mobile - Day 6",
+            "CategoryName": "Esports World Cup 2026 (EWC)",
+            "StageName": "Survival Stage",
+            "EventStartDate": "2026-08-12 17:00:00",
+            "Description": "Watch the Esports World Cup 2026 (EWC) PUBG Mobile - Day 6 tournament live in HD on tapmad with official match coverage and uninterrupted streaming. Featuring the world's best PUBG Mobile teams, the tournament delivers intense tactical battles, clutch plays, and championship-level competition as teams compete for international glory. Stream every PUBG Mobile match live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786451752540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786451752540x302.jpg",
+            "IsFreeToWatch": true,
+            "Status": "Live",
+            "CategoryId": 599,
+            "UrlSlug": "esports-world-cup-2026-PUBG-Mobile-live-streaming",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "EntityId": 15948,
@@ -151,6 +181,20 @@
             "Status": "Upcoming",
             "CategoryId": 732,
             "UrlSlug": "world-padel-league-2026-khan-tigers-vs-vedanta-leopards-live"
+        },
+        {
+            "EntityId": 15961,
+            "VideoName": "Preview Show Live",
+            "CategoryName": "FA Community Shield 2026",
+            "StageName": "Show",
+            "EventStartDate": "2026-08-13 22:55:00",
+            "Description": "Watch FA Cup 2026 live online on tapmad. The Emirates FA Cup is the oldest football tournament in the world. The Preview Show match will be played on 13-Aug, Thursday, at 10:55 PM. Stream FA Cup 2026 in HD and ad-free on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786530147540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786530147540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 791,
+            "UrlSlug": "fa cup preview show live"
         },
         {
             "EntityId": 15925,
