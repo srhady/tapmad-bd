@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:00 PM 12-08-2026",
+        "LastUpdate": "07:15 PM 12-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 12
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -27,18 +27,18 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         },
         {
-            "EntityId": 15947,
-            "VideoName": "Aussie Mavericks Jaguars vs Vedanta Leopards",
+            "EntityId": 15948,
+            "VideoName": "VB Realty Cheetahs vs Panorama Panthers",
             "CategoryName": "World Padel League 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-08-12 16:30:00",
+            "EventStartDate": "2026-08-12 19:00:00",
             "Description": "The World Padel League 2026 brings together top padel players for an exciting competition featuring fast-paced rallies, powerful shots, intense exchanges, and thrilling matchups. Experience world-class padel as players compete for league glory in one of the sport's most exciting events. Watch the World Padel League 2026 live in HD on tapmad with official coverage and uninterrupted streaming via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786428087540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786428087540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786428364540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786428364540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 732,
-            "UrlSlug": "world-padel-league-2026-aussie-mavericks-jaguars-vs-vedanta-leopards-live",
+            "UrlSlug": "world-padel-league-2026-vb-realty-cheetahs-vs-panorama-panthers-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
@@ -55,34 +55,6 @@
             "CategoryId": 599,
             "UrlSlug": "esports-world-cup-2026-PUBG-Mobile-live-streaming",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 15213,
-            "VideoName": "Welsh Fire vs London Spirit",
-            "CategoryName": "The Hundred Men's Competition 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-12 20:00:00",
-            "Description": "The Hundred Men's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Welsh Fire vs London Spirirt live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786450540540x302men.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786450540540x302men.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 674,
-            "UrlSlug": "the-hundred-men-2026-live"
-        },
-        {
-            "EntityId": 15248,
-            "VideoName": "Birmingham Pheonix vs MI London - Women",
-            "CategoryName": "The Hundred Women's Competition 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-12 20:00:00",
-            "Description": "The Hundred Women's Competition 2026 showcases the best of 100-ball cricket, featuring world-class players, explosive batting, skillful bowling, and electrifying fielding in one of the sport's most exciting tournaments. Every match promises high-intensity action, dramatic finishes, and unforgettable moments as teams compete for the championship title. Watch Birmingham Pheonix vs MI London - Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning performance live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786451172540x302women.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786451172540x302women.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 675,
-            "UrlSlug": "the-hundred-women-2026-live"
         },
         {
             "EntityId": 15214,
