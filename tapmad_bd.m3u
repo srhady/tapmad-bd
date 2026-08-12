@@ -1,12 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 PM 12-08-2026
+# Last Update: 09:30 PM 12-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864283631020x576.jpg" group-title="Padel", VB Realty Cheetahs vs Panorama Panthers | World Padel League 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg" group-title="Cricket", Welsh Fire vs London Spirit | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15248" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864511721020x576women.jpg" group-title="Cricket", Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026
