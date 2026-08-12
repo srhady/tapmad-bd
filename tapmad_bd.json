@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 12-08-2026",
+        "LastUpdate": "01:30 PM 12-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -122,6 +122,34 @@
             "Status": "Upcoming",
             "CategoryId": 762,
             "UrlSlug": "australia-vs-bangladesh-1st-test-live"
+        },
+        {
+            "EntityId": 15949,
+            "VideoName": "Game Changer Lions vs Hubtown Panorama Panthers",
+            "CategoryName": "World Padel League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-13 16:30:00",
+            "Description": "The World Padel League 2026 brings together top padel players for an exciting competition featuring fast-paced rallies, powerful shots, intense exchanges, and thrilling matchups. Experience world-class padel as players compete for league glory in one of the sport's most exciting events. Watch the World Padel League 2026 live in HD on tapmad with official coverage and uninterrupted streaming via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786519292540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786519292540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 732,
+            "UrlSlug": "world-padel-league-2026-game-changer-lions-vs-hubtown-panorama-panthers-live"
+        },
+        {
+            "EntityId": 15950,
+            "VideoName": "Khan Tigers vs Vedanta Leopards",
+            "CategoryName": "World Padel League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-13 19:00:00",
+            "Description": "The World Padel League 2026 brings together top padel players for an exciting competition featuring fast-paced rallies, powerful shots, intense exchanges, and thrilling matchups. Experience world-class padel as players compete for league glory in one of the sport's most exciting events. Watch the World Padel League 2026 live in HD on tapmad with official coverage and uninterrupted streaming via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786519428540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786519428540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 732,
+            "UrlSlug": "world-padel-league-2026-khan-tigers-vs-vedanta-leopards-live"
         },
         {
             "EntityId": 15573,
