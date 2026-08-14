@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 14-08-2026",
+        "LastUpdate": "04:15 PM 14-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 8
     },
     "Matches": [
+        {
+            "EntityId": 15951,
+            "VideoName": "Khan Tigers vs Aussie Mavericks Jaguars",
+            "CategoryName": "World Padel League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-14 16:30:00",
+            "Description": "The World Padel League 2026 brings together top padel players for an exciting competition featuring fast-paced rallies, powerful shots, intense exchanges, and thrilling matchups. Experience world-class padel as players compete for league glory in one of the sport's most exciting events. Watch the World Padel League 2026 live in HD on tapmad with official coverage and uninterrupted streaming via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786608086540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786608086540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 732,
+            "UrlSlug": "world-padel-league-2026-khan-tigers-vs-aussie-mavericks-jaguars-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
         {
             "EntityId": 15952,
             "VideoName": "Game Changer Lions vs VB Realty Cheetahs",
