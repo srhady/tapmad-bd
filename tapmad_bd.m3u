@@ -1,9 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 PM 16-08-2026
+# Last Update: 03:45 PM 16-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Cricket", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868704411020x576.jpg" group-title="Padel", Game Changer Lions vs Vedanta Leopards | World Padel League 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
