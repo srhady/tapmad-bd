@@ -1,44 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:45 PM 17-08-2026",
+        "LastUpdate": "09:15 PM 17-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 8
+        "UpcomingCount": 7
     },
     "Matches": [
         {
-            "EntityId": 16136,
-            "VideoName": "India vs England",
+            "EntityId": 16137,
+            "VideoName": "Germany vs Argentina - W",
             "CategoryName": "FIH Hockey World Cup 2026",
             "StageName": "Pool Stage",
-            "EventStartDate": "2026-08-17 19:00:00",
-            "Description": "The 11th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch India vs England live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786971182540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786971182540x302.jpg",
+            "EventStartDate": "2026-08-17 21:00:00",
+            "Description": "The 14th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Germany vs Argentina - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786975111540x302WOMEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786975111540x302WOMEN.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-india-vs-england-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16138,
-            "VideoName": "Australia vs Netherlands - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Pool Stage",
-            "EventStartDate": "2026-08-17 22:00:00",
-            "Description": "The 15th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Australia vs Netherlands - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786975267540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786975267540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-australia-vs-netherlands---w-live"
+            "UrlSlug": "fih-hockey-world-cup-2026-germany-vs-argentina---w-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 16139,
