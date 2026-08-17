@@ -1,45 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 18-08-2026",
+        "LastUpdate": "12:15 AM 18-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 6
+        "LiveCount": 0,
+        "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 16138,
-            "VideoName": "Australia vs Netherlands - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Pool Stage",
-            "EventStartDate": "2026-08-17 22:00:00",
-            "Description": "The 15th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Australia vs Netherlands - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786975267540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786975267540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-australia-vs-netherlands---w-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16094,
-            "VideoName": "Deportivo vs Elche",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-08-18 01:00:00",
-            "Description": "The 1st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Elche live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786965447540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786965447540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--deportivo-vs-elche-live"
-        },
         {
             "EntityId": 15925,
             "VideoName": "Sri Lanka vs India",
