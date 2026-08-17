@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:45 PM 17-08-2026",
+        "LastUpdate": "06:00 PM 17-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 4
+        "LiveCount": 0,
+        "UpcomingCount": 5
     },
     "Matches": [
-        {
-            "EntityId": 15925,
-            "VideoName": "Sri Lanka vs India",
-            "CategoryName": "India Tour of Sri Lanka 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-08-15 10:30:00",
-            "Description": "The 1st Test of the India Tour of Sri Lanka 2026 marks the start of a two match test series. Watch Sri Lanka vs India live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Sri Lanka look to capitalize on home conditions with a balanced lineup, while India aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786522344540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786522344540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 763,
-            "UrlSlug": "sri-lanka-vs-india-1st-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "EntityId": 16094,
             "VideoName": "Deportivo vs Elche",
@@ -39,6 +24,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--deportivo-vs-elche-live"
+        },
+        {
+            "EntityId": 15925,
+            "VideoName": "Sri Lanka vs India",
+            "CategoryName": "India Tour of Sri Lanka 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-08-18 10:30:00",
+            "Description": "The 1st Test of the India Tour of Sri Lanka 2026 marks the start of a two match test series. Watch Sri Lanka vs India live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Sri Lanka look to capitalize on home conditions with a balanced lineup, while India aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786522344540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786522344540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 763,
+            "UrlSlug": "sri-lanka-vs-india-1st-test-live"
         },
         {
             "EntityId": 16123,
