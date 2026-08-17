@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 AM 17-08-2026",
+        "LastUpdate": "10:15 AM 17-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 1
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 763,
             "UrlSlug": "sri-lanka-vs-india-1st-test-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 15784,
-            "VideoName": "St Lucia Kings vs Barbados Tridents",
-            "CategoryName": "Caribbean Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-17 05:00:00",
-            "Description": "The 9th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Lucia Kings vs Barbados Tridents live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786871399540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786871399540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 731,
-            "UrlSlug": "st-lucia-kings-vs-barbados-tridents-9th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
             "EntityId": 15933,
