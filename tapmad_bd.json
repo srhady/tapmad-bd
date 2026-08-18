@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:15 PM 18-08-2026",
+        "LastUpdate": "07:30 PM 18-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -70,6 +70,20 @@
             "UrlSlug": "fih-hockey-world-cup-2026-argentina-vs-netherlands-live"
         },
         {
+            "EntityId": 16147,
+            "VideoName": "Spain vs Belgium - W",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Pool Stage",
+            "EventStartDate": "2026-08-19 00:30:00",
+            "Description": "The 26th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Spain vs Belgium - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787059081540x302WOMEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787059081540x302WOMEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-spain-vs-belgium---w-live"
+        },
+        {
             "EntityId": 16080,
             "VideoName": "Levski Sofia vs AEK",
             "CategoryName": "1st leg",
@@ -112,20 +126,6 @@
             "UrlSlug": "fenerbache-vs-ol-ucl-live-match"
         },
         {
-            "EntityId": 16083,
-            "VideoName": "NEC vs Bodo/Glimt",
-            "CategoryName": "1st leg",
-            "StageName": "Play-Offs",
-            "EventStartDate": "2026-08-19 01:00:00",
-            "Description": "Watch NEC vs Bodo/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The NEC vs Bodo/Glimt match will take place on 20-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787040756540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787040756540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "nec-vs-bodo/glimt-ucl-live-match"
-        },
-        {
             "EntityId": 15785,
             "VideoName": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
             "CategoryName": "Caribbean Premier League 2026",
@@ -152,6 +152,20 @@
             "Status": "Upcoming",
             "CategoryId": 763,
             "UrlSlug": "sri-lanka-vs-india-1st-test-live"
+        },
+        {
+            "EntityId": 16148,
+            "VideoName": "Chile vs Australia - W",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Pool Stage",
+            "EventStartDate": "2026-08-19 13:30:00",
+            "Description": "The 27th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Chile vs Australia - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787059148540x302WOMEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787059148540x302WOMEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-chile-vs-australia---w-live"
         },
         {
             "EntityId": 15933,
@@ -224,6 +238,20 @@
             "UrlSlug": "fih-hockey-world-cup-2026-belgium-vs-malaysia-live"
         },
         {
+            "EntityId": 16083,
+            "VideoName": "NEC vs Bodo/Glimt",
+            "CategoryName": "1st leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-20 01:00:00",
+            "Description": "Watch NEC vs Bodo/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The NEC vs Bodo/Glimt match will take place on 20-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787040756540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787040756540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "nec-vs-bodo/glimt-ucl-live-match"
+        },
+        {
             "EntityId": 16084,
             "VideoName": "Celtic vs LASK",
             "CategoryName": "1st leg",
@@ -250,34 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "h. beer-sheva-vs-sabah-ucl-live-match"
-        },
-        {
-            "EntityId": 16086,
-            "VideoName": "Slovan Bratislava vs Celje",
-            "CategoryName": "1st leg",
-            "StageName": "Play-Offs",
-            "EventStartDate": "2026-08-20 01:00:00",
-            "Description": "Watch Slovan Bratislava vs Celje live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slovan Bratislava vs Celje match will take place on 20-Aug, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787041214540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787041214540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "slovan bratislava-vs-celje-ucl-live-match"
-        },
-        {
-            "EntityId": 15959,
-            "VideoName": "Australia vs Bangladesh",
-            "CategoryName": "Bangladesh Tour of Australia 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-08-22 06:00:00",
-            "Description": "The 2nd Test of the Bangladesh Tour of Australia 2026 marks the start of a two match test series. Watch Australia vs Bangladesh live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Australia look to capitalize on home conditions with a balanced lineup, while Bangladesh aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787048102540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787048102540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 762,
-            "UrlSlug": "australia-vs-bangladesh-2nd-test-live"
         }
     ]
 }
