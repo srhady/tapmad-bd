@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 PM 18-08-2026",
+        "LastUpdate": "12:15 PM 18-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 3
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 763,
             "UrlSlug": "sri-lanka-vs-india-1st-test-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 16123,
+            "VideoName": "Group Stage Draw Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-08-18 12:00:00",
+            "Description": "Watch Group Stage Draw live online on tapmad. The AFC Champions League Two Group Stage Draw match is scheduled to take place on 18-Aug,  at 12:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786963800540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786963800540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two-group-stage-draw-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 16140,
