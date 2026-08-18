@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 PM 18-08-2026",
+        "LastUpdate": "02:30 PM 18-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 8
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -155,6 +155,20 @@
             "UrlSlug": "fenerbache-vs-ol-ucl-live-match"
         },
         {
+            "EntityId": 16083,
+            "VideoName": "NEC vs Bodo/Glimt",
+            "CategoryName": "1st leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-19 01:00:00",
+            "Description": "Watch NEC vs Bodo/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The NEC vs Bodo/Glimt match will take place on 20-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787040756540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787040756540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "nec-vs-bodo/glimt-ucl-live-match"
+        },
+        {
             "EntityId": 15933,
             "VideoName": "England vs Pakistan",
             "CategoryName": "Pakistan Tour of England 2026",
@@ -167,6 +181,48 @@
             "Status": "Upcoming",
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-1st-test-live"
+        },
+        {
+            "EntityId": 16084,
+            "VideoName": "Celtic vs LASK",
+            "CategoryName": "1st leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-20 01:00:00",
+            "Description": "Watch Celtic vs LASK live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Celtic vs LASK match will take place on 20-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787040944540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787040944540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "celtic-vs-lask-ucl-live-match"
+        },
+        {
+            "EntityId": 16085,
+            "VideoName": "H. Beer-Sheva vs Sabah",
+            "CategoryName": "1st leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-20 01:00:00",
+            "Description": "Watch H. Beer-Sheva vs Sabah live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The H. Beer-Sheva vs Sabah match will take place on 20-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787041089540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787041089540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "h. beer-sheva-vs-sabah-ucl-live-match"
+        },
+        {
+            "EntityId": 16086,
+            "VideoName": "Slovan Bratislava vs Celje",
+            "CategoryName": "1st leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-20 01:00:00",
+            "Description": "Watch Slovan Bratislava vs Celje live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slovan Bratislava vs Celje match will take place on 20-Aug, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787041214540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787041214540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "slovan bratislava-vs-celje-ucl-live-match"
         }
     ]
 }
