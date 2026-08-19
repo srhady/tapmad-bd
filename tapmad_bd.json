@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 19-08-2026",
+        "LastUpdate": "06:15 PM 19-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -55,20 +55,6 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-united-states-vs-germany---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16152,
-            "VideoName": "Pakistan vs India",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-19 19:00:00",
-            "Description": "The 22nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Pakistan vs India live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787050197540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787050197540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-pakistan-vs-india-live"
         },
         {
             "EntityId": 16153,
@@ -293,6 +279,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--rayo-vallecano-vs-alaves-live"
+        },
+        {
+            "EntityId": 15959,
+            "VideoName": "Australia vs Bangladesh",
+            "CategoryName": "Bangladesh Tour of Australia 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-08-22 06:00:00",
+            "Description": "The 2nd Test of the Bangladesh Tour of Australia 2026 marks the start of a two match test series. Watch Australia vs Bangladesh live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Australia look to capitalize on home conditions with a balanced lineup, while Bangladesh aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787048102540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787048102540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 762,
+            "UrlSlug": "australia-vs-bangladesh-2nd-test-live"
         }
     ]
 }
