@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:15 PM 20-08-2026",
+        "LastUpdate": "06:30 PM 20-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 8
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-1st-test-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16158,
-            "VideoName": "New Zealand vs Argentina",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-20 16:30:00",
-            "Description": "The 32nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Argentina live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787137092540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787137092540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-argentina-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 16159,
