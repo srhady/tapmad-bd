@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 20-08-2026
+# Last Update: 12:00 AM 21-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16162" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871380941020x576MEN.jpg" group-title="Hockey", Netherlands vs Japan | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872289441020x576.jpg" group-title="Football", Al-Fayha vs Al-Hilal | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
