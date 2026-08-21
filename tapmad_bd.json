@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:30 PM 21-08-2026",
+        "LastUpdate": "01:45 PM 21-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -175,6 +175,20 @@
             "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch Poland vs England - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787296629540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787296629540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
+        },
+        {
+            "EntityId": 16238,
+            "VideoName": "England vs Poland",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-22 16:10:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch England vs Poland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787297878540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787297878540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 844,
