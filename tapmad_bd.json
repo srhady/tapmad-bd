@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 21-08-2026",
+        "LastUpdate": "04:15 PM 21-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 16
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -140,6 +140,20 @@
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
+            "EntityId": 16235,
+            "VideoName": "Poland vs England - W",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-22 14:55:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch Poland vs England - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787306080540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787306081540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
+        },
+        {
             "EntityId": 16236,
             "VideoName": "Hungary vs England",
             "CategoryName": "Euro Beach Kabaddi Championship 2026",
@@ -210,6 +224,20 @@
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
+            "EntityId": 16242,
+            "VideoName": "Hungary vs England",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-22 18:20:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch Hungary vs England live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787306256540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787306256540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
+        },
+        {
             "EntityId": 16243,
             "VideoName": "Poland vs Hungary - W",
             "CategoryName": "Euro Beach Kabaddi Championship 2026",
@@ -224,46 +252,32 @@
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
-            "EntityId": 16134,
-            "VideoName": "Cyborg vs Vieira",
-            "CategoryName": "PFL 2026",
-            "StageName": "Global 13",
-            "EventStartDate": "2026-08-23 03:30:00",
-            "Description": "Watch Cyborg vs Vieira live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Cyborg vs Vieira fight will take place on 23-Aug, at 03:30 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787214929540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787214929540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-2026-cyborg-vs-vieira-live"
-        },
-        {
-            "EntityId": 15789,
-            "VideoName": "Anitgua and Barbuda Falcons vs Trinbago Knight Riders",
-            "CategoryName": "Caribbean Premier League 2026",
+            "EntityId": 16244,
+            "VideoName": "England vs Poland",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-08-23 05:00:00",
-            "Description": "The 14th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Anitgua and Barbuda Falcons vs Trinbago Knight Riders live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787295520540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787295520540x302.jpg",
+            "EventStartDate": "2026-08-22 19:10:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch England vs Poland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787306482540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787306482540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 731,
-            "UrlSlug": "anitgua-and-barbuda-falcons-vs-trinbago-knight-riders-14th-t20-live"
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
-            "EntityId": 15575,
-            "VideoName": "Hernandez vs Rodrigues",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-08-23 06:00:00",
-            "Description": "UFC Fight Night Live: Watch Hernandez vs Rodrigues live online on tapmad. Enjoy watching Hernandez vs Rodrigues live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 23-Aug. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787230052540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787230052540x302.jpg",
+            "EntityId": 16245,
+            "VideoName": "England vs Hungary - W",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-22 19:35:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch England vs Hungary - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787306750540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787306750540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-hernandez vs rodrigues-live"
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         }
     ]
 }
