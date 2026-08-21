@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 21-08-2026",
+        "LastUpdate": "08:30 PM 21-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -27,21 +27,6 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16167,
-            "VideoName": "Ireland vs Malaysia",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-21 18:00:00",
-            "Description": "The 40th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Ireland vs Malaysia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787293773540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787293773540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-ireland-vs-malaysia-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "EntityId": 16168,
             "VideoName": "China vs Australia - W",
             "CategoryName": "FIH Hockey World Cup 2026",
@@ -55,20 +40,6 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-china-vs-australia---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16169,
-            "VideoName": "Germany vs Spain",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-21 21:00:00",
-            "Description": "The 41st match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Germany vs Spain live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787294092540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787294092540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-germany-vs-spain-live"
         },
         {
             "EntityId": 15974,
@@ -289,6 +260,20 @@
             "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch Poland vs Hungary - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787297372540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787297373540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 844,
+            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
+        },
+        {
+            "EntityId": 16244,
+            "VideoName": "England vs Poland",
+            "CategoryName": "Euro Beach Kabaddi Championship 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-22 19:10:00",
+            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch England vs Poland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787306482540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787306482540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 844,
