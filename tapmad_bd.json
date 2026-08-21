@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 AM 22-08-2026",
+        "LastUpdate": "02:15 AM 22-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -83,6 +83,20 @@
             "Status": "Upcoming",
             "CategoryId": 762,
             "UrlSlug": "australia-vs-bangladesh-2nd-test-live"
+        },
+        {
+            "EntityId": 16172,
+            "VideoName": "New Zealand vs Wales",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "1st Semi Final",
+            "EventStartDate": "2026-08-22 14:00:00",
+            "Description": "The 41st match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Wales live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787342578540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787342578540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-wales-live"
         },
         {
             "EntityId": 16234,
@@ -279,20 +293,6 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--valencia-vs-celta-live"
-        },
-        {
-            "EntityId": 16134,
-            "VideoName": "Cyborg vs Vieira",
-            "CategoryName": "PFL 2026",
-            "StageName": "Global 13",
-            "EventStartDate": "2026-08-23 03:30:00",
-            "Description": "Watch Cyborg vs Vieira live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Cyborg vs Vieira fight will take place on 23-Aug, at 03:30 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787214929540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787214929540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-2026-cyborg-vs-vieira-live"
         }
     ]
 }
