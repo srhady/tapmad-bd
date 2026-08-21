@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 21-08-2026",
+        "LastUpdate": "01:15 PM 21-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -82,6 +82,20 @@
             "UrlSlug": "saudi-pro-league--al-riyadh-vs-al-nassr-live"
         },
         {
+            "EntityId": 16171,
+            "VideoName": "Australia vs Belgium",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Classification Stage",
+            "EventStartDate": "2026-08-22 00:30:00",
+            "Description": "The 42nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Australia vs Belgium live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787294476540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787294476540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-australia-vs-belgium-live"
+        },
+        {
             "EntityId": 15788,
             "VideoName": "St Lucia Kings vs Jamaica Kingsmen",
             "CategoryName": "Caribbean Premier League 2026",
@@ -122,6 +136,20 @@
             "Status": "Upcoming",
             "CategoryId": 275,
             "UrlSlug": "pfl-2026-cyborg-vs-vieira-live"
+        },
+        {
+            "EntityId": 15789,
+            "VideoName": "Anitgua and Barbuda Falcons vs Trinbago Knight Riders",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-23 05:00:00",
+            "Description": "The 14th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Anitgua and Barbuda Falcons vs Trinbago Knight Riders live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787295520540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787295520540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "anitgua-and-barbuda-falcons-vs-trinbago-knight-riders-14th-t20-live"
         },
         {
             "EntityId": 15575,
