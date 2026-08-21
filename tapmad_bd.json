@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 21-08-2026",
+        "LastUpdate": "02:15 PM 21-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -25,20 +25,6 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-japan-vs-south-africa---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16165,
-            "VideoName": "France vs South Africa",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-21 15:00:00",
-            "Description": "The 39th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch France vs South Africa live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787292646540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787292646540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-france-vs-south-africa-live"
         },
         {
             "EntityId": 15933,
@@ -263,6 +249,20 @@
             "Status": "Upcoming",
             "CategoryId": 731,
             "UrlSlug": "anitgua-and-barbuda-falcons-vs-trinbago-knight-riders-14th-t20-live"
+        },
+        {
+            "EntityId": 15575,
+            "VideoName": "Hernandez vs Rodrigues",
+            "CategoryName": "UFC 2026",
+            "StageName": "Fight Night",
+            "EventStartDate": "2026-08-23 06:00:00",
+            "Description": "UFC Fight Night Live: Watch Hernandez vs Rodrigues live online on tapmad. Enjoy watching Hernandez vs Rodrigues live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 23-Aug. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787230052540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787230052540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc fight night-hernandez vs rodrigues-live"
         }
     ]
 }
