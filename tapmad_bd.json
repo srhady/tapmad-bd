@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 AM 22-08-2026",
+        "LastUpdate": "02:45 AM 22-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16171,
-            "VideoName": "Australia vs Belgium",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-22 00:30:00",
-            "Description": "The 42nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Australia vs Belgium live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787294476540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787294476540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-australia-vs-belgium-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "EntityId": 16097,
             "VideoName": "Betis vs Real Sociedad",
@@ -126,6 +111,20 @@
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
+            "EntityId": 16173,
+            "VideoName": "Ireland vs Scotland - W",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "2nd Semi Final",
+            "EventStartDate": "2026-08-22 15:30:00",
+            "Description": "The  match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Ireland vs Scotland - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787343642540x302WOMEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787343642540x302WOMEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-ireland-vs-scotland---w-live"
+        },
+        {
             "EntityId": 16237,
             "VideoName": "Poland vs England - W",
             "CategoryName": "Euro Beach Kabaddi Championship 2026",
@@ -210,6 +209,20 @@
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
+            "EntityId": 16175,
+            "VideoName": "USA vs New Zealand - W",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-22 18:30:00",
+            "Description": "The 46th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch USA vs New Zealand - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787344093540x302WOMEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787344093540x302WOMEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-usa-vs-new-zealand---w-live"
+        },
+        {
             "EntityId": 16243,
             "VideoName": "Poland vs Hungary - W",
             "CategoryName": "Euro Beach Kabaddi Championship 2026",
@@ -250,34 +263,6 @@
             "Status": "Upcoming",
             "CategoryId": 844,
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
-        },
-        {
-            "EntityId": 16176,
-            "VideoName": "Netherlands vs India",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-22 20:00:00",
-            "Description": "The 43rd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Netherlands vs India live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787343329540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787343329540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-india-live"
-        },
-        {
-            "EntityId": 16098,
-            "VideoName": "Athletic vs Sevilla",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-08-22 21:00:00",
-            "Description": "The 5th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Sevilla live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787310424540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787310424540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--athletic-vs-sevilla-live"
         }
     ]
 }
