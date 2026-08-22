@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 PM 22-08-2026",
+        "LastUpdate": "05:00 PM 22-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 16
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-ireland-vs-scotland---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 16174,
+            "VideoName": "Pakistan vs Japan",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "3rd place",
+            "EventStartDate": "2026-08-22 17:00:00",
+            "Description": "The 42nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Pakistan vs Japan live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787342981540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787342981540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-pakistan-vs-japan-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
             "EntityId": 16242,
