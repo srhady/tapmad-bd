@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:45 AM 22-08-2026",
+        "LastUpdate": "06:00 AM 22-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 731,
             "UrlSlug": "st-lucia-kings-vs-jamaica-kingsmen-13th-t20-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 15959,
+            "VideoName": "Australia vs Bangladesh",
+            "CategoryName": "Bangladesh Tour of Australia 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-08-22 06:00:00",
+            "Description": "The 2nd Test of the Bangladesh Tour of Australia 2026 marks the start of a two match test series. Watch Australia vs Bangladesh live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Australia look to capitalize on home conditions with a balanced lineup, while Bangladesh aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787048102540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787048102540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 762,
+            "UrlSlug": "australia-vs-bangladesh-2nd-test-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16172,
