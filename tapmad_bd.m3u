@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 AM 22-08-2026
+# Last Update: 06:45 AM 22-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,5 @@
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg" group-title="Cricket", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15918" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg" group-title="Cricket", Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-5tap347/master.m3u8
