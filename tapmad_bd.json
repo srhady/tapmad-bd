@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 PM 22-08-2026",
+        "LastUpdate": "03:00 PM 22-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 844,
             "UrlSlug": "euro-beach-kabaddi-championship-live-streaming",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 16237,
-            "VideoName": "Poland vs England - W",
-            "CategoryName": "Euro Beach Kabaddi Championship 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-22 15:45:00",
-            "Description": "The Euro Beach Kabaddi Championship 2026 brings together top European teams for an exciting showcase of beach kabaddi. Featuring powerful raids, strategic defending, intense tackles, and fast-paced action, every match promises thrilling competition as teams battle for the championship title. Watch Poland vs England - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every raid, tackle, point, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787296629540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787296629540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 844,
-            "UrlSlug": "euro-beach-kabaddi-championship-live-streaming"
         },
         {
             "EntityId": 16238,
@@ -278,6 +264,20 @@
             "Status": "Upcoming",
             "CategoryId": 731,
             "UrlSlug": "anitgua-and-barbuda-falcons-vs-trinbago-knight-riders-14th-t20-live"
+        },
+        {
+            "EntityId": 15575,
+            "VideoName": "Hernandez vs Rodrigues",
+            "CategoryName": "UFC 2026",
+            "StageName": "Fight Night",
+            "EventStartDate": "2026-08-23 06:00:00",
+            "Description": "UFC Fight Night Live: Watch Hernandez vs Rodrigues live online on tapmad. Enjoy watching Hernandez vs Rodrigues live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 23-Aug. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787230052540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787230052540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc fight night-hernandez vs rodrigues-live"
         }
     ]
 }
