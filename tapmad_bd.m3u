@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 23-08-2026
+# Last Update: 11:45 PM 23-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16185" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874531741020x576MEN.jpg" group-title="Hockey", Germany vs Australia | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874179941020x576WOMEN.jpg" group-title="Hockey", Australia vs India - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16102" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874172041020x576.jpg" group-title="Football", Getafe vs Racing Santander | Laliga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16325" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874542881020x576.jpg" group-title="E Sports", Trophy Awarding Ceremony Live | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
