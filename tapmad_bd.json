@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:45 AM 23-08-2026",
+        "LastUpdate": "10:00 AM 23-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 13
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 762,
             "UrlSlug": "australia-vs-bangladesh-2nd-test-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16134,
-            "VideoName": "Cyborg vs Vieira",
-            "CategoryName": "PFL 2026",
-            "StageName": "Global 13",
-            "EventStartDate": "2026-08-23 03:30:00",
-            "Description": "Watch Cyborg vs Vieira live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Cyborg vs Vieira fight will take place on 23-Aug, at 03:30 AM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787214929540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787214929540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 275,
-            "UrlSlug": "pfl-2026-cyborg-vs-vieira-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 15918,
