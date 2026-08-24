@@ -1,14 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 25-08-2026
+# Last Update: 01:45 AM 25-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873140601020x576.jpg" group-title="Tennis", Men's & Women's Singles Qualifying | US Open 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg" group-title="Football", Osasuna vs Levante | Laliga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15983" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg" group-title="Football", Al-Ittihad vs Al-Hazem | Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16195" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875598281020x576WOMEN.jpg" group-title="Hockey", Belgium vs Argentina - W | FIH Hockey World Cup 2026
