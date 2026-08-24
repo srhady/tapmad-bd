@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 AM 25-08-2026",
+        "LastUpdate": "02:30 AM 25-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 13
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16195,
-            "VideoName": "Belgium vs Argentina - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-25 00:30:00",
-            "Description": "The 64th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Belgium vs Argentina - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787559828540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787559828540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-belgium-vs-argentina---w-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 16105,
@@ -169,6 +154,20 @@
             "UrlSlug": "levski sofia-vs-aek-ucl-live-match"
         },
         {
+            "EntityId": 16093,
+            "VideoName": "Celje vs Slovan Bratislava",
+            "CategoryName": "2nd leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-27 01:00:00",
+            "Description": "Watch Celje vs Slovan Bratislava live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Celje vs Slovan Bratislava match will take place on 27-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787572582540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787572582540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "celje-vs-slovan bratislava-ucl-live-match"
+        },
+        {
             "EntityId": 16091,
             "VideoName": "OL vs Fenerbache",
             "CategoryName": "2nd leg",
@@ -195,20 +194,6 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "viking-vs-dinamo zagreb-ucl-live-match"
-        },
-        {
-            "EntityId": 16093,
-            "VideoName": "Celje vs Slovan Bratislava",
-            "CategoryName": "2nd leg",
-            "StageName": "Play-Offs",
-            "EventStartDate": "2026-08-27 01:00:00",
-            "Description": "Watch Celje vs Slovan Bratislava live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Celje vs Slovan Bratislava match will take place on 27-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787572582540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787572582540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "celje-vs-slovan bratislava-ucl-live-match"
         },
         {
             "EntityId": 15934,
