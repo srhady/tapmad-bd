@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 PM 24-08-2026",
+        "LastUpdate": "05:00 PM 24-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -265,6 +265,20 @@
             "Status": "Upcoming",
             "CategoryId": 731,
             "UrlSlug": "antigua-and-barbuda-falcons-vs-barbados-tridents-16th-t20-live"
+        },
+        {
+            "EntityId": 16090,
+            "VideoName": "Levski Sofia vs AEK",
+            "CategoryName": "2nd leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-27 01:00:00",
+            "Description": "Watch Levski Sofia vs AEK live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Levski Sofia vs AEK match will take place on 27-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787568237540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787568237540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "levski sofia-vs-aek-ucl-live-match"
         }
     ]
 }
