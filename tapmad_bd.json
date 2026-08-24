@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 AM 25-08-2026",
+        "LastUpdate": "02:15 AM 25-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 13
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 15983,
-            "VideoName": "Al-Ittihad vs Al-Hazem",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-08-25 00:00:00",
-            "Description": "The 14th match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ittihad vs Al-Hazem live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787558982540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787558982540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-ittihad-vs-al-hazem-live",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "EntityId": 16195,
@@ -128,20 +113,6 @@
             "UrlSlug": "sabah-vs-h. beer-sheva-ucl-live-match"
         },
         {
-            "EntityId": 16089,
-            "VideoName": "LASK vs Celtic",
-            "CategoryName": "2nd leg",
-            "StageName": "Play-Offs",
-            "EventStartDate": "2026-08-26 01:00:00",
-            "Description": "Watch LASK vs Celtic live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The LASK vs Celtic match will take place on 26-Aug, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787567635540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787567635540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "lask-vs-celtic-ucl-live-match"
-        },
-        {
             "EntityId": 16088,
             "VideoName": "NEC vs Bodo/glimt",
             "CategoryName": "2nd leg",
@@ -154,6 +125,20 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "nec-vs-bodo/glimt-ucl-live-match"
+        },
+        {
+            "EntityId": 16089,
+            "VideoName": "LASK vs Celtic",
+            "CategoryName": "2nd leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-26 01:00:00",
+            "Description": "Watch LASK vs Celtic live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The LASK vs Celtic match will take place on 26-Aug, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787567635540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787567635540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "lask-vs-celtic-ucl-live-match"
         },
         {
             "EntityId": 15791,
