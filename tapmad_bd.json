@@ -1,46 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 24-08-2026",
+        "LastUpdate": "07:00 PM 24-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15926,
-            "VideoName": "Sri Lanka vs India",
-            "CategoryName": "India Tour of Sri Lanka 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-08-23 10:30:00",
-            "Description": "The 2nd Test of the India Tour of Sri Lanka 2026 marks the start of a two match test series. Watch Sri Lanka vs India live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Sri Lanka look to capitalize on home conditions with a balanced lineup, while India aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787312620540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787312620540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 763,
-            "UrlSlug": "sri-lanka-vs-india-2nd-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16190,
-            "VideoName": "New Zealand vs Pakistan",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-24 16:30:00",
-            "Description": "The 58th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Pakistan live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787553546540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787553546540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-pakistan-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-        },
         {
             "EntityId": 16191,
             "VideoName": "Ireland vs USA - W",
@@ -55,6 +25,21 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-ireland-vs-usa---w-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "EntityId": 16192,
+            "VideoName": "Argentina vs India",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-24 18:45:00",
+            "Description": "The 59th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Argentina vs India live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787553891540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787553891540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-argentina-vs-india-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
             "EntityId": 16193,
@@ -169,6 +154,20 @@
             "UrlSlug": "laliga--malaga-vs-deportivo-live"
         },
         {
+            "EntityId": 15926,
+            "VideoName": "Sri Lanka vs India",
+            "CategoryName": "India Tour of Sri Lanka 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-08-25 10:30:00",
+            "Description": "The 2nd Test of the India Tour of Sri Lanka 2026 marks the start of a two match test series. Watch Sri Lanka vs India live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Sri Lanka look to capitalize on home conditions with a balanced lineup, while India aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787312620540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787312620540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 763,
+            "UrlSlug": "sri-lanka-vs-india-2nd-test-live"
+        },
+        {
             "EntityId": 16287,
             "VideoName": "Men's & Women's Singles Qualifying",
             "CategoryName": "US Open 2026",
@@ -279,20 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "ol-vs-fenerbache-ucl-live-match"
-        },
-        {
-            "EntityId": 16093,
-            "VideoName": "Celje vs Slovan Bratislava",
-            "CategoryName": "2nd leg",
-            "StageName": "Play-Offs",
-            "EventStartDate": "2026-08-27 01:00:00",
-            "Description": "Watch Celje vs Slovan Bratislava live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Celje vs Slovan Bratislava match will take place on 27-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787572582540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787572582540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "celje-vs-slovan bratislava-ucl-live-match"
         }
     ]
 }
