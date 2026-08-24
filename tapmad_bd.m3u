@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 24-08-2026
+# Last Update: 08:15 PM 24-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg" group-title="Hockey", Ireland vs USA - W | FIH Hockey World Cup 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16192" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875538911020x576MEN.jpg" group-title="Hockey", Argentina vs India | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
