@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 24-08-2026",
+        "LastUpdate": "06:15 PM 24-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 15
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -169,6 +169,20 @@
             "UrlSlug": "laliga--malaga-vs-deportivo-live"
         },
         {
+            "EntityId": 16287,
+            "VideoName": "Men's & Women's Singles Qualifying",
+            "CategoryName": "US Open 2026",
+            "StageName": "Qualifiers",
+            "EventStartDate": "2026-08-25 20:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787573172540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787573172540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
             "EntityId": 15984,
             "VideoName": "Abha vs Al Khaleej",
             "CategoryName": "Saudi Pro League 2026/27",
@@ -265,6 +279,20 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "ol-vs-fenerbache-ucl-live-match"
+        },
+        {
+            "EntityId": 16093,
+            "VideoName": "Celje vs Slovan Bratislava",
+            "CategoryName": "2nd leg",
+            "StageName": "Play-Offs",
+            "EventStartDate": "2026-08-27 01:00:00",
+            "Description": "Watch Celje vs Slovan Bratislava live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Celje vs Slovan Bratislava match will take place on 27-Aug, Thursday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787572582540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787572582540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "celje-vs-slovan bratislava-ucl-live-match"
         }
     ]
 }
