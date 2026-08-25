@@ -1,0 +1,15 @@
+#EXTM3U
+# Playlist Name: Tapmad bd
+# Last Update: 12:00 AM 26-08-2026
+# Telegram: https://t.me/livesportsplay
+# Owner: Md Sohanur Rahman Hady
+# Special thanks to Shuvo vai for contributing his premium Tapmad account.
+
+#EXTINF:-1 tvg-id="tapmad-16287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg" group-title="Tennis", Men's & Women's Singles Qualifying | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-15984" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875590511020x576.jpg" group-title="Football", Abha vs Al Khaleej | Saudi Pro League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16087" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875672671020x576.jpg" group-title="Football", Sabah vs H. Beer-Sheva | UEFA Champions League 2026/27
+https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-15986" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg" group-title="Football", Al-Ettifaq vs Al-Nassr | Saudi Pro League 2026/27
+https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8
