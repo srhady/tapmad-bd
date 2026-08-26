@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 AM 26-08-2026",
+        "LastUpdate": "10:45 AM 26-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -16,14 +16,15 @@
             "VideoName": "Sri Lanka vs India",
             "CategoryName": "India Tour of Sri Lanka 2026",
             "StageName": "2nd Test",
-            "EventStartDate": "2026-08-26 10:30:00",
+            "EventStartDate": "2026-08-23 10:30:00",
             "Description": "The 2nd Test of the India Tour of Sri Lanka 2026 marks the start of a two match test series. Watch Sri Lanka vs India live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, Sri Lanka look to capitalize on home conditions with a balanced lineup, while India aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787312620540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787312620540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 763,
-            "UrlSlug": "sri-lanka-vs-india-2nd-test-live"
+            "UrlSlug": "sri-lanka-vs-india-2nd-test-live",
+            "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
             "EntityId": 16688,
@@ -248,6 +249,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "luxembourg-vs-usa"
+        },
+        {
+            "EntityId": 16336,
+            "VideoName": "Men's Semi Final B Session - Guiyang, China Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-08-28 14:30:00",
+            "Description": "Watch UIPM 2026 Men's Semi Final B Session - Guiyang, China live online on tapmad. The event is scheduled to take place on 28-Aug,  at 02:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787655071540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787655071540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "men's-semi-final-b-session---guiyang,-china-live"
         }
     ]
 }
