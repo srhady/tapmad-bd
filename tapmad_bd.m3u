@@ -1,9 +1,19 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:15 AM 27-08-2026
+# Last Update: 12:30 AM 27-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876409821020x576.jpg" group-title="Tennis", Men's & Women's Singles Qualifying | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875682371020x576.jpg" group-title="Football", Levski Sofia vs AEK | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875716441020x576.jpg" group-title="Football", OL vs Fenerbache | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16092" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875724241020x576.jpg" group-title="Football", Viking vs Dinamo Zagreb | UEFA Champions League 2026/27
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875725811020x576.jpg" group-title="Football", Celje vs Slovan Bratislava | UEFA Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16107" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876512561020x576.jpg" group-title="Football", Real Madrid vs Real Sociedad | Laliga 2026/27
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
