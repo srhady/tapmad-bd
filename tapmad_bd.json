@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 27-08-2026",
+        "LastUpdate": "06:15 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -70,20 +70,6 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-england-vs-usa---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 16200,
-            "VideoName": "India vs Germany - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-27 19:00:00",
-            "Description": "The 61st match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch India vs Germany - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787810926540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787810926540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-india-vs-germany---w-live"
         },
         {
             "EntityId": 16690,
@@ -308,6 +294,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "georgia-vs-pakistan-live"
+        },
+        {
+            "EntityId": 16781,
+            "VideoName": "Maheshate vs Flowers",
+            "CategoryName": "UFC 2026",
+            "StageName": "Road to UFC",
+            "EventStartDate": "2026-08-28 15:00:00",
+            "Description": "UFC Fight Night Live: Watch Maheshate vs Flowers live online on tapmad. Enjoy watching Maheshate vs Flowers live streaming online in Bangladesh with full match highlights. The fight will start at 03:00 PM on 28-Aug. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787830487540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787830487540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc fight night-maheshate vs flowers-live"
         }
     ]
 }
