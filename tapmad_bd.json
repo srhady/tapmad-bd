@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 PM 27-08-2026",
+        "LastUpdate": "05:00 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -171,6 +171,20 @@
             "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live"
         },
         {
+            "EntityId": 16845,
+            "VideoName": "League Phase Draw",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-08-27 22:00:00",
+            "Description": "Watch League Phase Draw live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The League Phase Draw will take place on 27-Aug, Thursday, at 10:00 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787827503540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787827503540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "league phase draw-ucl-live"
+        },
+        {
             "EntityId": 16108,
             "VideoName": "Celta vs Osasuna",
             "CategoryName": "Laliga 2026/27",
@@ -309,20 +323,6 @@
             "Status": "Upcoming",
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-wales-vs-malaysia-live"
-        },
-        {
-            "EntityId": 16375,
-            "VideoName": "Georgia vs Pakistan Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 15:00:00",
-            "Description": "Watch Georgia vs Pakistan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787822575540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787822575540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "georgia-vs-pakistan-live"
         }
     ]
 }
