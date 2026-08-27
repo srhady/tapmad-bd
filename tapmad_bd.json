@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:15 AM 28-08-2026",
+        "LastUpdate": "12:30 AM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15934,
-            "VideoName": "England vs Pakistan",
-            "CategoryName": "Pakistan Tour of England 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-08-27 16:00:00",
-            "Description": "The 2nd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787576024540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787576024540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 764,
-            "UrlSlug": "england-vs-pakistan-2nd-test-live",
-            "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
         {
             "EntityId": 16290,
             "VideoName": "Men's & Women's Singles Qualifying",
@@ -40,21 +25,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16202,
-            "VideoName": "Netherlands vs Belgium - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Semi Final 1",
-            "EventStartDate": "2026-08-27 22:00:00",
-            "Description": "The 63rd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Netherlands vs Belgium - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787811122540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787811122540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 16108,
@@ -212,6 +182,20 @@
             "UrlSlug": "ufc fight night-maheshate vs flowers-live"
         },
         {
+            "EntityId": 15934,
+            "VideoName": "England vs Pakistan",
+            "CategoryName": "Pakistan Tour of England 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-08-28 16:00:00",
+            "Description": "The 2nd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787576024540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787576024540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 764,
+            "UrlSlug": "england-vs-pakistan-2nd-test-live"
+        },
+        {
             "EntityId": 16378,
             "VideoName": "Ukraine vs Lebanon Live",
             "CategoryName": "Socca World Cup 2026",
@@ -294,20 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-england-vs-australia-live"
-        },
-        {
-            "EntityId": 16384,
-            "VideoName": "Belgium vs Turkiye Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 19:00:00",
-            "Description": "Watch Belgium vs Turkiye live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824478540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824478540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "belgium-vs-turkiye-live"
         }
     ]
 }
