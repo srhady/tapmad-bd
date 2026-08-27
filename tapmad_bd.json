@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 PM 27-08-2026",
+        "LastUpdate": "03:00 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -154,6 +154,34 @@
             "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live"
         },
         {
+            "EntityId": 16108,
+            "VideoName": "Celta vs Osasuna",
+            "CategoryName": "Laliga 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-08-28 00:30:00",
+            "Description": "The 15th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787821040540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787821040540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--celta-vs-osasuna-live"
+        },
+        {
+            "EntityId": 16109,
+            "VideoName": "Barcelona vs Athletic",
+            "CategoryName": "Laliga 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-08-28 01:00:00",
+            "Description": "The 16th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Athletic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787821157540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787821157540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--barcelona-vs-athletic-live"
+        },
+        {
             "EntityId": 16291,
             "VideoName": "Stars of the Open",
             "CategoryName": "US Open 2026",
@@ -250,34 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-wales-vs-malaysia-live"
-        },
-        {
-            "EntityId": 16206,
-            "VideoName": "Pakistan vs South Africa",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-28 16:30:00",
-            "Description": "The 66th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Pakistan vs South Africa live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787817862540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787817862540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-pakistan-vs-south-africa-live"
-        },
-        {
-            "EntityId": 16207,
-            "VideoName": "New Zealand vs Ireland",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-28 18:00:00",
-            "Description": "The 67th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Ireland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818142540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818142540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-ireland-live"
         }
     ]
 }
