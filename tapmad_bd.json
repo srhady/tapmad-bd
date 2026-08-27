@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 27-08-2026",
+        "LastUpdate": "08:15 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-2nd-test-live",
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "EntityId": 16199,
-            "VideoName": "England vs USA - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-27 18:00:00",
-            "Description": "The 69th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch England vs USA - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787810829540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787810829540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-england-vs-usa---w-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 16200,
@@ -70,34 +55,6 @@
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-glasgow-cosmic-live",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "EntityId": 16201,
-            "VideoName": "China vs Spain - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-27 21:00:00",
-            "Description": "The 62nd match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch China vs Spain - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787811023540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787811023540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-china-vs-spain---w-live"
-        },
-        {
-            "EntityId": 16290,
-            "VideoName": "Men's & Women's Singles Qualifying",
-            "CategoryName": "US Open 2026",
-            "StageName": "Qualifiers",
-            "EventStartDate": "2026-08-27 21:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787641980540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787641980540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming"
         },
         {
             "EntityId": 16202,
@@ -308,6 +265,34 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "ukraine-vs-lebanon-live"
+        },
+        {
+            "EntityId": 16206,
+            "VideoName": "Pakistan vs South Africa",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-28 16:30:00",
+            "Description": "The 66th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Pakistan vs South Africa live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787817862540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787817862540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-pakistan-vs-south-africa-live"
+        },
+        {
+            "EntityId": 16843,
+            "VideoName": "League Phase Draw",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-08-28 17:00:00",
+            "Description": "Watch League Phase Draw live streaming online on tapmad. The UEFA Europa League is contested by 36 teams and the winner qualifies for the UEFA Super Cup. Tottenham Hotspur are the defending champions. The League Phase Draw will take place on Friday, , at 4:00 PM. Tune into tapmad to watch all Europa League 2026/27 matches live in HD and completely ad-free!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787830101540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787830101540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "league phase draw-live"
         }
     ]
 }
