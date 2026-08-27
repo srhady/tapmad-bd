@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:15 PM 27-08-2026",
+        "LastUpdate": "10:30 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 6,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-2nd-test-live",
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "EntityId": 16200,
-            "VideoName": "India vs Germany - W",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-27 19:00:00",
-            "Description": "The 61st match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch India vs Germany - W live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787810926540x302WOMEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787810926540x302WOMEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-india-vs-germany---w-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 16690,
@@ -96,9 +81,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787811122540x302WOMEN.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787811122540x302WOMEN.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live"
+            "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 16845,
@@ -110,9 +96,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787827503540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787827503540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 826,
-            "UrlSlug": "league phase draw-ucl-live"
+            "UrlSlug": "league phase draw-ucl-live",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "EntityId": 16108,
@@ -323,6 +310,34 @@
             "Status": "Upcoming",
             "CategoryId": 905,
             "UrlSlug": "league phase draw-live"
+        },
+        {
+            "EntityId": 16207,
+            "VideoName": "New Zealand vs Ireland",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-28 18:00:00",
+            "Description": "The 67th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Ireland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818142540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818142540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-ireland-live"
+        },
+        {
+            "EntityId": 16381,
+            "VideoName": "Latvia vs Australia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-28 18:00:00",
+            "Description": "Watch Latvia vs Australia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824254540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824254540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "latvia-vs-australia-live"
         }
     ]
 }
