@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 27-08-2026",
+        "LastUpdate": "07:45 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,21 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16689,
-            "VideoName": "Belfast Wolves vs Dublin Guardians",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-27 15:30:00",
-            "Description": "The 2nd match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Belfast Wolves vs Dublin Guardians live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787665206540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787665206540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-dublin-guardians-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
         {
             "EntityId": 15934,
             "VideoName": "England vs Pakistan",
@@ -70,6 +55,21 @@
             "CategoryId": 672,
             "UrlSlug": "fih-hockey-world-cup-2026-india-vs-germany---w-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "EntityId": 16690,
+            "VideoName": "Edinburgh Castle Rockers vs Glasgow Cosmic",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-27 19:15:00",
+            "Description": "The 3rd match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Edinburgh Castle Rockers vs Glasgow Cosmic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787814555540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787814555540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-glasgow-cosmic-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 16201,
