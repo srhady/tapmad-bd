@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 PM 27-08-2026",
+        "LastUpdate": "02:30 PM 27-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -168,20 +168,6 @@
             "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-belgium---w-live"
         },
         {
-            "EntityId": 15793,
-            "VideoName": "St Kitts and Nevis Patriots vs Jamaica Kingsmen",
-            "CategoryName": "Caribbean Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 05:00:00",
-            "Description": "The 18th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Kitts and Nevis Patriots vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787816184540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787816184540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 731,
-            "UrlSlug": "st-kitts-and-nevis-patriots-vs-jamaica-kingsmen-18th-t20-live"
-        },
-        {
             "EntityId": 16291,
             "VideoName": "Stars of the Open",
             "CategoryName": "US Open 2026",
@@ -194,6 +180,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 15793,
+            "VideoName": "St Kitts and Nevis Patriots vs Jamaica Kingsmen",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-28 05:00:00",
+            "Description": "The 18th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Kitts and Nevis Patriots vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787816184540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787816184540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "st-kitts-and-nevis-patriots-vs-jamaica-kingsmen-18th-t20-live"
         },
         {
             "EntityId": 16330,
