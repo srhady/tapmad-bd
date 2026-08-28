@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 28-08-2026",
+        "LastUpdate": "06:15 PM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 6,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -57,6 +57,21 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
+            "EntityId": 16843,
+            "VideoName": "League Phase Draw",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-08-28 17:00:00",
+            "Description": "Watch League Phase Draw live streaming online on tapmad. The UEFA Europa League is contested by 36 teams and the winner qualifies for the UEFA Super Cup. Tottenham Hotspur are the defending champions. The League Phase Draw will take place on Friday, , at 4:00 PM. Tune into tapmad to watch all Europa League 2026/27 matches live in HD and completely ad-free!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787830101540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787830101540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "league phase draw-live",
+            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
             "EntityId": 16207,
             "VideoName": "New Zealand vs Ireland",
             "CategoryName": "FIH Hockey World Cup 2026",
@@ -85,34 +100,6 @@
             "CategoryId": 889,
             "UrlSlug": "latvia-vs-australia-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16208,
-            "VideoName": "England vs Australia",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "5th Place",
-            "EventStartDate": "2026-08-28 19:00:00",
-            "Description": "The 68th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch England vs Australia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818376540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818376540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-england-vs-australia-live"
-        },
-        {
-            "EntityId": 16384,
-            "VideoName": "Belgium vs Turkiye Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 19:00:00",
-            "Description": "Watch Belgium vs Turkiye live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824478540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824478540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "belgium-vs-turkiye-live"
         },
         {
             "EntityId": 16691,
@@ -323,6 +310,34 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "hungary-vs-nigeria-live"
+        },
+        {
+            "EntityId": 16348,
+            "VideoName": "Women's Semi Final B Session - Guiyang, China Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Semi Finals",
+            "EventStartDate": "2026-08-29 14:30:00",
+            "Description": "Watch UIPM 2026 Women's Semi Final B Session - Guiyang, China live online on tapmad. The event is scheduled to take place on 29-Aug,  at 02:30 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787903336540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787903336540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "women's-semi-final-b-session---guiyang,-china-live"
+        },
+        {
+            "EntityId": 16411,
+            "VideoName": "Greece vs Ireland Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-29 15:00:00",
+            "Description": "Watch Greece vs Ireland live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Greece vs Ireland match will take place on 29-Aug, at 03:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787914811540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787914811540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "greece-vs-ireland-live"
         }
     ]
 }
