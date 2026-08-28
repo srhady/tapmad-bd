@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 28-08-2026",
+        "LastUpdate": "08:15 PM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -25,21 +25,6 @@
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-2nd-test-live",
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "EntityId": 16207,
-            "VideoName": "New Zealand vs Ireland",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-28 18:00:00",
-            "Description": "The 67th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Ireland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818142540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818142540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-ireland-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16208,
@@ -100,20 +85,6 @@
             "CategoryId": 889,
             "UrlSlug": "serbia-vs-brazil-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16390,
-            "VideoName": "Kazakhstan vs Iraq Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 21:00:00",
-            "Description": "Watch Kazakhstan vs Iraq live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824956540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824956540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "kazakhstan-vs-iraq-live"
         },
         {
             "EntityId": 16209,
@@ -338,6 +309,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "women's-semi-final-b-session---guiyang,-china-live"
+        },
+        {
+            "EntityId": 16411,
+            "VideoName": "Greece vs Ireland Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-29 15:00:00",
+            "Description": "Watch Greece vs Ireland live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Greece vs Ireland match will take place on 29-Aug, at 03:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787914811540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787914811540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "greece-vs-ireland-live"
         }
     ]
 }
