@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 AM 29-08-2026",
+        "LastUpdate": "03:45 AM 29-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16111,
-            "VideoName": "Alaves vs Villarreal",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-08-29 01:30:00",
-            "Description": "The 18th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Alaves vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787924777540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787924777540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--alaves-vs-villarreal-live",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
         {
             "EntityId": 16402,
             "VideoName": "Canada vs Uzbekistan Live",
@@ -224,6 +209,20 @@
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mazda-mx-5-benelux-race-1"
         },
         {
+            "EntityId": 16804,
+            "VideoName": "GT3 Revival Series - Race 1",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-08-29 17:50:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT3 Revival Series - Race 1match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787952123540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787952123540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt3-revival-series-race-1"
+        },
+        {
             "EntityId": 16417,
             "VideoName": "China vs Oman Live",
             "CategoryName": "Socca World Cup 2026",
@@ -252,32 +251,18 @@
             "UrlSlug": "england-vs-costa-rica-live"
         },
         {
-            "EntityId": 16693,
-            "VideoName": "Rotterdam Dockers vs Belfast Wolves",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-29 19:15:00",
-            "Description": "The 6th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Rotterdam Dockers vs Belfast Wolves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787908358540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787908358540x302.jpg",
+            "EntityId": 16810,
+            "VideoName": "Lamborghini Super Trofeo - Race 1",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-08-29 19:10:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Lamborghini Super Trofeo - Race 1 match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787952959540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787952959540456.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-rotterdam-dockers-vs-belfast-wolves-live"
-        },
-        {
-            "EntityId": 16423,
-            "VideoName": "Chile vs Morocco Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-29 20:00:00",
-            "Description": "Watch Chile vs Morocco live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Chile vs Morocco match will take place on 29-Aug, at 08:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787917309540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787917309540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "chile-vs-morocco-live"
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-lamborghini-super-trofeo---race-1"
         }
     ]
 }
