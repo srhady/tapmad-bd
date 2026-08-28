@@ -1,11 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 PM 28-08-2026
+# Last Update: 02:15 PM 28-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16369" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876539371020x576.jpg" group-title="Football", Luxembourg vs USA | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16204" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878173391020x576MEN.jpg" group-title="Hockey", Japan vs France | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878222611020x576.jpg" group-title="Football", Czechia vs Indonesia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876550711020x576.jpg" group-title="Multisports", Men's Semi Final B Session - Guiyang, China Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
