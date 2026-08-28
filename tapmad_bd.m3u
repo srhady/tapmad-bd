@@ -1,18 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 AM 29-08-2026
+# Last Update: 02:15 AM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879208161020x576.jpg" group-title="Football", Al-Nassr vs Al-Taawoun | Saudi Pro League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15993" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879208831020x576.jpg" group-title="Football", Al-Khaleej vs Al-Hilal | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16211" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878193351020x576MEN.jpg" group-title="Hockey", Germany vs Argentina | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16396" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879133661020x576.jpg" group-title="Football", Romania vs Spain Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879247771020x576.jpg" group-title="Football", Alaves vs Villarreal | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16399" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879136231020x576.jpg" group-title="Football", France vs Libya Live | Socca World Cup 2026
