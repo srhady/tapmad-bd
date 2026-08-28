@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 28-08-2026",
+        "LastUpdate": "07:00 PM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 6,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -57,19 +57,49 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16381,
-            "VideoName": "Latvia vs Australia Live",
+            "EntityId": 16208,
+            "VideoName": "England vs Australia",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "5th Place",
+            "EventStartDate": "2026-08-28 19:00:00",
+            "Description": "The 68th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch England vs Australia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818376540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818376540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-england-vs-australia-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 16384,
+            "VideoName": "Belgium vs Turkiye Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 18:00:00",
-            "Description": "Watch Latvia vs Australia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824254540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824254540x302.jpg",
+            "EventStartDate": "2026-08-28 19:00:00",
+            "Description": "Watch Belgium vs Turkiye live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824478540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824478540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "latvia-vs-australia-live",
+            "UrlSlug": "belgium-vs-turkiye-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "EntityId": 16691,
+            "VideoName": "Amsterdam Flames vs Edinburgh Castle Rockers",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-28 19:15:00",
+            "Description": "The 4th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Amsterdam Flames vs Edinburgh Castle Rockers live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787826876540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787826876540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-edinburgh-castle-rockers-live",
+            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
             "EntityId": 16387,
