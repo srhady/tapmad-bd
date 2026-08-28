@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 28-08-2026",
+        "LastUpdate": "04:15 PM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -57,21 +57,6 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16375,
-            "VideoName": "Georgia vs Pakistan Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 15:00:00",
-            "Description": "Watch Georgia vs Pakistan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787822575540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787822575540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "georgia-vs-pakistan-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "EntityId": 16781,
             "VideoName": "Maheshate vs Flowers",
             "CategoryName": "UFC 2026",
@@ -100,20 +85,6 @@
             "CategoryId": 889,
             "UrlSlug": "ukraine-vs-lebanon-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16843,
-            "VideoName": "League Phase Draw",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "Draw",
-            "EventStartDate": "2026-08-28 17:00:00",
-            "Description": "Watch League Phase Draw live streaming online on tapmad. The UEFA Europa League is contested by 36 teams and the winner qualifies for the UEFA Super Cup. Tottenham Hotspur are the defending champions. The League Phase Draw will take place on Friday, , at 4:00 PM. Tune into tapmad to watch all Europa League 2026/27 matches live in HD and completely ad-free!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787830101540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787830101540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 905,
-            "UrlSlug": "league phase draw-live"
         },
         {
             "EntityId": 16207,
@@ -338,6 +309,20 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-glasgow-cosmic-vs-dublin-guardians-live"
+        },
+        {
+            "EntityId": 15577,
+            "VideoName": "Nurmagomedov vs Song",
+            "CategoryName": "UFC 2026",
+            "StageName": "Fight Night",
+            "EventStartDate": "2026-08-29 16:00:00",
+            "Description": "UFC Fight Night Live: Watch Nurmagomedov vs Song live online on tapmad. Enjoy watching Nurmagomedov vs Song live streaming online in Bangladesh with full match highlights. The fight will start at 04:00 PM on 29-Aug. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787572921540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787572921540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc fight night-nurmagomedov vs song-live"
         }
     ]
 }
