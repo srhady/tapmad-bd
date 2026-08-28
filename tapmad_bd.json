@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 28-08-2026",
+        "LastUpdate": "05:15 PM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -57,21 +57,6 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "EntityId": 16378,
-            "VideoName": "Ukraine vs Lebanon Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 16:00:00",
-            "Description": "Watch Ukraine vs Lebanon live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787822860540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787822860540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "ukraine-vs-lebanon-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "EntityId": 16206,
             "VideoName": "Pakistan vs South Africa",
             "CategoryName": "FIH Hockey World Cup 2026",
@@ -87,20 +72,6 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16207,
-            "VideoName": "New Zealand vs Ireland",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "Classification Stage",
-            "EventStartDate": "2026-08-28 18:00:00",
-            "Description": "The 67th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch New Zealand vs Ireland live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787818142540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787818142540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-new-zealand-vs-ireland-live"
-        },
-        {
             "EntityId": 16381,
             "VideoName": "Latvia vs Australia Live",
             "CategoryName": "Socca World Cup 2026",
@@ -110,9 +81,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824254540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824254540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "latvia-vs-australia-live"
+            "UrlSlug": "latvia-vs-australia-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 16208,
@@ -323,6 +295,34 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "women's-semi-final-a-session---guiyang,-china-live"
+        },
+        {
+            "EntityId": 16405,
+            "VideoName": "Denmark vs Slovenia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-29 13:00:00",
+            "Description": "Watch Denmark vs Slovenia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787914153540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787914153540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "denmark-vs-slovenia-live"
+        },
+        {
+            "EntityId": 16408,
+            "VideoName": "Hungary vs Nigeria Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-29 14:00:00",
+            "Description": "Watch Hungary vs Nigeria live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Hungary vs Nigeria match will take place on 29-Aug, at 02:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787914424540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787914424540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "hungary-vs-nigeria-live"
         }
     ]
 }
