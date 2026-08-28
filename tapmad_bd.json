@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 AM 29-08-2026",
+        "LastUpdate": "03:00 AM 29-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -27,18 +27,18 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16399,
-            "VideoName": "France vs Libya Live",
+            "EntityId": 16402,
+            "VideoName": "Canada vs Uzbekistan Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-08-29 02:00:00",
-            "Description": "Watch France vs Libya live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787913623540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787913623540x302.jpg",
+            "EventStartDate": "2026-08-29 03:00:00",
+            "Description": "Watch Canada vs Uzbekistan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787913923540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787913923540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "france-vs-libya-live",
+            "UrlSlug": "canada-vs-uzbekistan-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
@@ -124,6 +124,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "women's-semi-final-b-session---guiyang,-china-live"
+        },
+        {
+            "EntityId": 16792,
+            "VideoName": "GT World Challenge powered by AWS - Practice",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Free Practice",
+            "EventStartDate": "2026-08-29 14:50:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Practice. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787949690540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787949690540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-practice-"
         },
         {
             "EntityId": 16411,
@@ -264,20 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--levante-vs-betis-live"
-        },
-        {
-            "EntityId": 16426,
-            "VideoName": "Croatia vs Afghanistan Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-29 21:00:00",
-            "Description": "Watch Croatia vs Afghanistan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Croatia vs Afghanistan match will take place on 29-Aug, at 09:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787917731540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787917731540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "croatia-vs-afghanistan-live"
         }
     ]
 }
