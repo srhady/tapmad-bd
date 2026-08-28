@@ -1,45 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 AM 28-08-2026",
+        "LastUpdate": "10:15 AM 28-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15793,
-            "VideoName": "St Kitts and Nevis Patriots vs Jamaica Kingsmen",
-            "CategoryName": "Caribbean Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-28 05:00:00",
-            "Description": "The 18th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Kitts and Nevis Patriots vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787816184540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787816184540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 731,
-            "UrlSlug": "st-kitts-and-nevis-patriots-vs-jamaica-kingsmen-18th-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16330,
-            "VideoName": "Men's Semi Final A Session - Guiyang, China Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Semi Finals",
-            "EventStartDate": "2026-08-28 11:00:00",
-            "Description": "Watch UIPM 2026 Men's Semi Final A Session - Guiyang, China live online on tapmad. The event is scheduled to take place on 28-Aug,  at 11:00 AM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787654627540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787654627540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "men's-semi-final-a-session---guiyang,-china-live"
-        },
         {
             "EntityId": 16369,
             "VideoName": "Luxembourg vs USA",
@@ -263,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-edinburgh-castle-rockers-live"
+        },
+        {
+            "EntityId": 16387,
+            "VideoName": "Serbia vs Brazil Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-28 20:00:00",
+            "Description": "Watch Serbia vs Brazil live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787824722540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787824722540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "serbia-vs-brazil-live"
         }
     ]
 }
