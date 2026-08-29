@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 PM 29-08-2026",
+        "LastUpdate": "05:45 PM 29-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -57,18 +57,33 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "EntityId": 16798,
-            "VideoName": "Mazda MX-5 Cup Benelux - Race 1",
+            "EntityId": 16212,
+            "VideoName": "Belgium vs Australia - W",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "3rd place",
+            "EventStartDate": "2026-08-29 17:00:00",
+            "Description": "Belgium vs Australia - W",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788002839540.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788002839540.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 672,
+            "UrlSlug": "Belgium vs Australia - W",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "EntityId": 16804,
+            "VideoName": "GT3 Revival Series - Race 1",
             "CategoryName": "GT World Challenge EU & Asia 2026",
             "StageName": "Race 1",
-            "EventStartDate": "2026-08-29 16:50:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Mazda MX-5 Cup Benelux - Race 1  match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787951055540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787951055540456.jpg",
+            "EventStartDate": "2026-08-29 17:50:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT3 Revival Series - Race 1match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787952123540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787952123540456.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mazda-mx-5-benelux-race-1",
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt3-revival-series-race-1",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         },
         {
