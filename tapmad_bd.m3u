@@ -1,14 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:45 PM 29-08-2026
+# Last Update: 10:00 PM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16810" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879529591020-23andlast.jpg" group-title="Racing", Lamborghini Super Trofeo - Race 1 | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879083581020x576.jpg" group-title="Cricket", Rotterdam Dockers vs Belfast Wolves | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880110461020.jpg" group-title="Hockey", Netherlands vs Argentina - W | FIH Hockey World Cup 2026
