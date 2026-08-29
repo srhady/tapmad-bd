@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 29-08-2026",
+        "LastUpdate": "08:45 PM 29-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -326,18 +326,18 @@
             "UrlSlug": "turkiye-vs-kazakhstan-live"
         },
         {
-            "EntityId": 16694,
-            "VideoName": "Amsterdam Flames vs Belfast Wolves",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 15:30:00",
-            "Description": "The 7th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Amsterdam Flames vs Belfast Wolves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787908593540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787908593540x302.jpg",
+            "EntityId": 16828,
+            "VideoName": "GT3 Revival Series - Race 2",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-08-30 15:25:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT3 Revival Series - Race 2. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788013806540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788013806540456.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-belfast-wolves-live"
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt3-revival-series---race-2"
         }
     ]
 }
