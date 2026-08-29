@@ -1,17 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:45 PM 29-08-2026
+# Last Update: 11:15 PM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879083581020x576.jpg" group-title="Cricket", Rotterdam Dockers vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879248561020x576.jpg" group-title="Football", Levante vs Betis | Laliga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15994" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879209561020x576.jpg" group-title="Football", Al Kholood vs Al-Ahli | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg" group-title="Football", Real Sociedad vs Espanyol | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16429" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879180341020x576.jpg" group-title="Football", Bulgaria vs India Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
