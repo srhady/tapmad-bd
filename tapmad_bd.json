@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:45 PM 29-08-2026",
+        "LastUpdate": "12:00 AM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
+        "LiveCount": 4,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 15934,
-            "VideoName": "England vs Pakistan",
-            "CategoryName": "Pakistan Tour of England 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-08-27 16:00:00",
-            "Description": "The 2nd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787576024540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787576024540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 764,
-            "UrlSlug": "england-vs-pakistan-2nd-test-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "EntityId": 15994,
             "VideoName": "Al Kholood vs Al-Ahli",
@@ -57,21 +42,6 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
-            "EntityId": 16429,
-            "VideoName": "Bulgaria vs India Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-29 23:00:00",
-            "Description": "Watch Bulgaria vs India live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Bulgaria vs India match will take place on 29-Aug, at 11:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787918034540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787918034540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "bulgaria-vs-india-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "EntityId": 15996,
             "VideoName": "Al Fateh vs Al-Ittihad",
             "CategoryName": "Saudi Pro League 2026/27",
@@ -85,6 +55,21 @@
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--al-fateh-vs-al-ittihad-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "EntityId": 16432,
+            "VideoName": "Poland vs Kosovo Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-30 00:00:00",
+            "Description": "Watch Poland vs Kosovo live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Poland vs Kosovo match will take place on 29-Aug, at 12:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787918264540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787918264540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 889,
+            "UrlSlug": "poland-vs-kosovo-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 16435,
@@ -269,6 +254,20 @@
             "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-belfast-wolves-live"
         },
         {
+            "EntityId": 15934,
+            "VideoName": "England vs Pakistan",
+            "CategoryName": "Pakistan Tour of England 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-08-30 16:00:00",
+            "Description": "The 2nd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787576024540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787576024540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 764,
+            "UrlSlug": "england-vs-pakistan-2nd-test-live"
+        },
+        {
             "EntityId": 16450,
             "VideoName": "Libya vs Latvia Live",
             "CategoryName": "Socca World Cup 2026",
@@ -309,20 +308,6 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "australia-vs-france-live"
-        },
-        {
-            "EntityId": 16456,
-            "VideoName": "Pakistan vs Ukraine Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 19:00:00",
-            "Description": "Watch Pakistan vs Ukraine live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Pakistan vs Ukraine match will take place on 30-Aug, at 07:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788014236540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788014236540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "pakistan-vs-ukraine-live"
         }
     ]
 }
