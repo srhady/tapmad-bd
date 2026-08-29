@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 PM 29-08-2026
+# Last Update: 03:15 PM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,9 @@
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16792" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879496901020-23andlast.jpg" group-title="Racing", GT World Challenge powered by AWS - Practice | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16411" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879148111020x576.jpg" group-title="Football", Greece vs Ireland Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16692" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879082101020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Dublin Guardians | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15577" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg" group-title="Mma", Nurmagomedov vs Song | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
