@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 30-08-2026",
+        "LastUpdate": "10:45 PM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
-        "UpcomingCount": 11
+        "LiveCount": 5,
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -40,21 +40,6 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---main-race",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "EntityId": 16695,
-            "VideoName": "Edinburgh Castle Rockers vs Dublin Guardians",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 19:15:00",
-            "Description": "The 7th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Edinburgh Castle Rockers vs Dublin Guardians live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787908960540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787908960540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-dublin-guardians-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 16215,
@@ -100,20 +85,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "EntityId": 16116,
-            "VideoName": "Deportivo vs Valencia",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-08-30 23:30:00",
-            "Description": "The 23rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787927156540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787927156540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--deportivo-vs-valencia-live"
         },
         {
             "EntityId": 15998,
