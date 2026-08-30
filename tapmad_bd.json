@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 30-08-2026",
+        "LastUpdate": "05:15 PM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,34 +40,6 @@
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-belfast-wolves-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 16214,
-            "VideoName": "Netherlands vs Argentina",
-            "CategoryName": "FIH Hockey World Cup 2026",
-            "StageName": "3rd place",
-            "EventStartDate": "2026-08-30 18:00:00",
-            "Description": "The 74th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Netherlands vs Argentina live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788022579540x302MEN.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788022579540x302MEN.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 672,
-            "UrlSlug": "fih-hockey-world-cup-2026-netherlands-vs-argentina-live"
-        },
-        {
-            "EntityId": 16453,
-            "VideoName": "Australia vs France Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 18:00:00",
-            "Description": "Watch Australia vs France live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Australia vs France match will take place on 30-Aug, at 06:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788013915540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788013915540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "australia-vs-france-live"
         },
         {
             "EntityId": 16456,
@@ -278,6 +250,34 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "brazil-vs-luxembourg-live"
+        },
+        {
+            "EntityId": 15796,
+            "VideoName": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-31 05:00:00",
+            "Description": "The 21st T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787912838540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787912838540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "st-kitts-and-nevis-patriots-vs-antigua-and-barbuda-falcons-21st-t20-live"
+        },
+        {
+            "EntityId": 16293,
+            "VideoName": "Men's & Women's Singles 1st Round",
+            "CategoryName": "US Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-08-31 05:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788018714540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788018714540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
         }
     ]
 }
