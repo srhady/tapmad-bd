@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 PM 30-08-2026",
+        "LastUpdate": "03:00 PM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -27,21 +27,6 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         },
         {
-            "EntityId": 16444,
-            "VideoName": "Indonesia vs Argentina Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 14:00:00",
-            "Description": "Watch Indonesia vs Argentina live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Indonesia vs Argentina match will take place on 30-Aug, at 02:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788013147540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788013147540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "indonesia-vs-argentina-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "EntityId": 16360,
             "VideoName": "Women's Final Session - Guiyang, China Live",
             "CategoryName": "UIPM 2026",
@@ -55,6 +40,21 @@
             "CategoryId": 464,
             "UrlSlug": "women's-final-session---guiyang,-china-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "EntityId": 16447,
+            "VideoName": "Turkiye vs Kazakhstan Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-30 15:00:00",
+            "Description": "Watch Turkiye vs Kazakhstan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Turkiye vs Kazakhstan match will take place on 30-Aug, at 03:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788013335540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788013335540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 889,
+            "UrlSlug": "turkiye-vs-kazakhstan-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 15934,
