@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:15 PM 30-08-2026
+# Last Update: 08:30 PM 30-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,3 +13,5 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16459" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880145091020x576.jpg" group-title="Football", Canada vs Romania Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg" group-title="Hockey", Spain vs Germany | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
