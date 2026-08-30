@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 AM 30-08-2026",
+        "LastUpdate": "10:15 AM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16354,
-            "VideoName": "Men's Final Session - Guiyang, China Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-08-30 11:00:00",
-            "Description": "Watch UIPM 2026 Men's Final Session - Guiyang, China live online on tapmad. The event is scheduled to take place on 29-Aug,  at 11:00 AM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787906749540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787906749540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 464,
-            "UrlSlug": "men's-final-session---guiyang,-china-live"
-        },
         {
             "EntityId": 16441,
             "VideoName": "Iraq vs Belgium Live",
@@ -248,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "canada-vs-romania-live"
+        },
+        {
+            "EntityId": 16215,
+            "VideoName": "Spain vs Germany",
+            "CategoryName": "FIH Hockey World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-08-30 20:30:00",
+            "Description": "The 75th match of the FIH Hockey World Cup 2026 brings together the world's top national hockey teams for one of the sport's biggest international tournaments. Featuring fast-paced attacks, skillful defending, powerful strikes, and thrilling moments, the match promises intense competition as both teams begin their World Cup campaign. Watch Spain vs Germany live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, penalty corner, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788022689540x302MEN.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788022689540x302MEN.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 672,
+            "UrlSlug": "fih-hockey-world-cup-2026-spain-vs-germany-live"
         }
     ]
 }
