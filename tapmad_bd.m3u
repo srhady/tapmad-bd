@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:45 PM 30-08-2026
+# Last Update: 07:00 PM 30-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,7 +11,7 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880225791020x576MEN.jpg" group-title="Hockey", Netherlands vs Argentina | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880139151020x576.jpg" group-title="Football", Australia vs France Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16456" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880142361020x576.jpg" group-title="Football", Pakistan vs Ukraine Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16840" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg" group-title="Racing", GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
