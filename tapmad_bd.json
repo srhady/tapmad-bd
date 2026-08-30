@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 30-08-2026",
+        "LastUpdate": "01:00 PM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -42,18 +42,19 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16822,
-            "VideoName": "GT World Challenge powered by AWS - Qualifying 1,2 and 3",
+            "EntityId": 16816,
+            "VideoName": "Mazda MX-5 Cup Benelux - Race 2",
             "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-08-30 13:45:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifiying 1, 2 and 3 Rounds match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788012971540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788012971540456.jpg",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-08-30 13:00:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Mazda MX-5 Cup Benelux - Race 2 match. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788011882540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788011882540456.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---qualifiying-1-2-and-3"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mazda-mx-5-benelux-race-2",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         },
         {
             "EntityId": 16444,
@@ -278,6 +279,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16462,
+            "VideoName": "Lebanon vs Georgia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-30 21:00:00",
+            "Description": "Watch Lebanon vs Georgia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Lebanon vs Georgia match will take place on 30-Aug, at 09:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788014780540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788014780540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "lebanon-vs-georgia-live"
         }
     ]
 }
