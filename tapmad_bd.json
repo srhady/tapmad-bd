@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 30-08-2026",
+        "LastUpdate": "06:15 PM 30-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -70,34 +70,6 @@
             "CategoryId": 889,
             "UrlSlug": "australia-vs-france-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 16456,
-            "VideoName": "Pakistan vs Ukraine Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-08-30 19:00:00",
-            "Description": "Watch Pakistan vs Ukraine live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Pakistan vs Ukraine match will take place on 30-Aug, at 07:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788014236540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788014236540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "pakistan-vs-ukraine-live"
-        },
-        {
-            "EntityId": 16840,
-            "VideoName": "GT World Challenge powered by AWS - Race",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-08-30 19:00:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Main Race. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788015227540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788015227540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---main-race"
         },
         {
             "EntityId": 16695,
@@ -308,6 +280,34 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16294,
+            "VideoName": "Men's & Women's Singles 1st Round",
+            "CategoryName": "US Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-08-31 09:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788018761540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788018761540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16477,
+            "VideoName": "Afghanistan vs Italy Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-08-31 13:00:00",
+            "Description": "Watch Afghanistan vs Italy live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Afghanistan vs Italy match will take place on 31-Aug, at 01:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788016146540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788016146540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "afghanistan-vs-italy-live"
         }
     ]
 }
