@@ -1,30 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 PM 31-08-2026",
+        "LastUpdate": "02:00 PM 31-08-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 9
+        "UpcomingCount": 11
     },
     "Matches": [
         {
-            "EntityId": 16477,
-            "VideoName": "Afghanistan vs Italy Live",
+            "EntityId": 16480,
+            "VideoName": "Oman vs Denmark Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-08-31 13:00:00",
-            "Description": "Watch Afghanistan vs Italy live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Afghanistan vs Italy match will take place on 31-Aug, at 01:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788016146540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788016146540x302.jpg",
+            "EventStartDate": "2026-08-31 14:00:00",
+            "Description": "Watch Oman vs Denmark live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Oman vs Denmark match will take place on 31-Aug, at 02:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788155134540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788155134540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "afghanistan-vs-italy-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "UrlSlug": "oman-vs-denmark-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16483,
@@ -151,6 +151,34 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "morocco-vs-poland-live"
+        },
+        {
+            "EntityId": 16507,
+            "VideoName": "Colombia vs Greece Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-01 01:00:00",
+            "Description": "Watch Colombia vs Greece live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Colombia vs Greece match will take place on 01-Sep, at 01:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788162491540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788162491540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "colombia-vs-greece-live"
+        },
+        {
+            "EntityId": 16510,
+            "VideoName": "Bulgaria vs England Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-01 02:00:00",
+            "Description": "Watch Bulgaria vs England live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Bulgaria vs England match will take place on 01-Sep, at 02:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788162887540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788162887540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "bulgaria-vs-england-live"
         }
     ]
 }
