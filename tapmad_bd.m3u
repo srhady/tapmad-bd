@@ -1,9 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:45 PM 31-08-2026
+# Last Update: 11:00 PM 31-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-5693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Tennis", Men's & Women's Singles 1st Round | US Open 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16501" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881568751020x576.jpg" group-title="Football", Costa Rica vs India Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16118" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg" group-title="Football", Osasuna vs Getafe | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
