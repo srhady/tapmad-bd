@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:15 AM 01-09-2026",
+        "LastUpdate": "12:45 AM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -40,20 +40,6 @@
             "CategoryId": 827,
             "UrlSlug": "laliga--osasuna-vs-getafe-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "EntityId": 16119,
-            "VideoName": "Barcelona vs Rayo Vallecano",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-09-01 01:30:00",
-            "Description": "The 26th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788170757540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788170757540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--barcelona-vs-rayo-vallecano-live"
         },
         {
             "EntityId": 16510,
