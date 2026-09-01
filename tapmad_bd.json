@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 01-09-2026",
+        "LastUpdate": "11:45 PM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16296,
-            "VideoName": "Men's & Women's Singles 1st Round",
-            "CategoryName": "US Open 2026",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-09-01 21:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788165625540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788165625540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
         {
             "EntityId": 16537,
             "VideoName": "Spain vs Canada Live",
@@ -55,6 +40,20 @@
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--al-hilal-vs-al-ahli-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 16296,
+            "VideoName": "Men's & Women's Singles 1st Round",
+            "CategoryName": "US Open 2026",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-09-01 21:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788165625540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788165625540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
         },
         {
             "EntityId": 16543,
@@ -279,20 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--real-sociedad-vs-celta-live"
-        },
-        {
-            "EntityId": 17034,
-            "VideoName": "Group Stage Draw",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "Draw",
-            "EventStartDate": "2026-09-04 01:00:00",
-            "Description": "Watch Group Stage Draw live match online on tapmad. The AFC Women's Champions League brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Group Stage Draw will take place on 04-Sep, at 1:00 AM. Stream all AFC Womens Champions matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788253373540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788253373540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Group Stage Draw"
         }
     ]
 }
