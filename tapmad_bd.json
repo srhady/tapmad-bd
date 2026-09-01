@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 PM 01-09-2026",
+        "LastUpdate": "11:15 PM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -42,21 +42,6 @@
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "EntityId": 16850,
-            "VideoName": "Sailing Day 1 Live",
-            "CategoryName": "The Ocean Race Atlantic 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-01 22:00:00",
-            "Description": "The Ocean Race Atlantic 2026 brings together elite sailing teams for an exciting ocean racing challenge across the Atlantic. Featuring high-speed sailing, demanding conditions, tactical battles, and endurance-driven competition, every stage delivers thrilling maritime action. Watch The Ocean Race Atlantic 2026 live in HD on tapmad with official coverage and follow every major moment from the open sea via app, web, or smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788247729540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788247729540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 948,
-            "UrlSlug": "sailing-day-1-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
             "EntityId": 16537,
             "VideoName": "Spain vs Canada Live",
             "CategoryName": "Socca World Cup 2026",
@@ -70,34 +55,6 @@
             "CategoryId": 889,
             "UrlSlug": "spain-vs-canada-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 16540,
-            "VideoName": "Turkiye vs Iraq Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-02 00:00:00",
-            "Description": "Watch Turkiye vs Iraq live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Turkiye vs Iraq match will take place on 01-Sep, at 12:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788244485540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788244485540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "turkiye-vs-iraq-live"
-        },
-        {
-            "EntityId": 16894,
-            "VideoName": "Al-Hilal vs Al-Ahli",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-09-02 00:00:00",
-            "Description": "The 22nd match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Hilal vs Al-Ahli live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788170965540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788170965540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-hilal-vs-al-ahli-live"
         },
         {
             "EntityId": 16543,
@@ -308,6 +265,34 @@
             "Status": "Upcoming",
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--diriyah-vs-al-qadsiah-live"
+        },
+        {
+            "EntityId": 16937,
+            "VideoName": "Real Sociedad vs Celta",
+            "CategoryName": "Laliga 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-09-04 01:00:00",
+            "Description": "The 27th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Celta live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788251150540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788251150540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--real-sociedad-vs-celta-live"
+        },
+        {
+            "EntityId": 17034,
+            "VideoName": "Group Stage Draw",
+            "CategoryName": "AFC Women's Champions League 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-09-04 01:00:00",
+            "Description": "Watch Group Stage Draw live match online on tapmad. The AFC Women's Champions League brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Group Stage Draw will take place on 04-Sep, at 1:00 AM. Stream all AFC Womens Champions matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788253373540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788253373540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 953,
+            "UrlSlug": "AFC Women's Champions League-Group Stage Draw"
         }
     ]
 }
