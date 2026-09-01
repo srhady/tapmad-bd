@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 01-09-2026",
+        "LastUpdate": "10:15 PM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -42,21 +42,6 @@
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "EntityId": 16534,
-            "VideoName": "Germany vs Indonesia Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-01 21:00:00",
-            "Description": "Watch Germany vs Indonesia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Germany vs Indonesia match will take place on 01-Sep, at 09:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788244066540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788244066540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "germany-vs-indonesia-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
             "EntityId": 16850,
             "VideoName": "Sailing Day 1 Live",
             "CategoryName": "The Ocean Race Atlantic 2026",
@@ -70,20 +55,6 @@
             "CategoryId": 948,
             "UrlSlug": "sailing-day-1-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 16537,
-            "VideoName": "Spain vs Canada Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-01 23:00:00",
-            "Description": "Watch Spain vs Canada live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Spain vs Canada match will take place on 01-Sep, at 11:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788244297540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788244297540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "spain-vs-canada-live"
         },
         {
             "EntityId": 16540,
@@ -308,6 +279,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16895,
+            "VideoName": "Diriyah vs Al Qadsiah",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-04 00:00:00",
+            "Description": "The 23rd match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Diriyah vs Al Qadsiah live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788251285540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788251285540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--diriyah-vs-al-qadsiah-live"
         }
     ]
 }
