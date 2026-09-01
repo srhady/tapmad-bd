@@ -1,12 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 PM 01-09-2026
+# Last Update: 07:15 PM 01-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16525" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882425981020x576.jpg" group-title="Football", France vs Latvia Live | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16528" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882428321020x576.jpg" group-title="Football", Argentina vs Czechia Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16696" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026
