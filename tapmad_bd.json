@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 01-09-2026",
+        "LastUpdate": "06:45 PM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -25,6 +25,21 @@
             "CategoryId": 889,
             "UrlSlug": "france-vs-latvia-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "EntityId": 16696,
+            "VideoName": "Glasgow Cosmic vs Rotterdam Dockers",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-01 19:15:00",
+            "Description": "The 9th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Glasgow Cosmic vs Rotterdam Dockers live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788171272540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788171272540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-glasgow-cosmic-vs-rotterdam-dockers-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16531,
