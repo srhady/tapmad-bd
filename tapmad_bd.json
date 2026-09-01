@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 01-09-2026",
+        "LastUpdate": "02:15 PM 01-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16513,
-            "VideoName": "Australia vs Libya Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-01 13:00:00",
-            "Description": "Watch Australia vs Libya live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Australia vs Libya match will take place on 01-Sep, at 01:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788163586540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788163586540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "australia-vs-libya-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "EntityId": 16516,
             "VideoName": "Romania vs Uzbekistan Live",
@@ -40,20 +25,6 @@
             "CategoryId": 889,
             "UrlSlug": "romania-vs-uzbekistan-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 16519,
-            "VideoName": "Serbia vs Luxembourg Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-01 15:00:00",
-            "Description": "Watch Serbia vs Luxembourg live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Serbia vs Luxembourg match will take place on 01-Sep, at 03:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788240734540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788240734540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "serbia-vs-luxembourg-live"
         },
         {
             "EntityId": 16522,
@@ -278,6 +249,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "india-vs-england-live"
+        },
+        {
+            "EntityId": 16697,
+            "VideoName": "Dublin Guardians vs Rotterdam Dockers",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-02 15:30:00",
+            "Description": "The 10th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Dublin Guardians vs Rotterdam Dockers live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788250085540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788250085540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-dublin-guardians-vs-rotterdam-dockers-live"
         }
     ]
 }
