@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 02-09-2026",
+        "LastUpdate": "04:15 PM 02-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16555,
-            "VideoName": "Poland vs Chile Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-02 15:00:00",
-            "Description": "Watch Poland vs Chile live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Poland vs Chile match will take place on 02-Sep, at 03:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788327642540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788327642540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "poland-vs-chile-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "EntityId": 16697,
             "VideoName": "Dublin Guardians vs Rotterdam Dockers",
@@ -105,8 +90,8 @@
             "StageName": "Group Stage",
             "EventStartDate": "2026-09-02 20:00:00",
             "Description": "Watch Croatia vs Italy live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Croatia vs Italy match will take place on 02-Sep, at 08:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788328570540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788328570540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788343192540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788343192540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
