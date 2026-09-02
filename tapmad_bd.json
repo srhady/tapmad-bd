@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 AM 03-09-2026",
+        "LastUpdate": "01:00 AM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -27,18 +27,18 @@
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "EntityId": 16576,
-            "VideoName": "Morocco vs Kosovo Live",
+            "EntityId": 16579,
+            "VideoName": "Hungary vs Albania Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-09-03 00:00:00",
-            "Description": "Watch Morocco vs Kosovo live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Morocco vs Kosovo match will take place on 02-Sep, at 12:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788330954540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788330954540x302.jpg",
+            "EventStartDate": "2026-09-03 01:00:00",
+            "Description": "Watch Hungary vs Albania live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Hungary vs Albania match will take place on 03-Sep, at 01:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788331539540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788331539540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "morocco-vs-kosovo-live",
+            "UrlSlug": "hungary-vs-albania-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
