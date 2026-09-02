@@ -1,45 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 PM 02-09-2026",
+        "LastUpdate": "12:15 PM 02-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16297,
-            "VideoName": "Men's & Women's Singles 1st Round",
-            "CategoryName": "US Open 2026",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-09-02 05:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788246434540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788246434540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "EntityId": 16549,
-            "VideoName": "India vs England Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-02 13:00:00",
-            "Description": "Watch India vs England live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The India vs England match will take place on 02-Sep, at 01:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788245291540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788245291540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "india-vs-england-live"
-        },
         {
             "EntityId": 16552,
             "VideoName": "Costa Rica vs Bulgaria Live",
@@ -111,6 +82,20 @@
             "UrlSlug": "oman-vs-slovenia-live"
         },
         {
+            "EntityId": 16564,
+            "VideoName": "China vs Denmark Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-02 19:00:00",
+            "Description": "Watch China vs Denmark live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The China vs Denmark match will take place on 02-Sep, at 07:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788328381540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788328381540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "china-vs-denmark-live"
+        },
+        {
             "EntityId": 16698,
             "VideoName": "Belfast Wolves vs Edinburgh Castle Rockers",
             "CategoryName": "European T20 Premier League 2026",
@@ -123,6 +108,20 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-edinburgh-castle-rockers-live"
+        },
+        {
+            "EntityId": 16567,
+            "VideoName": "Croatia vs Italy Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-02 20:00:00",
+            "Description": "Watch Croatia vs Italy live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Croatia vs Italy match will take place on 02-Sep, at 08:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788328570540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788328570540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "croatia-vs-italy-live"
         },
         {
             "EntityId": 16298,
@@ -139,6 +138,20 @@
             "UrlSlug": "us-open-2026-live-streaming"
         },
         {
+            "EntityId": 16570,
+            "VideoName": "Greece vs Syria Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-02 21:00:00",
+            "Description": "Watch Greece vs Syria live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Greece vs Syria match will take place on 02-Sep, at 09:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788328802540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788328802540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "greece-vs-syria-live"
+        },
+        {
             "EntityId": 16856,
             "VideoName": "Sailing Day 2 Live",
             "CategoryName": "The Ocean Race Atlantic 2026",
@@ -151,6 +164,20 @@
             "Status": "Upcoming",
             "CategoryId": 948,
             "UrlSlug": "sailing-day-2-live"
+        },
+        {
+            "EntityId": 16573,
+            "VideoName": "Ireland vs Colombia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-02 23:00:00",
+            "Description": "Watch Ireland vs Colombia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Ireland vs Colombia match will take place on 02-Sep, at 11:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788329026540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788329026540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "ireland-vs-colombia-live"
         },
         {
             "EntityId": 15799,
@@ -221,48 +248,6 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
-        },
-        {
-            "EntityId": 16895,
-            "VideoName": "Diriyah vs Al Qadsiah",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-09-04 00:00:00",
-            "Description": "The 23rd match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Diriyah vs Al Qadsiah live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788251285540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788251285540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--diriyah-vs-al-qadsiah-live"
-        },
-        {
-            "EntityId": 16937,
-            "VideoName": "Real Sociedad vs Celta",
-            "CategoryName": "Laliga 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-09-04 01:00:00",
-            "Description": "The 27th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Celta live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788251150540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788251150540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--real-sociedad-vs-celta-live"
-        },
-        {
-            "EntityId": 17034,
-            "VideoName": "Group Stage Draw",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "Draw",
-            "EventStartDate": "2026-09-04 01:00:00",
-            "Description": "Watch Group Stage Draw live match online on tapmad. The AFC Women's Champions League brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Group Stage Draw will take place on 04-Sep, at 1:00 AM. Stream all AFC Womens Champions matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788253373540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788253373540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Group Stage Draw"
         }
     ]
 }
