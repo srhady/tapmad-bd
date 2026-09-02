@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 02-09-2026",
+        "LastUpdate": "06:15 PM 02-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 889,
             "UrlSlug": "oman-vs-slovenia-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 16564,
-            "VideoName": "China vs Denmark Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-02 19:00:00",
-            "Description": "Watch China vs Denmark live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The China vs Denmark match will take place on 02-Sep, at 07:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788328381540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788328381540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "china-vs-denmark-live"
         },
         {
             "EntityId": 16698,
@@ -278,6 +264,20 @@
             "Status": "Upcoming",
             "CategoryId": 948,
             "UrlSlug": "sailing-day-3-live"
+        },
+        {
+            "EntityId": 16895,
+            "VideoName": "Diriyah vs Al Qadsiah",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-04 00:00:00",
+            "Description": "The 23rd match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Diriyah vs Al Qadsiah live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788251285540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788251285540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--diriyah-vs-al-qadsiah-live"
         }
     ]
 }
