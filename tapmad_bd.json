@@ -1,29 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 02-09-2026",
+        "LastUpdate": "01:15 PM 02-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 17
     },
     "Matches": [
         {
-            "EntityId": 16552,
-            "VideoName": "Costa Rica vs Bulgaria Live",
+            "EntityId": 16549,
+            "VideoName": "India vs England Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-09-02 14:00:00",
-            "Description": "Watch Costa Rica vs Bulgaria live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Costa Rica vs Bulgaria match will take place on 02-Sep, at 02:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788327278540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788327278540x302.jpg",
+            "EventStartDate": "2026-09-02 13:00:00",
+            "Description": "Watch India vs England live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The India vs England match will take place on 02-Sep, at 01:00 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788245291540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788245291540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "costa-rica-vs-bulgaria-live"
+            "UrlSlug": "india-vs-england-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 16555,
@@ -248,6 +249,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16909,
+            "VideoName": "400m OCR - Beijing, China Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-03 18:00:00",
+            "Description": "Watch UIPM 2026 400m OCR - Beijing, China live online on tapmad. The event is scheduled to take place on 03-Sep,  at 06:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788263890540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788263891540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "400m-ocr---beijing,-china-live"
         }
     ]
 }
