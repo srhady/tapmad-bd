@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 03-09-2026",
+        "LastUpdate": "07:00 PM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 11
+        "LiveCount": 3,
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -40,6 +40,21 @@
             "CategoryId": 889,
             "UrlSlug": "morocco-vs-australia-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "EntityId": 16699,
+            "VideoName": "Amsterdam Flames vs Glasgow Cosmic",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-03 19:15:00",
+            "Description": "The 12th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Amsterdam Flames vs Glasgow Cosmic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788264198540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788264198540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-glasgow-cosmic-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 16595,
@@ -166,6 +181,34 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "georgia-vs-syria-live"
+        },
+        {
+            "EntityId": 15800,
+            "VideoName": "St Kitts and Nevis Patriots vs St Lucia Kings",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-04 05:00:00",
+            "Description": "The 25th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch St Kitts and Nevis Patriots vs St Lucia Kings live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788439480540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788439480540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "st-kitts-and-nevis-patriots-vs-st-lucia-kings-25th-t20-live"
+        },
+        {
+            "EntityId": 16915,
+            "VideoName": "3K OCR - Beijing, China Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-04 13:00:00",
+            "Description": "Watch UIPM 2026 3K OCR - Beijing, China live online on tapmad. The event is scheduled to take place on 04-Sep,  at 01:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788440008540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788440008540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "3k-ocr---beijing,-china-live"
         },
         {
             "EntityId": 16700,
