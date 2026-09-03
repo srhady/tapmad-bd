@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:15 PM 03-09-2026",
+        "LastUpdate": "06:30 PM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 13
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -40,34 +40,6 @@
             "CategoryId": 889,
             "UrlSlug": "morocco-vs-australia-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 16699,
-            "VideoName": "Amsterdam Flames vs Glasgow Cosmic",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-03 19:15:00",
-            "Description": "The 12th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Amsterdam Flames vs Glasgow Cosmic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788264198540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788264198540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-glasgow-cosmic-live"
-        },
-        {
-            "EntityId": 16592,
-            "VideoName": "Bulgaria vs Albania Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-03 19:20:00",
-            "Description": "Watch Bulgaria vs Albania live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Bulgaria vs Albania match will take place on 03-Sep, at 07:20 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788417157540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788417157540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "bulgaria-vs-albania-live"
         },
         {
             "EntityId": 16595,
