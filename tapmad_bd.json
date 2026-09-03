@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 03-09-2026",
+        "LastUpdate": "10:45 PM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
-        "UpcomingCount": 12
+        "LiveCount": 2,
+        "UpcomingCount": 11
     },
     "Matches": [
-        {
-            "EntityId": 16699,
-            "VideoName": "Amsterdam Flames vs Glasgow Cosmic",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-03 19:15:00",
-            "Description": "The 12th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Amsterdam Flames vs Glasgow Cosmic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788264198540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788264198540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-glasgow-cosmic-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "EntityId": 16300,
             "VideoName": "Men's & Women's Singles 2nd Round",
@@ -55,20 +40,6 @@
             "CategoryId": 889,
             "UrlSlug": "hungary-vs-england-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 16601,
-            "VideoName": "Germany vs Serbia Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-03 23:40:00",
-            "Description": "Watch Germany vs Serbia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Germany vs Serbia match will take place on 03-Sep, at 11:40 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788418107540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788418107540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "germany-vs-serbia-live"
         },
         {
             "EntityId": 16895,
