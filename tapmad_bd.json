@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 03-09-2026",
+        "LastUpdate": "01:00 PM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 13
+        "LiveCount": 1,
+        "UpcomingCount": 14
     },
     "Matches": [
+        {
+            "EntityId": 17034,
+            "VideoName": "Group Stage Draw",
+            "CategoryName": "AFC Women's Champions League 2026/27",
+            "StageName": "Draw",
+            "EventStartDate": "2026-09-03 13:00:00",
+            "Description": "Watch Group Stage Draw live match online on tapmad. The AFC Women's Champions League brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Group Stage Draw will take place on 04-Sep, at 1:00 AM. Stream all AFC Womens Champions matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788253373540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788253373540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 953,
+            "UrlSlug": "AFC Women's Champions League-Group Stage Draw",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
         {
             "EntityId": 16586,
             "VideoName": "Oman vs Peru Live",
@@ -136,6 +151,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "hungary-vs-england-live"
+        },
+        {
+            "EntityId": 16601,
+            "VideoName": "Germany vs Serbia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-03 23:40:00",
+            "Description": "Watch Germany vs Serbia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Germany vs Serbia match will take place on 03-Sep, at 11:40 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788418107540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788418107540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "germany-vs-serbia-live"
         },
         {
             "EntityId": 16895,
