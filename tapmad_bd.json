@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 03-09-2026",
+        "LastUpdate": "01:30 PM 03-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 0,
         "UpcomingCount": 14
     },
     "Matches": [
-        {
-            "EntityId": 17034,
-            "VideoName": "Group Stage Draw",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "Draw",
-            "EventStartDate": "2026-09-03 13:00:00",
-            "Description": "Watch Group Stage Draw live match online on tapmad. The AFC Women's Champions League brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Group Stage Draw will take place on 04-Sep, at 1:00 AM. Stream all AFC Womens Champions matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788253373540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788253373540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Group Stage Draw",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 16586,
             "VideoName": "Oman vs Peru Live",
