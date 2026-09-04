@@ -1,13 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 04-09-2026
+# Last Update: 12:00 AM 05-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg" group-title="Tennis", Men's & Women's Singles 3rd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885125251020x576.jpg" group-title="Football", Denmark vs Germany Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16625" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885128571020x576.jpg" group-title="Football", Kazakhstan vs Hungary Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg" group-title="Football", Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg" group-title="Football", Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
