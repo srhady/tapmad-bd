@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 04-09-2026",
+        "LastUpdate": "09:45 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -27,21 +27,6 @@
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "EntityId": 16616,
-            "VideoName": "Greece vs Oman Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-04 20:30:00",
-            "Description": "Watch Greece vs Oman live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Greece vs Oman match will take place on 04-Sep, at 08:30 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788512100540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788512100540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 889,
-            "UrlSlug": "greece-vs-oman-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
             "EntityId": 16302,
             "VideoName": "Men's & Women's Singles 3rd Round",
             "CategoryName": "US Open 2026",
@@ -57,33 +42,19 @@
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "EntityId": 16868,
-            "VideoName": "Sailing Day 4 Live",
-            "CategoryName": "The Ocean Race Atlantic 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-04 21:00:00",
-            "Description": "The Ocean Race Atlantic 2026 brings together elite sailing teams for an exciting ocean racing challenge across the Atlantic. Featuring high-speed sailing, demanding conditions, tactical battles, and endurance-driven competition, every stage delivers thrilling maritime action. Watch The Ocean Race Atlantic 2026 live in HD on tapmad with official coverage and follow every major moment from the open sea via app, web, or smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788441750540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788441750540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 948,
-            "UrlSlug": "sailing-day-4-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 16622,
-            "VideoName": "Denmark vs Germany Live",
+            "EntityId": 16619,
+            "VideoName": "France vs Romania Live",
             "CategoryName": "Socca World Cup 2026",
             "StageName": "Group Stage",
-            "EventStartDate": "2026-09-04 22:30:00",
-            "Description": "Watch Denmark vs Germany live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Denmark vs Germany match will take place on 04-Sep, at 10:30 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788512525540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788512525540x302.jpg",
+            "EventStartDate": "2026-09-04 21:30:00",
+            "Description": "Watch France vs Romania live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The France vs Romania match will take place on 04-Sep, at 09:30 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788512339540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788512339540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 889,
-            "UrlSlug": "denmark-vs-germany-live"
+            "UrlSlug": "france-vs-romania-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 16625,
@@ -308,6 +279,20 @@
             "Status": "Upcoming",
             "CategoryId": 968,
             "UrlSlug": "skate-men-final---street-plaza-live"
+        },
+        {
+            "EntityId": 16898,
+            "VideoName": "Al-Taawoun vs Al Fateh",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-05 21:55:00",
+            "Description": "The 26th match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Taawoun vs Al Fateh live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788529751540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788529751540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-taawoun-vs-al-fateh-live"
         }
     ]
 }
