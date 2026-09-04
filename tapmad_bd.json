@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:15 PM 04-09-2026",
+        "LastUpdate": "05:30 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -251,18 +251,18 @@
             "UrlSlug": "us-open-2026-live-streaming"
         },
         {
-            "EntityId": 16930,
-            "VideoName": "Hooker vs Parnasse",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-09-06 01:00:00",
-            "Description": "UFC Fight Night Live: Watch Hooker vs Parnasse live online on tapmad. Enjoy watching Hooker vs Parnasse live streaming online in Bangladesh with full match highlights. The fight will start at 1:00 AM on 06-Sep. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788519919540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788519919540x302.jpg",
+            "EntityId": 16874,
+            "VideoName": "Sailing Day 5 Live",
+            "CategoryName": "The Ocean Race Atlantic 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-05 21:00:00",
+            "Description": "The Ocean Race Atlantic 2026 brings together elite sailing teams for an exciting ocean racing challenge across the Atlantic. Featuring high-speed sailing, demanding conditions, tactical battles, and endurance-driven competition, every stage delivers thrilling maritime action. Watch The Ocean Race Atlantic 2026 live in HD on tapmad with official coverage and follow every major moment from the open sea via app, web, or smart TV. Catch every race, maneuver, and finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788521164540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788521164540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-hooker vs parnasse-live"
+            "CategoryId": 948,
+            "UrlSlug": "sailing-day-5-live"
         }
     ]
 }
