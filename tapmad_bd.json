@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:15 AM 05-09-2026",
+        "LastUpdate": "05:30 AM 05-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -82,6 +82,34 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-rotterdam-dockers-vs-edinburgh-castle-rockers-live"
+        },
+        {
+            "EntityId": 16640,
+            "VideoName": "Poland vs Kazakhstan",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Quarter Final 3",
+            "EventStartDate": "2026-09-05 16:20:00",
+            "Description": "Watch Poland vs Kazakhstan live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788563727540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788563727540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "poland-vs-kazakhstan"
+        },
+        {
+            "EntityId": 16643,
+            "VideoName": "Ukraine vs Brazil",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Quarter Final 4",
+            "EventStartDate": "2026-09-05 17:30:00",
+            "Description": "Watch Ukraine vs Brazil live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788563964540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788563964540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "ukraine-vs-brazil"
         },
         {
             "EntityId": 16921,
@@ -250,34 +278,6 @@
             "Status": "Upcoming",
             "CategoryId": 265,
             "UrlSlug": "ufc fight night-hooker vs parnasse-live"
-        },
-        {
-            "EntityId": 16941,
-            "VideoName": "Villarreal vs Deportivo",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-09-06 01:00:00",
-            "Description": "The 31st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Villarreal vs Deportivo live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530423540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530423540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--villarreal-vs-deportivo-live"
-        },
-        {
-            "EntityId": 17080,
-            "VideoName": "BMX Women UCI HC Final - Central Plaza Live",
-            "CategoryName": "Extreme Barcelona 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-06 19:30:00",
-            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528513540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788528513540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 968,
-            "UrlSlug": "bmx-women-uci-hc-final---central-plaza-live"
         }
     ]
 }
