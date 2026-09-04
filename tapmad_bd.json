@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:30 PM 04-09-2026",
+        "LastUpdate": "07:45 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 889,
             "UrlSlug": "poland-vs-syria-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 16616,
-            "VideoName": "Greece vs Oman Live",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-04 20:30:00",
-            "Description": "Watch Greece vs Oman live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Greece vs Oman match will take place on 04-Sep, at 08:30 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788512100540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788512100540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "greece-vs-oman-live"
         },
         {
             "EntityId": 16302,
@@ -278,6 +264,20 @@
             "Status": "Upcoming",
             "CategoryId": 968,
             "UrlSlug": "skate-men-final---street-plaza-live"
+        },
+        {
+            "EntityId": 17077,
+            "VideoName": "Scootering Men Final - Street Plaza Live",
+            "CategoryName": "Extreme Barcelona 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-05 23:30:00",
+            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528124540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788528124540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 968,
+            "UrlSlug": "scootering-men-final---street-plaza-live"
         }
     ]
 }
