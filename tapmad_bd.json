@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:45 PM 04-09-2026",
+        "LastUpdate": "08:00 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -112,6 +112,34 @@
             "UrlSlug": "kazakhstan-vs-hungary-live"
         },
         {
+            "EntityId": 16896,
+            "VideoName": "Al-Shabab vs Al-Hilal",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-05 00:00:00",
+            "Description": "The 25th match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Shabab vs Al-Hilal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788529676540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788529676540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-shabab-vs-al-hilal-live"
+        },
+        {
+            "EntityId": 16897,
+            "VideoName": "Al-Ahli vs Al-Riyadh",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-05 00:00:00",
+            "Description": "The 24th match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ahli vs Al-Riyadh live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788529602540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788529602540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-ahli-vs-al-riyadh-live"
+        },
+        {
             "EntityId": 16628,
             "VideoName": "Ukraine vs Australia Live",
             "CategoryName": "Socca World Cup 2026",
@@ -124,6 +152,20 @@
             "Status": "Upcoming",
             "CategoryId": 889,
             "UrlSlug": "ukraine-vs-australia-live"
+        },
+        {
+            "EntityId": 16938,
+            "VideoName": "Betis vs Real Madrid",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-09-05 01:00:00",
+            "Description": "The 28th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Real Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530049540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530049540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--betis-vs-real-madrid-live"
         },
         {
             "EntityId": 16631,
@@ -224,60 +266,18 @@
             "UrlSlug": "skate-women-final---street-plaza-live"
         },
         {
-            "EntityId": 16304,
-            "VideoName": "Men's & Women's Singles 3rd Round",
-            "CategoryName": "US Open 2026",
-            "StageName": "3rd Round",
-            "EventStartDate": "2026-09-05 21:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788502342540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788502342540x302.jpg",
+            "EntityId": 16939,
+            "VideoName": "Athletic vs Atletico Madrid",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-09-05 20:15:00",
+            "Description": "The 29th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530134540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530134540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming"
-        },
-        {
-            "EntityId": 16874,
-            "VideoName": "Sailing Day 5 Live",
-            "CategoryName": "The Ocean Race Atlantic 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-05 21:00:00",
-            "Description": "The Ocean Race Atlantic 2026 brings together elite sailing teams for an exciting ocean racing challenge across the Atlantic. Featuring high-speed sailing, demanding conditions, tactical battles, and endurance-driven competition, every stage delivers thrilling maritime action. Watch The Ocean Race Atlantic 2026 live in HD on tapmad with official coverage and follow every major moment from the open sea via app, web, or smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788521164540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788521164540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 948,
-            "UrlSlug": "sailing-day-5-live"
-        },
-        {
-            "EntityId": 17074,
-            "VideoName": "Skate Men Final - Street Plaza Live",
-            "CategoryName": "Extreme Barcelona 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-05 21:30:00",
-            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788527975540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788527975540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 968,
-            "UrlSlug": "skate-men-final---street-plaza-live"
-        },
-        {
-            "EntityId": 17077,
-            "VideoName": "Scootering Men Final - Street Plaza Live",
-            "CategoryName": "Extreme Barcelona 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-05 23:30:00",
-            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528124540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788528124540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 968,
-            "UrlSlug": "scootering-men-final---street-plaza-live"
+            "CategoryId": 827,
+            "UrlSlug": "laliga--athletic-vs-atletico-madrid-live"
         }
     ]
 }
