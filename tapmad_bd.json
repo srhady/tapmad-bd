@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 PM 04-09-2026",
+        "LastUpdate": "03:30 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 15
+        "LiveCount": 0,
+        "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 16915,
-            "VideoName": "3K OCR - Beijing, China Live",
-            "CategoryName": "UIPM 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-09-04 13:00:00",
-            "Description": "Watch UIPM 2026 3K OCR - Beijing, China live online on tapmad. The event is scheduled to take place on 04-Sep,  at 01:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788440008540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788440008540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 464,
-            "UrlSlug": "3k-ocr---beijing,-china-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 16610,
             "VideoName": "Spain vs Croatia Live",
@@ -139,6 +124,48 @@
             "UrlSlug": "denmark-vs-germany-live"
         },
         {
+            "EntityId": 16625,
+            "VideoName": "Kazakhstan vs Hungary Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-04 23:40:00",
+            "Description": "Watch Kazakhstan vs Hungary live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Kazakhstan vs Hungary match will take place on 04-Sep, at 11:40 PM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788512857540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788512857540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "kazakhstan-vs-hungary-live"
+        },
+        {
+            "EntityId": 16628,
+            "VideoName": "Ukraine vs Australia Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-05 00:50:00",
+            "Description": "Watch Ukraine vs Australia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Ukraine vs Australia match will take place on 05-Sep, at 12:50 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788513056540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788513056540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "ukraine-vs-australia-live"
+        },
+        {
+            "EntityId": 16631,
+            "VideoName": "Brazil vs Albania Live",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-05 02:00:00",
+            "Description": "Watch Brazil vs Albania live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. The Brazil vs Albania match will take place on 05-Sep, at 02:00 AM. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788513244540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788513244540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 889,
+            "UrlSlug": "brazil-vs-albania-live"
+        },
+        {
             "EntityId": 15801,
             "VideoName": "Guyana Amazon Warriors vs Jamaica Kingsmen",
             "CategoryName": "Caribbean Premier League 2026",
@@ -221,20 +248,6 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
-        },
-        {
-            "EntityId": 15935,
-            "VideoName": "England vs Pakistan",
-            "CategoryName": "Pakistan Tour of England 2026",
-            "StageName": "3rd Test",
-            "EventStartDate": "2026-09-09 16:00:00",
-            "Description": "The 3rd Test of the Pakistan Tour of England 2026 marks the start of a two match test series. Watch England vs Pakistan live in HD on tapmad, with official match coverage and uninterrupted streaming. These top-ranked red-ball teams, to begin with a strong squad, England look to capitalize on home conditions with a balanced lineup, while Pakistan aim to deliver disciplined performances through a well-rounded unit capable of competing in all phases of the game.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788178193540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788178193540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 764,
-            "UrlSlug": "england-vs-pakistan-3rd-test-live"
         }
     ]
 }
