@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 04-09-2026",
+        "LastUpdate": "01:15 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 8
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -97,6 +97,20 @@
             "UrlSlug": "us-open-2026-live-streaming"
         },
         {
+            "EntityId": 16701,
+            "VideoName": "Rotterdam Dockers vs Edinburgh Castle Rockers",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-05 15:30:00",
+            "Description": "The 14th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Rotterdam Dockers vs Edinburgh Castle Rockers live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788505098540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788505098540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-rotterdam-dockers-vs-edinburgh-castle-rockers-live"
+        },
+        {
             "EntityId": 16921,
             "VideoName": "100m OCR - Beijing, China Live",
             "CategoryName": "UIPM 2026",
@@ -109,6 +123,20 @@
             "Status": "Upcoming",
             "CategoryId": 464,
             "UrlSlug": "100m-ocr---beijing,-china-live"
+        },
+        {
+            "EntityId": 16702,
+            "VideoName": "Dublin Guardians vs Amsterdam Flames",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-05 19:15:00",
+            "Description": "The 15th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Dublin Guardians vs Amsterdam Flames live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788505209540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788505209540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-dublin-guardians-vs-amsterdam-flames-live"
         },
         {
             "EntityId": 16304,
