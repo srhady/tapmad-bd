@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 PM 04-09-2026",
+        "LastUpdate": "12:45 PM 04-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 7
+        "LiveCount": 0,
+        "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 16301,
-            "VideoName": "Men's & Women's Singles 2nd Round",
-            "CategoryName": "US Open 2026",
-            "StageName": "2nd Round",
-            "EventStartDate": "2026-09-04 05:00:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788440316540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788440316540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming",
-            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
         {
             "EntityId": 16700,
             "VideoName": "Glasgow Cosmic vs Belfast Wolves",
@@ -95,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16921,
+            "VideoName": "100m OCR - Beijing, China Live",
+            "CategoryName": "UIPM 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-05 18:00:00",
+            "Description": "Watch UIPM 2026 100m OCR - Beijing, China live online on tapmad. The event is scheduled to take place on 05-Sep,  at 06:00 PM. featuring top athletes competing in an intense modern pentathlon showdown. Catch all the action live in HD on tapmad via app, web, or smart TV and stay updated with official schedules and event coverage.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788502866540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788502866540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 464,
+            "UrlSlug": "100m-ocr---beijing,-china-live"
         },
         {
             "EntityId": 16304,
