@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:15 PM 05-09-2026",
+        "LastUpdate": "09:30 PM 05-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -72,6 +72,21 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
+            "EntityId": 17074,
+            "VideoName": "Skate Men Final - Street Plaza Live",
+            "CategoryName": "Extreme Barcelona 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-05 21:30:00",
+            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788527975540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788527975540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 968,
+            "UrlSlug": "skate-men-final---street-plaza-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
             "EntityId": 16940,
             "VideoName": "Rayo Vallecano vs Racing Santander",
             "CategoryName": "LaLiga 2026/27",
@@ -134,8 +149,8 @@
             "StageName": "Semi Final 2",
             "EventStartDate": "2026-09-06 01:00:00",
             "Description": "Watch Brazil vs Croatia live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788620688540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788620688540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788621280540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788621280540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
