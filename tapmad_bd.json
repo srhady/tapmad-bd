@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 PM 06-09-2026",
+        "LastUpdate": "11:15 PM 06-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 9
+        "UpcomingCount": 8
     },
     "Matches": [
         {
@@ -85,20 +85,6 @@
             "CategoryId": 952,
             "UrlSlug": "guyana-amazon-warriors-women-vs-jamaica-empress-women-2nd-t20-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 16654,
-            "VideoName": "Brazil vs Germany",
-            "CategoryName": "Socca World Cup 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-07 00:00:00",
-            "Description": "Watch Brazil vs Germany live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": null,
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788646486540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 889,
-            "UrlSlug": "brazil-vs-germany"
         },
         {
             "EntityId": 15803,
