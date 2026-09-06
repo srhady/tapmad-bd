@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:45 PM 06-09-2026
+# Last Update: 09:00 PM 06-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,6 +11,10 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16942" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305061020x576.jpg" group-title="Football", Valencia vs Barcelona | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16306" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725131020x576.jpg" group-title="Tennis", Men's & Women's Singles | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885745611020.jpg" group-title="Boat Racing", Sailing Day 6 Live | The Ocean Race Atlantic 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17083" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885286621020x576.jpg" group-title="Skating", BMX Men UCI HC Final - Central Plaza Live | Extreme Barcelona 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17052" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885712691020x576.jpg" group-title="Cricket", Guyana Amazon Warriors Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
