@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:00 PM 06-09-2026",
+        "LastUpdate": "10:15 PM 06-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 10
+        "LiveCount": 7,
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -72,6 +72,36 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
+            "EntityId": 16943,
+            "VideoName": "Alaves vs Osasuna",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-09-06 22:30:00",
+            "Description": "The 33rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Alaves vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530587540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530587540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--alaves-vs-osasuna-live",
+            "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8"
+        },
+        {
+            "EntityId": 16944,
+            "VideoName": "Malaga vs Levante",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-09-06 22:30:00",
+            "Description": "The 34th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530657540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--malaga-vs-levante-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
             "EntityId": 17052,
             "VideoName": "Guyana Amazon Warriors Women vs Jamaica Empress Women",
             "CategoryName": "Women's Caribbean Premier League 2026",
@@ -85,20 +115,6 @@
             "CategoryId": 952,
             "UrlSlug": "guyana-amazon-warriors-women-vs-jamaica-empress-women-2nd-t20-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 17086,
-            "VideoName": "Scootering Men Final - Central Plaza Live",
-            "CategoryName": "Extreme Barcelona 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-06 23:00:00",
-            "Description": "Extreme Barcelona 2026 brings together top athletes across BMX, skateboarding, scooters, breaking, and 3x3 basketball. Experience high-level skills, spectacular tricks, intense competition, creative performances, and thrilling sporting moments across a range of action sports. Watch Extreme Barcelona 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every competition, performance, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528834540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788528834540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 968,
-            "UrlSlug": "scootering-men-final---central-plaza-live"
         },
         {
             "EntityId": 16654,
