@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 06-09-2026",
+        "LastUpdate": "09:45 PM 06-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
-        "UpcomingCount": 12
+        "LiveCount": 5,
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -57,21 +57,6 @@
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "EntityId": 16880,
-            "VideoName": "Sailing Day 6 Live",
-            "CategoryName": "The Ocean Race Atlantic 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-06 21:00:00",
-            "Description": "The Ocean Race Atlantic 2026 brings together elite sailing teams for an exciting ocean racing challenge across the Atlantic. Featuring high-speed sailing, demanding conditions, tactical battles, and endurance-driven competition, every stage delivers thrilling maritime action. Watch The Ocean Race Atlantic 2026 live in HD on tapmad with official coverage and follow every major moment from the open sea via app, web, or smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788574561540.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788574561540.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 948,
-            "UrlSlug": "sailing-day-6-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
             "EntityId": 17083,
             "VideoName": "BMX Men UCI HC Final - Central Plaza Live",
             "CategoryName": "Extreme Barcelona 2026",
@@ -100,34 +85,6 @@
             "CategoryId": 952,
             "UrlSlug": "guyana-amazon-warriors-women-vs-jamaica-empress-women-2nd-t20-live",
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "EntityId": 16943,
-            "VideoName": "Alaves vs Osasuna",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-09-06 22:30:00",
-            "Description": "The 33rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Alaves vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530587540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530587540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--alaves-vs-osasuna-live"
-        },
-        {
-            "EntityId": 16944,
-            "VideoName": "Malaga vs Levante",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-09-06 22:30:00",
-            "Description": "The 34th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788530657540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--malaga-vs-levante-live"
         },
         {
             "EntityId": 17086,
