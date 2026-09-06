@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:45 PM 06-09-2026",
+        "LastUpdate": "12:00 AM 07-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -72,19 +72,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
-            "EntityId": 17052,
-            "VideoName": "Guyana Amazon Warriors Women vs Jamaica Empress Women",
-            "CategoryName": "Women's Caribbean Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-06 20:00:00",
-            "Description": "The 2nd T20 of the Women's Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Guyana Amazon Warriors Women vs Jamaica Empress Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788571269540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788571269540x302.jpg",
-            "IsFreeToWatch": true,
+            "EntityId": 16654,
+            "VideoName": "Brazil vs Germany",
+            "CategoryName": "Socca World Cup 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-07 00:00:00",
+            "Description": "Watch Brazil vs Germany live match online on tapmad. The Socca World Cup 2026 brings together top national teams for one of the biggest small-sided football tournaments in the world. Featuring fast-paced attacks, skillful defending, spectacular goals, and intense competition, every match promises thrilling football as teams battle for the world title. Catch every goal, tackle, save, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": null,
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788646486540x302.jpg",
+            "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 952,
-            "UrlSlug": "guyana-amazon-warriors-women-vs-jamaica-empress-women-2nd-t20-live",
-            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "CategoryId": 889,
+            "UrlSlug": "brazil-vs-germany",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 15803,
