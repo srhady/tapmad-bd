@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 07-09-2026",
+        "LastUpdate": "06:45 PM 07-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 8
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -110,6 +110,62 @@
             "UrlSlug": "aek-vs-lask-ucl-live-match"
         },
         {
+            "EntityId": 17015,
+            "VideoName": "Porto vs Man City",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-09 01:00:00",
+            "Description": "Watch Porto vs Man City live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Porto vs Man City match will take place on 09-Sep, Wednesday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784066540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784066540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "porto-vs-man city-ucl-live-match"
+        },
+        {
+            "EntityId": 17016,
+            "VideoName": "Real Madrid vs Inter",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-09 01:00:00",
+            "Description": "Watch Real Madrid vs Inter live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Real Madrid vs Inter match will take place on 09-Sep, Wednesday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784227540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784227540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "real madrid-vs-inter-ucl-live-match"
+        },
+        {
+            "EntityId": 17017,
+            "VideoName": "Dortmund vs Villarreal",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-09 01:00:00",
+            "Description": "Watch Dortmund vs Villarreal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Dortmund vs Villarreal match will take place on 09-Sep, Wednesday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784407540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784407540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "dortmund-vs-villarreal-ucl-live-match"
+        },
+        {
+            "EntityId": 17018,
+            "VideoName": "LOSC vs Betis",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-09 01:00:00",
+            "Description": "Watch LOSC vs Betis live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The LOSC vs Betis match will take place on 09-Sep, Wednesday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784576540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784576540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "losc-vs-betis-ucl-live-match"
+        },
+        {
             "EntityId": 15935,
             "VideoName": "England vs Pakistan",
             "CategoryName": "Pakistan Tour of England 2026",
@@ -122,6 +178,20 @@
             "Status": "Upcoming",
             "CategoryId": 764,
             "UrlSlug": "england-vs-pakistan-3rd-test-live"
+        },
+        {
+            "EntityId": 17019,
+            "VideoName": "Barcelona vs Feyenoord",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-09 22:45:00",
+            "Description": "Watch Barcelona vs Feyenoord live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Barcelona vs Feyenoord match will take place on 09-Sep, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784769540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784769540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "barcelona-vs-feyenoord-ucl-live-match"
         }
     ]
 }
