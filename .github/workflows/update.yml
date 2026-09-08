@@ -10,8 +10,6 @@ jobs:
     steps:
       - name: Checkout Public Repo
         uses: actions/checkout@v3
-        with:
-          path: public_repo
 
       - name: Checkout Private Repo Script
         uses: actions/checkout@v3
@@ -29,24 +27,25 @@ jobs:
         run: |
           pip install pycryptodome
 
-      - name: Load Old M3U for Caching
+      - name: Load Old M3U for Caching from Gist
         run: |
-          cp public_repo/tapmad_bd.m3u . || echo "Old M3U cache not found"
+          curl -fL -o tapmad_bd.m3u "https://gist.githubusercontent.com/srhady/fc7a6cd99138fa74090822c84cbe8b73/raw/tapmad_bd.m3u" || echo "Old M3U cache not found"
 
       - name: Run Script
         run: |
           python private_repo/tapmad_action.py
 
-      - name: Commit and Push to Public
+      - name: Update Secret Gist
+        env:
+          GH_TOKEN: ${{ secrets.MY_PAT }} 
         run: |
-          cd public_repo
-          git config --local user.name "GitHub Action Bot"
-          git config --local user.email "actions@github.com"
+          jq -n \
+            --rawfile m3u tapmad_bd.m3u \
+            --rawfile json tapmad_bd.json \
+            '{"files": {"tapmad_bd.m3u": {"content": $m3u}, "tapmad_bd.json": {"content": $json}}}' > payload.json
           
-          
-          mv ../tapmad_bd.m3u . || echo "m3u not found"
-          mv ../tapmad_bd.json . || echo "json not found"
-          
-          git add tapmad_bd.m3u tapmad_bd.json
-          TZ='Asia/Dhaka' git commit -m "Manual Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
-          git push
+          gh api \
+            --method PATCH \
+            -H "Accept: application/vnd.github+json" \
+            /gists/fc7a6cd99138fa74090822c84cbe8b73 \
+            --input payload.json
