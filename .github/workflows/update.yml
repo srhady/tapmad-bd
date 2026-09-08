@@ -48,4 +48,4 @@ jobs:
             --method PATCH \
             -H "Accept: application/vnd.github+json" \
             /gists/fc7a6cd99138fa74090822c84cbe8b73 \
-            --input payload.json
+            --input payload.json > /dev/null
