@@ -1,14 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 AM 10-09-2026
+# Last Update: 02:15 AM 10-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg" group-title="Tennis", Men's & Women's Singles Quarterfinals | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Football", Al-Nassr vs Abha | Saudi Pro League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17021" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg" group-title="Football", Napoli vs Arsenal | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg" group-title="Football", Liverpool vs Atletico Madrid | UEFA Champions League 2026/27
