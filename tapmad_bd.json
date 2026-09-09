@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:30 AM 10-09-2026",
+        "LastUpdate": "04:45 AM 10-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 8
+        "LiveCount": 2,
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -27,18 +27,19 @@
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "EntityId": 16313,
-            "VideoName": "Men's & Women's Singles Quarterfinals",
-            "CategoryName": "US Open 2026",
-            "StageName": "Quater Finals Round",
-            "EventStartDate": "2026-09-10 05:30:00",
-            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788940078540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788940078540x302.jpg",
+            "EntityId": 15806,
+            "VideoName": "Guyana Amazon Warriors vs St Lucia Kings",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-10 05:00:00",
+            "Description": "The 33rd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Guyana Amazon Warriors vs St Lucia Kings live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788939357540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788939357540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 861,
-            "UrlSlug": "us-open-2026-live-streaming"
+            "Status": "Live",
+            "CategoryId": 731,
+            "UrlSlug": "guyana-amazon-warriors-vs-st-lucia-kings-33rd-t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 16706,
