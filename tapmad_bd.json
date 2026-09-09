@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:45 PM 09-09-2026",
+        "LastUpdate": "10:00 PM 09-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 3,
-        "UpcomingCount": 15
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -55,34 +55,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "EntityId": 17019,
-            "VideoName": "Barcelona vs Feyenoord",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-09 22:45:00",
-            "Description": "Watch Barcelona vs Feyenoord live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Barcelona vs Feyenoord match will take place on 09-Sep, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788784769540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788784769540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "barcelona-vs-feyenoord-ucl-live-match"
-        },
-        {
-            "EntityId": 17020,
-            "VideoName": "VFB Stuttgart vs Viking",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-09 22:45:00",
-            "Description": "Watch VFB Stuttgart vs Viking live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The VFB Stuttgart vs Viking match will take place on 09-Sep, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788785644540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788785644540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "vfb stuttgart-vs-viking-ucl-live-match"
         },
         {
             "EntityId": 16904,
