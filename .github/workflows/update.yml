@@ -49,3 +49,11 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             /gists/fc7a6cd99138fa74090822c84cbe8b73 \
             --input payload.json > /dev/null
+
+      - name: Commit and Push to Public Repo
+        run: |
+          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "actions@github.com"
+          git add tapmad_bd.m3u tapmad_bd.json
+          TZ='Asia/Dhaka' git commit -m "Manual Update: $(date +'%d-%m-%Y %I:%M %p') (BD Time)" || echo "No changes to commit"
+          git push
