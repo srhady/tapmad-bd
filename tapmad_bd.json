@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:00 PM 10-09-2026",
+        "LastUpdate": "04:15 PM 10-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -54,20 +54,6 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-amsterdam-flames-live"
-        },
-        {
-            "EntityId": 17053,
-            "VideoName": "Jamaica Empress Women vs Trinbago Knight Riders Women",
-            "CategoryName": "Women's Caribbean Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-10 20:00:00",
-            "Description": "The 34th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Jamaica Empress Women vs Trinbago Knight Riders Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788939629540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788939629540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 952,
-            "UrlSlug": "jamaica-empress-women-vs-trinbago-knight-riders-women-34th-t20-live"
         },
         {
             "EntityId": 16314,
@@ -278,6 +264,20 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-belfast-wolves-vs-rotterdam-dockers-live"
+        },
+        {
+            "EntityId": 17142,
+            "VideoName": "Session 1 - Q1 Live",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 1",
+            "EventStartDate": "2026-09-12 17:30:00",
+            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789031357540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789031357540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 269,
+            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
         }
     ]
 }
