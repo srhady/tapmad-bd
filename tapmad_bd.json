@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:16 AM 11-09-2026",
+        "LastUpdate": "12:30 AM 11-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 7,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -70,6 +70,51 @@
             "CategoryId": 826,
             "UrlSlug": "psv-vs-shakhtar donetsk-ucl-live-match",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 17027,
+            "VideoName": "Bayern vs Bodo/Glimt",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-11 01:00:00",
+            "Description": "Watch Bayern vs Bodo/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bayern vs Bodo/Glimt match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789021780540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789021780540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "bayern-vs-bodo/glimt-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 17028,
+            "VideoName": "Slavia Praha vs Lens",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-11 01:00:00",
+            "Description": "Watch Slavia Praha vs Lens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Lens match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789021942540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789021942540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "slavia praha-vs-lens-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "EntityId": 17029,
+            "VideoName": "Como vs RB Leipzig",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-11 01:00:00",
+            "Description": "Watch Como vs RB Leipzig live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Como vs RB Leipzig match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789022080540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789022080540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "como-vs-rb leipzig-ucl-live-match",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 15807,
