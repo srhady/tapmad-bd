@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:15 PM 10-09-2026",
+        "LastUpdate": "10:30 PM 10-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 5,
         "UpcomingCount": 17
     },
     "Matches": [
@@ -55,6 +55,36 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "EntityId": 17025,
+            "VideoName": "Fenerbahce vs Roma",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-10 22:45:00",
+            "Description": "Watch Fenerbahce vs Roma live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbache vs Roma match will take place on 10-Sep, Thursday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788943711540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788943711540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "fenerbache-vs-roma-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "EntityId": 17026,
+            "VideoName": "PSV vs Shakhtar Donetsk",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-10 22:45:00",
+            "Description": "Watch PSV vs Shakhtar Donetsk live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The PSV vs Shakhtar Donetsk match will take place on 10-Sep, Thursday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788943881540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788943881540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "psv-vs-shakhtar donetsk-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 17027,
