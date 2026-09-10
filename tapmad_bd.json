@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 11-09-2026",
+        "LastUpdate": "12:16 AM 11-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 4,
         "UpcomingCount": 17
     },
     "Matches": [
+        {
+            "EntityId": 17030,
+            "VideoName": "Man United vs Sabah",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-11 01:00:00",
+            "Description": "Watch Man United vs Sabah live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Man United vs Sabah match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789022263540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789022263540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "man united-vs-sabah-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
         {
             "EntityId": 16314,
             "VideoName": "Junior & Wheelchair Semifinals",
@@ -55,62 +70,6 @@
             "CategoryId": 826,
             "UrlSlug": "psv-vs-shakhtar donetsk-ucl-live-match",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17027,
-            "VideoName": "Bayern vs Bodo/Glimt",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-11 01:00:00",
-            "Description": "Watch Bayern vs Bodo/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bayern vs Bodo/Glimt match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789021780540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789021780540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "bayern-vs-bodo/glimt-ucl-live-match"
-        },
-        {
-            "EntityId": 17028,
-            "VideoName": "Slavia Praha vs Lens",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-11 01:00:00",
-            "Description": "Watch Slavia Praha vs Lens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Lens match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789021942540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789021942540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "slavia praha-vs-lens-ucl-live-match"
-        },
-        {
-            "EntityId": 17029,
-            "VideoName": "Como vs RB Leipzig",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-11 01:00:00",
-            "Description": "Watch Como vs RB Leipzig live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Como vs RB Leipzig match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789022080540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789022080540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "como-vs-rb leipzig-ucl-live-match"
-        },
-        {
-            "EntityId": 17030,
-            "VideoName": "Man United vs Sabah",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-11 01:00:00",
-            "Description": "Watch Man United vs Sabah live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Man United vs Sabah match will take place on 11-Sep, Friday, at 1:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789022263540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789022263540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "man united-vs-sabah-ucl-live-match"
         },
         {
             "EntityId": 15807,
@@ -293,6 +252,62 @@
             "Status": "Upcoming",
             "CategoryId": 269,
             "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
+        },
+        {
+            "EntityId": 17054,
+            "VideoName": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women",
+            "CategoryName": "Women's Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-12 20:00:00",
+            "Description": "The 37th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Guyana Amazon Warriors Women vs Trinbago Knight Riders Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789023556540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789023556540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 952,
+            "UrlSlug": "guyana-amazon-warriors-women-vs-trinbago-knight-riders-women-37th-t20-live"
+        },
+        {
+            "EntityId": 16319,
+            "VideoName": "Junior & Wheelchair Championships",
+            "CategoryName": "US Open 2026",
+            "StageName": "Championships",
+            "EventStartDate": "2026-09-12 21:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789027784540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789027784540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16320,
+            "VideoName": "Men's Doubles Final",
+            "CategoryName": "US Open 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-12 22:00:00",
+            "Description": "The US Open 2026 brings together the world's top tennis players for one of the most prestigious Grand Slam tournaments. Featuring powerful serves, intense rallies, dramatic matches, and world-class performances, the tournament promises thrilling action as players compete for Grand Slam glory. Watch live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every ace, rally, set, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789027904540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789027904540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 861,
+            "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16932,
+            "VideoName": "Silva vs Delgado",
+            "CategoryName": "UFC 2026",
+            "StageName": "Noche",
+            "EventStartDate": "2026-09-13 03:00:00",
+            "Description": "UFC Noche Live: Watch Silva vs Delgado live online on tapmad. Enjoy watching Silva vs Delgado live streaming online in Bangladesh with full match highlights. The fight will start at 03:00 AM on 13-Sep. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789033703540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789033703540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc noche-silva vs delgado-live"
         }
     ]
 }
