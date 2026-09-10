@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:45 AM 11-09-2026
+# Last Update: 01:00 AM 11-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,10 +9,6 @@
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Tennis", Junior & Wheelchair Semifinals | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg" group-title="Football", Fenerbahce vs Roma | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg" group-title="Football", PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17027" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg" group-title="Football", Bayern vs Bodo/Glimt | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17028" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg" group-title="Football", Slavia Praha vs Lens | UEFA Champions League 2026/27
