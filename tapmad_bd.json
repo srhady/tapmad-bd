@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 AM 12-09-2026",
+        "LastUpdate": "05:15 AM 12-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming",
             "stream_url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "EntityId": 17167,
-            "VideoName": "Japan Cup Qualifying Round 1 and 2 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Round 1 & 2",
-            "EventStartDate": "2026-09-12 06:00:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Japan Cup Qualifying Round 1 and 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789110292540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789110292540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-qualifying-round-1-and-2-live"
         },
         {
             "EntityId": 17173,
@@ -278,6 +264,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--athletic-vs-elche-live"
+        },
+        {
+            "EntityId": 17055,
+            "VideoName": "Barbados Tridents Women vs Jamaica Empress Women",
+            "CategoryName": "Women's Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-13 01:00:00",
+            "Description": "The  T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents Women vs Jamaica Empress Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789129378540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789129378540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 952,
+            "UrlSlug": "barbados-tridents-women-vs-jamaica-empress-women--t20-live"
         }
     ]
 }
