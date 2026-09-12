@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 AM 13-09-2026
+# Last Update: 05:15 AM 13-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16321" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891307111020x576.jpg" group-title="Tennis", Women's Singles Finals | US Open 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Mma", Silva vs Delgado | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
