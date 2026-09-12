@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:15 AM 13-09-2026",
+        "LastUpdate": "05:30 AM 13-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
-        "UpcomingCount": 12
+        "LiveCount": 2,
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -27,18 +27,19 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "EntityId": 17197,
-            "VideoName": "Japan Cup Race 2 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-09-13 06:10:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Japan Cup Race 2 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789241557540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789241557540x302.jpg",
+            "EntityId": 15809,
+            "VideoName": "Barbados Tridents vs Jamaica Kingsmen",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-13 06:00:00",
+            "Description": "The  T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789129098540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789129099540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-race-2-live"
+            "Status": "Live",
+            "CategoryId": 731,
+            "UrlSlug": "barbados-tridents-vs-jamaica-kingsmen--t20-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 17203,
