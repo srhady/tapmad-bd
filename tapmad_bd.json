@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:17 AM 13-09-2026",
+        "LastUpdate": "02:30 AM 13-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 12
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -153,7 +153,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 269,
-            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
+            "UrlSlug": "uim-e1-world-championship-luanda-gp-2026"
         },
         {
             "EntityId": 16953,
@@ -182,6 +182,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--levante-vs-barcelona-live"
+        },
+        {
+            "EntityId": 17162,
+            "VideoName": "Session 5 - Finals Live",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 5",
+            "EventStartDate": "2026-09-13 21:00:00",
+            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789244014540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789244014540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 269,
+            "UrlSlug": "uim-e1-world-championship-luanda-gp-2026"
         },
         {
             "EntityId": 16955,
