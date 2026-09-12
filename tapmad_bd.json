@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 PM 12-09-2026",
+        "LastUpdate": "05:00 PM 12-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 16
+        "UpcomingCount": 15
     },
     "Matches": [
         {
@@ -68,20 +68,6 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-dublin-guardians-vs-glasgow-cosmic-live"
-        },
-        {
-            "EntityId": 17147,
-            "VideoName": "Session 2 - Q2 + Q3 + Q4 Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 2",
-            "EventStartDate": "2026-09-12 19:35:00",
-            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789031626540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789031626540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 269,
-            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030"
         },
         {
             "EntityId": 17054,
