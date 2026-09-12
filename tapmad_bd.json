@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:30 PM 12-09-2026",
+        "LastUpdate": "10:45 PM 12-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 5,
         "UpcomingCount": 12
     },
     "Matches": [
-        {
-            "EntityId": 17142,
-            "VideoName": "Session 1 - Q1 Live",
-            "CategoryName": "E1 Series 2026",
-            "StageName": "Session 1",
-            "EventStartDate": "2026-09-12 17:30:00",
-            "Description": "The UIM E1 World Championship Luanda GP 2026 brings elite teams together for an exciting electric powerboat racing challenge. Featuring high-speed racing, tactical battles, close competition, and demanding on-water action, every race delivers thrilling moments. Watch the UIM E1 World Championship Luanda GP 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every race, maneuver, and finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789031357540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789031357540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 269,
-            "UrlSlug": "uim-e1-world-championship-luanda-gp-2030",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "EntityId": 16710,
             "VideoName": "Dublin Guardians vs Glasgow Cosmic",
