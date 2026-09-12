@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 AM 12-09-2026",
+        "LastUpdate": "09:45 AM 12-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 17
     },
     "Matches": [
-        {
-            "EntityId": 17179,
-            "VideoName": "Japan Cup Race 1 Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-09-12 10:30:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Japan Cup Race 1 match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789111710540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789111710540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-japan-cup-race-1-live"
-        },
         {
             "EntityId": 17185,
             "VideoName": "Porsche Carrera Cup Japan Race 1 Live",
@@ -248,6 +234,20 @@
             "Status": "Upcoming",
             "CategoryId": 861,
             "UrlSlug": "us-open-2026-live-streaming"
+        },
+        {
+            "EntityId": 16932,
+            "VideoName": "Silva vs Delgado",
+            "CategoryName": "UFC 2026",
+            "StageName": "Noche",
+            "EventStartDate": "2026-09-13 03:00:00",
+            "Description": "UFC Noche Live: Watch Silva vs Delgado live online on tapmad. Enjoy watching Silva vs Delgado live streaming online in Bangladesh with full match highlights. The fight will start at 03:00 AM on 13-Sep. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789033703540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789033703540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc noche-silva vs delgado-live"
         }
     ]
 }
