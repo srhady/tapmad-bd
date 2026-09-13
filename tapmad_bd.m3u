@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 AM 14-09-2026
+# Last Update: 04:00 AM 14-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16323" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg" group-title="Tennis", Men's Singles Final | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg" group-title="Cricket", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
