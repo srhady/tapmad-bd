@@ -1,12 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:45 PM 14-09-2026
+# Last Update: 10:00 PM 14-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893695951020x576.jpg" group-title="Football", PFC Neftchi vs Air Force SC Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893731781020x576.jpg" group-title="Football", Shabab Al Ahli vs Tractor FC Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17307" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893699901020x576.jpg" group-title="Football", Al Shamal SC vs Al Ittihad Club Live | AFC Champions League Elite 2026/27
