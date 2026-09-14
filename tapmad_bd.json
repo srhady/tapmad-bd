@@ -1,14 +1,43 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 14-09-2026",
+        "LastUpdate": "01:30 PM 14-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 0
+        "UpcomingCount": 2
     },
-    "Matches": []
+    "Matches": [
+        {
+            "EntityId": 17297,
+            "VideoName": "PFC Neftchi vs Air Force SC Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-14 19:45:00",
+            "Description": "Watch PFC Neftchi vs Air Force SC live online on tapmad. The AFC Champions League Elite PFC Neftchi vs Air Force SC match is scheduled to take place on 14-Sep,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789369595540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789369595540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-PFC Neftchi vs Air Force SC"
+        },
+        {
+            "EntityId": 17307,
+            "VideoName": "Al Shamal SC vs Al Ittihad Club Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-14 22:00:00",
+            "Description": "Watch Al Shamal SC vs Al Ittihad Club live online on tapmad. The AFC Champions League Elite Al Shamal SC vs Al Ittihad Club match is scheduled to take place on 14-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789369990540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789369990540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al Ittihad Club"
+        }
+    ]
 }
