@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:15 PM 15-09-2026
+# Last Update: 07:30 PM 15-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,3 +13,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17392" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894594931020x576.jpg" group-title="Football", Golgohar Sirjan SC vs Al Jazira Club Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17397" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894598311020x576.jpg" group-title="Football", FC Arkadag vs Al Muharraq SC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8

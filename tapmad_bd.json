@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:15 PM 15-09-2026",
+        "LastUpdate": "07:30 PM 15-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 7,
         "UpcomingCount": 13
     },
     "Matches": [
@@ -70,6 +70,51 @@
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-rotterdam-dockers-live",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 17392,
+            "VideoName": "Golgohar Sirjan SC vs Al Jazira Club Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 19:45:00",
+            "Description": "Watch Golgohar Sirjan SC vs Al Jazira Club live online on tapmad. The AFC Champions League Two Golgohar Sirjan SC vs Al Jazira Club match is scheduled to take place on 15-Sep,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789459493540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789459493540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        },
+        {
+            "EntityId": 17397,
+            "VideoName": "FC Arkadag vs Al Muharraq SC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 19:45:00",
+            "Description": "Watch FC Arkadag vs Al Muharraq SC live online on tapmad. The AFC Champions League Two FC Arkadag vs Al Muharraq SC match is scheduled to take place on 15-Sep,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789459831540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789459831540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "EntityId": 17471,
+            "VideoName": "India vs Afghanistan",
+            "CategoryName": "India Tour of Afghanistan 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-09-15 20:00:00",
+            "Description": "The three-match T20I series kicks off on September 13, with India bringing a near full-strength squad featuring the return of Jasprit Bumrah and Varun Chakravarthy. Afghanistan will rely on stars like Rashid Khan, Rahmanullah Gurbaz, and the returning Naveen-ul-Haq.Don’t miss the action watch live and ad-free on Tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789375936540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789375936540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1040,
+            "UrlSlug": "ind-vs-afg-2nd-t20-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 17357,
