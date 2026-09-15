@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 PM 15-09-2026",
+        "LastUpdate": "12:15 PM 15-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 6
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -38,6 +38,20 @@
             "Status": "Upcoming",
             "CategoryId": 899,
             "UrlSlug": "european-t20-premier-league-2026-amsterdam-flames-vs-dublin-guardians-live"
+        },
+        {
+            "EntityId": 17327,
+            "VideoName": "Kashima Antlers vs Newcastle Jets FC Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-15 16:00:00",
+            "Description": "Watch Kashima Antlers vs Newcastle Jets FC live online on tapmad. The AFC Champions League Elite Kashima Antlers vs Newcastle Jets FC match is scheduled to take place on 15-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789452686540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789452686540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Kashima Antlers vs Newcastle Jets FC"
         },
         {
             "EntityId": 16714,
