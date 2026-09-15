@@ -1,46 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:15 PM 15-09-2026",
+        "LastUpdate": "11:30 PM 15-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 9
+        "LiveCount": 3,
+        "UpcomingCount": 8
     },
     "Matches": [
-        {
-            "EntityId": 16714,
-            "VideoName": "Edinburgh Castle Rockers vs Rotterdam Dockers",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-15 19:15:00",
-            "Description": "The 27th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Edinburgh Castle Rockers vs Rotterdam Dockers live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789379902540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789379902540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-rotterdam-dockers-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 17471,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "India Tour of Afghanistan 2026",
-            "StageName": "2nd T20I",
-            "EventStartDate": "2026-09-15 20:00:00",
-            "Description": "The three-match T20I series kicks off on September 13, with India bringing a near full-strength squad featuring the return of Jasprit Bumrah and Varun Chakravarthy. Afghanistan will rely on stars like Rashid Khan, Rahmanullah Gurbaz, and the returning Naveen-ul-Haq.Don’t miss the action watch live and ad-free on Tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789375936540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789375936540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1040,
-            "UrlSlug": "ind-vs-afg-2nd-t20-2026",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "EntityId": 17357,
             "VideoName": "Al Ain FC vs Al Nassr Club Live",
@@ -85,20 +55,6 @@
             "CategoryId": 1037,
             "UrlSlug": "sri-lanka-tour-of-england-2026",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17362,
-            "VideoName": "Al Hilal SFC vs Al Gharafa SC Live",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 00:15:00",
-            "Description": "Watch Al Hilal SFC vs Al Gharafa SC live online on tapmad. The AFC Champions League Elite Al Hilal SFC vs Al Gharafa SC match is scheduled to take place on 15-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789457147540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789457147540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Hilal SFC vs Al Gharafa SC"
         },
         {
             "EntityId": 16960,
