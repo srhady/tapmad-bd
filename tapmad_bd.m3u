@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 15-09-2026
+# Last Update: 04:00 PM 15-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,9 @@
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Cricket", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg" group-title="Football", Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg" group-title="Football", Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg" group-title="Football", Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
