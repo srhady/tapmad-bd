@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 PM 15-09-2026",
+        "LastUpdate": "06:00 PM 15-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 6,
-        "UpcomingCount": 15
+        "UpcomingCount": 16
     },
     "Matches": [
         {
@@ -268,6 +268,20 @@
             "Status": "Upcoming",
             "CategoryId": 952,
             "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women-42nd-t20-live"
+        },
+        {
+            "EntityId": 17276,
+            "VideoName": "Omonoia vs Celta",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:45:00",
+            "Description": "Watch Omonoia vs Celta live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Omonoia vs Celta match will take place on 16-Sep, Wednesday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789472960540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789472960540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "omonoia-vs-celta-ucl-live-match"
         },
         {
             "EntityId": 16961,
