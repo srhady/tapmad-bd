@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 16-09-2026",
+        "LastUpdate": "02:15 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -222,6 +222,20 @@
             "UrlSlug": "afc-champions-league-two"
         },
         {
+            "EntityId": 17437,
+            "VideoName": "Al Shorta vs Al Seeb Club Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 00:15:00",
+            "Description": "Watch Al Shorta vs Al Seeb Club live online on tapmad. The AFC Champions League Two Al Shorta vs Al Seeb Club match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545652540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545652540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
             "EntityId": 17472,
             "VideoName": "India vs Afghanistan",
             "CategoryName": "India Tour of Afghanistan 2026",
@@ -234,20 +248,6 @@
             "Status": "Upcoming",
             "CategoryId": 1040,
             "UrlSlug": "afghanistan-tour-of-india-2028"
-        },
-        {
-            "EntityId": 17384,
-            "VideoName": "England vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of England 2026",
-            "StageName": "2nd T20I",
-            "EventStartDate": "2026-09-17 23:30:00",
-            "Description": "The Sri Lanka Tour of England 2026 brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. Watch Sri Lanka Tour of England 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789471490540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789471490540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1037,
-            "UrlSlug": "sri-lanka-tour-of-england-2026"
         }
     ]
 }
