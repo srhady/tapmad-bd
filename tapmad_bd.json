@@ -1,16 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:15 PM 16-09-2026",
+        "LastUpdate": "12:30 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 9
+        "UpcomingCount": 11
     },
     "Matches": [
+        {
+            "EntityId": 17402,
+            "VideoName": "FC Seoul vs Persib Bandung Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 16:00:00",
+            "Description": "Watch FC Seoul vs Persib Bandung live online on tapmad. The AFC Champions League Two FC Seoul vs Persib Bandung match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789537942540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789537942540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
         {
             "EntityId": 17367,
             "VideoName": "Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live",
@@ -26,18 +40,18 @@
             "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Kashiwa Reysol"
         },
         {
-            "EntityId": 17402,
-            "VideoName": "FC Seoul vs Persib Bandung Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
+            "EntityId": 17372,
+            "VideoName": "Port FC vs Vissel Kobe Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 16:00:00",
-            "Description": "Watch FC Seoul vs Persib Bandung live online on tapmad. The AFC Champions League Two FC Seoul vs Persib Bandung match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789537942540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789537942540x302.jpg",
+            "EventStartDate": "2026-09-16 18:15:00",
+            "Description": "Watch Port FC vs Vissel Kobe live online on tapmad. The AFC Champions League Elite Port FC vs Vissel Kobe match is scheduled to take place on 16-Sep,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789538966540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789538966540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Port FC vs Vissel Kobe"
         },
         {
             "EntityId": 16715,
@@ -122,6 +136,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--atletico-madrid-vs-osasuna-live"
+        },
+        {
+            "EntityId": 17472,
+            "VideoName": "India vs Afghanistan",
+            "CategoryName": "India Tour of Afghanistan 2026",
+            "StageName": "3rd T20I",
+            "EventStartDate": "2026-09-17 20:00:00",
+            "Description": "The Afghanistan Tour of India 2026 brings two exciting cricket sides together for a competitive international series. Featuring world-class batting, powerful hitting, quality spin, disciplined bowling, and thrilling T20I action, every match promises intense cricket. Watch Afghanistan Tour of India 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and match-defining moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789539966540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789539966540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1040,
+            "UrlSlug": "afghanistan-tour-of-india-2028"
         },
         {
             "EntityId": 17384,
