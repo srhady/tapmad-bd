@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 PM 16-09-2026",
+        "LastUpdate": "02:00 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 15
+        "UpcomingCount": 17
     },
     "Matches": [
         {
@@ -138,6 +138,20 @@
             "UrlSlug": "afc-champions-league-two"
         },
         {
+            "EntityId": 17427,
+            "VideoName": "Al Nahda Club vs Al Taawoun FC Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 22:00:00",
+            "Description": "Watch Al Nahda Club vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Taawoun FC match is scheduled to take place on 16-Sep,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789544806540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789544806540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
             "EntityId": 17276,
             "VideoName": "Omonoia vs Celta",
             "CategoryName": "UEFA Europa League 2026/27",
@@ -192,6 +206,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--atletico-madrid-vs-osasuna-live"
+        },
+        {
+            "EntityId": 17432,
+            "VideoName": "Al Rayyan SC vs Al Faisaly Live",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 00:15:00",
+            "Description": "Watch Al Rayyan SC vs Al Faisaly live online on tapmad. The AFC Champions League Two Al Rayyan SC vs Al Faisaly match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545202540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545202540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 17472,
