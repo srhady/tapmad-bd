@@ -1,16 +1,31 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:45 PM 16-09-2026",
+        "LastUpdate": "04:00 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
+        {
+            "EntityId": 17367,
+            "VideoName": "Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-16 16:00:00",
+            "Description": "Watch Jeonbuk Hyundai Motors FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Jeonbuk Hyundai Motors FC vs Kashiwa Reysol match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789538564540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789538564540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Kashiwa Reysol",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
         {
             "EntityId": 17402,
             "VideoName": "FC Seoul vs Persib Bandung Live",
@@ -223,18 +238,18 @@
             "UrlSlug": "afc-champions-league-two"
         },
         {
-            "EntityId": 15811,
-            "VideoName": "Barbados Tridents vs Jamaica Kingsmen",
-            "CategoryName": "Caribbean Premier League 2026",
-            "StageName": "Eliminator",
-            "EventStartDate": "2026-09-17 05:00:00",
-            "Description": "The 43rd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789548618540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789548618540x302.jpg",
+            "EntityId": 17278,
+            "VideoName": "Olympiacos vs Jagiellonia Bialystok",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 01:00:00",
+            "Description": "Watch Olympiacos vs Jagiellonia Bialystok live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Olympiacos vs Jagiellonia Bialystok match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552327540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552327540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 731,
-            "UrlSlug": "barbados-tridents-vs-jamaica-kingsmen-43rd-t20-live"
+            "CategoryId": 905,
+            "UrlSlug": "olympiacos-vs-jagiellonia bialystok-ucl-live-match"
         }
     ]
 }
