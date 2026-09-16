@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:15 PM 16-09-2026",
+        "LastUpdate": "06:30 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 829,
             "UrlSlug": "afc-champions-league-two",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "EntityId": 16715,
-            "VideoName": "Glasgow Cosmic vs Amsterdam Flames",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-09-16 19:15:00",
-            "Description": "The 28th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Glasgow Cosmic vs Amsterdam Flames live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789462295540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789462295540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-glasgow-cosmic-vs-amsterdam-flames-live"
         },
         {
             "EntityId": 17057,
@@ -250,6 +236,20 @@
             "Status": "Upcoming",
             "CategoryId": 905,
             "UrlSlug": "leverkusen-vs-celje-ucl-live-match"
+        },
+        {
+            "EntityId": 17281,
+            "VideoName": "Sunderland vs AZ Alkmaar",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 01:00:00",
+            "Description": "Watch Sunderland vs AZ Alkmaar live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Sunderland vs AZ Alkmaar match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789552708540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789552708540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "sunderland-vs-az alkmaar-ucl-live-match"
         }
     ]
 }
