@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:45 PM 16-09-2026",
+        "LastUpdate": "10:00 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -100,34 +100,6 @@
             "CategoryId": 829,
             "UrlSlug": "afc-champions-league-two",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 17276,
-            "VideoName": "Omonoia vs Celta",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:45:00",
-            "Description": "Watch Omonoia vs Celta live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Omonoia vs Celta match will take place on 16-Sep, Wednesday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789472960540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789472960540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 905,
-            "UrlSlug": "omonoia-vs-celta-ucl-live-match"
-        },
-        {
-            "EntityId": 17277,
-            "VideoName": "Ararat-Armenia vs Sparta Praha",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 22:45:00",
-            "Description": "Watch Ararat-Armenia vs Sparta Praha live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Ararat-Armenia vs Sparta Praha match will take place on 16-Sep, Wednesday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789473145540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789473145540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 905,
-            "UrlSlug": "ararat-armenia-vs-sparta praha-ucl-live-match"
         },
         {
             "EntityId": 16961,
@@ -310,6 +282,34 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--barcelona-vs-racing-santander-live"
+        },
+        {
+            "EntityId": 15811,
+            "VideoName": "Barbados Tridents vs Jamaica Kingsmen",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Eliminator",
+            "EventStartDate": "2026-09-17 05:00:00",
+            "Description": "The 43rd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789548618540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789548618540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "barbados-tridents-vs-jamaica-kingsmen-43rd-t20-live"
+        },
+        {
+            "EntityId": 16716,
+            "VideoName": "Edinburgh Castle Rockers vs Belfast Wolves",
+            "CategoryName": "European T20 Premier League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-09-17 15:30:00",
+            "Description": "The 29th match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Edinburgh Castle Rockers vs Belfast Wolves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789549080540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789549080540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 899,
+            "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-belfast-wolves-live"
         }
     ]
 }
