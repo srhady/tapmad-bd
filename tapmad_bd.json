@@ -1,46 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 AM 17-09-2026",
+        "LastUpdate": "02:30 AM 17-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 11,
+        "LiveCount": 8,
         "UpcomingCount": 10
     },
     "Matches": [
-        {
-            "EntityId": 17432,
-            "VideoName": "Al Rayyan SC vs Al Faisaly Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-17 00:15:00",
-            "Description": "Watch Al Rayyan SC vs Al Faisaly live online on tapmad. The AFC Champions League Two Al Rayyan SC vs Al Faisaly match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545202540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545202540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 17437,
-            "VideoName": "Al Shorta vs Al Seeb Club Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-17 00:15:00",
-            "Description": "Watch Al Shorta vs Al Seeb Club live online on tapmad. The AFC Champions League Two Al Shorta vs Al Seeb Club match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545652540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545652540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "EntityId": 17278,
             "VideoName": "Olympiacos vs Jagiellonia Bialystok",
@@ -145,21 +115,6 @@
             "CategoryId": 905,
             "UrlSlug": "h. beer-sheva-vs-dinamo zagreb-ucl-live-match",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "EntityId": 16963,
-            "VideoName": "Levante vs Athletic",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-09-17 01:30:00",
-            "Description": "The 53rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Levante vs Athletic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789558926540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789558926540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--levante-vs-athletic-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
             "EntityId": 16964,
