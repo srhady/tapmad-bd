@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 16-09-2026
+# Last Update: 06:15 PM 16-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895385631020x576.jpg" group-title="Football", Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895379421020x576.jpg" group-title="Football", FC Seoul vs Persib Bandung Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg" group-title="Football", Port FC vs Vissel Kobe Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg" group-title="Football", The Cong - Viettel FC vs Melbourne Victory FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
