@@ -1,44 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 PM 16-09-2026",
+        "LastUpdate": "03:15 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 17
+        "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17402,
-            "VideoName": "FC Seoul vs Persib Bandung Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 16:00:00",
-            "Description": "Watch FC Seoul vs Persib Bandung live online on tapmad. The AFC Champions League Two FC Seoul vs Persib Bandung match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789537942540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789537942540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
-        },
-        {
-            "EntityId": 17367,
-            "VideoName": "Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-16 16:00:00",
-            "Description": "Watch Jeonbuk Hyundai Motors FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Jeonbuk Hyundai Motors FC vs Kashiwa Reysol match is scheduled to take place on 16-Sep,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789538564540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789538564540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Jeonbuk Hyundai Motors FC vs Kashiwa Reysol"
-        },
         {
             "EntityId": 17372,
             "VideoName": "Port FC vs Vissel Kobe Live",
@@ -236,18 +208,18 @@
             "UrlSlug": "afc-champions-league-two"
         },
         {
-            "EntityId": 17472,
-            "VideoName": "India vs Afghanistan",
-            "CategoryName": "India Tour of Afghanistan 2026",
-            "StageName": "3rd T20I",
-            "EventStartDate": "2026-09-17 20:00:00",
-            "Description": "The Afghanistan Tour of India 2026 brings two exciting cricket sides together for a competitive international series. Featuring world-class batting, powerful hitting, quality spin, disciplined bowling, and thrilling T20I action, every match promises intense cricket. Watch Afghanistan Tour of India 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789539966540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789539966540x302.jpg",
+            "EntityId": 15811,
+            "VideoName": "Barbados Tridents vs Jamaica Kingsmen",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Eliminator",
+            "EventStartDate": "2026-09-17 05:00:00",
+            "Description": "The 43rd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789548618540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789548618540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1040,
-            "UrlSlug": "afghanistan-tour-of-india-2028"
+            "CategoryId": 731,
+            "UrlSlug": "barbados-tridents-vs-jamaica-kingsmen-43rd-t20-live"
         }
     ]
 }
