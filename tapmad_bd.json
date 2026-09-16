@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:15 PM 16-09-2026",
+        "LastUpdate": "11:30 PM 16-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 9,
+        "LiveCount": 8,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17057,
-            "VideoName": "Barbados Tridents Women vs Guyana Amazon Warriors Women",
-            "CategoryName": "Women's Caribbean Premier League 2026",
-            "StageName": "Playoffs",
-            "EventStartDate": "2026-09-16 20:00:00",
-            "Description": "The 42nd T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Barbados Tridents Women vs Guyana Amazon Warriors Women live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789461970540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789461970540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 952,
-            "UrlSlug": "barbados-tridents-women-vs-guyana-amazon-warriors-women-42nd-t20-live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
         {
             "EntityId": 17412,
             "VideoName": "Al Hussein vs East Bengal FC Live",
@@ -145,34 +130,6 @@
             "CategoryId": 827,
             "UrlSlug": "laliga--deportivo-vs-sevilla-live",
             "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "EntityId": 17432,
-            "VideoName": "Al Rayyan SC vs Al Faisaly Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-17 00:15:00",
-            "Description": "Watch Al Rayyan SC vs Al Faisaly live online on tapmad. The AFC Champions League Two Al Rayyan SC vs Al Faisaly match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545202540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545202540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
-        },
-        {
-            "EntityId": 17437,
-            "VideoName": "Al Shorta vs Al Seeb Club Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-17 00:15:00",
-            "Description": "Watch Al Shorta vs Al Seeb Club live online on tapmad. The AFC Champions League Two Al Shorta vs Al Seeb Club match is scheduled to take place on 17-Sep,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789545652540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789545652540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 17278,
@@ -355,6 +312,34 @@
             "Status": "Upcoming",
             "CategoryId": 1040,
             "UrlSlug": "afghanistan-tour-of-india-2028"
+        },
+        {
+            "EntityId": 17285,
+            "VideoName": "Levski Sofia vs RB Salzburg",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 22:45:00",
+            "Description": "Watch Levski Sofia vs RB Salzburg live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Levski Sofia vs RB Salzburg match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789553413540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789553413540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "levski sofia-vs-rb salzburg-ucl-live-match"
+        },
+        {
+            "EntityId": 17286,
+            "VideoName": "OFI vs Hoffenheim",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-17 22:45:00",
+            "Description": "Watch OFI vs Hoffenheim live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The OFI vs Hoffenheim match will take place on 17-Sep, Thursday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789556663540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789556663540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "ofi-vs-hoffenheim-ucl-live-match"
         }
     ]
 }
