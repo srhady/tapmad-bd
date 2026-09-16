@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 17-09-2026",
+        "LastUpdate": "01:15 AM 17-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,36 +11,6 @@
         "UpcomingCount": 10
     },
     "Matches": [
-        {
-            "EntityId": 16961,
-            "VideoName": "Deportivo vs Sevilla",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-09-16 23:00:00",
-            "Description": "The 51st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Sevilla live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789470973540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789470973540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--deportivo-vs-sevilla-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "EntityId": 16962,
-            "VideoName": "Atletico Madrid vs Osasuna",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-09-16 23:00:00",
-            "Description": "The 52nd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Atletico Madrid vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789471108540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789471109540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--atletico-madrid-vs-osasuna-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
         {
             "EntityId": 17432,
             "VideoName": "Al Rayyan SC vs Al Faisaly Live",
@@ -175,6 +145,36 @@
             "CategoryId": 905,
             "UrlSlug": "h. beer-sheva-vs-dinamo zagreb-ucl-live-match",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "EntityId": 16963,
+            "VideoName": "Levante vs Athletic",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-09-17 01:30:00",
+            "Description": "The 53rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Levante vs Athletic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789558926540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789558926540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--levante-vs-athletic-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "EntityId": 16964,
+            "VideoName": "Barcelona vs Racing Santander",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-09-17 01:30:00",
+            "Description": "The 54th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789559025540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789559025540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--barcelona-vs-racing-santander-live",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         },
         {
             "EntityId": 15811,

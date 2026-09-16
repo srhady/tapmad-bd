@@ -1,14 +1,10 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 17-09-2026
+# Last Update: 01:15 AM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg" group-title="Football", Deportivo vs Sevilla | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg" group-title="Football", Atletico Madrid vs Osasuna | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg" group-title="Football", Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895456521020x576.jpg" group-title="Football", Al Shorta vs Al Seeb Club Live | AFC Champions League Two 2026/27
@@ -27,3 +23,7 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895531701020x576.jpg" group-title="Football", H. Beer-Sheva vs Dinamo Zagreb | UEFA Europa League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895589261020x576.jpg" group-title="Football", Levante vs Athletic | LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895590251020x576.jpg" group-title="Football", Barcelona vs Racing Santander | LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
