@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:15 PM 17-09-2026
+# Last Update: 10:30 PM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -13,3 +13,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg" group-title="Football", OFI vs Hoffenheim | UEFA Europa League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg" group-title="Football", Betis vs Getafe | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
