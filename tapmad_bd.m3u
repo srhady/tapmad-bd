@@ -1,25 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 AM 18-09-2026
+# Last Update: 03:15 AM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Cricket", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896470611020x576.jpg" group-title="Football", Celtic vs Ferencvaros | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896472041020x576.jpg" group-title="Football", Juventus vs NEC | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896475341020x576.jpg" group-title="Football", Viktoria Plzen vs Union | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17290" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896476851020x576.jpg" group-title="Football", Besiktas vs Marseille | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896478301020x576.jpg" group-title="Football", Lillestrom vs Torreense | UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896479901020x576.jpg" group-title="Football", Palace vs Lech Poznan | UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Football", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Football", Malaga vs Villarreal | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
