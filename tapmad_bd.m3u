@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:45 PM 17-09-2026
+# Last Update: 10:00 PM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,3 +9,7 @@
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg" group-title="Football", Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg" group-title="Football", OFI vs Hoffenheim | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
