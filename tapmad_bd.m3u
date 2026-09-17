@@ -1,17 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 17-09-2026
+# Last Update: 07:45 PM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895490801020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17457" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896296311020x576.jpg" group-title="Football", Shanghai Shenhua FC (CHN) vs Tampines Rovers FC (SGP) Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896299921020x576.jpg" group-title="Football", Kitchee SC (HKG) vs Gangwon FC (KOR) Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17467" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896303281020x576.jpg" group-title="Football", Phnom Penh Crown FC (CAM) vs Kuching City FC (MAS) Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg" group-title="Cricket", Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
