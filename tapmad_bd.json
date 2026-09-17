@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 AM 18-09-2026",
+        "LastUpdate": "12:45 AM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 3
+        "LiveCount": 12,
+        "UpcomingCount": 2
     },
     "Matches": [
         {
@@ -87,18 +87,109 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "EntityId": 16966,
-            "VideoName": "Malaga vs Villarreal",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-09-18 01:30:00",
-            "Description": "The 57th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789646015540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789646015540x302.jpg",
+            "EntityId": 17287,
+            "VideoName": "Celtic vs Ferencvaros",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Celtic vs Ferencvaros live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Celtic vs Ferencvaros match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647061540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647061540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--malaga-vs-villarreal-live"
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "celtic-vs-ferencvaros-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 17288,
+            "VideoName": "Juventus vs NEC",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Juventus vs NEC live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Juventus vs NEC match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647204540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647204540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "juventus-vs-nec-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 17289,
+            "VideoName": "Viktoria Plzen vs Union",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Viktoria Plzen vs Union live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Viktoria Plzen vs Union match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647534540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647534540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "viktoria plzen-vs-union-ucl-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+        },
+        {
+            "EntityId": 17290,
+            "VideoName": "Besiktas vs Marseille",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Besiktas vs Marseille live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Besiktas vs Marseille match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647685540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647685540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "besiktas-vs-marseille-ucl-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "EntityId": 17291,
+            "VideoName": "Lillestrom vs Torreense",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Lillestrom vs Torreense live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Lillestrom vs Torreense match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647830540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647830540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "lillestrom-vs-torreense-ucl-live-match",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "EntityId": 17292,
+            "VideoName": "Palace vs Lech Poznan",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Palace vs Lech Poznan live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Palace vs Lech Poznan match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789647990540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789647990540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "palace-vs-lech poznan-ucl-live-match",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "EntityId": 17293,
+            "VideoName": "Real Sociedad vs Bournemouth",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-18 01:00:00",
+            "Description": "Watch Real Sociedad vs Bournemouth live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. The Real Sociedad vs Bournemouth match will take place on 18-Sep, Friday, at 12:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789648164540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789648164540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 905,
+            "UrlSlug": "real sociedad-vs-bournemouth-ucl-live-match",
+            "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
             "EntityId": 15812,
