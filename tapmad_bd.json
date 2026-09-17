@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:45 AM 18-09-2026",
+        "LastUpdate": "02:00 AM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 10,
-        "UpcomingCount": 2
+        "UpcomingCount": 3
     },
     "Matches": [
         {
@@ -188,6 +188,20 @@
             "Status": "Upcoming",
             "CategoryId": 1036,
             "UrlSlug": "australia-tour-of-zimbabwe-2027"
+        },
+        {
+            "EntityId": 17385,
+            "VideoName": "England vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of England 2026",
+            "StageName": "3rd T20I",
+            "EventStartDate": "2026-09-19 19:30:00",
+            "Description": "The Sri Lanka Tour of England 2026 brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. Watch Sri Lanka Tour of England 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789674004540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789674004540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1037,
+            "UrlSlug": "sri-lanka-tour-of-england-2026"
         }
     ]
 }
