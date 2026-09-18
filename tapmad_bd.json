@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 AM 19-09-2026",
+        "LastUpdate": "02:45 AM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 2,
-        "UpcomingCount": 10
+        "UpcomingCount": 11
     },
     "Matches": [
         {
@@ -54,6 +54,20 @@
             "Status": "Upcoming",
             "CategoryId": 731,
             "UrlSlug": "guyana-amazon-warriors-vs-jamaica-kingsmen--t20-live"
+        },
+        {
+            "EntityId": 17515,
+            "VideoName": "GT2 European Series powered by Pirelli - Qualifying 1 & 2",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Round 1 & 2",
+            "EventStartDate": "2026-09-19 13:00:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT2 European Series powered by Pirelli - Qualifying 1 & 2. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789763115540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789763115540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series-powered-by-pirelli--qualifying-1-&-2"
         },
         {
             "EntityId": 17646,
