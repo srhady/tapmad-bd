@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 AM 19-09-2026",
+        "LastUpdate": "03:30 AM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 0,
-        "UpcomingCount": 13
+        "UpcomingCount": 14
     },
     "Matches": [
         {
@@ -80,6 +80,20 @@
             "Status": "Upcoming",
             "CategoryId": 1105,
             "UrlSlug": "bangladesh-football-league-2031"
+        },
+        {
+            "EntityId": 17533,
+            "VideoName": "GT4 European Series - Qualifying 1 & 2 (Group A & B)",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Qualifying Round 1 & 2",
+            "EventStartDate": "2026-09-19 15:15:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Qualifying 1 & 2 (Group A & B). Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789766324540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789766324540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---qualifying-1-&-2-group-a-&-b"
         },
         {
             "EntityId": 16967,
