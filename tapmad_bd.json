@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 18-09-2026",
+        "LastUpdate": "02:15 PM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 12
+        "UpcomingCount": 7
     },
     "Matches": [
         {
@@ -25,76 +25,6 @@
             "CategoryId": 1036,
             "UrlSlug": "australia-tour-of-zimbabwe-2027",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17641,
-            "VideoName": "Fortis FC Ltd. vs Chattogram City FC",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-18 15:00:00",
-            "Description": "Watch Fortis FC Ltd. vs Chattogram City FC in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fortis FC Ltd. vs Chattogram City FC match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716050540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716050540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 17642,
-            "VideoName": "Bangladesh Police FC vs Rahamatgonj MFS",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-18 15:00:00",
-            "Description": "Watch Bangladesh Police FC vs Rahamatgonj MFS in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bangladesh Police FC vs Rahamatgonj MFS match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716133540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716133540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2027"
-        },
-        {
-            "EntityId": 17643,
-            "VideoName": "Fakirerpool Young Mens Club vs Dhaka Wanderers Club",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-18 15:00:00",
-            "Description": "Watch Fakirerpool Young Mens Club vs Dhaka Wanderers Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fakirerpool Young Mens Club vs Dhaka Wanderers Club match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716191540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716191540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2028"
-        },
-        {
-            "EntityId": 17644,
-            "VideoName": "Brothers Union Ltd vs City Club",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-18 15:00:00",
-            "Description": "Watch Brothers Union Ltd vs City Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Brothers Union Ltd vs City Club match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716266540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716266540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2029"
-        },
-        {
-            "EntityId": 17645,
-            "VideoName": "PWD Sports Club vs Abahani Ltd. Dhaka",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-18 15:00:00",
-            "Description": "Watch PWD Sports Club vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The PWD Sports Club vs Abahani Ltd. Dhaka match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716323540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716323540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2030"
         },
         {
             "EntityId": 17646,
