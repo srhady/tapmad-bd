@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 PM 18-09-2026
+# Last Update: 03:00 PM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -11,3 +11,7 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17642" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg" group-title="Football", Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17645" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg" group-title="Football", PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8

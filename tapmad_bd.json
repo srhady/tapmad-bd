@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 PM 18-09-2026",
+        "LastUpdate": "03:00 PM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 5,
         "UpcomingCount": 7
     },
     "Matches": [
@@ -55,6 +55,36 @@
             "CategoryId": 1105,
             "UrlSlug": "bangladesh-football-league-2027",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "EntityId": 17643,
+            "VideoName": "Fakirerpool Young Mens Club vs Dhaka Wanderers Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-18 15:00:00",
+            "Description": "Watch Fakirerpool Young Mens Club vs Dhaka Wanderers Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fakirerpool Young Mens Club vs Dhaka Wanderers Club match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716191540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716191540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2028",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "EntityId": 17645,
+            "VideoName": "PWD Sports Club vs Abahani Ltd. Dhaka",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-18 15:00:00",
+            "Description": "Watch PWD Sports Club vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The PWD Sports Club vs Abahani Ltd. Dhaka match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716323540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716323540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2030",
+            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         },
         {
             "EntityId": 17646,
