@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:45 AM 19-09-2026",
+        "LastUpdate": "04:00 AM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -107,7 +107,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series-powered-by-pirelli---race1-1"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt2-european-series-powered-by-pirelli---race-1"
         },
         {
             "EntityId": 16967,
@@ -122,6 +122,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--osasuna-vs-rayo-vallecano-live"
+        },
+        {
+            "EntityId": 17545,
+            "VideoName": "GT World Challenge powered by AWS - Race 1",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-09-19 18:45:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Race 1. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789768232540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789768232540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---race-1"
         },
         {
             "EntityId": 16718,
@@ -206,20 +220,6 @@
             "Status": "Upcoming",
             "CategoryId": 278,
             "UrlSlug": "longines-league-of-nations-2030"
-        },
-        {
-            "EntityId": 17607,
-            "VideoName": "Traverse City / Williamsburg - USA Live",
-            "CategoryName": "Longines FEI Jumping World Cup 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-09-21 00:00:00",
-            "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789732721540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789732721540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 368,
-            "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
         }
     ]
 }
