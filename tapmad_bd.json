@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:30 PM 18-09-2026",
+        "LastUpdate": "01:45 PM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 4
+        "UpcomingCount": 12
     },
     "Matches": [
         {
@@ -55,6 +55,76 @@
             "UrlSlug": "bangladesh-football-league-2027"
         },
         {
+            "EntityId": 17643,
+            "VideoName": "Fakirerpool Young Mens Club vs Dhaka Wanderers Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-18 15:00:00",
+            "Description": "Watch Fakirerpool Young Mens Club vs Dhaka Wanderers Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fakirerpool Young Mens Club vs Dhaka Wanderers Club match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716191540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716191540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2028"
+        },
+        {
+            "EntityId": 17644,
+            "VideoName": "Brothers Union Ltd vs City Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-18 15:00:00",
+            "Description": "Watch Brothers Union Ltd vs City Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Brothers Union Ltd vs City Club match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716266540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716266540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2029"
+        },
+        {
+            "EntityId": 17645,
+            "VideoName": "PWD Sports Club vs Abahani Ltd. Dhaka",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-18 15:00:00",
+            "Description": "Watch PWD Sports Club vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The PWD Sports Club vs Abahani Ltd. Dhaka match will take place on 18-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716323540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716323540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2030"
+        },
+        {
+            "EntityId": 17646,
+            "VideoName": "Arambagh Krira Shangha vs Bashundhara Kings",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 1",
+            "EventStartDate": "2026-09-19 15:00:00",
+            "Description": "Watch Arambagh Krira Shangha vs Bashundhara Kings in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Arambagh Krira Shangha vs Bashundhara Kings match will take place on 19-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716379540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716379540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2031"
+        },
+        {
+            "EntityId": 16967,
+            "VideoName": "Osasuna vs Rayo Vallecano",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-09-19 18:00:00",
+            "Description": "The 59th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Osasuna vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716767540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716767540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--osasuna-vs-rayo-vallecano-live"
+        },
+        {
             "EntityId": 17385,
             "VideoName": "England vs Sri Lanka",
             "CategoryName": "Sri Lanka Tour of England 2026",
@@ -69,6 +139,34 @@
             "UrlSlug": "sri-lanka-tour-of-england-2026"
         },
         {
+            "EntityId": 16968,
+            "VideoName": "Athletic vs Alaves",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-09-19 20:15:00",
+            "Description": "The 60th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716855540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716855540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--athletic-vs-alaves-live"
+        },
+        {
+            "EntityId": 16969,
+            "VideoName": "Celta vs Racing Santander",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-09-19 22:30:00",
+            "Description": "The 61st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716925540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716925540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--celta-vs-racing-santander-live"
+        },
+        {
             "EntityId": 16934,
             "VideoName": "Van vs Pantoja 2",
             "CategoryName": "UFC 2026",
@@ -81,6 +179,20 @@
             "Status": "Upcoming",
             "CategoryId": 265,
             "UrlSlug": "ufc 331-van vs pantoja 2-live"
+        },
+        {
+            "EntityId": 16975,
+            "VideoName": "Espanyol vs Elche",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-09-21 19:00:00",
+            "Description": "The 58th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Espanyol vs Elche live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716693540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716693540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--espanyol-vs-elche-live"
         }
     ]
 }
