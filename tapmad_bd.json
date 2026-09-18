@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 PM 18-09-2026",
+        "LastUpdate": "12:45 PM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -11,20 +11,6 @@
         "UpcomingCount": 2
     },
     "Matches": [
-        {
-            "EntityId": 17375,
-            "VideoName": "Zimbabwe vs Australia",
-            "CategoryName": "Australia Tour of Zimbabwe 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-09-18 13:30:00",
-            "Description": "The Australia Tour of Zimbabwe 2026 brings together two international cricket sides for an exciting three-match ODI series. Featuring quality batting, disciplined bowling, powerful hitting, and competitive 50-over cricket, every match promises thrilling action. Watch Australia Tour of Zimbabwe 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789563000540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789563000540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1036,
-            "UrlSlug": "australia-tour-of-zimbabwe-2027"
-        },
         {
             "EntityId": 17385,
             "VideoName": "England vs Sri Lanka",
@@ -38,6 +24,20 @@
             "Status": "Upcoming",
             "CategoryId": 1037,
             "UrlSlug": "sri-lanka-tour-of-england-2026"
+        },
+        {
+            "EntityId": 16934,
+            "VideoName": "Van vs Pantoja 2",
+            "CategoryName": "UFC 2026",
+            "StageName": "UFC 331",
+            "EventStartDate": "2026-09-20 07:00:00",
+            "Description": "UFC 331 Live: Watch Van vs Pantoja 2 live online on tapmad. Enjoy watching Van vs Pantoja 2 live streaming online in Bangladesh with full match highlights. The fight will start at 07:00 AM on 20-Sep. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789713423540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789713423540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 265,
+            "UrlSlug": "ufc 331-van vs pantoja 2-live"
         }
     ]
 }
