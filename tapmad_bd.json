@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 18-09-2026",
+        "LastUpdate": "06:15 PM 18-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 1,
-        "UpcomingCount": 7
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -109,6 +109,34 @@
             "Status": "Upcoming",
             "CategoryId": 265,
             "UrlSlug": "ufc 331-van vs pantoja 2-live"
+        },
+        {
+            "EntityId": 17601,
+            "VideoName": "Leg 4 - ST. TROPEZ (FRA) Live",
+            "CategoryName": "Longines League of Nations 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-20 21:45:00",
+            "Description": "The Longines League of Nations 2026 brings together the world's leading equestrian nations for elite team show jumping across a series of international competitions. Featuring top riders and horses, challenging courses, precise jumping, tactical performances, and intense team battles, every leg delivers world-class equestrian action. Watch Longines League of Nations 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789733126540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789733126540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 278,
+            "UrlSlug": "longines-league-of-nations-2030"
+        },
+        {
+            "EntityId": 17607,
+            "VideoName": "Traverse City / Williamsburg - USA Live",
+            "CategoryName": "Longines FEI Jumping World Cup 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-21 00:00:00",
+            "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789732721540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789732721540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 368,
+            "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
         },
         {
             "EntityId": 16975,
