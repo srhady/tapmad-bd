@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:15 PM 19-09-2026",
+        "LastUpdate": "05:30 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17646,
-            "VideoName": "Arambagh Krira Shangha vs Bashundhara Kings",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-19 15:00:00",
-            "Description": "Watch Arambagh Krira Shangha vs Bashundhara Kings in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Arambagh Krira Shangha vs Bashundhara Kings match will take place on 19-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716379540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716379540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2031",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
         {
             "EntityId": 17539,
             "VideoName": "GT2 European Series powered by Pirelli - Race 1",
