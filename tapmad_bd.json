@@ -1,31 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 PM 19-09-2026",
+        "LastUpdate": "03:30 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17527,
-            "VideoName": "Porsche Carrera Cup France - Qualifying",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-09-19 14:30:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Porsche Carrera Cup France - Qualifying. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789765371540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789765371540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-france---qualifying",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "EntityId": 17646,
             "VideoName": "Arambagh Krira Shangha vs Bashundhara Kings",
@@ -127,6 +112,20 @@
             "UrlSlug": "sri-lanka-tour-of-england-2026"
         },
         {
+            "EntityId": 16968,
+            "VideoName": "Athletic vs Alaves",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-09-19 20:15:00",
+            "Description": "The 60th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716855540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716855540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--athletic-vs-alaves-live"
+        },
+        {
             "EntityId": 17551,
             "VideoName": "Porsche Carrera Cup France - Race 1",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -141,18 +140,18 @@
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-france---race-1"
         },
         {
-            "EntityId": 16968,
-            "VideoName": "Athletic vs Alaves",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 7",
-            "EventStartDate": "2026-09-19 20:15:00",
-            "Description": "The 60th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716855540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716855540x302.jpg",
+            "EntityId": 17683,
+            "VideoName": "Paris FC vs Strasbourg",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-19 21:15:00",
+            "Description": "Watch Paris FC vs Strasbourg in Ligue 1 2026 as AS Monaco host RC Lens at Stade Louis-II. The match features exciting French football action, with attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the game. Stream Paris FC vs Strasbourg live in HD on tapmad via app, web, or Smart TV. Catch every goal, chance, save, and match-defining moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789810020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789810020540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--athletic-vs-alaves-live"
+            "CategoryId": 1115,
+            "UrlSlug": "paris-fc-vs-strasbourg-ligue-1-2026"
         },
         {
             "EntityId": 17557,
@@ -251,20 +250,6 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---race-2"
-        },
-        {
-            "EntityId": 17587,
-            "VideoName": "Porsche Carrera Cup France - Race 2",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-09-20 19:45:00",
-            "Description": "The GT World Challenge EU & Asia 2026 Porsche Carrera Cup France - Race 2. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789773097540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789773097540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-france--race-2"
         }
     ]
 }
