@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 19-09-2026",
+        "LastUpdate": "02:15 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -40,20 +40,6 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-qualifying-1-group-a-&-b",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 17646,
-            "VideoName": "Arambagh Krira Shangha vs Bashundhara Kings",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 1",
-            "EventStartDate": "2026-09-19 15:00:00",
-            "Description": "Watch Arambagh Krira Shangha vs Bashundhara Kings in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Arambagh Krira Shangha vs Bashundhara Kings match will take place on 19-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716379540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716379540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2031"
         },
         {
             "EntityId": 17533,
@@ -250,6 +236,20 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-2"
+        },
+        {
+            "EntityId": 17581,
+            "VideoName": "GT World Challenge powered by AWS - Race 2",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-09-20 18:15:00",
+            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Race 2. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789772657540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789772657540456.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---race-2"
         }
     ]
 }
