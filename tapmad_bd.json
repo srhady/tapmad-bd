@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:15 PM 19-09-2026",
+        "LastUpdate": "08:30 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 11
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -70,20 +70,6 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-france---race-1",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 17683,
-            "VideoName": "Paris FC vs Strasbourg",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-09-19 21:15:00",
-            "Description": "Watch Paris FC vs Strasbourg in Ligue 1 2026 as AS Monaco host RC Lens at Stade Louis-II. The match features exciting French football action, with attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the game. Stream Paris FC vs Strasbourg live in HD on tapmad via app, web, or Smart TV. Catch every goal, chance, save, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789810020540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789810020540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "paris-fc-vs-strasbourg-ligue-1-2026"
         },
         {
             "EntityId": 17557,
