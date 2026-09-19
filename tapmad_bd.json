@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:30 PM 19-09-2026",
+        "LastUpdate": "09:45 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 14
+        "UpcomingCount": 13
     },
     "Matches": [
         {
@@ -85,20 +85,6 @@
             "CategoryId": 371,
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 16969,
-            "VideoName": "Celta vs Racing Santander",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 7",
-            "EventStartDate": "2026-09-19 22:30:00",
-            "Description": "The 61st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789716925540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789716925540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--celta-vs-racing-santander-live"
         },
         {
             "EntityId": 17684,
