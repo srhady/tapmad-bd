@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 19-09-2026",
+        "LastUpdate": "08:45 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
     },
     "Stats": {
-        "LiveCount": 4,
-        "UpcomingCount": 10
+        "LiveCount": 5,
+        "UpcomingCount": 9
     },
     "Matches": [
         {
@@ -72,18 +72,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "EntityId": 17557,
-            "VideoName": "GT4 European Series - Race 1",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-09-19 21:25:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 1. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789770009540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789770009540456.jpg",
+            "EntityId": 17683,
+            "VideoName": "Paris FC vs Strasbourg",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-09-19 21:15:00",
+            "Description": "Watch Paris FC vs Strasbourg in Ligue 1 2026 as AS Monaco host RC Lens at Stade Louis-II. The match features exciting French football action, with attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the game. Stream Paris FC vs Strasbourg live in HD on tapmad via app, web, or Smart TV. Catch every goal, chance, save, and match-defining moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789810020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789810020540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-1"
+            "Status": "Live",
+            "CategoryId": 1115,
+            "UrlSlug": "paris-fc-vs-strasbourg-ligue-1-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 16969,
