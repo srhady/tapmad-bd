@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 19-09-2026",
+        "LastUpdate": "02:45 PM 19-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Md Sohanur Rahman Hady",
         "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
@@ -12,18 +12,18 @@
     },
     "Matches": [
         {
-            "EntityId": 17521,
-            "VideoName": "GT World Challenge powered by AWS - Qualifying 1 (Group A & B)",
+            "EntityId": 17527,
+            "VideoName": "Porsche Carrera Cup France - Qualifying",
             "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying 1",
-            "EventStartDate": "2026-09-19 13:50:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifying 1 (Group A & B). Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789764314540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789764314540456.jpg",
+            "StageName": "Qualification Race",
+            "EventStartDate": "2026-09-19 14:30:00",
+            "Description": "The GT World Challenge EU & Asia 2026 Porsche Carrera Cup France - Qualifying. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789765371540456.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789765371540456.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-qualifying-1-group-a-&-b",
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-porsche-carrera-cup-france---qualifying",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
